@@ -1,0 +1,714 @@
+		<!doctype html>
+		<html lang="lv">
+		<head>
+			<!-- Required meta tags -->
+			<meta charset="utf-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			
+
+			<link rel="icon" type="image/x-icon" href="https://liepaja-sez.lv/favicon.ico">
+						
+			<meta name="description" content="SEZ"><meta name="robots" content="follow, index"><meta property="og:type" content="website" />
+			<meta property="og:url" content="https://liepaja-sez.lv/img/mod/news/116/1710336421_a63d-643c08f89699d.webp" />
+			<meta property="og:title" content="Sākums" />
+			<meta property="og:site_name" content="Liepājas SEZ" /><meta property="og:description" content="SEZ" />
+				<meta name="twitter:card" content="SEZ" />
+				
+			<meta name="twitter:site" content="@liepajaSEZ" />
+			<meta name="twitter:creator" content="@liepajaSEZ" />
+						
+			<title>Sākums &raquo; SEZ</title>			
+
+			<link rel="stylesheet" href="https://liepaja-sez.lv/css/jarallax.min.css">
+			<link rel="stylesheet" href="https://liepaja-sez.lv/css/bootstrap.min.css">
+			<link rel="stylesheet" href="https://liepaja-sez.lv/css/main.css?v=26">
+			<link href="https://liepaja-sez.lv/css/block/banner/animate.min.css" rel="stylesheet" type="text/css" /><link href="https://liepaja-sez.lv/css/block/banner/glide.core.min.css" rel="stylesheet" type="text/css" /><link href="https://liepaja-sez.lv/css/block/banner/glide.theme.min.css" rel="stylesheet" type="text/css" /><link href="https://liepaja-sez.lv/css/block/banner/main.css?v=10" rel="stylesheet" type="text/css" /><link href="https://liepaja-sez.lv/css/block/magnet/main.css?v=1" rel="stylesheet" type="text/css" /><link href="https://liepaja-sez.lv/css/block/index/main.css?v=13" rel="stylesheet" type="text/css" /><link href="https://liepaja-sez.lv/css/block/news_three/main.css?v=1" rel="stylesheet" type="text/css" />			<link rel="stylesheet" href="https://liepaja-sez.lv/cc/dist/cookieconsent.css" media="print" onload="this.media='all'">
+
+			<script>
+				const html = document.querySelector("html");
+				if(localStorage['contrast']){
+					html.classList.add(localStorage['contrast']);
+				}
+			</script>
+			
+			<script>var web_url="https://liepaja-sez.lv/";</script>
+			<script>var lang="lv";</script>
+		</head>
+		<body>
+			<div id="search-overlay" class="block">
+				<div class="centered">
+					<div id='search-box'>
+						<div id="close-btn" class="fa fa-times fa-2x">X</div>
+						<form action='#' id='search-form' method='get' target='_top'>
+							<input id='search-text' name='q' placeholder='Es meklēju...' type='text' />
+							<button id='search-button' type='submit'>
+								<span>Meklēt</span>
+							</button>
+						</form>
+					</div>
+				</div>
+			</div>
+			<nav class="navbar navbar-expand-lg navbar-light bg-light b-2 fixed-top color-border">
+				<div class="container align-items-end position-relative nav-container">
+					<ul class="controls d-none d-lg-block">
+						<li class="search-controls search-btn" id=""><i class="bi bi-search"></i></li>
+						<li class="dropdown font-controls">
+							<a href="#" class="nav-link dropdown-toggle" id="font-controls1" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Teksta izmērs">
+								<span>A</span>
+								<span>A</span>
+								<span>A</span>
+							</a>
+							<ul class="dropdown-menu text-center font-size" aria-labelledby="font-controls1">
+								<li><a class="dropdown-item" data-size=14 href="#">75%</a></li>
+								<li><a class="dropdown-item active" data-size=15 href="#">100%</a></li>
+								<li><a class="dropdown-item" data-size=16.5 href="#">125%</a></li>
+								<li><a class="dropdown-item" data-size=17.5 href="#">150%</a></li>
+							</ul>
+						</li>
+						<li class="dropdown contrast-controls nocontrast">
+							<a href="#" class="nav-link dropdown-toggle" id="contrast-controls1" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Kontrasts">
+								<i class="bi bi-circle-half"></i>
+							</a>
+							<ul class="dropdown-menu" aria-labelledby="contrast-controls1">
+								<li><a class="control dropdown-item contrast-default active" href="#" data-class="blue"><i>A</i></a></li>
+								<li><a class="control dropdown-item contrast1" href="#" data-class="black"><i>A</i></a></li>
+								<li><a class="control dropdown-item contrast2" href="#" data-class="yellow2"><i>A</i></a></li>
+								<li><a class="control dropdown-item contrast3" href="#" data-class="yellow"><i>A</i></a></li>
+							</ul>
+						</li>
+						<li class="dropdown language-controls">
+							
+									<a href="" class="nav-link dropdown-toggle" id="language-controls1" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Valodas izvēle">
+										lv
+									</a><ul class="dropdown-menu text-center" aria-labelledby="language-controls1"><li><a class="dropdown-item" href="https://liepaja-sez.lv/en/">en</a></li></ul>						</li>
+											</ul>
+					<div class="brand-container">
+						<a class="navbar-brand" href="https://liepaja-sez.lv/">
+							<img class="site-logo" src="https://liepaja-sez.lv/img/logo.svg" alt="logo" width="100">
+						</a>
+					</div>
+					<div class="mobile-controls">
+						<ul class="controls mobile d-flex d-lg-none">
+							<li class="search-controls search-btn" id=""><i class="bi bi-search"></i></li>
+							<li class="dropdown language-controls">
+								
+										<a href="" class="nav-link dropdown-toggle" id="language-controls2" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Valodas izvēle">
+											lv
+										</a><ul class="dropdown-menu text-center" aria-labelledby="language-controls2"><li><a class="dropdown-item" href="https://liepaja-sez.lv/en/">en</a></li></ul>							</li>
+													</ul>
+						<button class="navbar-toggler nocontrast" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+							<span class="navbar-toggler-icon"></span>
+						</button>
+					</div>
+					<div class="collapse navbar-collapse" id="navbar">
+						<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+							
+							<li class="nav-item">
+								<a class="nav-link active" href="https://liepaja-sez.lv/lv/sakums/">Sākums</a>
+							</li><li class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle" href="https://liepaja-sez.lv/lv/liepajas-sez/" role="button" data-bs-toggle="dropdown" aria-expanded="false" data-bs-auto-close="outside">
+									Liepājas SEZ
+								</a><ul class="dropdown-menu" aria-labelledby="navbar">
+							<li>
+								<a class="dropdown-item" href="https://liepaja-sez.lv/lv/investe-liepaja/">Investē Liepājā</a>
+							</li>
+						<li class="dropend">								
+								<a class="dropdown-item dropdown-toggle" href="https://liepaja-sez.lv/lv/osta/" data-bs-toggle="dropdown" data-bs-auto-close="outside">
+									Osta
+								</a>
+								<ul class="dropdown-menu">
+							<li>
+								<a class="dropdown-item" href="https://liepaja-sez.lv/lv/par-ostu/">Par ostu</a>
+							</li>
+						
+							<li>
+								<a class="dropdown-item" href="https://liepaja-sez.lv/lv/pramju-satiksme/">Prāmju satiksme</a>
+							</li>
+						
+							<li>
+								<a class="dropdown-item" href="https://liepaja-sez.lv/lv/kruiza-kugi/">Kruīza kuģi</a>
+							</li>
+						
+							<li>
+								<a class="dropdown-item" href="https://liepaja-sez.lv/lv/jahtu-osta/">Jahtu osta</a>
+							</li>
+						
+							<li>
+								<a class="dropdown-item" href="https://liepaja-sez.lv/lv/oskara-kalpaka-tilts/">Oskara Kalpaka tilts</a>
+							</li>
+							</ul>
+							</li>
+							<li>
+								<a class="dropdown-item" href="https://liepaja-sez.lv/lv/kapitalsabiedribas/">Kapitālsabiedrības</a>
+							</li>
+						
+							<li>
+								<a class="dropdown-item" href="https://liepaja-sez.lv/lv/attistibas-projekti/">Attīstības projekti</a>
+							</li>
+						
+							<li>
+								<a class="dropdown-item" href="https://liepaja-sez.lv/lv/darbs-liepaja/">Darbs Liepājā</a>
+							</li>
+						
+							<li>
+								<a class="dropdown-item" href="https://liepaja-sez.lv/lv/teritoriju-karte/">Teritoriju karte</a>
+							</li>
+						</ul></li><li class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle" href="https://liepaja-sez.lv/lv/parvalde/" role="button" data-bs-toggle="dropdown" aria-expanded="false" data-bs-auto-close="outside">
+									Pārvalde
+								</a><ul class="dropdown-menu" aria-labelledby="navbar">
+							<li>
+								<a class="dropdown-item" href="https://liepaja-sez.lv/lv/parvaldiba/">Pārvaldība</a>
+							</li>
+						
+							<li>
+								<a class="dropdown-item" href="https://liepaja-sez.lv/lv/korporativa-parvaldiba/">Korporatīvā pārvaldība</a>
+							</li>
+						
+							<li>
+								<a class="dropdown-item" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/">Iepirkumi un izsoles</a>
+							</li>
+						<li class="dropend">								
+								<a class="dropdown-item dropdown-toggle" href="https://liepaja-sez.lv/lv/darbibas-parskati/" data-bs-toggle="dropdown" data-bs-auto-close="outside">
+									Darbības pārskati
+								</a>
+								<ul class="dropdown-menu">
+							<li>
+								<a class="dropdown-item" href="https://liepaja-sez.lv/lv/valdes-sedes-lemumi/">Valdes sēdes lēmumi</a>
+							</li>
+						
+							<li>
+								<a class="dropdown-item" href="https://liepaja-sez.lv/lv/atskaites-par-darbibu/">Atskaites par darbību</a>
+							</li>
+						
+							<li>
+								<a class="dropdown-item" href="https://liepaja-sez.lv/lv/ostas-statistika/">Ostas statistika</a>
+							</li>
+							</ul>
+							</li></ul></li><li class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle" href="https://liepaja-sez.lv/lv/jaunumi-1/" role="button" data-bs-toggle="dropdown" aria-expanded="false" data-bs-auto-close="outside">
+									Jaunumi
+								</a><ul class="dropdown-menu" aria-labelledby="navbar">
+							<li>
+								<a class="dropdown-item" href="https://liepaja-sez.lv/lv/medijiem/">Medijiem</a>
+							</li>
+						
+							<li>
+								<a class="dropdown-item" href="https://liepaja-sez.lv/lv/foto/">Foto</a>
+							</li>
+						
+							<li>
+								<a class="dropdown-item" href="https://liepaja-sez.lv/lv/valdes-sedes/">Valdes sēdes</a>
+							</li>
+						</ul></li>
+							<li class="nav-item">
+								<a class="nav-link" href="https://liepaja-sez.lv/lv/dokumenti/">Dokumenti</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="https://liepaja-sez.lv/lv/kontakti/">Kontakti</a>
+							</li>							
+							<hr class="dropdown-divider d-block d-lg-none">
+							<li class="dropdown font-controls mobile d-flex d-lg-none">
+								<a href="#" class="nav-link dropdown-toggle" id="font-controls2" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Teksta izmērs">
+									<span>A</span>
+									<span>A</span>
+									<span>A</span>
+								</a>
+								<ul class="text-center font-size" aria-labelledby="font-controls2">
+									<li><a class="" data-size=14 href="#">75%</a></li>
+									<li><a class="active" data-size=15 href="#">100%</a></li>
+									<li><a class="" data-size=16.5 href="#">125%</a></li>
+									<li><a class="" data-size=17.5 href="#">150%</a></li>
+								</ul>
+							</li>
+							<li class="dropdown contrast-controls mobile d-flex d-lg-none">
+								<a href="#" class="nav-link dropdown-toggle" id="contrast-controls2" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Kontrasts">
+									<i class="bi bi-circle-half"></i>
+								</a>
+								<ul class="" aria-labelledby="contrast-controls2">
+									<li><a class="control contrast-default active" href="#" data-class="blue"><i>A</i></a></li>
+									<li><a class="control contrast1" href="#" data-class="black"><i>A</i></a></li>
+									<li><a class="control contrast2" href="#" data-class="yellow2"><i>A</i></a></li>
+									<li><a class="control contrast3" href="#" data-class="yellow"><i>A</i></a></li>
+								</ul>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</nav>
+			<div class="spacer"></div>
+			<main class="pb-5">
+				
+		
+			<div class="nocontrast glide z mb-5">
+				<div class="container bullets-container">
+					<div class="glide__bullets" data-glide-el="controls[nav]"><button data-glide-dir="=0" class="glide__bullet" aria-label="Slide 0"></button><button data-glide-dir="=1" class="glide__bullet" aria-label="Slide 1"></button><button data-glide-dir="=2" class="glide__bullet" aria-label="Slide 2"></button>
+					</div>
+				</div>
+				<div class="glide__track" data-glide-el="track">
+					<ul class="glide__slides">
+					
+					<li class="glide__slide jarallax-banner d-flex" style="background-image:url(&quot;https://liepaja-sez.lv/img/block/banner/23/1695811334_HEADER_HD_osta.webp&quot;)">
+					<span class="filler"></span>
+						<div class="container d-flex z-2">
+							<div class="content"><h5 class="animate__animated animate__fadeInUp">Liepājas speciālā ekonomiskā zona</h5><p class="animate__animated animate__fadeInUp">Osta</p><a class="animate__animated animate__fadeInUp" target="" href="//liepaja-sez.lv/lv/par-ostu/" aria-label="Uzzināt vairāk">Uzzināt vairāk</a>
+							</div>
+						</div>
+					</li>
+					
+					<li class="glide__slide jarallax-banner d-flex" style="background-image:url(&quot;https://liepaja-sez.lv/img/block/banner/25/1695811369_HEADER_HD_razoshana.webp&quot;)">
+					<span class="filler"></span>
+						<div class="container d-flex z-2">
+							<div class="content"><h5 class="animate__animated animate__fadeInUp">Liepājas speciālā ekonomiskā zona</h5><p class="animate__animated animate__fadeInUp">Investē Liepājā</p><a class="animate__animated animate__fadeInUp" target="" href="//liepaja-sez.lv/lv/investe-liepaja/" aria-label="Uzzināt vairāk">Uzzināt vairāk</a>
+							</div>
+						</div>
+					</li>
+					
+					<li class="glide__slide jarallax-banner d-flex" style="background-image:url(&quot;https://liepaja-sez.lv/img/block/banner/26/1709034907_49680714076_5b364a2426_k.webp&quot;)">
+					<span class="filler"></span>
+						<div class="container d-flex z-2">
+							<div class="content"><h5 class="animate__animated animate__fadeInUp">Liepājas speciālā ekonomiskā zona</h5><p class="animate__animated animate__fadeInUp">Lidosta</p><a class="animate__animated animate__fadeInUp" target="" href="//liepaja-airport.lv/" aria-label="Uzzināt vairāk">Uzzināt vairāk</a>
+							</div>
+						</div>
+					</li>	</ul>
+				</div>
+				<div class="glide__arrows d-none d-lg-block" data-glide-el="controls">
+					<button class="glide__arrow glide__arrow--left" data-glide-dir="<" aria-label="Atpakaļ">
+						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+						<span class="visually-hidden">Atpakaļ</span>
+					</button>
+					<button class="glide__arrow glide__arrow--right" data-glide-dir=">" aria-label="Tālāk">
+						<span class="carousel-control-next-icon" aria-hidden="true"></span>
+						<span class="visually-hidden">Tālāk</span>
+					</button>
+				</div>
+				
+			</div>
+			<div class="container pt-3">	<div class="magnet"><h1 class="block-title mb-5"> Liepāja - labākā vieta investīcijām un uzņēmējdarbībai<span></span></h1>
+						<div class="nocontrast row">						
+							<div class="col-12 col-lg-4 mb-5">
+								<div id="magnetCarousel2" class="carousel slide magnet1 test" data-bs-ride="true" data-bs-touch="true">
+									<div class="carousel-inner" style="background-color:#001c43;">
+										<div class="carousel-item active" style="background-color:#001c43;">
+												<div class="carousel-caption">
+												<h4>Priekšrocības</h4>
+												<p>Stratēģiski izdevīga ģeogrāfiskā atrašanās vieta un neaizsalstoša osta</p>
+											
+												</div>
+										</div>
+										<div class="carousel-item " style="background-color:#001c43;">
+												<div class="carousel-caption">
+												<h4>Priekšrocības</h4>
+												<p>Pieejamība - osta, lidosta, efektīvs auto un dzelzceļa tīkls</p>
+											
+												</div>
+										</div>
+										<div class="carousel-item " style="background-color:#001c43;">
+												<div class="carousel-caption">
+												<h4>Priekšrocības</h4>
+												<p>Elastīgi darbības priekšnoteikumi</p>
+											
+												</div>
+										</div>
+										<div class="carousel-item " style="background-color:#001c43;">
+												<div class="carousel-caption">
+												<h4>Priekšrocības</h4>
+												<p>Pieejamas attīstības teritorijas</p>
+											
+												</div>
+										</div>
+										<div class="carousel-item " style="background-color:#001c43;">
+												<div class="carousel-caption">
+												<h4>Priekšrocības</h4>
+												<p>Efektīvi atbalsta instrumenti uzņēmējiem</p>
+											
+												</div>
+										</div>
+										<button class="carousel-control-next" type="button" data-bs-target="#magnetCarousel2" data-bs-slide="next" aria-label="Tālāk">
+											<span class="magnet-next" aria-hidden="true">
+												<img src="https://liepaja-sez.lv/img/round-right.svg" class="img-fluid" alt="Next"
+											</span>
+											<span class="visually-hidden">Next</span>
+										</button>
+									</div>
+								</div>
+							</div>
+												
+							<div class="col-12 col-lg-4 mb-5">
+								<div id="magnetCarousel5" class="carousel slide magnet2 test" data-bs-ride="true" data-bs-touch="true">
+									<div class="carousel-inner" style="background-color:#00377b;">
+										<div class="carousel-item active" style="background-color:#00377b;">
+												<div class="carousel-caption">
+												<h4>Attīstības iespējas</h4>
+												<p>Brīvas attīstības teritorijas</p>
+											
+												</div>
+										</div>
+										<div class="carousel-item " style="background-color:#00377b;">
+												<div class="carousel-caption">
+												<h4>Attīstības iespējas</h4>
+												<p>Industriālie parki</p>
+											
+												</div>
+										</div>
+										<div class="carousel-item " style="background-color:#00377b;">
+												<div class="carousel-caption">
+												<h4>Attīstības iespējas</h4>
+												<p>Tradīcijas un pieredze</p>
+											
+												</div>
+										</div>
+										<div class="carousel-item " style="background-color:#00377b;">
+												<div class="carousel-caption">
+												<h4>Attīstības iespējas</h4>
+												<p>Kvalificēta darbaspēka pieejamība</p>
+											
+												</div>
+										</div>
+										<div class="carousel-item " style="background-color:#00377b;">
+												<div class="carousel-caption">
+												<h4>Attīstības iespējas</h4>
+												<p>Pārdomāts un efektīvs inženierkomunikāciju tīkls</p>
+											
+												</div>
+										</div>
+										<button class="carousel-control-next" type="button" data-bs-target="#magnetCarousel5" data-bs-slide="next" aria-label="Tālāk">
+											<span class="magnet-next" aria-hidden="true">
+												<img src="https://liepaja-sez.lv/img/round-right.svg" class="img-fluid" alt="Next"
+											</span>
+											<span class="visually-hidden">Next</span>
+										</button>
+									</div>
+								</div>
+							</div>
+												
+							<div class="col-12 col-lg-4 mb-5">
+								<div id="magnetCarousel6" class="carousel slide magnet3 test" data-bs-ride="true" data-bs-touch="true">
+									<div class="carousel-inner" style="background-color:#085ca8;">
+										<div class="carousel-item active" style="background-color:#085ca8;">
+												<div class="carousel-caption">
+												<h4>Skaitļi un fakti</h4>
+												<p>Ražošanas apjomi apstrādes rūpniecībā - 478,6 milj. EUR</p>
+											
+												</div>
+										</div>
+										<div class="carousel-item " style="background-color:#085ca8;">
+												<div class="carousel-caption">
+												<h4>Skaitļi un fakti</h4>
+												<p>Privātās investīcijas - 428,9 milj. EUR</p>
+											
+												</div>
+										</div>
+										<div class="carousel-item " style="background-color:#085ca8;">
+												<div class="carousel-caption">
+												<h4>Skaitļi un fakti</h4>
+												<p>Eksports - 261,4 milj. EUR</p>
+											
+												</div>
+										</div>
+										<div class="carousel-item " style="background-color:#085ca8;">
+												<div class="carousel-caption">
+												<h4>Skaitļi un fakti</h4>
+												<p>Nomaksātie nodokļi - 29 904 310 EUR</p>
+											
+												</div>
+										</div>
+										<div class="carousel-item " style="background-color:#085ca8;">
+												<div class="carousel-caption">
+												<h4>Skaitļi un fakti</h4>
+												<p>Vidējā darba alga - 1663,66  EUR</p>
+											
+												</div>
+										</div>
+										<div class="carousel-item " style="background-color:#085ca8;">
+												<div class="carousel-caption">
+												<h4>Skaitļi un fakti</h4>
+												<p>Ostas kravu apgrozījums - 7 232 197,34 t</p>
+											
+												</div>
+										</div>
+										<div class="carousel-item " style="background-color:#085ca8;">
+												<div class="carousel-caption">
+												<h4>Skaitļi un fakti</h4>
+												<p>Apkalpotie kuģi gada laikā - 1602</p>
+											
+												</div>
+										</div>
+										<div class="carousel-item " style="background-color:#085ca8;">
+												<div class="carousel-caption">
+												<h4>Skaitļi un fakti</h4>
+												<p>Liepājas SEZ pārvaldes investīcijas - 149,9 milj. EUR </p>
+											
+												</div>
+										</div>
+										<button class="carousel-control-next" type="button" data-bs-target="#magnetCarousel6" data-bs-slide="next" aria-label="Tālāk">
+											<span class="magnet-next" aria-hidden="true">
+												<img src="https://liepaja-sez.lv/img/round-right.svg" class="img-fluid" alt="Next"
+											</span>
+											<span class="visually-hidden">Next</span>
+										</button>
+									</div>
+								</div>
+							</div>
+						
+						</div>
+					</div>
+			<div class="index">
+				<div class="row">
+				<div class="col-12 article-block right">
+                    <div class="row">
+                        <div class="col-12 col-lg-7  jarallax">
+                            <img loading="lazy" class="img-fluid jarallax-img"  src="https://liepaja-sez.lv/img/block/index/8/1701807159_FRONTPAGE_1000x100px_Investee.webp" alt="Ražošana Liepājā">
+                        </div>
+                        <div class="col-12 col-lg-5 article-block-text px-lg-5">
+                            <h1>Investē Liepājā</h1><p>Liepājas SEZ pārvalde un pilsētas pašvaldība veido uzņēmējdarbībai pievilcīgu vidi - vienotu ekonomikas ekosistēmu ar mērķi veicināt pilsētas un reģiona attīstību, piesaistīt jaunus uzņēmējus un atbalstīt esošo paplašināšanos, radīt jaunas darbavietas ar konkurētspējīgu atalgojumu un palielināt IKP un nomaksāto nodokļu daudzumu.</p><a target="" href="//liepaja-sez.lv/lv/investe-liepaja/" aria-label="Uzzināt vairāk">Uzzināt vairāk</a>
+                        </div>
+                    </div>
+                </div>
+				<div class="col-12 article-block left">
+                    <div class="row">
+                        <div class="col-12 col-lg-7 order-first order-lg-last jarallax">
+                            <img loading="lazy" class="img-fluid jarallax-img"  src="https://liepaja-sez.lv/img/block/index/9/1695811507_FRONTPAGE_1000x100px_Osta.webp" alt="Liepājas osta">
+                        </div>
+                        <div class="col-12 col-lg-5 article-block-text px-lg-5">
+                            <h1>Osta</h1><p>Liepājas osta ir trešā lielākā no Latvijas ostām un pilsētas vārti uz plašo pasauli. Liepājas osta ir pilsētas būtība un raksturs. Liepāja kā visas pilsētas, kurām ir savas ostras domā un dzīvo plašāk. Liepājas osta ar savu izdevīgo ģeogrāfisko novietojumu starp austrumiem un rietumiem.</p><a target="" href="//liepaja-sez.lv/lv/par-ostu/" aria-label="Uzzināt vairāk">Uzzināt vairāk</a>
+                        </div>
+                    </div>
+                </div>
+				<div class="col-12 article-block right">
+                    <div class="row">
+                        <div class="col-12 col-lg-7  jarallax">
+                            <img loading="lazy" class="img-fluid jarallax-img"  src="https://liepaja-sez.lv/img/block/index/10/1695811515_FRONTPAGE_1000x100px_AttProj.webp" alt="Attīstības projekti">
+                        </div>
+                        <div class="col-12 col-lg-5 article-block-text px-lg-5">
+                            <h1>Attīstības projekti</h1><p>Sinerģijā ar uzņēmējiem Liepājas SEZ pārvalde plāno ilgtermiņa attīstību un izstrādā projektus, lai veicinātu uzņēmumu veidošanos, kas balstīti uz aprites un tehnoloģiskās izaugsmes pamatprincipiem.</p><a target="" href="//liepaja-sez.lv/lv/attistibas-projekti/" aria-label="Uzzināt vairāk">Uzzināt vairāk</a>
+                        </div>
+                    </div>
+                </div>
+				<div class="col-12 article-block left">
+                    <div class="row">
+                        <div class="col-12 col-lg-7 order-first order-lg-last jarallax">
+                            <img loading="lazy" class="img-fluid jarallax-img"  src="https://liepaja-sez.lv/img/block/index/11/1695811522_FRONTPAGE_1000x100px_JahtuOsta.webp" alt="Jahtu osta">
+                        </div>
+                        <div class="col-12 col-lg-5 article-block-text px-lg-5">
+                            <h1>Jahtu osta</h1><p>Liepājas Jahtu osta ir vienīgā Latvijā, kas lepojas atbilstību 37 starptautiskā ekosertifikāta Zilais karogs prasībām. Jahtu osta atrodas savā vēsturiskajā vietā - pilsētas centrā, kas ļauj ērti izbaudīt pilsētas pievilcību. Piecu minūšu attālumā pilsētas centrs, Rožu laukums un Tūrisma informācijas centrs, bet pludmale vien 15 minūšu pastaigas attālumā.</p><a target="" href="//liepaja-sez.lv/lv/jahtu-osta" aria-label="Uzzināt vairāk">Uzzināt vairāk</a>
+                        </div>
+                    </div>
+                </div>
+				<div class="col-12 article-block right">
+                    <div class="row">
+                        <div class="col-12 col-lg-7  jarallax">
+                            <img loading="lazy" class="img-fluid jarallax-img"  src="https://liepaja-sez.lv/img/block/index/12/1695811531_FRONTPAGE_1000x100px_Lidosta.webp" alt="Liepājas lidosta">
+                        </div>
+                        <div class="col-12 col-lg-5 article-block-text px-lg-5">
+                            <h1>Lidosta</h1><p>Liepājas lidosta ir viena no divām Latvijas starptautiskajām lidostām, kas pēc rekonstrukcijas bija pirmā lidosta Eiropā, kura izgāja sertifikācijas procesu pēc jaunapstiprinātajām regulām. </p><a target="_blank" href="//liepaja-airport.lv/" aria-label="Uzzināt vairāk">Uzzināt vairāk</a>
+                        </div>
+                    </div>
+                </div>
+				<div class="col-12 article-block left">
+                    <div class="row">
+                        <div class="col-12 col-lg-7 order-first order-lg-last jarallax">
+                            <img loading="lazy" class="img-fluid jarallax-img"  src="https://liepaja-sez.lv/img/block/index/27/1707296351_416041889_368154519244518_5409449159534795603_n.webp" alt="Oskara Kalpaka tilts">
+                        </div>
+                        <div class="col-12 col-lg-5 article-block-text px-lg-5">
+                            <h1>Oskara Kalpaka tilts</h1><p>Izgriežamais tilts  viens no vecākajiem metālkonstrukciju tiltiem Latvijā, kas atklāts 1906. gadā. Karostas kanāls ir aktīvs kuģniecības ceļš, tāpēc vairākas reizes diennaktī tiek atvērts kuģu satiksmei. Lai noskaidrotu, vai O. Kalpaka tilts ir atvērts, uzstādīta webkamera.</p><a target="" href="//liepaja-sez.lv/lv/oskara-kalpaka-tilts/" aria-label="Uzzināt vairāk">Uzzināt vairāk</a>
+                        </div>
+                    </div>
+                </div>
+				</div>
+			</div>
+			<div class="news_three mb-5"><h1 class="block-title mb-5">Jaunumi<span></span></h1>
+				<div class="row">
+				<div class="col-12 col-lg-9">
+					<div id="newsCarousel69" class="carousel slide newsCarousel" data-ride="carousel">			
+						<div class="carousel-indicators"> <button type="button" data-bs-target="#newsCarousel69" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide0"></button> <button type="button" data-bs-target="#newsCarousel69" data-bs-slide-to="1" class="" aria-current="true" aria-label="Slide1"></button> <button type="button" data-bs-target="#newsCarousel69" data-bs-slide-to="2" class="" aria-current="true" aria-label="Slide2"></button>
+						</div>
+						<div class="carousel-inner">
+							<div class="carousel-item active">
+								<div class="carousel-caption">
+									<div class="row">
+										<div class="col-12 col-md-6 col-lg-4 news-single">
+											<div>
+												<a href="https://liepaja-sez.lv/lv/sakums/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros" aria-label="Lasīt vairāk">
+													<img src="https://liepaja-sez.lv/img/mod/news/326/1792137601_75_10.16.2026._kino_kalpaka_tilts.webp" alt="" class="img-fluid mb-2"/>
+												</a>
+												<span class="mb-1">16.10.2026.</span>
+												<h3>Starptautiska kino projekta ietvaros trīs dienas satiksmei būs slēgts O. Kalpaka tilts</h2>
+											</div>
+											<a href="https://liepaja-sez.lv/lv/sakums/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros" class="news_link mb-5" aria-label="Lasīt vairāk">Lasīt vairāk</a>											
+										</div>
+										<div class="col-12 col-md-6 col-lg-4 news-single">
+											<div>
+												<a href="https://liepaja-sez.lv/lv/sakums/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3" aria-label="Lasīt vairāk">
+													<img src="https://liepaja-sez.lv/img/mod/news/324/1791277284_72_10.06.2026._LIP_izsole_Eksporta_iela.webp" alt="" class="img-fluid mb-2"/>
+												</a>
+												<span class="mb-1">06.10.2026.</span>
+												<h3>Izsludina izsoli par nekustamo īpašumu Liepājas Industriālajā parkā - Eksporta ielā 3</h2>
+											</div>
+											<a href="https://liepaja-sez.lv/lv/sakums/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3" class="news_link mb-5" aria-label="Lasīt vairāk">Lasīt vairāk</a>											
+										</div>
+										<div class="col-12 col-md-6 col-lg-4 news-single">
+											<div>
+												<a href="https://liepaja-sez.lv/lv/sakums/ar-teritorijas-sanaciju-turpina-liepajas-industriala-parka-izbuvi" aria-label="Lasīt vairāk">
+													<img src="https://liepaja-sez.lv/img/mod/news/322/1790685711_I40A6032.webp" alt="" class="img-fluid mb-2"/>
+												</a>
+												<span class="mb-1">29.09.2026.</span>
+												<h3>Ar teritorijas sanāciju turpina Liepājas industriālā parka izbūvi</h2>
+											</div>
+											<a href="https://liepaja-sez.lv/lv/sakums/ar-teritorijas-sanaciju-turpina-liepajas-industriala-parka-izbuvi" class="news_link mb-5" aria-label="Lasīt vairāk">Lasīt vairāk</a>											
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="carousel-item ">
+								<div class="carousel-caption">
+									<div class="row">
+										<div class="col-12 col-md-6 col-lg-4 news-single">
+											<div>
+												<a href="https://liepaja-sez.lv/lv/sakums/liepajas-sez-valdes-25-septembra-lemumi" aria-label="Lasīt vairāk">
+													<img src="https://liepaja-sez.lv/img/mod/news/323/1790837289_70_09.28.2026._Brimer_vizualizacija.webp" alt="" class="img-fluid mb-2"/>
+												</a>
+												<span class="mb-1">28.09.2026.</span>
+												<h3>Liepājas SEZ valdes 25. septembra lēmumi</h2>
+											</div>
+											<a href="https://liepaja-sez.lv/lv/sakums/liepajas-sez-valdes-25-septembra-lemumi" class="news_link mb-5" aria-label="Lasīt vairāk">Lasīt vairāk</a>											
+										</div>
+										<div class="col-12 col-md-6 col-lg-4 news-single">
+											<div>
+												<a href="https://liepaja-sez.lv/lv/sakums/liepajas-industrialais-parks-ieklauts-pasaules-top-10-investicijam-pievilcigako-industrial" aria-label="Lasīt vairāk">
+													<img src="https://liepaja-sez.lv/img/mod/news/319/1790069221_66_09.21.2026._LIP.webp" alt="" class="img-fluid mb-2"/>
+												</a>
+												<span class="mb-1">21.09.2026.</span>
+												<h3>Liepājas Industriālais parks iekļauts pasaules TOP 10 investīcijām pievilcīgāko industriālo un loģistikas projektu vidū</h2>
+											</div>
+											<a href="https://liepaja-sez.lv/lv/sakums/liepajas-industrialais-parks-ieklauts-pasaules-top-10-investicijam-pievilcigako-industrial" class="news_link mb-5" aria-label="Lasīt vairāk">Lasīt vairāk</a>											
+										</div>
+										<div class="col-12 col-md-6 col-lg-4 news-single">
+											<div>
+												<a href="https://liepaja-sez.lv/lv/sakums/sogad-graudaugu-sezona-liepajas-osta-sakas-velak-neka-citus-gadus" aria-label="Lasīt vairāk">
+													<img src="https://liepaja-sez.lv/img/mod/news/317/1788948830_63_09.08.2026._1_LBT.webp" alt="" class="img-fluid mb-2"/>
+												</a>
+												<span class="mb-1">09.09.2026.</span>
+												<h3>Šogad graudaugu sezona Liepājas ostā sākas vēlāk nekā citus gadus </h2>
+											</div>
+											<a href="https://liepaja-sez.lv/lv/sakums/sogad-graudaugu-sezona-liepajas-osta-sakas-velak-neka-citus-gadus" class="news_link mb-5" aria-label="Lasīt vairāk">Lasīt vairāk</a>											
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="carousel-item ">
+								<div class="carousel-caption">
+									<div class="row">
+										<div class="col-12 col-md-6 col-lg-4 news-single">
+											<div>
+												<a href="https://liepaja-sez.lv/lv/sakums/liepajas-ostas-pakalpojumi-klust-pieejamaki" aria-label="Lasīt vairāk">
+													<img src="https://liepaja-sez.lv/img/mod/news/316/1788941725_S9209229.webp" alt="" class="img-fluid mb-2"/>
+												</a>
+												<span class="mb-1">04.09.2026.</span>
+												<h3>Liepājas ostas pakalpojumi kļūst pieejamāki</h2>
+											</div>
+											<a href="https://liepaja-sez.lv/lv/sakums/liepajas-ostas-pakalpojumi-klust-pieejamaki" class="news_link mb-5" aria-label="Lasīt vairāk">Lasīt vairāk</a>											
+										</div>
+										<div class="col-12 col-md-6 col-lg-4 news-single">
+											<div>
+												<a href="https://liepaja-sez.lv/lv/sakums/7-kruiza-kugi-un-vairak-neka-4-000-viesu-2026-gada-liepaja-turpina-nostiprinaties-baltijas" aria-label="Lasīt vairāk">
+													<img src="https://liepaja-sez.lv/img/mod/news/315/1788766639_62_09.04.2026._kruīza kugis_3.1.webp" alt="" class="img-fluid mb-2"/>
+												</a>
+												<span class="mb-1">04.09.2026.</span>
+												<h3>7 kruīza kuģi un vairāk nekā 4 000 viesu - 2026. gadā Liepāja turpina nostiprināties Baltijas kruīzu kartē</h2>
+											</div>
+											<a href="https://liepaja-sez.lv/lv/sakums/7-kruiza-kugi-un-vairak-neka-4-000-viesu-2026-gada-liepaja-turpina-nostiprinaties-baltijas" class="news_link mb-5" aria-label="Lasīt vairāk">Lasīt vairāk</a>											
+										</div>
+										<div class="col-12 col-md-6 col-lg-4 news-single">
+											<div>
+												<a href="https://liepaja-sez.lv/lv/sakums/liepajas-osta-turpinas-latvijas-zemnieku-izaudzeto-graudu-pienemsana" aria-label="Lasīt vairāk">
+													<img src="https://liepaja-sez.lv/img/mod/news/311/1788428596_61_09.02.2026._LBT.webp" alt="" class="img-fluid mb-2"/>
+												</a>
+												<span class="mb-1">02.09.2026.</span>
+												<h3>Liepājas ostā turpinās Latvijas zemnieku izaudzēto graudu pieņemšana</h2>
+											</div>
+											<a href="https://liepaja-sez.lv/lv/sakums/liepajas-osta-turpinas-latvijas-zemnieku-izaudzeto-graudu-pienemsana" class="news_link mb-5" aria-label="Lasīt vairāk">Lasīt vairāk</a>											
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			<div class="col-12 col-lg-3 mt-4 mt-lg-0">
+				<div id="newsMagnetCarousel69" class="carousel slide newsMagnetCarousel nocontrast" data-bs-interval="9999999" data-bs-ride="carousel" data-bs-touch="true">
+					<div class="carousel-inner">
+						<div class="carousel-item active" style="background-color:#04103e;">
+							<a href="//liepaja-sez.lv/lv/valdes-sedes/" target="">				
+							<div class="carousel-caption"><img src="https://liepaja-sez.lv/img/mod/magnet/35/1709199402_VALDEs_seede.svg" class="img-fluid icon mb-4" alt="Icon"/>
+								<h4>Valdes sēde </h4>
+								<p>Dokumentu iesniegšanas termiņš, izskatīšanai Liepājas SEZ valdes sēdē</p>
+							</div>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+				</div>
+			</div>
+			</div>				
+				<img class="background" src="https://liepaja-sez.lv/img/bg2.svg" alt="Background image"/>
+			</main>
+			<footer class="footer">				
+				<div class="container py-5">
+					<div class="row">
+						<div class="col-12 col-md-4 col-lg-2 footer-logo">
+							<img class="img-fluid" src="https://liepaja-sez.lv/img/logo-white.svg" alt="logo" width="100">
+                        </div>
+						<div class="col-12 col-md-8 col-lg-5 mb-3 reqs">
+								<p>Liepājas speciālās ekonomiskās zonas pārvalde<br>Fēniksa iela 4, Liepāja,<br>LV-3401, Latvija<br><br>Tālrunis: <a href="tel:+37163427605">+371 63427605</a><br>E-pasts: <a href="mailto:lsez@lsez.lv">lsez@lsez.lv</a></p>						</div>
+						<div class="col-12 col-md-4 col-lg-4">
+                            <div class="row pt-3k">
+								<div class="col socials d-flex justify-content-start">
+									<a href="https://www.facebook.com/LiepajasSEZ" target="_blank" aria-label="Facebook"><img src="https://liepaja-sez.lv/img/FB.svg" alt="Facebook" class="img-fluid"></a>
+									<a href="https://twitter.com/liepajaSEZ" target="_blank" aria-label="Twitter"><img src="https://liepaja-sez.lv/img/TW.svg" alt="Twitter"  class="img-fluid"></a>
+									<a href="https://www.instagram.com/liepajasez" target="_blank" aria-label="Instagram"><img src="https://liepaja-sez.lv/img/IG.svg" alt="Instagram"  class="img-fluid"></a>
+									<a href="https://www.youtube.com/channel/UCjBSQK6pZ5tQGpRabmlLwxQ" target="_blank" aria-label="Youtube"><img src="https://liepaja-sez.lv/img/YT.svg" alt="Youtube"  class="img-fluid"></a>
+									<a href="https://www.linkedin.com/company/liepaja-special-economic-zone/" target="_blank" alt="Linkedin"><img src="https://liepaja-sez.lv/img/IN.svg" aria-label="Linkedin"  class="img-fluid"></a>
+									<a href="https://www.flickr.com/photos/liepajasez/albums/" target="_blank" alt="Linkedin"><img src="https://liepaja-sez.lv/img/flickr.svg" aria-label="Flickr"  class="img-fluid"></a>
+								</div>
+							</div>
+						</div>
+						<div class="col-12 col-md-8 col-lg-1">							
+                            <div class="row">
+								<div class="col up">
+									<a href="#" aria-label="Scroll up"><img src="https://liepaja-sez.lv/img/round-right.svg" alt="scroll-up" class="img-fluid"></a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>	
+				
+				<div id="sticky-cookie" style="align-items: center; justify-content: center;">
+					<img width="24" src="https://liepaja-sez.lv/img/cc.svg?=v5" alt="cookie" />
+				</div>
+
+							<!-- Global site tag (gtag.js) - Google Analytics -->
+				<script async src="https://www.googletagmanager.com/gtag/js?id=G-6QTXK76SH0"></script>
+				<script>
+				  window.dataLayer = window.dataLayer || [];
+				  function gtag(){dataLayer.push(arguments);}
+				  gtag('js', new Date());
+
+				  gtag('config', 'G-6QTXK76SH0');
+				</script>
+				
+								
+				</script>				
+				<script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous">
+				<script src="https://code.jquery.com/color/jquery.color.plus-names-2.1.2.min.js"></script>
+						
+				<script src="https://liepaja-sez.lv/js/jarallax.min.js?v=3"></script>				
+				<script src="https://liepaja-sez.lv/js/bootstrap.bundle.min.js"></script>
+				<script src="https://liepaja-sez.lv/js/main.js?v=9"></script>
+				<script src="https://liepaja-sez.lv/js/block/banner/glide.min.js"></script><script src="https://liepaja-sez.lv/js/block/banner/main.js?v=5"></script><script src="https://liepaja-sez.lv/js/block/magnet/main.js?v=1"></script><script src="https://liepaja-sez.lv/js/block/index/main.js?v=4"></script>				<script defer src="https://liepaja-sez.lv/cc/src/cookieconsent.js"></script>
+				<script defer src="https://liepaja-sez.lv/cc/demo/app2.js?v=6"></script>
+			</footer>
+		</body>
+	</html>
+		

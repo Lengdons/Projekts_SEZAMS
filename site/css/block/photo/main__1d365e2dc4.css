@@ -1,0 +1,131 @@
+/*Text block css*/
+.photo .block-title{font-size: 2em;}
+.photo .block-title span{	
+	width: 100px;
+    height: 6px;
+    display: inline-block;
+    background: #be1e2d;
+    margin-left: 25px;
+    margin-bottom: 3px;
+}
+
+.photo .grid-item, .grid-sizer{
+	width: calc(33.333% - 25px);
+}
+
+.photo .grid-item {
+  margin-bottom: 30px;
+  float: left;
+}
+
+.photo .image-container {
+    position: relative;
+}
+
+.photo .image-container:hover .image-overlay {
+    height: 100%;
+}
+
+.photo .photo-image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.photo .image-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: black;
+    opacity: 0.8;
+    overflow: hidden;
+    width: 100%;
+    height: 0;
+    transition: .5s ease;
+}
+
+.photo .photo-title {
+    color: white;
+    font-size: 0.9em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 100%;
+    padding: 0 20px;
+}
+
+.photo .photo-title a {
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    padding: 8px 17px;
+    margin-top: 5px;
+    display: inline-block;
+}
+
+.photo .photo-title a:hover{
+    color: black;
+	background: white;
+}
+
+
+.photo .photo-pagination img{
+	filter: invert(1);
+}
+
+.photo .next:hover img, .photo .prev:hover img{
+	filter: invert(0.5);
+}
+
+.photo .next:hover, .photo .prev:hover{
+	color:gray;
+}
+
+.photo .paginator img{
+	max-width: 35px;	
+}
+
+.photo .paginator .next{
+	float:right;
+	width: 100px;
+}
+
+.photo .paginator .prev{
+	float:left;
+	width: 100px;
+}
+
+.photo .paginator .next img{
+	margin-left: 10px;
+}
+
+.photo .paginator .prev img{
+	margin-right: 10px;	
+    rotate: 180deg;
+}
+
+.photo .paginator a{
+	display: flex;
+    align-items: center;
+	text-decoration:none;
+	color:black;
+}
+
+.photo .photo-title h4{
+	font-size: 1em;
+}
+
+/* Responsive breakpoints */
+@media (min-width: 576px) {
+}
+
+@media (max-width: 767.98px) {	
+	.photo .grid-item, .grid-sizer{
+		width: 100%;
+	}
+}

@@ -1,0 +1,127 @@
+/*Map block css*/
+.map .block-title{font-size: 2em;margin-top: 35px;}
+.map .block-title span{	
+	width: 100px;
+    height: 6px;
+    display: inline-block;
+    background: #095ca8;
+    margin-left: 25px;
+    margin-bottom: 3px;
+}
+
+.map .map-single span{
+	font-size: 0.8em;
+	color: gray;
+}
+
+.map .map-single h3{
+	font-size: 1.9em;
+	font-family: Exo2-Extrabold, sans-serif;
+	color: #00203e;
+}
+
+.map .map-single a{
+	color: #00203e;
+	text-decoration:none;
+}
+
+.map .map-title{margin-top: 30px;}
+
+.map .map-title a{color: #00203e;text-decoration:none;}
+
+.map .map-single .link {
+    color: #00203e;
+    border: 1px solid #00203e;
+    padding: 11px 10px;
+    width: 130px;
+    text-align: center;
+    text-decoration: none;
+    transition: all ease-in 0.1s;
+}
+
+.map .modal-content{
+	border-radius: 0;
+}
+
+.map .modal-header{
+	border-bottom:none;
+}
+
+.map .modal-header .btn-close{
+	border: 1px solid black;
+    border-radius: 18px;
+}
+
+.map .map-single .link:hover {
+	color: white;
+    background: #00203e;
+}
+
+.map-single{
+	display: flex;
+    flex-direction: column;
+	/*min-height: 400px;*/
+	justify-content: space-between;
+}
+
+.map .map-btn{
+    color: #00203e;
+    border: 1px solid #00203e;
+    padding: 11px 10px;
+    width: 130px;
+    text-align: center;
+    text-decoration: none;
+    transition: all ease-in 0.1s;
+}
+
+.map .map-btn:hover{
+    color: white;
+    background: #00203e;
+}
+
+#map-block{position:relative;display:inline-block;}
+#map-block span{position:absolute;display:inline-block;width:40px;height:40px; cursor:pointer;  margin-left: -20px;
+    margin-top: -40px;  /*background: url("../../../img/pointer277.svg");*/}
+#map-block img{max-width:100%;}
+#map-block span img{margin-left:0px;}
+
+.map .responsive-container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+  
+  /* Then style the iframe to fit in the container div with full height and width */
+.map iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.fancybox__container {
+    z-index: 10000!important;
+}
+
+.pins-modal{
+    background-color: transparent;
+    border: none;
+}
+
+.pins-modal .modal-header, .pins-modal .modal-body{
+    background-color: white;
+    border-radius: 0;
+}
+
+.pins-modal .modal-footer{
+    background-color: transparent;
+    padding: 0;
+}
+
+.pins-modal .pin-video, .pins-modal .pin-gallery{
+    padding: 0;
+}
