@@ -1,0 +1,78 @@
+/*Text block css*/
+.block_text .block-title{font-size: 2em;}
+.block_text .block-title span{	
+	width: 100px;
+    height: 6px;
+    display: inline-block;
+    background: #be1e2d;
+    margin-left: 25px;
+    margin-bottom: 3px;
+}
+
+.block_text .output a{
+	text-decoration:none;
+	color:#00203e;
+	font-weight: bold;
+}
+
+.block_text .output a:hover{
+	color:#05539d;
+}
+
+.block_text .output blockquote{
+	font-style: italic;
+    line-height: 1.8em;
+    font-size: 1.1em;
+}
+
+.block_text .output h1{
+	font-size: 5em!important;
+	font-family: Exo2-Extrabold, sans-serif!important;
+	color: #00203e;
+}
+
+.block_text .output h2{
+	font-size: 4em!important;
+	font-family: Exo2-Extrabold, sans-serif!important;
+	color: #00203e;
+}
+
+.block_text .output h3{
+	font-size: 3em!important;
+	font-family: Exo2-Extrabold, sans-serif!important;
+	color: #00203e;
+}
+
+.block_text .output h4{
+	font-size: 2.33em!important;
+	font-family: Exo2-Extrabold, sans-serif!important;
+	color: #00203e;
+}
+
+.block_text .output h5{
+	font-size: 2em!important;
+	font-family: Exo2-Bold, sans-serif!important;
+	color: #00203e;
+}
+
+.block_text .output h6{
+	font-size: 1.50em!important;
+	font-family: Exo2, sans-serif!important;
+	color: #00203e;
+}
+
+.block_text .output .table>:not(caption)>*>*{
+	border-bottom: solid 2px #00203e;
+}
+
+.block_text .output .table tr:nth-child(odd) {
+  background-color: rgb(0 32 62 / 10%);
+}
+
+.block_text .output .table tr:first-child {
+  background-color: transparent;
+}
+
+.block_text .output .table tr:last-child {
+  border-bottom:none;
+}

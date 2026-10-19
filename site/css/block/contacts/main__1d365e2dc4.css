@@ -1,0 +1,63 @@
+/*Mod_news css*/
+.contacts .block-title{font-size: 2em;}
+.contacts .block-title span{	
+	width: 100px;
+    height: 6px;
+    display: inline-block;
+    background: #fab140;
+    margin-left: 25px;
+    margin-bottom: 3px;
+}
+
+.contacts .requisites p{
+	margin-bottom: 0;
+}
+
+.contacts .requisites strong{
+	color: #00203e;
+}
+
+.contacts .requisites a{
+	text-decoration:none;
+	color: black;
+}
+
+.contacts .contact p{	
+	margin-bottom: 0;
+	line-height: 1.2em;
+}
+
+.contacts .contact .name{
+	font-family: Exo2-Bold, sans-serif;
+    font-size: 1.3em;
+	color: #00203e;
+}
+
+.contacts .contact .job{
+	color: black;
+	font-size: 0.9em;
+}
+
+.contacts .contact .notes{
+	font-size: 0.9em;
+}
+
+.contacts .contact a{
+	text-decoration:none;
+	color: gray;
+}
+
+.contacts .contact span{
+	display: block;
+	color: gray;
+	font-size: 0.9em;
+	line-height: 1.2em;
+}
+
+.contacts .document img{
+	max-width:30px;
+	margin-top:20px;
+}
+
+.side-right .contacts .sidebar-nav{display:none;}
+.side-right .contacts .main-content{width:100%;}

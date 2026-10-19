@@ -1,0 +1,34 @@
+Pages: 120
+Files: 536
+
+Errors/omissions:
+https://liepaja-sez.lv/img/mod/news/189/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/189/
+https://liepaja-sez.lv/img/mod/news/91/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/91/
+https://liepaja-sez.lv/img/mod/news/94/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/94/
+https://liepaja-sez.lv/img/mod/news/320/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/320/
+https://liepaja-sez.lv/img/mod/news/318/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/318/
+https://liepaja-sez.lv/img/mod/news/312/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/312/
+https://liepaja-sez.lv/img/mod/news/295/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/295/
+https://liepaja-sez.lv/img/mod/news/314/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/314/
+https://liepaja-sez.lv/img/mod/news/313/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/313/
+https://liepaja-sez.lv/img/mod/news/110/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/110/
+https://liepaja-sez.lv/img/mod/news/189/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/189/
+https://liepaja-sez.lv/img/mod/news/91/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/91/
+https://liepaja-sez.lv/img/mod/news/94/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/94/
+https://liepaja-sez.lv/img/mod/news/320/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/320/
+https://liepaja-sez.lv/img/mod/news/318/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/318/
+https://liepaja-sez.lv/img/mod/news/312/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/312/
+https://liepaja-sez.lv/img/mod/news/295/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/295/
+https://liepaja-sez.lv/img/mod/news/314/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/314/
+https://liepaja-sez.lv/img/mod/news/313/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/313/
+https://liepaja-sez.lv/img/mod/news/93/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/93/
+https://liepaja-sez.lv/img/mod/news/95/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/95/
+https://liepaja-sez.lv/img/mod/news/96/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/96/
+https://liepaja-sez.lv/img/mod/news/97/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/97/
+https://liepaja-sez.lv/img/mod/news/98/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/98/
+https://liepaja-sez.lv/img/mod/news/99/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/99/
+https://liepaja-sez.lv/img/mod/news/101/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/101/
+https://liepaja-sez.lv/img/mod/news/100/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/100/
+https://liepaja-sez.lv/img/mod/news/102/: 403 Client Error: Forbidden for url: https://liepaja-sez.lv/img/mod/news/102/
+https://liepaja-sez.lv/doc/mod/document/353/1771406458_Foto.zip: File exceeds safety size limit
+https://liepaja-sez.lv/doc/mod/document/353/1771406458_Foto.zip: File exceeds safety size limit

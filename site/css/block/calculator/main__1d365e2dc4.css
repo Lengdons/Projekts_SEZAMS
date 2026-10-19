@@ -1,0 +1,99 @@
+.calculator .block-title{font-size: 2em;}
+.calculator .block-title span{	
+	width: 100px;
+    height: 6px;
+    display: inline-block;
+    background: #be1e2d;
+    margin-left: 25px;
+    margin-bottom: 3px;
+}
+
+.calculator input:not([type="radio"]):read-only{
+    background-color: #dddddd;
+}
+
+.calculator .form-control{
+    border-radius:0px;
+    text-align: center;
+    border: 1px solid #b1b1b1;
+}
+
+.calculator .form-check-input:checked {
+    background-color: #00203e;
+    border-color: #00203e;
+}
+
+.calculator a{
+    color: #00203e;
+    text-decoration: none;
+}
+
+.calculator .output a{
+	text-decoration:none;
+	color:#00203e;
+	font-weight: bold;
+}
+
+.calculator .output a:hover{
+	color:#05539d;
+}
+
+.calculator .output blockquote{
+	font-style: italic;
+    line-height: 1.8em;
+    font-size: 1.1em;
+}
+
+.calculator .output h1{
+	font-size: 5em!important;
+	font-family: Exo2-Extrabold, sans-serif!important;
+	color: #00203e;
+}
+
+.calculator .output h2{
+	font-size: 4em!important;
+	font-family: Exo2-Extrabold, sans-serif!important;
+	color: #00203e;
+}
+
+.calculator .output h3{
+	font-size: 3em!important;
+	font-family: Exo2-Extrabold, sans-serif!important;
+	color: #00203e;
+}
+
+.calculator .output h4{
+	font-size: 2.33em!important;
+	font-family: Exo2-Extrabold, sans-serif!important;
+	color: #00203e;
+}
+
+.calculator .output h5{
+	font-size: 2em!important;
+	font-family: Exo2-Bold, sans-serif!important;
+	color: #00203e;
+}
+
+.calculator .output h6{
+	font-size: 1.50em!important;
+	font-family: Exo2, sans-serif!important;
+	color: #00203e;
+}
+
+.calculator .output .table>:not(caption)>*>*{
+	border-bottom: solid 2px #00203e;
+}
+
+.calculator .output .table tr:nth-child(odd) {
+  background-color: rgb(0 32 62 / 10%);
+}
+
+.calculator .output .table tr:first-child {
+  background-color: transparent;
+}
+
+.calculator .output .table tr:last-child {
+  border-bottom:none;
+}
+
+  

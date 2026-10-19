@@ -1,0 +1,123 @@
+/*News three block css*/
+.news_three .block-title{font-size: 2em;}
+.news_three .block-title span{	
+	width: 100px;
+    height: 6px;
+    display: inline-block;
+    background: #095ca8;
+    margin-left: 25px;
+    margin-bottom: 3px;
+}
+
+.news_three .newsCarousel .carousel-caption{
+	padding-top:0;
+}
+
+.news_three .newsMagnetCarousel .carousel-caption{
+	min-height: 500px;
+	text-align: left;
+}
+
+.news_three .newsMagnetCarousel .icon{
+	max-width: 75px;
+}
+
+.news_three .newsMagnetCarousel h4{
+	font-family: Exo2-Extrabold, sans-serif;
+    font-size: 2.2em;
+	margin-bottom: 15px;
+}
+
+.news_three .newsMagnetCarousel p{
+    font-size: 1.2em;
+}
+
+.news_three .newsMagnetCarousel a{
+    text-decoration:none;
+}
+
+.news_three .newsMagnetCarousel .carousel-control-next{
+	left: 30px;
+    bottom: 30px;
+    top: auto;
+    height: 40px;
+    width: 40px;
+}
+
+.news_three .newsMagnetCarousel .magnet-next{
+    width: 100%;
+}
+
+.news_three .newsCarousel .news-single{
+	text-align:left;
+	display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+	min-height: 580px;
+}
+
+.news_three .newsCarousel .carousel-caption,
+.news_three .newsMagnetCarousel .carousel-caption{
+	position: initial;
+}
+
+.news_three .newsMagnetCarousel .carousel-caption{
+	padding:35px;
+}
+
+.news_three .newsCarousel span {
+    color: gray;
+    display: block;
+    font-size: 0.9em;
+}
+
+.news_three .newsCarousel h3 {
+    font-family: Exo2-Extrabold, sans-serif;
+    color: #00203e;
+    font-size: 1.4em;
+}
+
+.news_three .newsCarousel .news_link {
+    color: white;
+    background: #095ca8;
+    border: 1px solid #095ca8;
+    width: fit-content;
+    padding: 10px 20px;
+    text-decoration: none;
+    transition: all ease-in 0.15s;
+	margin-top: 15px;
+}
+
+.news_three .newsCarousel .news_link:hover {
+	color: #095ca8;
+    background: white;
+    border: 1px solid #095ca8;
+}
+
+.newsCarousel .carousel-indicators [data-bs-target] {
+    box-sizing: content-box;
+    flex: 0 1 auto;
+    width: 10px;
+    height: 10px;
+    padding: 0;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: transparent;
+    background-clip: padding-box;
+    border: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    transition: opacity .6s ease;
+    border-radius: 50%;
+	border: 1px solid #0d284d;
+}
+
+.newsCarousel .carousel-indicators {
+	bottom: 0;
+}
+
+.newsCarousel .carousel-indicators .active {
+    background-color: #0d284d;
+}
