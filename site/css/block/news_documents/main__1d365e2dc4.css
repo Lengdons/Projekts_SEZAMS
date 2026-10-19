@@ -1,0 +1,51 @@
+/*News documents block css*/
+
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+
+.news_documents .block-title{font-size: 2em;}
+.news_documents .block-title span{	
+	width: 100px;
+    height: 6px;
+    display: inline-block;
+    background: #be1e2d;
+    margin-left: 25px;
+    margin-bottom: 3px;
+}
+
+.news_documents .document-single{
+	display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+	padding: 0;
+}
+
+.news_documents .document-single .document i{
+	font-size: 3em;
+    color: gray;
+}
+
+.news_documents .document-single a:hover i{
+    color: #00203e;
+}
+
+.news_documents .document-info .date, .document-info .category{
+	color:gray;
+	font-size:0.9em;
+}
+
+.news_documents .document-info a{
+	color: #00203e;
+	font-weight: bold;
+	font-size:1.2em;
+	text-decoration: none;
+}
+
+.news_documents .document-info a:hover{
+	color: #2d6fad;
+	transition: all ease-in 0.1s;
+}
+
+.news_documents .document-single{
+    border-bottom: 2px solid #bbbbbb;
+}

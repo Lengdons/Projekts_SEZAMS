@@ -1,0 +1,96 @@
+/*Index block css*/
+.index .block-title{font-size: 2em;}
+.index .block-title span{	
+	width: 100px;
+    height: 6px;
+    display: inline-block;
+    background: #be1e2d;
+    margin-left: 25px;
+    margin-bottom: 3px;
+}
+
+.article-block{
+    margin-bottom: 60px;
+}
+
+.article-block p{
+	font-size: 1.1em;
+}
+
+.article-block.left .article-block-text{
+    align-items: end;
+}
+
+.article-block.right .article-block-text{
+    align-items: start;
+}
+
+.article-block .jarallax{
+	min-height: 380px;
+}
+
+.article-block.left p{
+    text-align: right;
+}
+
+.article-block .article-block-text{
+    display: flex;
+    flex-direction: column;
+}
+
+.article-block-text a{
+    color: #00203e;
+    border: 1px solid #00203e;
+    padding: 11px 10px;
+    width: 130px;
+    text-align: center;
+    text-decoration: none;
+    transition: all ease-in 0.1s;
+}
+
+.article-block-text a:hover{
+    color: white;
+    background: #00203e;
+}
+
+.article-block.right .article-block-text h1{
+    background-image:
+            linear-gradient(90deg, #00203e 10%, #fff 10%),
+            linear-gradient(-90deg, #00203e 10%, #fff 10%);
+    background-size: 100% 5px;
+    background-position: top left;
+    background-repeat: no-repeat;
+    width: 100%;
+    margin-top: 30px;
+	margin-bottom: 20px;
+	padding-top: 15px;
+}
+
+.article-block.left .article-block-text h1{
+    background-image:
+            linear-gradient(90deg, #fff 90%, #00203e 10%),
+            linear-gradient(-90deg, #fff 90%, #00203e 10%);
+    background-size: 100% 5px;
+    background-position: top left;
+    background-repeat: no-repeat;
+    width: 100%;
+    text-align: right;
+    margin-top: 30px;
+	margin-bottom: 20px;
+	padding-top: 15px;
+}
+
+.article-block .jarallax-container {
+	position:relative!important;
+}
+
+@media (max-width: 575.98px) {
+	.article-block .jarallax, .article-block .jarallax-container {
+		/*padding: 0 30px;*/
+		/*overflow: hidden;*/
+	}
+	.article-block .jarallax-img {
+		/*position: relative!important;*/
+	}
+}
+

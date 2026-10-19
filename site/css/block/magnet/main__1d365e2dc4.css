@@ -1,0 +1,74 @@
+/*Magnet block css*/
+.magnet .block-title{font-size: 2em;}
+.magnet .block-title span{	
+	width: 100px;
+    height: 6px;
+    display: inline-block;
+    background: #be1e2d;
+    margin-left: 25px;
+    margin-bottom: 3px;
+}
+
+
+.magnet .carousel-item{
+	height:400px;
+}
+
+.magnet .carousel{
+	touch-action: pan-y!important;
+}
+
+.magnet .carousel-control-next{
+	align-items: end;
+}
+
+.magnet .carousel-caption{
+	bottom: auto;
+	right: auto;
+	left: auto;
+	width: 100%;	
+	text-align: left;
+	padding: 30px;
+}
+
+.magnet .carousel-control-next {
+	right: 30px;
+    bottom: 30px;
+    top: auto;
+    height: 40px;
+    width: 40px;
+}
+
+.magnet .icon {
+    max-width: 75px;
+}
+
+.magnet h4{
+	font-size: 2.5em;
+    font-weight: bold;
+    text-align: left;
+    padding-bottom: 30px;
+    margin-bottom: 0;
+    border-image: linear-gradient(to right, white 15%, rgba(255, 0, 0, 0) 15%, rgba(255, 0, 0, 0) 50%)1;
+    border-bottom: 5px solid;
+	font-family: Exo2-Bold, sans-serif;
+}
+
+.side-right .magnet h4{
+	font-size: 1.9em;
+}
+
+.magnet p{
+	font-size: 1.3em;
+    font-weight: bold;
+    margin-top: 30px;
+	font-family: Exo2-Bold, sans-serif;
+}
+
+.side-right .magnet p{
+	font-size: 1.5em;
+}
+
+.magnet .magnet-next{
+    width: 100%;
+}

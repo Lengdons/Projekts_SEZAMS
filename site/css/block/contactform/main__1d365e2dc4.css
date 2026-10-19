@@ -1,0 +1,88 @@
+/*Contactfrom block css*/
+.contactform h1{font-size: 1.7em;}
+.contactform span{	
+	width: 100px;
+    height: 6px;
+    display: inline-block;
+    background: #00377a;
+    margin-left: 25px;
+    margin-bottom: 3px;
+}
+.contactform label{	
+	text-transform: uppercase;
+	color:gray;
+	font-size: 0.8em;
+}
+
+.contactform .form-control{
+	border-radius:0;
+	border-color:#bbbbbb;
+}
+
+.contactform button{
+	background: #00377a;
+    border-radius: 0;
+    border: solid 1px #00377a;
+    padding: 10px 20px;
+	color:white;
+}
+
+.grecaptcha-badge{
+	bottom: 80px!important;
+}
+
+.contactform button:hover{
+	border: solid 1px #00377a;
+	color: #00377a;
+}
+
+.contactform .parsley-error{
+	border: 1px solid red;
+}
+
+.swal2-title{
+	font-family: Exo2-Extrabold, sans-serif;	
+}
+
+div:where(.swal2-container) .swal2-html-container{
+	font-family: Exo2, sans-serif;	
+}
+
+div:where(.swal2-container).swal2-center>.swal2-popup {
+    border-radius: 0;
+	font-family: Exo2, sans-serif!important;
+}
+
+div:where(.swal2-container) button:where(.swal2-styled).swal2-confirm {
+    border-radius: 0!important;
+    color: white!important;
+    background: #001C43 !important;
+    border: 1px solid #001C43 !important;
+    width: fit-content;
+    padding: 10px 20px;
+    text-decoration: none;
+    transition: all ease-in 0.15s;
+}
+
+div:where(.swal2-container) button:where(.swal2-styled).swal2-confirm:focus {
+    box-shadow: none!important;
+}
+
+div:where(.swal2-container) div:where(.swal2-actions):not(.swal2-loading) .swal2-styled:hover {
+    color: #001C43 !important;
+    background: white!important;
+    border: 1px solid #001C43 !important;
+}
+
+div:where(.swal2-icon).swal2-success {
+    border-color: #42B752!important;
+    color: #42B752!important;
+}
+
+div:where(.swal2-icon).swal2-success [class^=swal2-success-line] {
+    background-color: #42B752!important;
+}
+
+div:where(.swal2-icon).swal2-success .swal2-success-ring {
+    border: 0.25em solid rgba(66,183,82,0.4)!important;
+}
