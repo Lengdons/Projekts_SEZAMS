@@ -1034,3 +1034,38 @@ html.yellow2 .paginator .next img, html.yellow2 .paginator .prev img{
 #cm.cloud {max-width: 70em !important;}
 #s-c-bn:focus-visible {outline: none;}
 .cc_div button.custom {border-bottom: solid 1px; font-weight: 600;}
+
+.blur-load img {
+    opacity: 1 !important;
+    visibility: visible !important;
+}
+
+html.yellow .blur-load img,
+html.yellow2 .blur-load img {
+    opacity: 1 !important;
+    visibility: visible !important;
+}
+
+
+/* Attēlu redzamība kontrasta režīmā */
+
+html.yellow .blur-load img,
+html.yellow2 .blur-load img {
+    opacity: 1 !important;
+    visibility: visible !important;
+    display: block !important;
+}
+
+/* Neļauj attēlu konteineriem tos paslēpt */
+html.yellow .blur-load,
+html.yellow2 .blur-load {
+    background-image: none !important;
+}
+
+.blur-load img,
+html.yellow .blur-load img,
+html.yellow2 .blur-load img,
+html.black .blur-load img {
+    opacity: 1 !important;
+    visibility: visible !important;
+}

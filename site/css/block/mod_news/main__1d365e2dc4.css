@@ -112,6 +112,7 @@
 	opacity:1;
 }
 .blur-load > a img{
-	opacity:100;
-	transition: opacity 200ms ease-in-out;
+	opacity: 1 !important;
+    visibility: visible !important;
+    display: block !important;
 }
