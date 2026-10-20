@@ -1,0 +1,11 @@
+Live Network & DOM Verification (BLOCKED in Sandbox):
+
+Because outbound HTTP requests to [https://liepaja-sez.lv/](https://liepaja-sez.lv/) and Git clones of [https://github.com/Lengdons/Projekts_SEZAMS.git](https://github.com/Lengdons/Projekts_SEZAMS.git) are blocked inside the AI execution container, all live network latencies, exact response headers, and exact source file line numbers in Projekts_SEZAMS remain classified as BLOCKED or INFERRED.
+
+Exact Steps to Complete 100% Live Verification Locally:
+
+Step 1: Save lsez-sezams-audit-studio.html, sezams-live-scanner.mjs, and lsez-audit.spec.ts to a local working directory.
+
+Step 2: Run node sezams-live-scanner.mjs in a terminal with internet access. This clones [https://github.com/Lengdons/Projekts_SEZAMS.git](https://github.com/Lengdons/Projekts_SEZAMS.git), extracts all actual functions and API calls, probes [https://liepaja-sez.lv/](https://liepaja-sez.lv/), and writes live-scan-results.json.
+
+Step 3: Open lsez-sezams-audit-studio.html in your browser and click ⬆ Import JSON to merge the live scan data, then run npx playwright test lsez-audit.spec.ts to transition every PROPOSED test to EXECUTED.
