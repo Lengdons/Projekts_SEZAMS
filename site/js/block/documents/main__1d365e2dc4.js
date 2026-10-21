@@ -16,7 +16,12 @@ jQuery(document).ready(function() {
 		// ajaxRequest();
 		    var url = $(this).val();
             if (url) {
-                window.location.href = url;
+				var path = new URL(url, window.location.href).pathname;
+                path = path.replace(/^(\/site)+/, '');
+				path = path.replace(/\/index\.html\/?$/, '');
+				path = path.replace(/\/$/, '');
+
+				window.location.href = '/site' + path + '/index.html';
             }
 	});
 	$('.type').change(function(){
