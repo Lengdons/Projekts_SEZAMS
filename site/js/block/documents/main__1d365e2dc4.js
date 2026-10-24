@@ -18,10 +18,10 @@ jQuery(document).ready(function() {
             if (url) {
 				var path = new URL(url, window.location.href).pathname;
                 path = path.replace(/^(\/site)+/, '');
-				path = path.replace(/\/index\.html\/?$/, '');
+				path = path.replace(/\/index\.php\/?$/, '');
 				path = path.replace(/\/$/, '');
 
-				window.location.href = '/site' + path + '/index.html';
+				window.location.href = '/site' + path + '/index.php';
             }
 	});
 	$('.type').change(function(){
