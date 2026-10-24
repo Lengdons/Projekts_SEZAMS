@@ -7,7 +7,7 @@
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
 <link href="../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="website" property="og:type"/>
-<meta content="https://liepaja-sez.lv/en/liepaja-sez/" property="og:url"/>
+<meta content="https://liepaja-sez.lv/lv/liepajas-sez/" property="og:url"/>
 <meta content="Home" property="og:title"/>
 <meta content="Liepājas SEZ" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
@@ -30,6 +30,25 @@
 			</script>
 <script>var web_url="https://liepaja-sez.lv/";</script>
 <script>var lang="en";</script>
+<style>
+    body {
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+    }
+
+    main {
+        flex: 1;
+        min-height: 0;
+    }
+
+    footer {
+        margin-top: auto;
+        height: auto;
+        min-height: 0;
+        flex-grow: 0;
+    }
+</style>
 </head>
 <body>
 <div class="block" id="search-overlay">
@@ -37,7 +56,7 @@
 <div id="search-box">
 <div class="fa fa-times fa-2x" id="close-btn">X</div>
 <form action="#" id="search-form" method="get" target="_top">
-<input id="search-text" name="q" placeholder="I'm searching for..." type="text"/>
+<input id="search-text" name="q" placeholder="I am looking for..." type="text"/>
 <button id="search-button" type="submit">
 <span>Search</span>
 </button>
@@ -50,7 +69,11 @@
 <ul class="controls d-none d-lg-block">
 <li class="search-controls search-btn" id=""><i class="bi bi-search"></i></li>
 <li class="dropdown font-controls">
+<<<<<<< HEAD:site/en/liepaja-sez/index.php
 <a aria-expanded="false" aria-label="Font size" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="index.php" id="font-controls1">
+=======
+<a aria-expanded="false" aria-label="Text size" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="index.html" id="font-controls1">
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/liepaja-sez/index.html
 <span>A</span>
 <span>A</span>
 <span>A</span>
@@ -74,7 +97,7 @@
 </ul>
 </li>
 <li class="dropdown language-controls">
-<a aria-expanded="false" aria-label="Select language" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="" id="language-controls1">
+<a aria-expanded="false" aria-label="Language selection" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="" id="language-controls1">
 
 										en
 
@@ -89,7 +112,7 @@
 <ul class="controls mobile d-flex d-lg-none">
 <li class="search-controls search-btn" id=""><i class="bi bi-search"></i></li>
 <li class="dropdown language-controls">
-<a aria-expanded="false" aria-label="Select language" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="" id="language-controls2">
+<a aria-expanded="false" aria-label="Language selection" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="" id="language-controls2">
 
 											en
 
@@ -102,24 +125,36 @@
 <div class="collapse navbar-collapse" id="navbar">
 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
 <li class="nav-item">
+<<<<<<< HEAD:site/en/liepaja-sez/index.php
 <a class="nav-link" href="../index.php">Home</a>
+=======
+<a class="nav-link" href="../../index.html">Home</a>
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/liepaja-sez/index.html
 </li><li class="nav-item dropdown">
 <a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="index.php" role="button">
 
-									Liepaja SEZ
+									Liepājas SEZ
 
 								</a><ul aria-labelledby="navbar" class="dropdown-menu">
 <li>
+<<<<<<< HEAD:site/en/liepaja-sez/index.php
 <a class="dropdown-item" href="../invest-in-liepaja/index.php">Invest in Liepaja</a>
 </li>
 <li class="dropend">
 <a class="dropdown-item dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../port/index.php">
+=======
+<a class="dropdown-item" href="../investe-liepaja/index.html">Invest in Liepāja</a>
+</li>
+<li class="dropend">
+<a class="dropdown-item dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../osta/index.html">
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/liepaja-sez/index.html
 
 									Port
 
 								</a>
 <ul class="dropdown-menu">
 <li>
+<<<<<<< HEAD:site/en/liepaja-sez/index.php
 <a class="dropdown-item" href="../about-port/index.php">About Port</a>
 </li>
 <li>
@@ -133,10 +168,26 @@
 </li>
 <li>
 <a class="dropdown-item" href="../oskars-kalpaks-bridge/index.php">Oskars Kalpaks bridge</a>
+=======
+<a class="dropdown-item" href="../par-ostu/index.html">About the Port</a>
+</li>
+<li>
+<a class="dropdown-item" href="../pramju-satiksme/index.html">Ferry Services</a>
+</li>
+<li>
+<a class="dropdown-item" href="../kruiza-kugi/index.html">Cruise Ships</a>
+</li>
+<li>
+<a class="dropdown-item" href="../jahtu-osta/index.html">Marina</a>
+</li>
+<li>
+<a class="dropdown-item" href="../oskara-kalpaka-tilts/index.html">Oskars Kalpaks Bridge</a>
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/liepaja-sez/index.html
 </li>
 </ul>
 </li>
 <li>
+<<<<<<< HEAD:site/en/liepaja-sez/index.php
 <a class="dropdown-item" href="../lsez-commercial-companies/index.php">Commercial Companies</a>
 </li>
 <li>
@@ -150,11 +201,27 @@
 </li>
 </ul></li><li class="nav-item dropdown">
 <a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../authority/index.php" role="button">
+=======
+<a class="dropdown-item" href="../kapitalsabiedribas/index.html">Capital Companies</a>
+</li>
+<li>
+<a class="dropdown-item" href="../attistibas-projekti/index.html">Development Projects</a>
+</li>
+<li>
+<a class="dropdown-item" href="../darbs-liepaja/index.html">Jobs in Liepāja</a>
+</li>
+<li>
+<a class="dropdown-item" href="../teritoriju-karte/index.html">Territory Map</a>
+</li>
+</ul></li><li class="nav-item dropdown">
+<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../parvalde/index.html" role="button">
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/liepaja-sez/index.html
 
-									Authority
+									Administration
 
 								</a><ul aria-labelledby="navbar" class="dropdown-menu">
 <li>
+<<<<<<< HEAD:site/en/liepaja-sez/index.php
 <a class="dropdown-item" href="../governance/index.php">Governance</a>
 </li>
 <li>
@@ -165,12 +232,25 @@
 </li>
 <li class="dropend">
 <a class="dropdown-item dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../activity-reports/index.php">
+=======
+<a class="dropdown-item" href="../parvaldiba/index.html">Governance</a>
+</li>
+<li>
+<a class="dropdown-item" href="../korporativa-parvaldiba/index.html">Corporate Governance</a>
+</li>
+<li>
+<a class="dropdown-item" href="../iepirkumi-un-izsoles/index.html">Procurement and Auctions</a>
+</li>
+<li class="dropend">
+<a class="dropdown-item dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../darbibas-parskati/index.html">
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/liepaja-sez/index.html
 
-									Activity reports
+									Activity Reports
 
 								</a>
 <ul class="dropdown-menu">
 <li>
+<<<<<<< HEAD:site/en/liepaja-sez/index.php
 <a class="dropdown-item" href="../board-meeting-decisions/index.php">Board meeting decisions</a>
 </li>
 <li>
@@ -182,11 +262,25 @@
 </ul>
 </li></ul></li><li class="nav-item dropdown">
 <a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../news-1/index.php" role="button">
+=======
+<a class="dropdown-item" href="../valdes-sedes-lemumi/index.html">Board Meeting Decisions</a>
+</li>
+<li>
+<a class="dropdown-item" href="../atskaites-par-darbibu/index.html">Activity Reports</a>
+</li>
+<li>
+<a class="dropdown-item" href="../ostas-statistika/index.html">Port Statistics</a>
+</li>
+</ul>
+</li></ul></li><li class="nav-item dropdown">
+<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../jaunumi-1/index.html" role="button">
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/liepaja-sez/index.html
 
 									News
 
 								</a><ul aria-labelledby="navbar" class="dropdown-menu">
 <li>
+<<<<<<< HEAD:site/en/liepaja-sez/index.php
 <a class="dropdown-item" href="../news/index.php">Press releases</a>
 </li>
 <li>
@@ -205,6 +299,26 @@
 <hr class="dropdown-divider d-block d-lg-none"/>
 <li class="dropdown font-controls mobile d-flex d-lg-none">
 <a aria-expanded="false" aria-label="Font size" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="index.php" id="font-controls2">
+=======
+<a class="dropdown-item" href="../medijiem/index.html">For the Media</a>
+</li>
+<li>
+<a class="dropdown-item" href="../foto/index.html">Photos</a>
+</li>
+<li>
+<a class="dropdown-item" href="../valdes-sedes/index.html">Board Meetings</a>
+</li>
+</ul></li>
+<li class="nav-item">
+<a class="nav-link" href="../dokumenti/index.html">Documents</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="../kontakti/index.html">Contacts</a>
+</li>
+<hr class="dropdown-divider d-block d-lg-none"/>
+<li class="dropdown font-controls mobile d-flex d-lg-none">
+<a aria-expanded="false" aria-label="Text size" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="index.html" id="font-controls2">
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/liepaja-sez/index.html
 <span>A</span>
 <span>A</span>
 <span>A</span>
@@ -236,7 +350,11 @@
 <div class="container pt-3">
 <div class="columns mt-5">
 <div class="row">
+<div class="col-12">
+<h1 class="mb-4 block-title">LSEZ<span></span></h1>
+</div>
 <div class="col-12 column-content">
+<p>Under the Law on the Liepāja Special Economic Zone, adopted on 17 February 1997, the Liepāja Special Economic Zone comprises the territory of the Liepāja Special Economic Zone, where companies of the Liepāja Special Economic Zone conduct business activities and which is administered and supervised by the Liepāja Special Economic Zone Authority.</p><p>The territory of the Liepāja Special Economic Zone is defined in accordance with the territory plan and the description of the territorial boundaries of the Liepāja Special Economic Zone attached as an annex to the Law on the Liepāja Special Economic Zone.</p>
 </div>
 </div>
 </div>
@@ -250,7 +368,7 @@
 <img alt="logo" class="img-fluid" src="../../img/logo-white.svg" width="100"/>
 </div>
 <div class="col-12 col-md-8 col-lg-5 mb-3 reqs">
-<p>Liepaja Special Economic Zone<br/>Authority<br/>Fēniksa street 4, Liepāja,<br/>LV-3401, Latvia<br/><br/>Phone: <a href="tel:+37163427605">+371 63427605</a><br/>E-mail: <a href="mailto:lsez@lsez.lv">lsez@lsez.lv</a></p> </div>
+<p>Liepāja Special Economic Zone Authority<br/>4 Fēniksa Street, Liepāja,<br/>LV-3401, Latvia<br/><br/>Phone: <a href="tel:+37163427605">+371 63427605</a><br/>Email: <a href="mailto:lsez@lsez.lv">lsez@lsez.lv</a></p> </div>
 <div class="col-12 col-md-4 col-lg-4">
 <div class="row pt-3k">
 <div class="col socials d-flex justify-content-start">

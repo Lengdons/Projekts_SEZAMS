@@ -30,6 +30,25 @@
 			</script>
 <script>var web_url="https://liepaja-sez.lv/";</script>
 <script>var lang="lv";</script>
+<style>
+    body {
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+    }
+
+    main {
+        flex: 1;
+        min-height: 0;
+    }
+
+    footer {
+        margin-top: auto;
+        height: auto;
+        min-height: 0;
+        flex-grow: 0;
+    }
+</style>
 </head>
 <body>
 <div class="block" id="search-overlay">

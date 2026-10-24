@@ -1,5 +1,4 @@
 <!DOCTYPE html>
- <!DOCTYPE html>
 
 <html lang="en">
 <head>
@@ -298,6 +297,7 @@
 <h2>Liepāja SEZ Authority Holds an Electronic Ascending-Bid Auction for a Newly Created Property at Eksporta Street 3</h2>
 <span class="mb-3">06.10.2026.</span>
 </div>
+<<<<<<< HEAD:site/en/public-procurement/index.php
 <a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="liepaja-sez-authority-organizes-an-electronic-ascending-bid-auction-for-newly-created-real-estate-1/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 description">
@@ -307,6 +307,17 @@
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(../../img/mod/news/325/1791280647_72_10.06.2026._LIP_izsole_Eksporta_iela.webp)">
 <a aria-label="Read more" href="liepaja-sez-authority-organizes-an-electronic-ascending-bid-auction-for-newly-created-real-estate-1/index.php">
+=======
+<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="electronic-auction-of-new-real-estate-at-eksporta-street-3/index.html">Read more</a>
+</div>
+<div class="col-12 col-md-4 description">
+<p>The Liepāja Special Economic Zone Authority, unified registration No. LV90000329402, is holding an electronic ascending-bid auction for a newly created property at Eksporta Street 3, Liepāja, comprising a land plot with a total area of 51,521 m² and 12 buildings.</p>
+<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="electronic-auction-of-new-real-estate-at-eksporta-street-3/index.html">Read more</a>
+</div>
+<div class="col-12 col-md-4 order-first order-md-last mb-3">
+<div class="blur-load" style="background-image:url(../../img/mod/news/325/1791280647_72_10.06.2026._LIP_izsole_Eksporta_iela.webp)">
+<a aria-label="Read more" href="electronic-auction-of-new-real-estate-at-eksporta-street-3/index.html">
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/public-procurement/index.html
 <img alt="" class="img-fluid" src="../../img/mod/news/325/1791280647_72_10.06.2026._LIP_izsole_Eksporta_iela.webp"/>
 </a>
 </div>
@@ -378,6 +389,7 @@
 <h2>Liepāja SEZ Authority Holds an Electronic Ascending-Bid Auction for a Newly Created Property at Dūmu Street 6</h2>
 <span class="mb-3">04.08.2026.</span>
 </div>
+<<<<<<< HEAD:site/en/public-procurement/index.php
 <a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="liepaja-sez-authority-organizes-an-electronic-ascending-bid-auction-for-newly-created-real-estate/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 description">
@@ -387,6 +399,17 @@
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(../../img/mod/news/301/1785928881_Foto_2.webp)">
 <a aria-label="Read more" href="liepaja-sez-authority-organizes-an-electronic-ascending-bid-auction-for-newly-created-real-estate/index.php">
+=======
+<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="electronic-auction-of-new-real-estate-at-dumu-street-6/index.html">Read more</a>
+</div>
+<div class="col-12 col-md-4 description">
+<p>The Liepāja Special Economic Zone Authority, unified registration No. LV90000329402, is holding an electronic ascending-bid auction for a newly created property at Dūmu Street 6, Liepāja, comprising a building with cadastral designation 17000220059068 and a land plot with cadastral designation 17000220351, with a total area of 46,766 m².</p>
+<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="electronic-auction-of-new-real-estate-at-dumu-street-6/index.html">Read more</a>
+</div>
+<div class="col-12 col-md-4 order-first order-md-last mb-3">
+<div class="blur-load" style="background-image:url(../../img/mod/news/301/1785928881_Foto_2.webp)">
+<a aria-label="Read more" href="electronic-auction-of-new-real-estate-at-dumu-street-6/index.html">
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/public-procurement/index.html
 <img alt="" class="img-fluid" src="../../img/mod/news/301/1785928881_Foto_2.webp"/>
 </a>
 </div>
@@ -458,6 +481,7 @@
 <h2>Construction Supervision of Eksporta Street Infrastructure and Remediation Works in Liepāja Industrial Park</h2>
 <span class="mb-3">13.05.2026.</span>
 </div>
+<<<<<<< HEAD:site/en/public-procurement/index.php
 <a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="construction-supervision-of-eksporta-street-infrastructure-and-remediation-works-in-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 description">
@@ -467,6 +491,17 @@
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load">
 <a aria-label="Read more" href="construction-supervision-of-eksporta-street-infrastructure-and-remediation-works-in-liepaja/index.php">
+=======
+<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="construction-supervision-eksporta-street-infrastructure-remediation-liepaja-industrial-park/index.html">Read more</a>
+</div>
+<div class="col-12 col-md-4 description">
+<p>Procurement subject: Construction supervision of Eksporta Street infrastructure construction and remediation works within the Liepāja Industrial Park. IDENTIFICATION NUMBER: LSEZ 2026/7. Main CPV code: 71247000-1 (Supervision of building work).</p>
+<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="construction-supervision-eksporta-street-infrastructure-remediation-liepaja-industrial-park/index.html">Read more</a>
+</div>
+<div class="col-12 col-md-4 order-first order-md-last mb-3">
+<div class="blur-load">
+<a aria-label="Read more" href="construction-supervision-eksporta-street-infrastructure-remediation-liepaja-industrial-park/index.html">
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/public-procurement/index.html
 <img alt="" class="img-fluid" src="../../img/mod/news/314/" style="display:none"/>
 </a>
 </div>
@@ -478,6 +513,7 @@
 <h2>Construction of Eksporta Street Infrastructure and Remediation Works in Liepāja Industrial Park</h2>
 <span class="mb-3">22.03.2026.</span>
 </div>
+<<<<<<< HEAD:site/en/public-procurement/index.php
 <a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="eksporta-street-infrastructure-construction-and-remediation-in-liepaja-industrial-park/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 description">
@@ -487,6 +523,17 @@
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load">
 <a aria-label="Read more" href="eksporta-street-infrastructure-construction-and-remediation-in-liepaja-industrial-park/index.php">
+=======
+<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="construction-of-eksporta-street-infrastructure-and-remediation-works/index.html">Read more</a>
+</div>
+<div class="col-12 col-md-4 description">
+<p>Procurement subject: Construction of Eksporta Street infrastructure and remediation works within the Liepāja Industrial Park. IDENTIFICATION NUMBER: LSEZ 2026/3. Main CPV code: 45233120-6 (Road construction works).</p>
+<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="construction-of-eksporta-street-infrastructure-and-remediation-works/index.html">Read more</a>
+</div>
+<div class="col-12 col-md-4 order-first order-md-last mb-3">
+<div class="blur-load">
+<a aria-label="Read more" href="construction-of-eksporta-street-infrastructure-and-remediation-works/index.html">
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/public-procurement/index.html
 <img alt="" class="img-fluid" src="../../img/mod/news/313/" style="display:none"/>
 </a>
 </div>

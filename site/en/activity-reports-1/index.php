@@ -30,6 +30,25 @@
 			</script>
 <script>var web_url="https://liepaja-sez.lv/";</script>
 <script>var lang="en";</script>
+<style>
+    body {
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+    }
+
+    main {
+        flex: 1;
+        min-height: 0;
+    }
+
+    footer {
+        margin-top: auto;
+        height: auto;
+        min-height: 0;
+        flex-grow: 0;
+    }
+</style>
 </head>
 <body>
 <div class="block" id="search-overlay">
@@ -37,7 +56,7 @@
 <div id="search-box">
 <div class="fa fa-times fa-2x" id="close-btn">X</div>
 <form action="#" id="search-form" method="get" target="_top">
-<input id="search-text" name="q" placeholder="I'm searching for..." type="text"/>
+<input id="search-text" name="q" placeholder="I am looking for..." type="text"/>
 <button id="search-button" type="submit">
 <span>Search</span>
 </button>
@@ -50,7 +69,11 @@
 <ul class="controls d-none d-lg-block">
 <li class="search-controls search-btn" id=""><i class="bi bi-search"></i></li>
 <li class="dropdown font-controls">
+<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a aria-expanded="false" aria-label="Font size" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="index.php" id="font-controls1">
+=======
+<a aria-expanded="false" aria-label="Text size" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="index.html" id="font-controls1">
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 <span>A</span>
 <span>A</span>
 <span>A</span>
@@ -74,7 +97,7 @@
 </ul>
 </li>
 <li class="dropdown language-controls">
-<a aria-expanded="false" aria-label="Select language" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="" id="language-controls1">
+<a aria-expanded="false" aria-label="Language selection" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="" id="language-controls1">
 
 										en
 
@@ -89,7 +112,7 @@
 <ul class="controls mobile d-flex d-lg-none">
 <li class="search-controls search-btn" id=""><i class="bi bi-search"></i></li>
 <li class="dropdown language-controls">
-<a aria-expanded="false" aria-label="Select language" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="" id="language-controls2">
+<a aria-expanded="false" aria-label="Language selection" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="" id="language-controls2">
 
 											en
 
@@ -102,24 +125,38 @@
 <div class="collapse navbar-collapse" id="navbar">
 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
 <li class="nav-item">
+<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a class="nav-link" href="../index.php">Home</a>
 </li><li class="nav-item dropdown">
 <a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../liepaja-sez/index.php" role="button">
+=======
+<a class="nav-link" href="../../index.html">Home</a>
+</li><li class="nav-item dropdown">
+<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../liepajas-sez/index.html" role="button">
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 
-									Liepaja SEZ
+									Liepāja SEZ
 
 								</a><ul aria-labelledby="navbar" class="dropdown-menu">
 <li>
+<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a class="dropdown-item" href="../invest-in-liepaja/index.php">Invest in Liepaja</a>
 </li>
 <li class="dropend">
 <a class="dropdown-item dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../port/index.php">
+=======
+<a class="dropdown-item" href="../investe-liepaja/index.html">Invest in Liepāja</a>
+</li>
+<li class="dropend">
+<a class="dropdown-item dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../osta/index.html">
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 
 									Port
 
 								</a>
 <ul class="dropdown-menu">
 <li>
+<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a class="dropdown-item" href="../about-port/index.php">About Port</a>
 </li>
 <li>
@@ -133,10 +170,26 @@
 </li>
 <li>
 <a class="dropdown-item" href="../oskars-kalpaks-bridge/index.php">Oskars Kalpaks bridge</a>
+=======
+<a class="dropdown-item" href="../par-ostu/index.html">About the Port</a>
+</li>
+<li>
+<a class="dropdown-item" href="../pramju-satiksme/index.html">Ferry Traffic</a>
+</li>
+<li>
+<a class="dropdown-item" href="../kruiza-kugi/index.html">Cruise Ships</a>
+</li>
+<li>
+<a class="dropdown-item" href="../jahtu-osta/index.html">Marina</a>
+</li>
+<li>
+<a class="dropdown-item" href="../oskara-kalpaka-tilts/index.html">Oskars Kalpaks Bridge</a>
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 </li>
 </ul>
 </li>
 <li>
+<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a class="dropdown-item" href="../lsez-commercial-companies/index.php">Commercial Companies</a>
 </li>
 <li>
@@ -150,11 +203,27 @@
 </li>
 </ul></li><li class="nav-item dropdown">
 <a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../authority/index.php" role="button">
+=======
+<a class="dropdown-item" href="../kapitalsabiedribas/index.html">Capital Companies</a>
+</li>
+<li>
+<a class="dropdown-item" href="../attistibas-projekti/index.html">Development Projects</a>
+</li>
+<li>
+<a class="dropdown-item" href="../darbs-liepaja/index.html">Jobs in Liepāja</a>
+</li>
+<li>
+<a class="dropdown-item" href="../teritoriju-karte/index.html">Territory Map</a>
+</li>
+</ul></li><li class="nav-item dropdown">
+<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../parvalde/index.html" role="button">
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 
-									Authority
+									Administration
 
 								</a><ul aria-labelledby="navbar" class="dropdown-menu">
 <li>
+<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a class="dropdown-item" href="../governance/index.php">Governance</a>
 </li>
 <li>
@@ -165,12 +234,25 @@
 </li>
 <li class="dropend">
 <a class="dropdown-item dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../activity-reports/index.php">
+=======
+<a class="dropdown-item" href="../parvaldiba/index.html">Governance</a>
+</li>
+<li>
+<a class="dropdown-item" href="../korporativa-parvaldiba/index.html">Corporate Governance</a>
+</li>
+<li>
+<a class="dropdown-item" href="../iepirkumi-un-izsoles/index.html">Procurement and Auctions</a>
+</li>
+<li class="dropend">
+<a class="dropdown-item dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../darbibas-parskati/index.html">
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 
-									Activity reports
+									Activity Reports
 
 								</a>
 <ul class="dropdown-menu">
 <li>
+<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a class="dropdown-item" href="../board-meeting-decisions/index.php">Board meeting decisions</a>
 </li>
 <li>
@@ -182,11 +264,25 @@
 </ul>
 </li></ul></li><li class="nav-item dropdown">
 <a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../news-1/index.php" role="button">
+=======
+<a class="dropdown-item" href="../valdes-sedes-lemumi/index.html">Board Meeting Decisions</a>
+</li>
+<li>
+<a class="dropdown-item active" href="index.html">Performance Reports</a>
+</li>
+<li>
+<a class="dropdown-item" href="../ostas-statistika/index.html">Port Statistics</a>
+</li>
+</ul>
+</li></ul></li><li class="nav-item dropdown">
+<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../jaunumi-1/index.html" role="button">
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 
 									News
 
 								</a><ul aria-labelledby="navbar" class="dropdown-menu">
 <li>
+<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a class="dropdown-item" href="../news/index.php">Press releases</a>
 </li>
 <li>
@@ -205,6 +301,26 @@
 <hr class="dropdown-divider d-block d-lg-none"/>
 <li class="dropdown font-controls mobile d-flex d-lg-none">
 <a aria-expanded="false" aria-label="Font size" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="index.php" id="font-controls2">
+=======
+<a class="dropdown-item" href="../medijiem/index.html">For the Media</a>
+</li>
+<li>
+<a class="dropdown-item" href="../foto/index.html">Photos</a>
+</li>
+<li>
+<a class="dropdown-item" href="../valdes-sedes/index.html">Board Meetings</a>
+</li>
+</ul></li>
+<li class="nav-item">
+<a class="nav-link" href="../dokumenti/index.html">Documents</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="../kontakti/index.html">Contacts</a>
+</li>
+<hr class="dropdown-divider d-block d-lg-none"/>
+<li class="dropdown font-controls mobile d-flex d-lg-none">
+<a aria-expanded="false" aria-label="Text size" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="index.html" id="font-controls2">
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 <span>A</span>
 <span>A</span>
 <span>A</span>
@@ -235,10 +351,14 @@
 <main class="pb-5">
 <div class="container pt-3">
 <div class="documents" data-block="434" data-ids="42,49,48,47,46,45,44,43,59,64,67">
-<div class="row">
+<div class="row"><h1 class="block-title mt-5 d-block d-lg-none">Performance Reports<span></span></h1>
 <div class="col-12 col-lg-3 mt-5 sidebar-nav ps-0">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../governance/index.php">
+=======
+<a aria-label="Title" class="sidebar-nav-icon" href="../parvaldiba/index.html">
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Governance
@@ -246,18 +366,26 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../corporate-governance/index.php">
+=======
+<a aria-label="Title" class="sidebar-nav-icon" href="../korporativa-parvaldiba/index.html">
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Corporate governance
+							Corporate Governance
 
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../public-procurement/index.php">
+=======
+<a aria-label="Title" class="sidebar-nav-icon" href="../iepirkumi-un-izsoles/index.html">
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Procurement and auctions
+							Procurement and Auctions
 
 						</a>
 </div>
@@ -265,39 +393,227 @@
 <a class="sidebar-nav-icon inactive mb-4" href="">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Activity reports
+							Activity Reports
 
 						</a>
 <div class="sidebar-nested ps-md-4">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../board-meeting-decisions/index.php">
+=======
+<a aria-label="Title" class="sidebar-nav-icon" href="../valdes-sedes-lemumi/index.html">
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Board meeting decisions
+							Board Meeting Decisions
 
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a aria-label="nosaukums" class="active sidebar-nav-icon" href="index.php">
+=======
+<a aria-label="Title" class="active sidebar-nav-icon" href="index.html">
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Activity reports
+							Performance Reports
 
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../port-statistics/index.php">
+=======
+<a aria-label="Title" class="sidebar-nav-icon" href="../ostas-statistika/index.html">
+>>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Port statistics
+							Port Statistics
 
 						</a>
 </div>
 </div>
 </div>
 </div>
-<div class="col-12 col-lg-9">
+<div class="col-12 col-lg-9"><h1 class="block-title my-5 d-none d-lg-block">Performance Reports<span></span></h1>
 <div class="documents-list">
+<div class="document-single my-4">
+<div class="document-info">
+<div class="date">14 July 2026</div>
+<div class="category">2026</div>
+<a aria-label="Document" href="../../doc/mod/document/393/1788854150_Operatīvie_finanšu_rādītāji_30.06.2026_.pdf" target="_blank">
+
+							Operational Financial Indicators of the Liepāja SEZ Authority for the Period Ending 30.06.2026
+
+						</a>
+<div class="mt-2"></div>
+</div>
+<a aria-label="1788854150_Operatīvie_finanšu_rādītāji_30.06.2026_.pdf" class="document" href="../../doc/mod/document/393/1788854150_Operatīvie_finanšu_rādītāji_30.06.2026_.pdf" target="_blank">
+<i class="bi bi-file-earmark-pdf"></i>
+</a>
+</div>
+<hr/>
+<div class="document-single my-4">
+<div class="document-info">
+<div class="date">6 April 2026</div>
+<div class="category">2026</div>
+<a aria-label="Document" href="../../doc/mod/document/363/1782482634_2026.03.31._LSEZ_finansu_parskats Copy.pdf" target="_blank">
+
+							Operational Financial Indicators of the Liepāja SEZ Authority for the Period Ending 31.03.2026
+
+						</a>
+<div class="mt-2"></div>
+</div>
+<a aria-label="1782482634_2026.03.31._LSEZ_finansu_parskats Copy.pdf" class="document" href="../../doc/mod/document/363/1782482634_2026.03.31._LSEZ_finansu_parskats Copy.pdf" target="_blank">
+<i class="bi bi-file-earmark-pdf"></i>
+</a>
+</div>
+<hr/>
+<div class="document-single my-4">
+<div class="document-info">
+<div class="date">6 January 2026</div>
+<div class="category">2025</div>
+<a aria-label="Document" href="../../doc/mod/document/362/1780474051_Operativie_finansu_dati_31_12_2025_b.pdf" target="_blank">
+
+							Operational Financial Indicators of the Liepāja SEZ Authority for the Period Ending 31.12.2025
+
+						</a>
+<div class="mt-2"></div>
+</div>
+<a aria-label="1780474051_Operativie_finansu_dati_31_12_2025_b.pdf" class="document" href="../../doc/mod/document/362/1780474051_Operativie_finansu_dati_31_12_2025_b.pdf" target="_blank">
+<i class="bi bi-file-earmark-pdf"></i>
+</a>
+</div>
+<hr/>
+<div class="document-single my-4">
+<div class="document-info">
+<div class="date">7 November 2025</div>
+<div class="category">2025</div>
+<a aria-label="Document" href="../../doc/mod/document/331/1762508330_Operatīvie_finanšu_dati_30.09.2025_web.pdf" target="_blank">
+
+							Operational Financial Indicators of the Liepāja SEZ Authority for the Period Ending 30.09.2025
+
+						</a>
+<div class="mt-2"></div>
+</div>
+<a aria-label="1762508330_Operatīvie_finanšu_dati_30.09.2025_web.pdf" class="document" href="../../doc/mod/document/331/1762508330_Operatīvie_finanšu_dati_30.09.2025_web.pdf" target="_blank">
+<i class="bi bi-file-earmark-pdf"></i>
+</a>
+</div>
+<hr/>
+<div class="document-single my-4">
+<div class="document-info">
+<div class="date">7 August 2025</div>
+<div class="category">2025</div>
+<a aria-label="Document" href="../../doc/mod/document/304/1755508286_2025.06.30._LSEZ_finansu_parskats.pdf" target="_blank">
+
+							Operational Financial Indicators of the Liepāja SEZ Authority for the Period Ending 30.06.2025
+
+						</a>
+<div class="mt-2"></div>
+</div>
+<a aria-label="1755508286_2025.06.30._LSEZ_finansu_parskats.pdf" class="document" href="../../doc/mod/document/304/1755508286_2025.06.30._LSEZ_finansu_parskats.pdf" target="_blank">
+<i class="bi bi-file-earmark-pdf"></i>
+</a>
+</div>
+<hr/>
+<div class="document-single my-4">
+<div class="document-info">
+<div class="date">30 June 2025</div>
+<div class="category">2024</div>
+<a aria-label="Document" href="../../doc/mod/document/305/1754545705_Liepājas_SEZ_gada_parskats_2024_revidents_kapitalsabiedribas.pdf" target="_blank">
+
+							Liepāja SEZ Authority Annual Report 2024
+
+						</a>
+<div class="mt-2"></div>
+</div>
+<a aria-label="1754545705_Liepājas_SEZ_gada_parskats_2024_revidents_kapitalsabiedribas.pdf" class="document" href="../../doc/mod/document/305/1754545705_Liepājas_SEZ_gada_parskats_2024_revidents_kapitalsabiedribas.pdf" target="_blank">
+<i class="bi bi-file-earmark-pdf"></i>
+</a>
+</div>
+<hr/>
+<div class="document-single my-4">
+<div class="document-info">
+<div class="date">7 April 2025</div>
+<div class="category">2025</div>
+<a aria-label="Document" href="../../doc/mod/document/276/1751449638_2025.03.31._LSEZ_finansu_parskats.pdf" target="_blank">
+
+							Operational Financial Indicators of the Liepāja SEZ Authority for the Period Ending 31.03.2025
+
+						</a>
+<div class="mt-2"></div>
+</div>
+<a aria-label="1751449638_2025.03.31._LSEZ_finansu_parskats.pdf" class="document" href="../../doc/mod/document/276/1751449638_2025.03.31._LSEZ_finansu_parskats.pdf" target="_blank">
+<i class="bi bi-file-earmark-pdf"></i>
+</a>
+</div>
+<hr/>
+<div class="document-single my-4">
+<div class="document-info">
+<div class="date">23 July 2024</div>
+<div class="category">2023</div>
+<a aria-label="Document" href="../../doc/mod/document/235/1730710351_LSEZ_2023_GADA_PARSKATS_plus_kapitalsabiedribas.pdf" target="_blank">
+
+							Liepāja SEZ Authority Annual Report 2023
+
+						</a>
+<div class="mt-2"></div>
+</div>
+<a aria-label="1730710351_LSEZ_2023_GADA_PARSKATS_plus_kapitalsabiedribas.pdf" class="document" href="../../doc/mod/document/235/1730710351_LSEZ_2023_GADA_PARSKATS_plus_kapitalsabiedribas.pdf" target="_blank">
+<i class="bi bi-file-earmark-pdf"></i>
+</a>
+</div>
+<hr/>
+<div class="document-single my-4">
+<div class="document-info">
+<div class="date">30 December 2022</div>
+<div class="category">2022</div>
+<a aria-label="Document" href="../../doc/mod/document/161/1716185503_LSEZ_2022_GADA_PARSKATS_plus_kapitalsabiedribas.pdf" target="_blank">
+
+							Liepāja SEZ Authority Annual Report 2022
+
+						</a>
+<div class="mt-2"></div>
+</div>
+<a aria-label="1716185503_LSEZ_2022_GADA_PARSKATS_plus_kapitalsabiedribas.pdf" class="document" href="../../doc/mod/document/161/1716185503_LSEZ_2022_GADA_PARSKATS_plus_kapitalsabiedribas.pdf" target="_blank">
+<i class="bi bi-file-earmark-pdf"></i>
+</a>
+</div>
+<hr/>
+<div class="document-single my-4">
+<div class="document-info">
+<div class="date">1 January 2022</div>
+<div class="category">2021</div>
+<a aria-label="Document" href="../../doc/mod/document/170/1707311666_liepājas_sez_pārvaldes_2021.gada_pārskats..pdf" target="_blank">
+
+							Liepāja SEZ Authority Annual Report 2021
+
+						</a>
+<div class="mt-2"></div>
+</div>
+<a aria-label="1707311666_liepājas_sez_pārvaldes_2021.gada_pārskats..pdf" class="document" href="../../doc/mod/document/170/1707311666_liepājas_sez_pārvaldes_2021.gada_pārskats..pdf" target="_blank">
+<i class="bi bi-file-earmark-pdf"></i>
+</a>
+</div>
+<hr/>
+<div class="document-single my-4">
+<div class="document-info">
+<div class="date">31 December 2020</div>
+<div class="category">2020</div>
+<a aria-label="Document" href="../../doc/mod/document/171/1707311823_liepājas_sez_pārvaldes_2020._gada_pārskats.pdf" target="_blank">
+
+							Liepāja SEZ Authority Annual Report 2020
+
+						</a>
+<div class="mt-2"></div>
+</div>
+<a aria-label="1707311823_liepājas_sez_pārvaldes_2020._gada_pārskats.pdf" class="document" href="../../doc/mod/document/171/1707311823_liepājas_sez_pārvaldes_2020._gada_pārskats.pdf" target="_blank">
+<i class="bi bi-file-earmark-pdf"></i>
+</a>
+</div>
+<hr/>
 <div class="col-12 paginator mt-5">
 <div class="prev">
 </div>
@@ -326,7 +642,7 @@
 <img alt="logo" class="img-fluid" src="../../img/logo-white.svg" width="100"/>
 </div>
 <div class="col-12 col-md-8 col-lg-5 mb-3 reqs">
-<p>Liepaja Special Economic Zone<br/>Authority<br/>Fēniksa street 4, Liepāja,<br/>LV-3401, Latvia<br/><br/>Phone: <a href="tel:+37163427605">+371 63427605</a><br/>E-mail: <a href="mailto:lsez@lsez.lv">lsez@lsez.lv</a></p> </div>
+<p>Liepāja Special Economic Zone Authority<br/>4 Fēniksa Street, Liepāja,<br/>LV-3401, Latvia<br/><br/>Phone: <a href="tel:+37163427605">+371 63427605</a><br/>Email: <a href="mailto:lsez@lsez.lv">lsez@lsez.lv</a></p> </div>
 <div class="col-12 col-md-4 col-lg-4">
 <div class="row pt-3k">
 <div class="col socials d-flex justify-content-start">
