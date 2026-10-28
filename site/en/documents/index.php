@@ -301,7 +301,7 @@
 <div class="mb-5">
 <label class="form-label" for="document_category84">Expanded Search</label>
 <select aria-label="Document category" class="document_category form-select" id="document_category84" style="background-image: url(https://liepaja-sez.lv/img/down.svg)">
-<option selected="" value=""></option>
+<option selected="" value="">All Documents</option>
 <option disabled="" value="/site/en/documents/12/index.php">Documents of Liepaja SEZ</option>
 <option value="/site/en/documents/13/index.php">    Terms and Conditions</option>
 <option value="/site/en/documents/14/index.php">    The development plan</option>
