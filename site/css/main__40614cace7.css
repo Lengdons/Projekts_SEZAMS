@@ -1069,3 +1069,8 @@ html.black .blur-load img {
     opacity: 1 !important;
     visibility: visible !important;
 }
+
+
+a.sidebar-nav-icon.active img {
+    content: url("../img/round-right-blue-active.svg"); 
+}
