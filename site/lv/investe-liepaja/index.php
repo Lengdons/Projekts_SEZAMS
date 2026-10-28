@@ -239,7 +239,7 @@
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
 <a aria-label="nosaukums" class="active sidebar-nav-icon" href="index.php">
-<img alt="Category" src="../../img/round-right-blue.svg"/>
+<img alt="Category" src="../../img/round-right-blue-active.svg"/>
 
 							Investē Liepājā
 
