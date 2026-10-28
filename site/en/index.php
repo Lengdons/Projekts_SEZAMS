@@ -257,7 +257,7 @@
 <li class="glide__slide jarallax-banner d-flex" style='background-image:url("https://liepaja-sez.lv/img/block/banner/26/1709034907_49680714076_5b364a2426_k.webp")'>
 <span class="filler"></span>
 <div class="container d-flex z-2">
-<div class="content"><h5 class="animate__animated animate__fadeInUp">Liepaja Special Economic Zone</h5><p class="animate__animated animate__fadeInUp">Airport</p><a aria-label="Find out more" class="animate__animated animate__fadeInUp" href="../lv/lidosta/index.php" target="">Find out more</a>
+<div class="content"><h5 class="animate__animated animate__fadeInUp">Liepaja Special Economic Zone</h5><p class="animate__animated animate__fadeInUp">Airport</p><a aria-label="Find out more" class="animate__animated animate__fadeInUp" href="https://liepaja-airport.lv/en" target="">Find out more</a>
 </div>
 </div>
 </li> </ul>
