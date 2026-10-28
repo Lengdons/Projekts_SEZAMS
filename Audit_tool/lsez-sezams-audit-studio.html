@@ -2095,7 +2095,9 @@ class AuditStudioApp {
           const hrefMatch = line.match(/<a\s+[^>]*href=["']([^"']*)["']/i);
           if (hrefMatch) {
             const href = hrefMatch[1].trim();
-            if (href === "#" || href === "" || href.toLowerCase().startsWith("javascript:")) {
+            const isBootstrapTrigger = /data-bs-toggle|data-toggle|role=["']button["']/i.test(line);
+
+            if (href === "" || ((href === "#" || href.toLowerCase().startsWith("javascript:")) && !isBootstrapTrigger)) {
               defectMap["DEFECT-001"].push({
                 filePath: f.displayPath,
                 role: "HTML Template — Dead / Placeholder Link",
@@ -2105,6 +2107,18 @@ class AuditStudioApp {
                 reason: `Anchor tag uses placeholder href="${href}" instead of a valid route in Projekts_SEZAMS.`,
                 reason_lv: `Saite izmanto vietturi href="${href}" derīga Projekts_SEZAMS faila ceļa vietā.`,
                 relatedArtifact: "COMP-001, PAGE-001",
+                confidence: "CONFIRMED"
+              });
+            } else if (href.startsWith("//")) {
+              defectMap["DEFECT-001"].push({
+                filePath: f.displayPath,
+                role: "HTML Template — Protocol-Relative External URL",
+                role_lv: "HTML veidne — Bezprotokola ārējais URL (//)",
+                codeSection: line.trim().slice(0, 110),
+                lineRange: `${lineNum}`,
+                reason: `External link href="${href}" is missing "https:" and breaks when opened locally via file://.`,
+                reason_lv: `Ārējai saitei href="${href}" trūkst "https:" protokola, tāpēc tā nedarbojas lokālā file:// vidē.`,
+                relatedArtifact: "PAGE-001",
                 confidence: "CONFIRMED"
               });
             } else if (!/^(https?:|mailto:|tel:)/i.test(href) && !href.startsWith("#")) {
