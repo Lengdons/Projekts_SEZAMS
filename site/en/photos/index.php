@@ -246,10 +246,18 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="active sidebar-nav-icon" href="index.php">
+<a aria-label="nosaukums" class="active sidebar-nav-icon" href="../photos/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Photos
+
+						</a>
+</div>
+<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="../board-meetings/index.php">
+<img alt="Category" src="../../img/round-right-blue.svg"/>
+
+							Board Meetings
 
 						</a>
 </div>

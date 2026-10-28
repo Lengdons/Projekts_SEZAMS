@@ -69,11 +69,7 @@
 <ul class="controls d-none d-lg-block">
 <li class="search-controls search-btn" id=""><i class="bi bi-search"></i></li>
 <li class="dropdown font-controls">
-<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a aria-expanded="false" aria-label="Font size" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="index.php" id="font-controls1">
-=======
-<a aria-expanded="false" aria-label="Text size" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="index.html" id="font-controls1">
->>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 <span>A</span>
 <span>A</span>
 <span>A</span>
@@ -125,38 +121,24 @@
 <div class="collapse navbar-collapse" id="navbar">
 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
 <li class="nav-item">
-<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a class="nav-link" href="../index.php">Home</a>
 </li><li class="nav-item dropdown">
 <a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../liepaja-sez/index.php" role="button">
-=======
-<a class="nav-link" href="../../index.html">Home</a>
-</li><li class="nav-item dropdown">
-<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../liepajas-sez/index.html" role="button">
->>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 
 									Liepāja SEZ
 
 								</a><ul aria-labelledby="navbar" class="dropdown-menu">
 <li>
-<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a class="dropdown-item" href="../invest-in-liepaja/index.php">Invest in Liepaja</a>
 </li>
 <li class="dropend">
 <a class="dropdown-item dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../port/index.php">
-=======
-<a class="dropdown-item" href="../investe-liepaja/index.html">Invest in Liepāja</a>
-</li>
-<li class="dropend">
-<a class="dropdown-item dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../osta/index.html">
->>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 
 									Port
 
 								</a>
 <ul class="dropdown-menu">
 <li>
-<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a class="dropdown-item" href="../about-port/index.php">About Port</a>
 </li>
 <li>
@@ -170,26 +152,10 @@
 </li>
 <li>
 <a class="dropdown-item" href="../oskars-kalpaks-bridge/index.php">Oskars Kalpaks bridge</a>
-=======
-<a class="dropdown-item" href="../par-ostu/index.html">About the Port</a>
-</li>
-<li>
-<a class="dropdown-item" href="../pramju-satiksme/index.html">Ferry Traffic</a>
-</li>
-<li>
-<a class="dropdown-item" href="../kruiza-kugi/index.html">Cruise Ships</a>
-</li>
-<li>
-<a class="dropdown-item" href="../jahtu-osta/index.html">Marina</a>
-</li>
-<li>
-<a class="dropdown-item" href="../oskara-kalpaka-tilts/index.html">Oskars Kalpaks Bridge</a>
->>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 </li>
 </ul>
 </li>
 <li>
-<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a class="dropdown-item" href="../lsez-commercial-companies/index.php">Commercial Companies</a>
 </li>
 <li>
@@ -203,27 +169,11 @@
 </li>
 </ul></li><li class="nav-item dropdown">
 <a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../authority/index.php" role="button">
-=======
-<a class="dropdown-item" href="../kapitalsabiedribas/index.html">Capital Companies</a>
-</li>
-<li>
-<a class="dropdown-item" href="../attistibas-projekti/index.html">Development Projects</a>
-</li>
-<li>
-<a class="dropdown-item" href="../darbs-liepaja/index.html">Jobs in Liepāja</a>
-</li>
-<li>
-<a class="dropdown-item" href="../teritoriju-karte/index.html">Territory Map</a>
-</li>
-</ul></li><li class="nav-item dropdown">
-<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../parvalde/index.html" role="button">
->>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 
 									Administration
 
 								</a><ul aria-labelledby="navbar" class="dropdown-menu">
 <li>
-<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a class="dropdown-item" href="../governance/index.php">Governance</a>
 </li>
 <li>
@@ -234,25 +184,12 @@
 </li>
 <li class="dropend">
 <a class="dropdown-item dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../activity-reports/index.php">
-=======
-<a class="dropdown-item" href="../parvaldiba/index.html">Governance</a>
-</li>
-<li>
-<a class="dropdown-item" href="../korporativa-parvaldiba/index.html">Corporate Governance</a>
-</li>
-<li>
-<a class="dropdown-item" href="../iepirkumi-un-izsoles/index.html">Procurement and Auctions</a>
-</li>
-<li class="dropend">
-<a class="dropdown-item dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../darbibas-parskati/index.html">
->>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 
 									Activity Reports
 
 								</a>
 <ul class="dropdown-menu">
 <li>
-<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a class="dropdown-item" href="../board-meeting-decisions/index.php">Board meeting decisions</a>
 </li>
 <li>
@@ -264,25 +201,11 @@
 </ul>
 </li></ul></li><li class="nav-item dropdown">
 <a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../news-1/index.php" role="button">
-=======
-<a class="dropdown-item" href="../valdes-sedes-lemumi/index.html">Board Meeting Decisions</a>
-</li>
-<li>
-<a class="dropdown-item active" href="index.html">Performance Reports</a>
-</li>
-<li>
-<a class="dropdown-item" href="../ostas-statistika/index.html">Port Statistics</a>
-</li>
-</ul>
-</li></ul></li><li class="nav-item dropdown">
-<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../jaunumi-1/index.html" role="button">
->>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 
 									News
 
 								</a><ul aria-labelledby="navbar" class="dropdown-menu">
 <li>
-<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a class="dropdown-item" href="../news/index.php">Press releases</a>
 </li>
 <li>
@@ -301,26 +224,6 @@
 <hr class="dropdown-divider d-block d-lg-none"/>
 <li class="dropdown font-controls mobile d-flex d-lg-none">
 <a aria-expanded="false" aria-label="Font size" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="index.php" id="font-controls2">
-=======
-<a class="dropdown-item" href="../medijiem/index.html">For the Media</a>
-</li>
-<li>
-<a class="dropdown-item" href="../foto/index.html">Photos</a>
-</li>
-<li>
-<a class="dropdown-item" href="../valdes-sedes/index.html">Board Meetings</a>
-</li>
-</ul></li>
-<li class="nav-item">
-<a class="nav-link" href="../dokumenti/index.html">Documents</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="../kontakti/index.html">Contacts</a>
-</li>
-<hr class="dropdown-divider d-block d-lg-none"/>
-<li class="dropdown font-controls mobile d-flex d-lg-none">
-<a aria-expanded="false" aria-label="Text size" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="index.html" id="font-controls2">
->>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 <span>A</span>
 <span>A</span>
 <span>A</span>
@@ -354,11 +257,7 @@
 <div class="row"><h1 class="block-title mt-5 d-block d-lg-none">Performance Reports<span></span></h1>
 <div class="col-12 col-lg-3 mt-5 sidebar-nav ps-0">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../governance/index.php">
-=======
-<a aria-label="Title" class="sidebar-nav-icon" href="../parvaldiba/index.html">
->>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Governance
@@ -366,11 +265,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../corporate-governance/index.php">
-=======
-<a aria-label="Title" class="sidebar-nav-icon" href="../korporativa-parvaldiba/index.html">
->>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Corporate Governance
@@ -378,11 +273,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../public-procurement/index.php">
-=======
-<a aria-label="Title" class="sidebar-nav-icon" href="../iepirkumi-un-izsoles/index.html">
->>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Procurement and Auctions
@@ -398,11 +289,7 @@
 						</a>
 <div class="sidebar-nested ps-md-4">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../board-meeting-decisions/index.php">
-=======
-<a aria-label="Title" class="sidebar-nav-icon" href="../valdes-sedes-lemumi/index.html">
->>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Board Meeting Decisions
@@ -410,11 +297,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a aria-label="nosaukums" class="active sidebar-nav-icon" href="index.php">
-=======
-<a aria-label="Title" class="active sidebar-nav-icon" href="index.html">
->>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Performance Reports
@@ -422,11 +305,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<<<<<<< HEAD:site/en/activity-reports-1/index.php
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../port-statistics/index.php">
-=======
-<a aria-label="Title" class="sidebar-nav-icon" href="../ostas-statistika/index.html">
->>>>>>> b1bc8a8d19280d01c7c134b5e6aa71bb26d3e62d:site/en/activity-reports-1/index.html
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Port Statistics

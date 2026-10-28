@@ -155,7 +155,7 @@
 
 								</a><ul aria-labelledby="navbar" class="dropdown-menu">
 <li>
-<a class="dropdown-item" href="../../../parvaldiba/index.php">Governance</a>
+<a class="dropdown-item" href="../../../governance/index.php">Governance</a>
 </li>
 <li>
 <a class="dropdown-item" href="../../../korporativa-parvaldiba/index.php">Corporate Governance</a>
