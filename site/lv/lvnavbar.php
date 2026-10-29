@@ -1,3 +1,17 @@
+<?php require_once __DIR__ . '/../language.php'; ?>
+<div class="block" id="search-overlay">
+<div class="centered">
+<div id="search-box">
+<div class="fa fa-times fa-2x" id="close-btn">X</div>
+<form action="#" id="search-form" method="get" target="_top">
+<input id="search-text" name="q" placeholder="Es meklēju..." type="text"/>
+<button id="search-button" type="submit">
+<span>Meklēt</span>
+</button>
+</form>
+</div>
+</div>
+</div>
 <nav class="navbar navbar-expand-lg navbar-light bg-light b-2 fixed-top color-border">
 <div class="container align-items-end position-relative nav-container">
 <ul class="controls d-none d-lg-block">
@@ -27,15 +41,15 @@
 </ul>
 </li>
 <li class="dropdown language-controls">
-<a aria-expanded="false" aria-label="Valodas izvēle" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="" id="language-controls1">
+<a aria-expanded="false" aria-label="Valodas izvēle" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" id="language-controls1">
 
 										lv
 
-									</a><ul aria-labelledby="language-controls1" class="dropdown-menu text-center"><li><a class="dropdown-item" href="en/index.php">en</a></li></ul> </li>
+									</a><ul aria-labelledby="language-controls1" class="dropdown-menu text-center"><li><a class="dropdown-item" href="<?= htmlspecialchars($enLink) ?>">en</a></li></ul> </li>
 </ul>
 <div class="brand-container">
-<a class="navbar-brand" href="index.php">
-<img alt="logo" class="site-logo" src="img/logo.svg" width="100"/>
+<a class="navbar-brand" href="/site/index.php">
+<img alt="logo" class="site-logo" src="/site/img/logo.svg" width="100"/>
 </a>
 </div>
 <div class="mobile-controls">
@@ -46,7 +60,7 @@
 
 											lv
 
-										</a><ul aria-labelledby="language-controls2" class="dropdown-menu text-center"><li><a class="dropdown-item" href="en/index.php">en</a></li></ul> </li>
+										</a><ul aria-labelledby="language-controls2" class="dropdown-menu text-center"><li><a class="dropdown-item" href="<?= htmlspecialchars($enLink) ?>">en</a></li></ul> </li>
 </ul>
 <button aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler nocontrast" data-bs-target="#navbar" data-bs-toggle="collapse" type="button">
 <span class="navbar-toggler-icon"></span>
