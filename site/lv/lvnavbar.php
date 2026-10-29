@@ -71,103 +71,103 @@
 <li class="nav-item">
 <a class="nav-link active" href="index.php">Sākums</a>
 </li><li class="nav-item dropdown">
-<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="lv/liepajas-sez/index.php" role="button">
+<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="/site/lv/liepajas-sez/index.php" role="button">
 
 									Liepājas SEZ
 
 								</a><ul aria-labelledby="navbar" class="dropdown-menu">
 <li>
-<a class="dropdown-item" href="lv/investe-liepaja/index.php">Investē Liepājā</a>
+<a class="dropdown-item" href="/site/lv/investe-liepaja/index.php">Investē Liepājā</a>
 </li>
 <li class="dropend">
-<a class="dropdown-item dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="lv/osta/index.php">
+<a class="dropdown-item dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="/site/lv/osta/index.php">
 
 									Osta
 
 								</a>
 <ul class="dropdown-menu">
 <li>
-<a class="dropdown-item" href="lv/par-ostu/index.php">Par ostu</a>
+<a class="dropdown-item" href="/site/lv/par-ostu/index.php">Par ostu</a>
 </li>
 <li>
-<a class="dropdown-item" href="lv/pramju-satiksme/index.php">Prāmju satiksme</a>
+<a class="dropdown-item" href="/site/lv/pramju-satiksme/index.php">Prāmju satiksme</a>
 </li>
 <li>
-<a class="dropdown-item" href="lv/kruiza-kugi/index.php">Kruīza kuģi</a>
+<a class="dropdown-item" href="/site/lv/kruiza-kugi/index.php">Kruīza kuģi</a>
 </li>
 <li>
-<a class="dropdown-item" href="lv/jahtu-osta/index.php">Jahtu osta</a>
+<a class="dropdown-item" href="/site/lv/jahtu-osta/index.php">Jahtu osta</a>
 </li>
 <li>
-<a class="dropdown-item" href="lv/oskara-kalpaka-tilts/index.php">Oskara Kalpaka tilts</a>
+<a class="dropdown-item" href="/site/lv/oskara-kalpaka-tilts/index.php">Oskara Kalpaka tilts</a>
 </li>
 </ul>
 </li>
 <li>
-<a class="dropdown-item" href="lv/kapitalsabiedribas/index.php">Kapitālsabiedrības</a>
+<a class="dropdown-item" href="/site/lv/kapitalsabiedribas/index.php">Kapitālsabiedrības</a>
 </li>
 <li>
-<a class="dropdown-item" href="lv/attistibas-projekti/index.php">Attīstības projekti</a>
+<a class="dropdown-item" href="/site/lv/attistibas-projekti/index.php">Attīstības projekti</a>
 </li>
 <li>
-<a class="dropdown-item" href="lv/darbs-liepaja/index.php">Darbs Liepājā</a>
+<a class="dropdown-item" href="/site/lv/darbs-liepaja/index.php">Darbs Liepājā</a>
 </li>
 <li>
-<a class="dropdown-item" href="lv/teritoriju-karte/index.php">Teritoriju karte</a>
+<a class="dropdown-item" href="/site/lv/teritoriju-karte/index.php">Teritoriju karte</a>
 </li>
 </ul></li><li class="nav-item dropdown">
-<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="lv/parvalde/index.php" role="button">
+<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="/site/lv/parvalde/index.php" role="button">
 
 									Pārvalde
 
 								</a><ul aria-labelledby="navbar" class="dropdown-menu">
 <li>
-<a class="dropdown-item" href="lv/parvaldiba/index.php">Pārvaldība</a>
+<a class="dropdown-item" href="/site/lv/parvaldiba/index.php">Pārvaldība</a>
 </li>
 <li>
-<a class="dropdown-item" href="lv/korporativa-parvaldiba/index.php">Korporatīvā pārvaldība</a>
+<a class="dropdown-item" href="/site/lv/korporativa-parvaldiba/index.php">Korporatīvā pārvaldība</a>
 </li>
 <li>
-<a class="dropdown-item" href="lv/iepirkumi-un-izsoles/index.php">Iepirkumi un izsoles</a>
+<a class="dropdown-item" href="/site/lv/iepirkumi-un-izsoles/index.php">Iepirkumi un izsoles</a>
 </li>
 <li class="dropend">
-<a class="dropdown-item dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="lv/darbibas-parskati/index.php">
+<a class="dropdown-item dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="/site/lv/darbibas-parskati/index.php">
 
 									Darbības pārskati
 
 								</a>
 <ul class="dropdown-menu">
 <li>
-<a class="dropdown-item" href="lv/valdes-sedes-lemumi/index.php">Valdes sēdes lēmumi</a>
+<a class="dropdown-item" href="/site/lv/valdes-sedes-lemumi/index.php">Valdes sēdes lēmumi</a>
 </li>
 <li>
-<a class="dropdown-item" href="lv/atskaites-par-darbibu/index.php">Atskaites par darbību</a>
+<a class="dropdown-item" href="/site/lv/atskaites-par-darbibu/index.php">Atskaites par darbību</a>
 </li>
 <li>
-<a class="dropdown-item" href="lv/ostas-statistika/index.php">Ostas statistika</a>
+<a class="dropdown-item" href="/site/lv/ostas-statistika/index.php">Ostas statistika</a>
 </li>
 </ul>
 </li></ul></li><li class="nav-item dropdown">
-<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="lv/jaunumi-1/index.php" role="button">
+<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="/site/lv/jaunumi-1/index.php" role="button">
 
 									Jaunumi
 
 								</a><ul aria-labelledby="navbar" class="dropdown-menu">
 <li>
-<a class="dropdown-item" href="lv/medijiem/index.php">Medijiem</a>
+<a class="dropdown-item" href="/site/lv/medijiem/index.php">Medijiem</a>
 </li>
 <li>
-<a class="dropdown-item" href="lv/foto/index.php">Foto</a>
+<a class="dropdown-item" href="/site/lv/foto/index.php">Foto</a>
 </li>
 <li>
-<a class="dropdown-item" href="lv/valdes-sedes/index.php">Valdes sēdes</a>
+<a class="dropdown-item" href="/site/lv/valdes-sedes/index.php">Valdes sēdes</a>
 </li>
 </ul></li>
 <li class="nav-item">
-<a class="nav-link" href="lv/dokumenti/index.php">Dokumenti</a>
+<a class="nav-link" href="/site/lv/dokumenti/index.php">Dokumenti</a>
 </li>
 <li class="nav-item">
-<a class="nav-link" href="lv/kontakti/index.php">Kontakti</a>
+<a class="nav-link" href="/site/lv/kontakti/index.php">Kontakti</a>
 </li>
 <hr class="dropdown-divider d-block d-lg-none"/>
 <li class="dropdown font-controls mobile d-flex d-lg-none">

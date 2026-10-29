@@ -32,7 +32,7 @@
 <script>var lang="en";</script>
 </head>
 <body>
-
+<?php include __DIR__ . '/ennavbar.php'; ?>
 <div class="spacer"></div>
 <main class="pb-5">
 <div class="nocontrast glide z mb-5">
