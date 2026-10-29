@@ -1,0 +1,375 @@
+ <!DOCTYPE html>
+
+<html lang="lv">
+<head>
+<!-- Required meta tags -->
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<link href="../../favicon.ico" rel="icon" type="image/x-icon"/>
+<meta content="follow, index" name="robots"/><meta content="website" property="og:type"/>
+<meta content="https://liepaja-sez.lv/lv/jahtu-osta" property="og:url"/>
+<meta content="Sākums" property="og:title"/>
+<meta content="Liepājas SEZ" property="og:site_name"/>
+<meta content="@liepajaSEZ" name="twitter:site"/>
+<meta content="@liepajaSEZ" name="twitter:creator"/>
+<title>Sākums » SEZ</title>
+<link href="../../css/jarallax.min.css" rel="stylesheet"/>
+<link href="../../css/bootstrap.min.css" rel="stylesheet"/>
+<link href="../../css/main__40614cace7.css" rel="stylesheet"/>
+<link href="../../css/block/banner/animate.min.css" rel="stylesheet" type="text/css"/><link href="../../css/block/banner/glide.core.min.css" rel="stylesheet" type="text/css"/><link href="../../css/block/banner/glide.theme.min.css" rel="stylesheet" type="text/css"/><link href="../../css/block/banner/main__8f5730ec2e.css" rel="stylesheet" type="text/css"/><link href="../../css/block/text/main__f67bbdbffc.css" rel="stylesheet" type="text/css"/><link href="../../css/block/columns/main__7252a74784.css" rel="stylesheet" type="text/css"/><link href="../../css/block/accordion/main__1d365e2dc4.css" rel="stylesheet" type="text/css"/><link href="../../css/block/contactform/main__1d365e2dc4.css" rel="stylesheet" type="text/css"/> <link href="../../cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
+<script>
+
+				const html = document.querySelector("html");
+
+				if(localStorage['contrast']){
+
+					html.classList.add(localStorage['contrast']);
+
+				}
+
+			</script>
+<script>var web_url="https://liepaja-sez.lv/";</script>
+<script>var lang="lv";</script>
+</head>
+<body>
+<?php include __DIR__ . '/../lvnavbar.php'; ?>
+<div class="spacer"></div>
+<main class="pb-5">
+<div class="container pt-3">
+<div class="row">
+<div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
+<div class="row">
+<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="../investe-liepaja/index.php">
+<img alt="Category" src="../../img/round-right-blue.svg"/>
+
+							Investē Liepājā
+
+						</a>
+</div>
+<div class="col-6 col-sm-4 col-md-12 mb-4 sidebar-parent ps-0">
+<a class="sidebar-nav-icon inactive mb-4" href="">
+<img alt="Category" src="../../img/round-right-blue.svg"/>
+
+							Osta
+
+						</a>
+<div class="sidebar-nested ps-md-4">
+<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="../par-ostu/index.php">
+<img alt="Category" src="../../img/round-right-blue.svg"/>
+
+							Par ostu
+
+						</a>
+</div>
+<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="../pramju-satiksme/index.php">
+<img alt="Category" src="../../img/round-right-blue.svg"/>
+
+							Prāmju satiksme
+
+						</a>
+</div>
+<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="../kruiza-kugi/index.php">
+<img alt="Category" src="../../img/round-right-blue.svg"/>
+
+							Kruīza kuģi
+
+						</a>
+</div>
+<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<a aria-label="nosaukums" class="active sidebar-nav-icon" href="index.php">
+<img alt="Category" src="../../img/round-right-blue.svg"/>
+
+							Jahtu osta
+
+						</a>
+</div>
+<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="../oskara-kalpaka-tilts/index.php">
+<img alt="Category" src="../../img/round-right-blue.svg"/>
+
+							Oskara Kalpaka tilts
+
+						</a>
+</div>
+</div>
+</div>
+<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="../kapitalsabiedribas/index.php">
+<img alt="Category" src="../../img/round-right-blue.svg"/>
+
+							Kapitālsabiedrības
+
+						</a>
+</div>
+<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="../attistibas-projekti/index.php">
+<img alt="Category" src="../../img/round-right-blue.svg"/>
+
+							Attīstības projekti
+
+						</a>
+</div>
+<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="../darbs-liepaja/index.php">
+<img alt="Category" src="../../img/round-right-blue.svg"/>
+
+							Darbs Liepājā
+
+						</a>
+</div>
+<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="../teritoriju-karte/index.php">
+<img alt="Category" src="../../img/round-right-blue.svg"/>
+
+							Teritoriju karte
+
+						</a>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-9 side-right">
+<div class="nocontrast glide z mb-5">
+<div class="container bullets-container">
+<div class="glide__bullets" data-glide-el="controls[nav]">
+</div>
+</div>
+<div class="glide__track" data-glide-el="track">
+<ul class="glide__slides">
+<li class="glide__slide jarallax-banner d-flex" style='background-image:url("https://liepaja-sez.lv/img/block/banner/43/1707215223_52958753742_5fafb77e7d_k.webp")'>
+<span class="filler"></span>
+<div class="container d-flex z-2">
+<div class="content"><h5 class="animate__animated animate__fadeInUp">Jahtu osta</h5>
+</div>
+</div>
+</li> </ul>
+</div>
+</div>
+<div class="block_text mt-5 mb-4">
+<div class="row">
+<div class="col"><div class="col-12 output"><h6>Liepājas Jahtu osta atrodas Tirdzniecības kanāla pusē pie "Promenade Hotel" ēkas. Tās atrašanās vieta ļauj pietauvot jahtas pilsētas centrā, ļaujot 5 līdz 10 minūšu pastaigas laikā sasniegt veikalus, restorānus, tūrisma apskates objektus, sabiedrisko transportu un tūrisma informācijas centru.</h6></div>
+</div>
+</div>
+</div>
+<div class="columns mt-5">
+<div class="row">
+<div class="col-12 col-md-6 column-content">
+<p>Ienākošajām jahtām Jahtu osta nodrošina nepieciešamos piestātnes pakalpojumus – pietauvošanās vietu, ūdensapgādi, elektroapgādi, piestātnes apsardzi. Viesu ērtībām tiek piedāvātas labiekārtotas tualetes, dušas un veļas mazgāšanas telpa.</p>
+</div>
+<div class="col-12 col-md-6 column-content">
+<p>Kopš 2008. gada Jahtu osta ir saņēmusi Zilo karogu – starptautiski atzītu ekosertifikātu. Zilais karogs ir Vides izglītības fonda piešķirts apliecinājums, ka pludmale vai jahtu osta nodrošina fonda noteiktos stingros kvalitātes standartus.</p>
+</div>
+</div>
+</div>
+<div class="columns mt-5">
+<div class="row">
+<div class="col-12">
+<h1 class="mb-4 block-title">Jahtu piestātņu maksas sezonā<span></span></h1>
+</div>
+<div class="col-12 col-md-4 column-content">
+<p><strong>Jahtas garums</strong></p><p>Līdz 8 m</p><p>8.01 – 10.00 m</p><p>15.01 – 20.00 m</p><p>20.01 – 30.00 m</p><p>30.01 – 50.00 m</p>
+</div>
+<div class="col-12 col-md-4 column-content">
+<p><strong>1 diena/EUR (ar PVN)*</strong></p><p>20.00</p><p>30.00</p><p>35.00</p><p>45.00</p><p>100.00</p>
+</div>
+<div class="col-12 col-md-4 column-content">
+<p><strong>1 mēnesis/EUR (ar PVN)**</strong></p><p>90.00</p><p>130.00</p><p>160.00</p><p>250.00</p><p>400.00</p>
+</div>
+</div>
+</div>
+<div class="block_text mt-5 mb-4">
+<div class="row">
+<div class="col"><div class="col-12 output"><p>*Ja jahta/kuteris uzturas mazāk par 24 stundām, tad aprēķins tiek veikts kā par vienu pilnu dienu.</p><p>**Mēneša maksā netiek iekļauts elektroenerģijas patēriņš, tiek aprēķināts pēc skaitītāja, veicot norakstu katra mēneša pēdējā datumā.<br/> </p></div>
+</div>
+</div>
+</div>
+<div class="accordion my-5">
+<div class="row">
+<div id="accordion">
+<div class="card">
+<div class="card-header" id="heading5640">
+<h5 class="mb-0">
+<button aria-controls="collapse5640" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse5640" data-bs-toggle="collapse">
+
+										Peldlīdzekļu izkārtojums pie Jahtu ostas piestātnēm
+
+									</button>
+</h5>
+</div>
+<div aria-labelledby="heading5640" class="collapse" data-parent="#accordion" id="collapse5640">
+<div class="card-body">
+<ul><li>Lai ilgstoši turētu peldlīdzekli pie kādas no Liepājas jahtu ostas piestātnēm, nepieciešams noslēgt jahtu/kuteru pietauvošanas līgumu ar Liepājas speciālās ekonomiskās zonas pārvaldi, aizpildot deklarācijas formu jahtu ostas centrā.</li><li>Jahtu/kuteru pietauvošanas līgumi par to ilgtermiņa novietošanu jahtu ostas piestātnēs tiek slēgti rindas kārtībā, kamēr ir pieejamas šim mērķim atvēlētās vietas. Vietu rezervēšana netiek nodrošināta.</li><li>Lai ilgtermiņa pieatuvošanai piemērotu mēneša maksas tarifu, minimālais jahtas/kutera pietauvošanas līguma noslēgšanas termiņš ir 2 mēneši. Sezonas laikā vakantās vietas tiek piedāvātas gaidīšanas sarakstā esošajiem klientiem rindas kārtībā.</li></ul><br/>
+<img alt="" src="../../img/block/accordion/133/1717506654_karte_shema _jahtu osta.webp"/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading5641">
+<h5 class="mb-0">
+<button aria-controls="collapse5641" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse5641" data-bs-toggle="collapse">
+
+										Noteikumi jahtām un mazajiem kuģiem
+
+									</button>
+</h5>
+</div>
+<div aria-labelledby="heading5641" class="collapse" data-parent="#accordion" id="collapse5641">
+<div class="card-body">
+<p>Lai organizētu drošu kuģu satiksmi, mazizmēra kuģiem, kuri ir aprīkoti ar ultraīsviļņu radiostaciju, tiek rekomendēts pastāvīgi nodrošināt radiosakarus ultraīsviļņu 11. kanālā.</p><p>Jāievēro, ka jebkurš kuģu satiksmes dalībnieks, kas var droši kuģot ārpus galvenajiem kuģu ceļiem, nedrīkst traucēt kuģu kustību pa tiem. Jahtu un mazo kuģu kustībai ostā jānotiek tā, lai netraucētu kuģus, kuri kuģo pa kuģu ceļu. Kuģojot Liepājas ostas akvatorijā, ir jāievēro “Noteikumi par kuģošanas līdzekļu satiksmi iekšējos ūdeņos” un “Liepājas ostas noteikumi”.</p><p>Par mazizmēra kuģi tiek uzskatīta jahta, kuteris vai atpūtas kuģošanas līdzeklis, ja tā garums ir mazāks par 24 metriem.</p><p>Jahtām un atpūtas peldlīdzekļiem kuģošana ir atļauta Tirdzniecības kanālā.</p><p>Mazizmēra kuģiem noteikts ātruma ierobežojums Tirdzniecības kanālā 5 mezgli (9 km/st). Pārējā ostas akvatorijā nav noteikts ātruma ierobežojums, bet ir jākuģo ar ātrumu, kas neapdraud citus satiksmes dalībniekus, cilvēkus, pietauvotus peldlīdzekļus un citas peldošas vai stacionāras konstrukcijas, īpaši ņemot vērā peldlīdzekļa radītā viļņa ietekmi.</p><br/>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="contactform mt-5">
+<div class="row">
+<div class="col-12">
+<h1 class="block-title mb-4">Kontakti<span></span></h1>
+</div>
+<div class="col-12 mb-3">
+
+						Informācija par Liepājas jahtu ostas noteikumiem, tarifiem un peldlīdzekļa pietauvošanas līguma noslēgšanu - telefons: (+371) 26155882
+
+					</div>
+<div class="col-12 mt-3">
+<div class="session-submit d-none"></div> <script async="" defer="" src="https://www.google.com/recaptcha/api.js"></script>
+<script>
+
+						$(document).ready(function(){							
+
+							if($('.session-submit').text()=="success"){
+
+								Swal.fire({
+
+									icon: 'success',
+
+									title: 'Ziņojums veiksmīgi nosūtīts!',
+
+									text: 'Paldies, esam saņēmuši jūsu ziņu.',
+
+									confirmButtonText: 'Labi'
+
+								});
+
+							}		
+
+							if($('.session-submit').text()=="fail"){
+
+								Swal.fire({
+
+									icon: 'error',
+
+									title: 'Kļūda nosūtot ziņojumu!',
+
+									text: 'Diemžēl, kļūdas dēļ, ziņa netika nosūtīta! Lūdzu mēģiniet vēlreiz!',
+
+									confirmButtonText: 'Labi'
+
+								});
+
+							}
+
+						});
+
+						</script>
+<form data-parsley-errors-messages-disabled="" data-parsley-validate="" id="contactForm" method="POST">
+<div class="row">
+<div class="mb-3 col-12 col-md-4">
+<label class="form-label" for="name">Vārds, uzvārds</label>
+<input class="form-control" data-parsley-required="true" id="name" name="name" required="" type="text"/>
+</div>
+</div>
+<div class="row">
+<div class="mb-3 col-12 col-md-4">
+<label class="form-label" for="email">E-pasts</label>
+<input class="form-control" data-parsley-required="true" id="email" name="email" required="" type="email"/>
+</div>
+</div>
+<div class="row">
+<div class="mb-3 col-12 col-md-8">
+<label class="form-label" for="message">Ziņojuma teksts</label>
+<textarea class="form-control" data-parsley-required="true" id="message" name="message" required="" rows="5"></textarea>
+</div>
+</div>
+<p class="d-none" id="error">Lūdzu korekti aizpildiet iekrāsotos laukus!</p>
+<button aria-label="Sūtīt ziņu" class="submit btn g-recaptcha" data-callback="onSubmit" data-sitekey="6LeeaoQpAAAAADuBw0SX4BMFD8HMrma4jzoKGXx_" name="" type="submit">Sūtīt ziņu</button>
+</form>
+</div>
+</div>
+</div>
+<div class="container my-4">
+<div class="row">
+<div class="col-12 useful" id="useful-p">
+<span class="me-2">Vai informācija bija noderīga?</span>
+<button class="useful-btn" data-table-id="52" data-table-name="mod_menu" data-value="1">Jā </button>
+<button class="useful-btn" data-table-id="52" data-table-name="mod_menu" data-value="0">Nē </button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<img alt="Background image" class="background" src="../../img/bg2.svg"/>
+</main>
+<footer class="footer">
+<div class="container py-5">
+<div class="row">
+<div class="col-12 col-md-4 col-lg-2 footer-logo">
+<img alt="logo" class="img-fluid" src="../../img/logo-white.svg" width="100"/>
+</div>
+<div class="col-12 col-md-8 col-lg-5 mb-3 reqs">
+<p>Liepājas speciālās ekonomiskās zonas pārvalde<br/>Fēniksa iela 4, Liepāja,<br/>LV-3401, Latvija<br/><br/>Tālrunis: <a href="tel:+37163427605">+371 63427605</a><br/>E-pasts: <a href="mailto:lsez@lsez.lv">lsez@lsez.lv</a></p> </div>
+<div class="col-12 col-md-4 col-lg-4">
+<div class="row pt-3k">
+<div class="col socials d-flex justify-content-start">
+<a aria-label="Facebook" href="https://www.facebook.com/LiepajasSEZ" target="_blank"><img alt="Facebook" class="img-fluid" src="../../img/FB.svg"/></a>
+<a aria-label="Twitter" href="https://twitter.com/liepajaSEZ" target="_blank"><img alt="Twitter" class="img-fluid" src="../../img/TW.svg"/></a>
+<a aria-label="Instagram" href="https://www.instagram.com/liepajasez" target="_blank"><img alt="Instagram" class="img-fluid" src="../../img/IG.svg"/></a>
+<a aria-label="Youtube" href="https://www.youtube.com/channel/UCjBSQK6pZ5tQGpRabmlLwxQ" target="_blank"><img alt="Youtube" class="img-fluid" src="../../img/YT.svg"/></a>
+<a alt="Linkedin" href="https://www.linkedin.com/company/liepaja-special-economic-zone/" target="_blank"><img aria-label="Linkedin" class="img-fluid" src="../../img/IN.svg"/></a>
+<a alt="Linkedin" href="https://www.flickr.com/photos/liepajasez/albums/" target="_blank"><img aria-label="Flickr" class="img-fluid" src="../../img/flickr.svg"/></a>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-8 col-lg-1">
+<div class="row">
+<div class="col up">
+<a aria-label="Scroll up" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="sticky-cookie" style="align-items: center; justify-content: center;">
+<img alt="cookie" src="../../img/cc__3df23cc431.svg" width="24"/>
+</div>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-6QTXK76SH0"></script>
+<script>
+
+				  window.dataLayer = window.dataLayer || [];
+
+				  function gtag(){dataLayer.push(arguments);}
+
+				  gtag('js', new Date());
+
+
+
+				  gtag('config', 'G-6QTXK76SH0');
+
+				</script>
+<script crossorigin="anonymous" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" src="https://code.jquery.com/jquery-3.7.0.min.js">
+
+				<script src="https://code.jquery.com/color/jquery.color.plus-names-2.1.2.min.js"></script>
+<script src="../../js/jarallax.min__cc5fd325af.js"></script>
+<script src="../../js/bootstrap.bundle.min.js"></script>
+<script src="../../js/main__7152e3fda1.js"></script>
+<script src="../../js/block/useful/main__1d365e2dc4.js"></script><script src="../../js/block/banner/glide.min.js"></script><script src="../../js/block/banner/main__fe6040fc89.js"></script><script src="../../js/block/accordion/easyzoom__1d365e2dc4.js"></script><script src="../../js/block/accordion/main__1d365e2dc4.js"></script><script src="../../js/block/contactform/parsley.min.js"></script><script src="../../js/block/contactform/sweetalert.all.min.js"></script><script src="../../js/block/contactform/main.js"></script> <script defer="" src="../../cc/src/cookieconsent.js"></script>
+<script defer="" src="../../cc/demo/app2__251c29cb24.js"></script>
+</footer>
+</body>
+</html>

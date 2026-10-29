@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 
 <html lang="lv">
 <head>
@@ -19,218 +19,20 @@
 <link href="../../css/block/banner/animate.min.css" rel="stylesheet" type="text/css"/><link href="../../css/block/banner/glide.core.min.css" rel="stylesheet" type="text/css"/><link href="../../css/block/banner/glide.theme.min.css" rel="stylesheet" type="text/css"/><link href="../../css/block/banner/main__8f5730ec2e.css" rel="stylesheet" type="text/css"/><link href="../../css/block/text/main__f67bbdbffc.css" rel="stylesheet" type="text/css"/><link href="../../css/block/columns/main__7252a74784.css" rel="stylesheet" type="text/css"/><link href="../../css/block/accordion/main__1d365e2dc4.css" rel="stylesheet" type="text/css"/> <link href="../../cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
 <script>
 
-				const html = document.querySelector("html");
+const html = document.querySelector("html");
 
-				if(localStorage['contrast']){
+if(localStorage['contrast']){
 
-					html.classList.add(localStorage['contrast']);
+html.classList.add(localStorage['contrast']);
 
-				}
+}
 
-			</script>
+</script>
 <script>var web_url="https://liepaja-sez.lv/";</script>
 <script>var lang="lv";</script>
 </head>
 <body>
-<div class="block" id="search-overlay">
-<div class="centered">
-<div id="search-box">
-<div class="fa fa-times fa-2x" id="close-btn">X</div>
-<form action="#" id="search-form" method="get" target="_top">
-<input id="search-text" name="q" placeholder="Es meklēju..." type="text"/>
-<button id="search-button" type="submit">
-<span>Meklēt</span>
-</button>
-</form>
-</div>
-</div>
-</div>
-<nav class="navbar navbar-expand-lg navbar-light bg-light b-2 fixed-top color-border">
-<div class="container align-items-end position-relative nav-container">
-<ul class="controls d-none d-lg-block">
-<li class="search-controls search-btn" id=""><i class="bi bi-search"></i></li>
-<li class="dropdown font-controls">
-<a aria-expanded="false" aria-label="Teksta izmērs" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="index.php" id="font-controls1">
-<span>A</span>
-<span>A</span>
-<span>A</span>
-</a>
-<ul aria-labelledby="font-controls1" class="dropdown-menu text-center font-size">
-<li><a class="dropdown-item" data-size="14" href="index.php">75%</a></li>
-<li><a class="dropdown-item active" data-size="15" href="index.php">100%</a></li>
-<li><a class="dropdown-item" data-size="16.5" href="index.php">125%</a></li>
-<li><a class="dropdown-item" data-size="17.5" href="index.php">150%</a></li>
-</ul>
-</li>
-<li class="dropdown contrast-controls nocontrast">
-<a aria-expanded="false" aria-label="Kontrasts" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="index.php" id="contrast-controls1">
-<i class="bi bi-circle-half"></i>
-</a>
-<ul aria-labelledby="contrast-controls1" class="dropdown-menu">
-<li><a class="control dropdown-item contrast-default active" data-class="blue" href="index.php"><i>A</i></a></li>
-<li><a class="control dropdown-item contrast1" data-class="black" href="index.php"><i>A</i></a></li>
-<li><a class="control dropdown-item contrast2" data-class="yellow2" href="index.php"><i>A</i></a></li>
-<li><a class="control dropdown-item contrast3" data-class="yellow" href="index.php"><i>A</i></a></li>
-</ul>
-</li>
-<li class="dropdown language-controls">
-<a aria-expanded="false" aria-label="Valodas izvēle" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="" id="language-controls1">
-
-										lv
-
-									</a><ul aria-labelledby="language-controls1" class="dropdown-menu text-center"><li><a class="dropdown-item" href="../../en/lsez-commercial-companies/index.php">en</a></li></ul> </li>
-</ul>
-<div class="brand-container">
-<a class="navbar-brand" href="../../index.php">
-<img alt="logo" class="site-logo" src="../../img/logo.svg" width="100"/>
-</a>
-</div>
-<div class="mobile-controls">
-<ul class="controls mobile d-flex d-lg-none">
-<li class="search-controls search-btn" id=""><i class="bi bi-search"></i></li>
-<li class="dropdown language-controls">
-<a aria-expanded="false" aria-label="Valodas izvēle" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="" id="language-controls2">
-
-											lv
-
-										</a><ul aria-labelledby="language-controls2" class="dropdown-menu text-center"><li><a class="dropdown-item" href="../../en/lsez-commercial-companies/index.php">en</a></li></ul> </li>
-</ul>
-<button aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler nocontrast" data-bs-target="#navbar" data-bs-toggle="collapse" type="button">
-<span class="navbar-toggler-icon"></span>
-</button>
-</div>
-<div class="collapse navbar-collapse" id="navbar">
-<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-<li class="nav-item">
-<a class="nav-link" href="../../index.php">Sākums</a>
-</li><li class="nav-item dropdown">
-<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../liepajas-sez/index.php" role="button">
-
-									Liepājas SEZ
-
-								</a><ul aria-labelledby="navbar" class="dropdown-menu">
-<li>
-<a class="dropdown-item" href="../investe-liepaja/index.php">Investē Liepājā</a>
-</li>
-<li class="dropend">
-<a class="dropdown-item dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../osta/index.php">
-
-									Osta
-
-								</a>
-<ul class="dropdown-menu">
-<li>
-<a class="dropdown-item" href="../par-ostu/index.php">Par ostu</a>
-</li>
-<li>
-<a class="dropdown-item" href="../pramju-satiksme/index.php">Prāmju satiksme</a>
-</li>
-<li>
-<a class="dropdown-item" href="../kruiza-kugi/index.php">Kruīza kuģi</a>
-</li>
-<li>
-<a class="dropdown-item" href="../jahtu-osta/index.php">Jahtu osta</a>
-</li>
-<li>
-<a class="dropdown-item" href="../oskara-kalpaka-tilts/index.php">Oskara Kalpaka tilts</a>
-</li>
-</ul>
-</li>
-<li>
-<a class="dropdown-item active" href="index.php">Kapitālsabiedrības</a>
-</li>
-<li>
-<a class="dropdown-item" href="../attistibas-projekti/index.php">Attīstības projekti</a>
-</li>
-<li>
-<a class="dropdown-item" href="../darbs-liepaja/index.php">Darbs Liepājā</a>
-</li>
-<li>
-<a class="dropdown-item" href="../teritoriju-karte/index.php">Teritoriju karte</a>
-</li>
-</ul></li><li class="nav-item dropdown">
-<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../parvalde/index.php" role="button">
-
-									Pārvalde
-
-								</a><ul aria-labelledby="navbar" class="dropdown-menu">
-<li>
-<a class="dropdown-item" href="../parvaldiba/index.php">Pārvaldība</a>
-</li>
-<li>
-<a class="dropdown-item" href="../korporativa-parvaldiba/index.php">Korporatīvā pārvaldība</a>
-</li>
-<li>
-<a class="dropdown-item" href="../iepirkumi-un-izsoles/index.php">Iepirkumi un izsoles</a>
-</li>
-<li class="dropend">
-<a class="dropdown-item dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../darbibas-parskati/index.php">
-
-									Darbības pārskati
-
-								</a>
-<ul class="dropdown-menu">
-<li>
-<a class="dropdown-item" href="../valdes-sedes-lemumi/index.php">Valdes sēdes lēmumi</a>
-</li>
-<li>
-<a class="dropdown-item" href="../atskaites-par-darbibu/index.php">Atskaites par darbību</a>
-</li>
-<li>
-<a class="dropdown-item" href="../ostas-statistika/index.php">Ostas statistika</a>
-</li>
-</ul>
-</li></ul></li><li class="nav-item dropdown">
-<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../jaunumi-1/index.php" role="button">
-
-									Jaunumi
-
-								</a><ul aria-labelledby="navbar" class="dropdown-menu">
-<li>
-<a class="dropdown-item" href="../medijiem/index.php">Medijiem</a>
-</li>
-<li>
-<a class="dropdown-item" href="../foto/index.php">Foto</a>
-</li>
-<li>
-<a class="dropdown-item" href="../valdes-sedes/index.php">Valdes sēdes</a>
-</li>
-</ul></li>
-<li class="nav-item">
-<a class="nav-link" href="../dokumenti/index.php">Dokumenti</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="../kontakti/index.php">Kontakti</a>
-</li>
-<hr class="dropdown-divider d-block d-lg-none"/>
-<li class="dropdown font-controls mobile d-flex d-lg-none">
-<a aria-expanded="false" aria-label="Teksta izmērs" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="index.php" id="font-controls2">
-<span>A</span>
-<span>A</span>
-<span>A</span>
-</a>
-<ul aria-labelledby="font-controls2" class="text-center font-size">
-<li><a class="" data-size="14" href="index.php">75%</a></li>
-<li><a class="active" data-size="15" href="index.php">100%</a></li>
-<li><a class="" data-size="16.5" href="index.php">125%</a></li>
-<li><a class="" data-size="17.5" href="index.php">150%</a></li>
-</ul>
-</li>
-<li class="dropdown contrast-controls mobile d-flex d-lg-none">
-<a aria-expanded="false" aria-label="Kontrasts" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="index.php" id="contrast-controls2">
-<i class="bi bi-circle-half"></i>
-</a>
-<ul aria-labelledby="contrast-controls2" class="">
-<li><a class="control contrast-default active" data-class="blue" href="index.php"><i>A</i></a></li>
-<li><a class="control contrast1" data-class="black" href="index.php"><i>A</i></a></li>
-<li><a class="control contrast2" data-class="yellow2" href="index.php"><i>A</i></a></li>
-<li><a class="control contrast3" data-class="yellow" href="index.php"><i>A</i></a></li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-</nav>
+<?php include __DIR__ . '/../lvnavbar.php'; ?>
 <div class="spacer"></div>
 <main class="pb-5">
 <div class="container pt-3">
@@ -241,57 +43,57 @@
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../investe-liepaja/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Investē Liepājā
+Investē Liepājā
 
-						</a>
+</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 sidebar-parent ps-0">
 <a class="sidebar-nav-icon inactive mb-4" href="">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Osta
+Osta
 
-						</a>
+</a>
 <div class="sidebar-nested ps-md-4">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../par-ostu/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Par ostu
+Par ostu
 
-						</a>
+</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../pramju-satiksme/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Prāmju satiksme
+Prāmju satiksme
 
-						</a>
+</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../kruiza-kugi/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Kruīza kuģi
+Kruīza kuģi
 
-						</a>
+</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../jahtu-osta/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Jahtu osta
+Jahtu osta
 
-						</a>
+</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../oskara-kalpaka-tilts/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Oskara Kalpaka tilts
+Oskara Kalpaka tilts
 
-						</a>
+</a>
 </div>
 </div>
 </div>
@@ -299,33 +101,33 @@
 <a aria-label="nosaukums" class="active sidebar-nav-icon" href="index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Kapitālsabiedrības
+Kapitālsabiedrības
 
-						</a>
+</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../attistibas-projekti/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Attīstības projekti
+Attīstības projekti
 
-						</a>
+</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../darbs-liepaja/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Darbs Liepājā
+Darbs Liepājā
 
-						</a>
+</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../teritoriju-karte/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Teritoriju karte
+Teritoriju karte
 
-						</a>
+</a>
 </div>
 </div><div class="row mt-5">
 <div class="col-12 d-none d-md-block ps-0 pe-4">
@@ -489,9 +291,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse4570" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4570" data-bs-toggle="collapse">
 
-										AE PARTNER
+AE PARTNER
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading4570" class="collapse" data-parent="#accordion" id="collapse4570">
@@ -505,9 +307,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse4571" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4571" data-bs-toggle="collapse">
 
-										AI INDUSTRI
+AI INDUSTRI
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading4571" class="collapse" data-parent="#accordion" id="collapse4571">
@@ -521,9 +323,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse4572" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4572" data-bs-toggle="collapse">
 
-										BALTEX BULK
+BALTEX BULK
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading4572" class="collapse" data-parent="#accordion" id="collapse4572">
@@ -537,9 +339,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse4573" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4573" data-bs-toggle="collapse">
 
-										BALTU TERMINALS
+BALTU TERMINALS
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading4573" class="collapse" data-parent="#accordion" id="collapse4573">
@@ -553,9 +355,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse4574" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4574" data-bs-toggle="collapse">
 
-										BALTIC BIOFUEL COMPANY
+BALTIC BIOFUEL COMPANY
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading4574" class="collapse" data-parent="#accordion" id="collapse4574">
@@ -569,9 +371,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse4575" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4575" data-bs-toggle="collapse">
 
-										BALTIC TRANSSHIPMENT CENTER
+BALTIC TRANSSHIPMENT CENTER
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading4575" class="collapse" data-parent="#accordion" id="collapse4575">
@@ -585,9 +387,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse4576" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4576" data-bs-toggle="collapse">
 
-										BRIMER LIEPAJA
+BRIMER LIEPAJA
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading4576" class="collapse" data-parent="#accordion" id="collapse4576">
@@ -601,9 +403,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse4577" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4577" data-bs-toggle="collapse">
 
-										CALJAN
+CALJAN
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading4577" class="collapse" data-parent="#accordion" id="collapse4577">
@@ -617,9 +419,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse4578" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4578" data-bs-toggle="collapse">
 
-										DAN STORE
+DAN STORE
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading4578" class="collapse" data-parent="#accordion" id="collapse4578">
@@ -633,9 +435,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse4579" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4579" data-bs-toggle="collapse">
 
-										DG TERMINĀLS
+DG TERMINĀLS
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading4579" class="collapse" data-parent="#accordion" id="collapse4579">
@@ -649,9 +451,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45710" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45710" data-bs-toggle="collapse">
 
-										DUNA
+DUNA
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45710" class="collapse" data-parent="#accordion" id="collapse45710">
@@ -665,9 +467,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45711" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45711" data-bs-toggle="collapse">
 
-										EKERS STIVIDORS LP
+EKERS STIVIDORS LP
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45711" class="collapse" data-parent="#accordion" id="collapse45711">
@@ -681,9 +483,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45712" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45712" data-bs-toggle="collapse">
 
-										FINESTRA SOLUTION
+FINESTRA SOLUTION
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45712" class="collapse" data-parent="#accordion" id="collapse45712">
@@ -697,9 +499,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45713" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45713" data-bs-toggle="collapse">
 
-										FLESS
+FLESS
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45713" class="collapse" data-parent="#accordion" id="collapse45713">
@@ -713,9 +515,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45714" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45714" data-bs-toggle="collapse">
 
-										V.BIĻUKA KOMERCFIRMA EVIJA
+V.BIĻUKA KOMERCFIRMA EVIJA
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45714" class="collapse" data-parent="#accordion" id="collapse45714">
@@ -729,9 +531,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45715" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45715" data-bs-toggle="collapse">
 
-										GF POWDERCOATING
+GF POWDERCOATING
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45715" class="collapse" data-parent="#accordion" id="collapse45715">
@@ -745,9 +547,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45716" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45716" data-bs-toggle="collapse">
 
-										INTERSPIRO PRODUCTION
+INTERSPIRO PRODUCTION
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45716" class="collapse" data-parent="#accordion" id="collapse45716">
@@ -761,9 +563,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45717" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45717" data-bs-toggle="collapse">
 
-										JENSEN METAL
+JENSEN METAL
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45717" class="collapse" data-parent="#accordion" id="collapse45717">
@@ -777,9 +579,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45718" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45718" data-bs-toggle="collapse">
 
-										JM PROPERTIES
+JM PROPERTIES
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45718" class="collapse" data-parent="#accordion" id="collapse45718">
@@ -793,9 +595,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45719" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45719" data-bs-toggle="collapse">
 
-										YOKOHAMA TWS LATVIA
+YOKOHAMA TWS LATVIA
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45719" class="collapse" data-parent="#accordion" id="collapse45719">
@@ -809,9 +611,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45720" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45720" data-bs-toggle="collapse">
 
-										LAUMA FABRICS
+LAUMA FABRICS
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45720" class="collapse" data-parent="#accordion" id="collapse45720">
@@ -825,9 +627,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45721" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45721" data-bs-toggle="collapse">
 
-										LAUMA MEDICAL
+LAUMA MEDICAL
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45721" class="collapse" data-parent="#accordion" id="collapse45721">
@@ -841,9 +643,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45722" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45722" data-bs-toggle="collapse">
 
-										LASKANA
+LASKANA
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45722" class="collapse" data-parent="#accordion" id="collapse45722">
@@ -857,9 +659,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45723" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45723" data-bs-toggle="collapse">
 
-										LESJOFORS GAS SPRINGS
+LESJOFORS GAS SPRINGS
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45723" class="collapse" data-parent="#accordion" id="collapse45723">
@@ -873,9 +675,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45724" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45724" data-bs-toggle="collapse">
 
-										LESJOFORS SPRINGS LV
+LESJOFORS SPRINGS LV
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45724" class="collapse" data-parent="#accordion" id="collapse45724">
@@ -889,9 +691,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45725" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45725" data-bs-toggle="collapse">
 
-										LIEPAJA BULK TERMINAL
+LIEPAJA BULK TERMINAL
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45725" class="collapse" data-parent="#accordion" id="collapse45725">
@@ -905,9 +707,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45726" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45726" data-bs-toggle="collapse">
 
-										LIEPAJA TRANS STORAGE
+LIEPAJA TRANS STORAGE
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45726" class="collapse" data-parent="#accordion" id="collapse45726">
@@ -921,9 +723,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45727" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45727" data-bs-toggle="collapse">
 
-										LPSP
+LPSP
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45727" class="collapse" data-parent="#accordion" id="collapse45727">
@@ -937,9 +739,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45728" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45728" data-bs-toggle="collapse">
 
-										METARS
+METARS
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45728" class="collapse" data-parent="#accordion" id="collapse45728">
@@ -953,9 +755,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45729" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45729" data-bs-toggle="collapse">
 
-										MOLS L
+MOLS L
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45729" class="collapse" data-parent="#accordion" id="collapse45729">
@@ -969,9 +771,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45730" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45730" data-bs-toggle="collapse">
 
-										NORDEPLAST
+NORDEPLAST
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45730" class="collapse" data-parent="#accordion" id="collapse45730">
@@ -985,9 +787,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45731" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45731" data-bs-toggle="collapse">
 
-										 NORSAF
+NORSAF
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45731" class="collapse" data-parent="#accordion" id="collapse45731">
@@ -1001,9 +803,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45732" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45732" data-bs-toggle="collapse">
 
-										NORTHSIDE BUSINESS PARK
+NORTHSIDE BUSINESS PARK
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45732" class="collapse" data-parent="#accordion" id="collapse45732">
@@ -1017,9 +819,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45733" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45733" data-bs-toggle="collapse">
 
-										PUMAC LIEPAJA
+PUMAC LIEPAJA
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45733" class="collapse" data-parent="#accordion" id="collapse45733">
@@ -1033,9 +835,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45734" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45734" data-bs-toggle="collapse">
 
-										RANGEFUL
+RANGEFUL
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45734" class="collapse" data-parent="#accordion" id="collapse45734">
@@ -1049,9 +851,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45735" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45735" data-bs-toggle="collapse">
 
-										RT METĀLS
+RT METĀLS
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45735" class="collapse" data-parent="#accordion" id="collapse45735">
@@ -1065,9 +867,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45736" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45736" data-bs-toggle="collapse">
 
-										ROECHLING INDUSTRIAL LIEPAJA
+ROECHLING INDUSTRIAL LIEPAJA
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45736" class="collapse" data-parent="#accordion" id="collapse45736">
@@ -1081,9 +883,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45737" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45737" data-bs-toggle="collapse">
 
-										SCAN-PLAST LATVIA
+SCAN-PLAST LATVIA
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45737" class="collapse" data-parent="#accordion" id="collapse45737">
@@ -1097,9 +899,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45738" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45738" data-bs-toggle="collapse">
 
-										Stena Line Ports Liepājas SEZ SIA
+Stena Line Ports Liepājas SEZ SIA
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45738" class="collapse" data-parent="#accordion" id="collapse45738">
@@ -1113,9 +915,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45739" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45739" data-bs-toggle="collapse">
 
-										SOLO L
+SOLO L
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45739" class="collapse" data-parent="#accordion" id="collapse45739">
@@ -1129,9 +931,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45740" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45740" data-bs-toggle="collapse">
 
-										SWEDAN PARTNERS
+SWEDAN PARTNERS
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45740" class="collapse" data-parent="#accordion" id="collapse45740">
@@ -1145,9 +947,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45741" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45741" data-bs-toggle="collapse">
 
-										TRANSIT TERMINĀLS
+TRANSIT TERMINĀLS
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45741" class="collapse" data-parent="#accordion" id="collapse45741">
@@ -1161,9 +963,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45742" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45742" data-bs-toggle="collapse">
 
-										TRUWEL
+TRUWEL
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45742" class="collapse" data-parent="#accordion" id="collapse45742">
@@ -1177,9 +979,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45743" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45743" data-bs-toggle="collapse">
 
-										TRANSIT SERVICE
+TRANSIT SERVICE
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45743" class="collapse" data-parent="#accordion" id="collapse45743">
@@ -1193,9 +995,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45744" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45744" data-bs-toggle="collapse">
 
-										TRANSWIDE SERVICES
+TRANSWIDE SERVICES
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45744" class="collapse" data-parent="#accordion" id="collapse45744">
@@ -1209,9 +1011,9 @@
 <h5 class="mb-0">
 <button aria-controls="collapse45745" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45745" data-bs-toggle="collapse">
 
-										VECĀS OSTMALAS BIZNESA PARKS
+VECĀS OSTMALAS BIZNESA PARKS
 
-									</button>
+</button>
 </h5>
 </div>
 <div aria-labelledby="heading45745" class="collapse" data-parent="#accordion" id="collapse45745">
@@ -1273,20 +1075,20 @@
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-6QTXK76SH0"></script>
 <script>
 
-				  window.dataLayer = window.dataLayer || [];
+window.dataLayer = window.dataLayer || [];
 
-				  function gtag(){dataLayer.push(arguments);}
+function gtag(){dataLayer.push(arguments);}
 
-				  gtag('js', new Date());
+gtag('js', new Date());
 
 
 
-				  gtag('config', 'G-6QTXK76SH0');
+gtag('config', 'G-6QTXK76SH0');
 
-				</script>
+</script>
 <script crossorigin="anonymous" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" src="https://code.jquery.com/jquery-3.7.0.min.js">
 
-				<script src="https://code.jquery.com/color/jquery.color.plus-names-2.1.2.min.js"></script>
+<script src="https://code.jquery.com/color/jquery.color.plus-names-2.1.2.min.js"></script>
 <script src="../../js/jarallax.min__cc5fd325af.js"></script>
 <script src="../../js/bootstrap.bundle.min.js"></script>
 <script src="../../js/main__7152e3fda1.js"></script>

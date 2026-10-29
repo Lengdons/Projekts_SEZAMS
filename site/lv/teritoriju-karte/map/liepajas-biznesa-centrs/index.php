@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 
 <html lang="lv">
 <head>
@@ -19,20 +19,20 @@
 <link href="../../../../css/mod/map/glide.core.min.css" rel="stylesheet" type="text/css"/><link href="../../../../css/mod/map/glide.theme.min.css" rel="stylesheet" type="text/css"/><link href="../../../../css/mod/map/fancybox.css" rel="stylesheet" type="text/css"/><link href="../../../../css/block/map/carousel.css" rel="stylesheet" type="text/css"/><link href="../../../../css/mod/map/main__f67bbdbffc.css" rel="stylesheet" type="text/css"/> <link href="../../../../cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
 <script>
 
-				const html = document.querySelector("html");
+const html = document.querySelector("html");
 
-				if(localStorage['contrast']){
+if(localStorage['contrast']){
 
-					html.classList.add(localStorage['contrast']);
+html.classList.add(localStorage['contrast']);
 
-				}
+}
 
-			</script>
+</script>
 <script>var web_url="https://liepaja-sez.lv/";</script>
 <script>var lang="lv";</script>
 </head>
 <body>
-<?php include __DIR__ . '/../lvnavbar.php'; ?>
+<?php include __DIR__ . '/../../../lvnavbar.php'; ?>
 <div class="spacer"></div>
 <main class="pb-5">
 <div class="container mod_map my-5">
@@ -175,7 +175,7 @@
 <div class="col-12 paginator mt-5"><div>
 <a aria-label="Back" class="back map-pagination" onclick="history.back()">
 
-								Atgriezties atpakaļ <img alt="Atgriezties atpakaļ" src="../../../../img/round-right-blue.svg"/>
+Atgriezties atpakaļ <img alt="Atgriezties atpakaļ" src="../../../../img/round-right-blue.svg"/>
 </a>
 </div>
 </div>
@@ -219,20 +219,20 @@
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-6QTXK76SH0"></script>
 <script>
 
-				  window.dataLayer = window.dataLayer || [];
+window.dataLayer = window.dataLayer || [];
 
-				  function gtag(){dataLayer.push(arguments);}
+function gtag(){dataLayer.push(arguments);}
 
-				  gtag('js', new Date());
+gtag('js', new Date());
 
 
 
-				  gtag('config', 'G-6QTXK76SH0');
+gtag('config', 'G-6QTXK76SH0');
 
-				</script>
+</script>
 <script crossorigin="anonymous" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" src="https://code.jquery.com/jquery-3.7.0.min.js">
 
-				<script src="https://code.jquery.com/color/jquery.color.plus-names-2.1.2.min.js"></script>
+<script src="https://code.jquery.com/color/jquery.color.plus-names-2.1.2.min.js"></script>
 <script src="../../../../js/jarallax.min__cc5fd325af.js"></script>
 <script src="../../../../js/bootstrap.bundle.min.js"></script>
 <script src="../../../../js/main__7152e3fda1.js"></script>

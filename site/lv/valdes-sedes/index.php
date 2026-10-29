@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 
 <html lang="lv">
 <head>
@@ -19,15 +19,15 @@
 <link href="../../css/block/banner/animate.min.css" rel="stylesheet" type="text/css"/><link href="../../css/block/banner/glide.core.min.css" rel="stylesheet" type="text/css"/><link href="../../css/block/banner/glide.theme.min.css" rel="stylesheet" type="text/css"/><link href="../../css/block/banner/main__8f5730ec2e.css" rel="stylesheet" type="text/css"/><link href="../../css/block/mod_news/main__1d365e2dc4.css" rel="stylesheet" type="text/css"/><link href="../../css/block/documents/main__1d365e2dc4.css" rel="stylesheet" type="text/css"/> <link href="../../cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
 <script>
 
-				const html = document.querySelector("html");
+const html = document.querySelector("html");
 
-				if(localStorage['contrast']){
+if(localStorage['contrast']){
 
-					html.classList.add(localStorage['contrast']);
+html.classList.add(localStorage['contrast']);
 
-				}
+}
 
-			</script>
+</script>
 <script>var web_url="https://liepaja-sez.lv/";</script>
 <script>var lang="lv";</script>
 </head>
@@ -63,14 +63,14 @@
 <a class="news-list-pagination prev d-none" data-block="11" data-page="" data-per-page="1" data-topic="19" href="0/index.php">
 <img alt="Atpakaļ" src="../../img/round-right.svg"/>
 
-								Atpakaļ
+Atpakaļ
 
-							</a>
+</a>
 </div>
 <div>
 <a class="news-list-pagination next d-none" data-block="11" data-page="" data-per-page="1" data-topic="19" href="2/index.php">
 
-								Tālāk <img alt="Atpakaļ" src="../../img/round-right.svg"/>
+Tālāk <img alt="Atpakaļ" src="../../img/round-right.svg"/>
 </a>
 </div>
 </div>
@@ -83,25 +83,25 @@
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../medijiem/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Medijiem
+Medijiem
 
-						</a>
+</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../foto/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Foto
+Foto
 
-						</a>
+</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
 <a aria-label="nosaukums" class="active sidebar-nav-icon" href="index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Valdes sēdes
+Valdes sēdes
 
-						</a>
+</a>
 </div>
 </div>
 <div class="col-12 col-lg-9">
@@ -112,9 +112,9 @@
 <div class="category">Valdes sēdes lēmumi</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/396/1790765239_15_2026.09.25._valdes_lemumi_web.pdf" target="_blank">
 
-							Liepājas SEZ Valdes sēdes 2026.gada 25. septembra lēmumi
+Liepājas SEZ Valdes sēdes 2026.gada 25. septembra lēmumi
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1790765239_15_2026.09.25._valdes_lemumi_web.pdf" class="document" href="../../doc/mod/document/396/1790765239_15_2026.09.25._valdes_lemumi_web.pdf" target="_blank">
@@ -128,9 +128,9 @@
 <div class="category">Valdes sēdes lēmumi</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/392/1787574310_valdes_lemumi_web.pdf" target="_blank">
 
-							Liepājas SEZ Valdes sēdes 2026.gada 19. augusta lēmumi
+Liepājas SEZ Valdes sēdes 2026.gada 19. augusta lēmumi
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1787574310_valdes_lemumi_web.pdf" class="document" href="../../doc/mod/document/392/1787574310_valdes_lemumi_web.pdf" target="_blank">
@@ -144,9 +144,9 @@
 <div class="category">Valdes sēdes lēmumi</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/382/1784183576_PIENEMTIE_LEMUMI_15_07_2026.pdf" target="_blank">
 
-							Liepājas SEZ Valdes sēdes 2026.gada 15. jūlija lēmumi
+Liepājas SEZ Valdes sēdes 2026.gada 15. jūlija lēmumi
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1784183576_PIENEMTIE_LEMUMI_15_07_2026.pdf" class="document" href="../../doc/mod/document/382/1784183576_PIENEMTIE_LEMUMI_15_07_2026.pdf" target="_blank">
@@ -160,9 +160,9 @@
 <div class="category">Valdes sēdes lēmumi</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/381/1784032124_web_darba kārtība.pdf" target="_blank">
 
-							Liepājas SEZ Valdes sēdes 2026.gada 8. jūlija lēmumi
+Liepājas SEZ Valdes sēdes 2026.gada 8. jūlija lēmumi
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1784032124_web_darba kārtība.pdf" class="document" href="../../doc/mod/document/381/1784032124_web_darba kārtība.pdf" target="_blank">
@@ -176,9 +176,9 @@
 <div class="category">Valdes sēdes lēmumi</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/365/1781782664_Valdes lemumi_web.pdf" target="_blank">
 
-							Liepājas SEZ Valdes sēdes 2026.gada 17. jūnija lēmumi
+Liepājas SEZ Valdes sēdes 2026.gada 17. jūnija lēmumi
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1781782664_Valdes lemumi_web.pdf" class="document" href="../../doc/mod/document/365/1781782664_Valdes lemumi_web.pdf" target="_blank">
@@ -192,9 +192,9 @@
 <div class="category">Valdes sēdes lēmumi</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/361/1780398597_Valdes lemumi_27.05.pdf" target="_blank">
 
-							Liepājas SEZ Valdes sēdes 2026.gada 27. maija lēmumi
+Liepājas SEZ Valdes sēdes 2026.gada 27. maija lēmumi
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1780398597_Valdes lemumi_27.05.pdf" class="document" href="../../doc/mod/document/361/1780398597_Valdes lemumi_27.05.pdf" target="_blank">
@@ -208,9 +208,9 @@
 <div class="category">Valdes sēdes lēmumi</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/358/1780398565_5_2026.04.22._valdes_lemumi_web.pdf" target="_blank">
 
-							Liepājas SEZ Valdes sēdes 2026.gada 22.aprīļa lēmumi
+Liepājas SEZ Valdes sēdes 2026.gada 22.aprīļa lēmumi
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1780398565_5_2026.04.22._valdes_lemumi_web.pdf" class="document" href="../../doc/mod/document/358/1780398565_5_2026.04.22._valdes_lemumi_web.pdf" target="_blank">
@@ -224,9 +224,9 @@
 <div class="category">Valdes sēdes lēmumi</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/355/1773138063_2026.03.04._valdes_lemumi_web.pdf" target="_blank">
 
-							Liepājas SEZ Valdes sēdes 2026.gada 4.marta lēmumi
+Liepājas SEZ Valdes sēdes 2026.gada 4.marta lēmumi
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1773138063_2026.03.04._valdes_lemumi_web.pdf" class="document" href="../../doc/mod/document/355/1773138063_2026.03.04._valdes_lemumi_web.pdf" target="_blank">
@@ -240,9 +240,9 @@
 <div class="category">Valdes sēdes lēmumi</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/345/1770823871_Darba kārtība_04.02.2026_web.pdf" target="_blank">
 
-							Liepājas SEZ Valdes sēdes 2026.gada 4.februāra lēmumi
+Liepājas SEZ Valdes sēdes 2026.gada 4.februāra lēmumi
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1770823871_Darba kārtība_04.02.2026_web.pdf" class="document" href="../../doc/mod/document/345/1770823871_Darba kārtība_04.02.2026_web.pdf" target="_blank">
@@ -256,9 +256,9 @@
 <div class="category">Valdes sēdes lēmumi</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/340/1766488435_2025.17.12._valdes_lemumi_web.pdf" target="_blank">
 
-							Liepājas SEZ Valdes sēdes 2025.gada 17.decembra lēmumi
+Liepājas SEZ Valdes sēdes 2025.gada 17.decembra lēmumi
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1766488435_2025.17.12._valdes_lemumi_web.pdf" class="document" href="../../doc/mod/document/340/1766488435_2025.17.12._valdes_lemumi_web.pdf" target="_blank">
@@ -272,9 +272,9 @@
 <div class="category">Valdes sēdes lēmumi</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/339/1766488403_2025.10.12._valdes_lemumi_web.pdf" target="_blank">
 
-							Liepājas SEZ Valdes sēdes 2025.gada 10.decembra lēmumi
+Liepājas SEZ Valdes sēdes 2025.gada 10.decembra lēmumi
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1766488403_2025.10.12._valdes_lemumi_web.pdf" class="document" href="../../doc/mod/document/339/1766488403_2025.10.12._valdes_lemumi_web.pdf" target="_blank">
@@ -288,9 +288,9 @@
 <div class="category">Valdes sēdes lēmumi</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/337/1765180783_2025.11.25._valdes_lemumi_web.pdf" target="_blank">
 
-								Liepājas SEZ Valdes sēdes 2025.gada 25.novembra lēmumi
+Liepājas SEZ Valdes sēdes 2025.gada 25.novembra lēmumi
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1765180783_2025.11.25._valdes_lemumi_web.pdf" class="document" href="../../doc/mod/document/337/1765180783_2025.11.25._valdes_lemumi_web.pdf" target="_blank">
@@ -304,9 +304,9 @@
 <div class="category">Valdes sēdes lēmumi</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/336/1765180713_2025.11.05._valdes_lemumi_web.pdf" target="_blank">
 
-							Liepājas SEZ Valdes sēdes 2025.gada 5.novembra lēmumi
+Liepājas SEZ Valdes sēdes 2025.gada 5.novembra lēmumi
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1765180713_2025.11.05._valdes_lemumi_web.pdf" class="document" href="../../doc/mod/document/336/1765180713_2025.11.05._valdes_lemumi_web.pdf" target="_blank">
@@ -320,9 +320,9 @@
 <div class="category">Valdes sēdes lēmumi</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/329/1760100699_2025.10.08._valdes_lemumi_web.pdf" target="_blank">
 
-							Liepājas SEZ Valdes sēdes 2025.gada 8.oktobra lēmumi
+Liepājas SEZ Valdes sēdes 2025.gada 8.oktobra lēmumi
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1760100699_2025.10.08._valdes_lemumi_web.pdf" class="document" href="../../doc/mod/document/329/1760100699_2025.10.08._valdes_lemumi_web.pdf" target="_blank">
@@ -336,9 +336,9 @@
 <div class="category">Valdes sēdes lēmumi</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/328/1760098165_Darba_kārtība_prese_03.09.2025.pdf" target="_blank">
 
-							Liepājas SEZ Valdes sēdes 2025.gada 3.septembra lēmumi
+Liepājas SEZ Valdes sēdes 2025.gada 3.septembra lēmumi
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1760098165_Darba_kārtība_prese_03.09.2025.pdf" class="document" href="../../doc/mod/document/328/1760098165_Darba_kārtība_prese_03.09.2025.pdf" target="_blank">
@@ -352,9 +352,9 @@
 <div class="category">Valdes sēdes lēmumi</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/307/1754988857_Darba_kārtība_prese_16.07.2025.pdf" target="_blank">
 
-							Liepājas SEZ Valdes sēdes 2025. gada 16. jūlija lēmumi
+Liepājas SEZ Valdes sēdes 2025. gada 16. jūlija lēmumi
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1754988857_Darba_kārtība_prese_16.07.2025.pdf" class="document" href="../../doc/mod/document/307/1754988857_Darba_kārtība_prese_16.07.2025.pdf" target="_blank">
@@ -368,9 +368,9 @@
 <div class="category">Valdes sēdes lēmumi</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/308/1754988896_Darba_kārtība_prese_06.08.2025.pdf" target="_blank">
 
-							Liepājas SEZ Valdes sēdes 2025. gada 6. augusta lēmumi
+Liepājas SEZ Valdes sēdes 2025. gada 6. augusta lēmumi
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1754988896_Darba_kārtība_prese_06.08.2025.pdf" class="document" href="../../doc/mod/document/308/1754988896_Darba_kārtība_prese_06.08.2025.pdf" target="_blank">
@@ -384,9 +384,9 @@
 <div class="category">Valdes sēdes lēmumi</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/284/1751881425_Darba_kārtība_prese.pdf" target="_blank">
 
-							Liepājas SEZ Valdes sēdes 2025. gada 2. jūlija lēmumi
+Liepājas SEZ Valdes sēdes 2025. gada 2. jūlija lēmumi
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1751881425_Darba_kārtība_prese.pdf" class="document" href="../../doc/mod/document/284/1751881425_Darba_kārtība_prese.pdf" target="_blank">
@@ -400,9 +400,9 @@
 <div class="category">Valdes sēdes lēmumi</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/275/1748591428_Darba_kārtība_22.05.2025_prese.pdf" target="_blank">
 
-							Liepājas SEZ Valdes sēdes 2025. gada 22. maija lēmumi
+Liepājas SEZ Valdes sēdes 2025. gada 22. maija lēmumi
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1748591428_Darba_kārtība_22.05.2025_prese.pdf" class="document" href="../../doc/mod/document/275/1748591428_Darba_kārtība_22.05.2025_prese.pdf" target="_blank">
@@ -416,9 +416,9 @@
 <div class="category">Valdes sēdes lēmumi</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/272/1746016571_Darba_kārtība_05.28.04.2025_prese.pdf" target="_blank">
 
-							Liepājas SEZ Valdes sēdes 2025. gada 28. aprīļa lēmumi
+Liepājas SEZ Valdes sēdes 2025. gada 28. aprīļa lēmumi
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1746016571_Darba_kārtība_05.28.04.2025_prese.pdf" class="document" href="../../doc/mod/document/272/1746016571_Darba_kārtība_05.28.04.2025_prese.pdf" target="_blank">
@@ -432,7 +432,7 @@
 <div class="next">
 <a aria-label="Tālāk" class="next docs-pagination" data-page="2" href="index.php">
 
-							Tālāk <img alt="Tālāk" src="../../img/round-right.svg"/>
+Tālāk <img alt="Tālāk" src="../../img/round-right.svg"/>
 </a>
 </div>
 </div></div>
@@ -487,20 +487,20 @@
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-6QTXK76SH0"></script>
 <script>
 
-				  window.dataLayer = window.dataLayer || [];
+window.dataLayer = window.dataLayer || [];
 
-				  function gtag(){dataLayer.push(arguments);}
+function gtag(){dataLayer.push(arguments);}
 
-				  gtag('js', new Date());
+gtag('js', new Date());
 
 
 
-				  gtag('config', 'G-6QTXK76SH0');
+gtag('config', 'G-6QTXK76SH0');
 
-				</script>
+</script>
 <script crossorigin="anonymous" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" src="https://code.jquery.com/jquery-3.7.0.min.js">
 
-				<script src="https://code.jquery.com/color/jquery.color.plus-names-2.1.2.min.js"></script>
+<script src="https://code.jquery.com/color/jquery.color.plus-names-2.1.2.min.js"></script>
 <script src="../../js/jarallax.min__cc5fd325af.js"></script>
 <script src="../../js/bootstrap.bundle.min.js"></script>
 <script src="../../js/main__7152e3fda1.js"></script>

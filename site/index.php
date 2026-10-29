@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 
 <html lang="lv">
 <head>
@@ -20,15 +20,15 @@
 <link href="css/block/banner/animate.min.css" rel="stylesheet" type="text/css"/><link href="css/block/banner/glide.core.min.css" rel="stylesheet" type="text/css"/><link href="css/block/banner/glide.theme.min.css" rel="stylesheet" type="text/css"/><link href="css/block/banner/main__8f5730ec2e.css" rel="stylesheet" type="text/css"/><link href="css/block/magnet/main__1d365e2dc4.css" rel="stylesheet" type="text/css"/><link href="css/block/index/main__7252a74784.css" rel="stylesheet" type="text/css"/><link href="css/block/news_three/main__1d365e2dc4.css" rel="stylesheet" type="text/css"/> <link href="cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
 <script>
 
-				const html = document.querySelector("html");
+const html = document.querySelector("html");
 
-				if(localStorage['contrast']){
+if(localStorage['contrast']){
 
-					html.classList.add(localStorage['contrast']);
+html.classList.add(localStorage['contrast']);
 
-				}
+}
 
-			</script>
+</script>
 <script>var web_url="https://liepaja-sez.lv/";</script>
 <script>var lang="lv";</script>
 </head>
@@ -458,21 +458,21 @@
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-6QTXK76SH0"></script>
 <script>
 
-				  window.dataLayer = window.dataLayer || [];
+window.dataLayer = window.dataLayer || [];
 
-				  function gtag(){dataLayer.push(arguments);}
+function gtag(){dataLayer.push(arguments);}
 
-				  gtag('js', new Date());
+gtag('js', new Date());
 
 
 
-				  gtag('config', 'G-6QTXK76SH0');
+gtag('config', 'G-6QTXK76SH0');
 
-				</script>
+</script>
 
 <script crossorigin="anonymous" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" src="https://code.jquery.com/jquery-3.7.0.min.js">
 
-				<script src="https://code.jquery.com/color/jquery.color.plus-names-2.1.2.min.js"></script>
+<script src="https://code.jquery.com/color/jquery.color.plus-names-2.1.2.min.js"></script>
 <script src="js/jarallax.min__cc5fd325af.js"></script>
 <script src="js/bootstrap.bundle.min.js"></script>
 <script src="js/main__7152e3fda1.js"></script>

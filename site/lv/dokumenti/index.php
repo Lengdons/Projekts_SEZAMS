@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 
 <html lang="lv">
 <head>
@@ -19,218 +19,21 @@
 <link href="../../css/block/documents/main__1d365e2dc4.css" rel="stylesheet" type="text/css"/> <link href="../../cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
 <script>
 
-				const html = document.querySelector("html");
+const html = document.querySelector("html");
 
-				if(localStorage['contrast']){
+if(localStorage['contrast']){
 
-					html.classList.add(localStorage['contrast']);
+html.classList.add(localStorage['contrast']);
 
-				}
+}
 
-			</script>
+</script>
 <script>var web_url="https://liepaja-sez.lv/";</script>
 <script>var lang="lv";</script>
 </head>
 <body>
-<div class="block" id="search-overlay">
-<div class="centered">
-<div id="search-box">
-<div class="fa fa-times fa-2x" id="close-btn">X</div>
-<form action="#" id="search-form" method="get" target="_top">
-<input id="search-text" name="q" placeholder="Es meklēju..." type="text"/>
-<button id="search-button" type="submit">
-<span>Meklēt</span>
-</button>
-</form>
-</div>
-</div>
-</div>
-<nav class="navbar navbar-expand-lg navbar-light bg-light b-2 fixed-top color-border">
-<div class="container align-items-end position-relative nav-container">
-<ul class="controls d-none d-lg-block">
-<li class="search-controls search-btn" id=""><i class="bi bi-search"></i></li>
-<li class="dropdown font-controls">
-<a aria-expanded="false" aria-label="Teksta izmērs" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="index.php" id="font-controls1">
-<span>A</span>
-<span>A</span>
-<span>A</span>
-</a>
-<ul aria-labelledby="font-controls1" class="dropdown-menu text-center font-size">
-<li><a class="dropdown-item" data-size="14" href="index.php">75%</a></li>
-<li><a class="dropdown-item active" data-size="15" href="index.php">100%</a></li>
-<li><a class="dropdown-item" data-size="16.5" href="index.php">125%</a></li>
-<li><a class="dropdown-item" data-size="17.5" href="index.php">150%</a></li>
-</ul>
-</li>
-<li class="dropdown contrast-controls nocontrast">
-<a aria-expanded="false" aria-label="Kontrasts" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="index.php" id="contrast-controls1">
-<i class="bi bi-circle-half"></i>
-</a>
-<ul aria-labelledby="contrast-controls1" class="dropdown-menu">
-<li><a class="control dropdown-item contrast-default active" data-class="blue" href="index.php"><i>A</i></a></li>
-<li><a class="control dropdown-item contrast1" data-class="black" href="index.php"><i>A</i></a></li>
-<li><a class="control dropdown-item contrast2" data-class="yellow2" href="index.php"><i>A</i></a></li>
-<li><a class="control dropdown-item contrast3" data-class="yellow" href="index.php"><i>A</i></a></li>
-</ul>
-</li>
-<li class="dropdown language-controls">
-<a aria-expanded="false" aria-label="Valodas izvēle" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="" id="language-controls1">
 
-										lv
-
-									</a><ul aria-labelledby="language-controls1" class="dropdown-menu text-center"><li><a class="dropdown-item" href="../../en/documents/index.php">en</a></li></ul> </li>
-</ul>
-<div class="brand-container">
-<a class="navbar-brand" href="../../index.php">
-<img alt="logo" class="site-logo" src="../../img/logo.svg" width="100"/>
-</a>
-</div>
-<div class="mobile-controls">
-<ul class="controls mobile d-flex d-lg-none">
-<li class="search-controls search-btn" id=""><i class="bi bi-search"></i></li>
-<li class="dropdown language-controls">
-<a aria-expanded="false" aria-label="Valodas izvēle" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="" id="language-controls2">
-
-											lv
-
-										</a><ul aria-labelledby="language-controls2" class="dropdown-menu text-center"><li><a class="dropdown-item" href="../../en/documents/index.php">en</a></li></ul> </li>
-</ul>
-<button aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler nocontrast" data-bs-target="#navbar" data-bs-toggle="collapse" type="button">
-<span class="navbar-toggler-icon"></span>
-</button>
-</div>
-<div class="collapse navbar-collapse" id="navbar">
-<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-<li class="nav-item">
-<a class="nav-link" href="../../index.php">Sākums</a>
-</li><li class="nav-item dropdown">
-<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../liepajas-sez/index.php" role="button">
-
-									Liepājas SEZ
-
-								</a><ul aria-labelledby="navbar" class="dropdown-menu">
-<li>
-<a class="dropdown-item" href="../investe-liepaja/index.php">Investē Liepājā</a>
-</li>
-<li class="dropend">
-<a class="dropdown-item dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../osta/index.php">
-
-									Osta
-
-								</a>
-<ul class="dropdown-menu">
-<li>
-<a class="dropdown-item" href="../par-ostu/index.php">Par ostu</a>
-</li>
-<li>
-<a class="dropdown-item" href="../pramju-satiksme/index.php">Prāmju satiksme</a>
-</li>
-<li>
-<a class="dropdown-item" href="../kruiza-kugi/index.php">Kruīza kuģi</a>
-</li>
-<li>
-<a class="dropdown-item" href="../jahtu-osta/index.php">Jahtu osta</a>
-</li>
-<li>
-<a class="dropdown-item" href="../oskara-kalpaka-tilts/index.php">Oskara Kalpaka tilts</a>
-</li>
-</ul>
-</li>
-<li>
-<a class="dropdown-item" href="../kapitalsabiedribas/index.php">Kapitālsabiedrības</a>
-</li>
-<li>
-<a class="dropdown-item" href="../attistibas-projekti/index.php">Attīstības projekti</a>
-</li>
-<li>
-<a class="dropdown-item" href="../darbs-liepaja/index.php">Darbs Liepājā</a>
-</li>
-<li>
-<a class="dropdown-item" href="../teritoriju-karte/index.php">Teritoriju karte</a>
-</li>
-</ul></li><li class="nav-item dropdown">
-<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../parvalde/index.php" role="button">
-
-									Pārvalde
-
-								</a><ul aria-labelledby="navbar" class="dropdown-menu">
-<li>
-<a class="dropdown-item" href="../parvaldiba/index.php">Pārvaldība</a>
-</li>
-<li>
-<a class="dropdown-item" href="../korporativa-parvaldiba/index.php">Korporatīvā pārvaldība</a>
-</li>
-<li>
-<a class="dropdown-item" href="../iepirkumi-un-izsoles/index.php">Iepirkumi un izsoles</a>
-</li>
-<li class="dropend">
-<a class="dropdown-item dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../darbibas-parskati/index.php">
-
-									Darbības pārskati
-
-								</a>
-<ul class="dropdown-menu">
-<li>
-<a class="dropdown-item" href="../valdes-sedes-lemumi/index.php">Valdes sēdes lēmumi</a>
-</li>
-<li>
-<a class="dropdown-item" href="../atskaites-par-darbibu/index.php">Atskaites par darbību</a>
-</li>
-<li>
-<a class="dropdown-item" href="../ostas-statistika/index.php">Ostas statistika</a>
-</li>
-</ul>
-</li></ul></li><li class="nav-item dropdown">
-<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="../jaunumi-1/index.php" role="button">
-
-									Jaunumi
-
-								</a><ul aria-labelledby="navbar" class="dropdown-menu">
-<li>
-<a class="dropdown-item" href="../medijiem/index.php">Medijiem</a>
-</li>
-<li>
-<a class="dropdown-item" href="../foto/index.php">Foto</a>
-</li>
-<li>
-<a class="dropdown-item" href="../valdes-sedes/index.php">Valdes sēdes</a>
-</li>
-</ul></li>
-<li class="nav-item">
-<a class="nav-link active" href="index.php">Dokumenti</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="../kontakti/index.php">Kontakti</a>
-</li>
-<hr class="dropdown-divider d-block d-lg-none"/>
-<li class="dropdown font-controls mobile d-flex d-lg-none">
-<a aria-expanded="false" aria-label="Teksta izmērs" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="index.php" id="font-controls2">
-<span>A</span>
-<span>A</span>
-<span>A</span>
-</a>
-<ul aria-labelledby="font-controls2" class="text-center font-size">
-<li><a class="" data-size="14" href="index.php">75%</a></li>
-<li><a class="active" data-size="15" href="index.php">100%</a></li>
-<li><a class="" data-size="16.5" href="index.php">125%</a></li>
-<li><a class="" data-size="17.5" href="index.php">150%</a></li>
-</ul>
-</li>
-<li class="dropdown contrast-controls mobile d-flex d-lg-none">
-<a aria-expanded="false" aria-label="Kontrasts" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="index.php" id="contrast-controls2">
-<i class="bi bi-circle-half"></i>
-</a>
-<ul aria-labelledby="contrast-controls2" class="">
-<li><a class="control contrast-default active" data-class="blue" href="index.php"><i>A</i></a></li>
-<li><a class="control contrast1" data-class="black" href="index.php"><i>A</i></a></li>
-<li><a class="control contrast2" data-class="yellow2" href="index.php"><i>A</i></a></li>
-<li><a class="control contrast3" data-class="yellow" href="index.php"><i>A</i></a></li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-</nav>
+<?php include __DIR__ . '/../lvnavbar.php'; ?>
 <div class="spacer"></div>
 <main class="pb-5">
 <div class="container pt-3">
@@ -242,57 +45,57 @@
 <a aria-label="Liepājas ostas noteikumi" class="d-flex align-items-center dc sidebar-nav-icon" data-value="57" href="57/index.php">
 <img alt="Liepājas ostas noteikumi" src="../../img/round-right-blue.svg"/>
 
-												Liepājas ostas noteikumi
+Liepājas ostas noteikumi
 
-											</a>
+</a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
 <a aria-label="Liepājas ostas maksas" class="d-flex align-items-center dc sidebar-nav-icon" data-value="58" href="58/index.php">
 <img alt="Liepājas ostas maksas" src="../../img/round-right-blue.svg"/>
 
-												Liepājas ostas maksas
+Liepājas ostas maksas
 
-											</a>
+</a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
 <a aria-label="Ostas kapteiņa rīkojumi" class="d-flex align-items-center dc sidebar-nav-icon" data-value="17" href="17/index.php">
 <img alt="Ostas kapteiņa rīkojumi" src="../../img/round-right-blue.svg"/>
 
-												Ostas kapteiņa rīkojumi
+Ostas kapteiņa rīkojumi
 
-											</a>
+</a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
 <a aria-label="Dokumenti saimnieciskās darbības līguma slēgšanai" class="d-flex align-items-center dc sidebar-nav-icon" data-value="8" href="8/index.php">
 <img alt="Dokumenti saimnieciskās darbības līguma slēgšanai" src="../../img/round-right-blue.svg"/>
 
-												Dokumenti saimnieciskās darbības līguma slēgšanai
+Dokumenti saimnieciskās darbības līguma slēgšanai
 
-											</a>
+</a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
 <a aria-label="Nomas un apbūves tiesības piešķiršanas dokumenti" class="d-flex align-items-center dc sidebar-nav-icon" data-value="51" href="51/index.php">
 <img alt="Nomas un apbūves tiesības piešķiršanas dokumenti" src="../../img/round-right-blue.svg"/>
 
-												Nomas un apbūves tiesības piešķiršanas dokumenti
+Nomas un apbūves tiesības piešķiršanas dokumenti
 
-											</a>
+</a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
 <a aria-label="Liepājas ostas režīma noteikumi" class="d-flex align-items-center dc sidebar-nav-icon" data-value="32" href="32/index.php">
 <img alt="Liepājas ostas režīma noteikumi" src="../../img/round-right-blue.svg"/>
 
-												Liepājas ostas režīma noteikumi
+Liepājas ostas režīma noteikumi
 
-											</a>
+</a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
 <a aria-label="Darbības plāns neparedzēta piesārņojuma gadījumā" class="d-flex align-items-center dc sidebar-nav-icon" data-value="37" href="37/index.php">
 <img alt="Darbības plāns neparedzēta piesārņojuma gadījumā" src="../../img/round-right-blue.svg"/>
 
-												Darbības plāns neparedzēta piesārņojuma gadījumā
+Darbības plāns neparedzēta piesārņojuma gadījumā
 
-											</a>
+</a>
 </div>
 </div>
 </div>
@@ -315,9 +118,9 @@
 <div class="category">Dokumenti pakalpojumu saņemšanai kuģiem</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/152/1791360538_Elektrības pieteikums_2026_V.Sproģis.docx" target="_blank">
 
-							Iesniegums par elektroenerģijas saņemšanu
+Iesniegums par elektroenerģijas saņemšanu
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1791360538_Elektrības pieteikums_2026_V.Sproģis.docx" class="document" href="../../doc/mod/document/152/1791360538_Elektrības pieteikums_2026_V.Sproģis.docx" target="_blank">
@@ -331,9 +134,9 @@
 <div class="category">Dokumenti pakalpojumu saņemšanai kuģiem</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/151/1791279044_Udens pieteikums_2026_A.Kudrēvičs.docx" target="_blank">
 
-							Iesniegums par ūdens saņemšanu
+Iesniegums par ūdens saņemšanu
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1791279044_Udens pieteikums_2026_A.Kudrēvičs.docx" class="document" href="../../doc/mod/document/151/1791279044_Udens pieteikums_2026_A.Kudrēvičs.docx" target="_blank">
@@ -347,9 +150,9 @@
 <div class="category">Maksas pakalpojumu cenrādis</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/395/1790661291_Maksas_pakalpojumu_cenrādis_mājas lapa.pdf" target="_blank">
 
-							Maksas pakalpojumu cenrādis
+Maksas pakalpojumu cenrādis
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1790661291_Maksas_pakalpojumu_cenrādis_mājas lapa.pdf" class="document" href="../../doc/mod/document/395/1790661291_Maksas_pakalpojumu_cenrādis_mājas lapa.pdf" target="_blank">
@@ -363,9 +166,9 @@
 <div class="category">Ostas kapteiņa rīkojumi</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/210/1789367548_8_4_3_11_09_2026_Par pielaujamiem kugu parametriem.pdf" target="_blank">
 
-							Par pieļaujamiem kuģu parametriem Liepājas ostā
+Par pieļaujamiem kuģu parametriem Liepājas ostā
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1789367548_8_4_3_11_09_2026_Par pielaujamiem kugu parametriem.pdf" class="document" href="../../doc/mod/document/210/1789367548_8_4_3_11_09_2026_Par pielaujamiem kugu parametriem.pdf" target="_blank">
@@ -379,9 +182,9 @@
 <div class="category">Liepājas ostas režīma noteikumi</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/280/1780983602_1750834817_Pieteikums zemūdens darbu atļaujai ostas akvatorijā.docx" target="_blank">
 
-							Pieteikums zemūdens darbu atļaujai ostas akvatorijā
+Pieteikums zemūdens darbu atļaujai ostas akvatorijā
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1780983602_1750834817_Pieteikums zemūdens darbu atļaujai ostas akvatorijā.docx" class="document" href="../../doc/mod/document/280/1780983602_1750834817_Pieteikums zemūdens darbu atļaujai ostas akvatorijā.docx" target="_blank">
@@ -395,9 +198,9 @@
 <div class="category">Korporatīvā pārvaldība</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/357/1775023725_pdfpro_merged.pdf" target="_blank">
 
-							Kvalitātes politika un ISO 9001:2015 sertifikāts
+Kvalitātes politika un ISO 9001:2015 sertifikāts
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1775023725_pdfpro_merged.pdf" class="document" href="../../doc/mod/document/357/1775023725_pdfpro_merged.pdf" target="_blank">
@@ -411,9 +214,9 @@
 <div class="category">Korporatīvā pārvaldība</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/344/1770721733_Kvalitātes politika_mājas lapai.pdf" target="_blank">
 
-							Kvalitātes politika un ISO 9001:2015 sertifikāts 
+Kvalitātes politika un ISO 9001:2015 sertifikāts 
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1770721733_Kvalitātes politika_mājas lapai.pdf" class="document" href="../../doc/mod/document/344/1770721733_Kvalitātes politika_mājas lapai.pdf" target="_blank">
@@ -427,9 +230,9 @@
 <div class="category">Piekļūstamības prasību izvērtēšanas protokols</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/325/1757496874_Piekļūstamības prasību izvērtēšanas protokols.pdf" target="_blank">
 
-							Piekļūstamības prasību izvērtēšanas protokols
+Piekļūstamības prasību izvērtēšanas protokols
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1757496874_Piekļūstamības prasību izvērtēšanas protokols.pdf" class="document" href="../../doc/mod/document/325/1757496874_Piekļūstamības prasību izvērtēšanas protokols.pdf" target="_blank">
@@ -443,9 +246,9 @@
 <div class="category">Nomas un apbūves tiesības piešķiršanas dokumenti</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/232/1753338747_LSEZ apbūves tiesības rezervēšanas un piešķiršanas kārtība.pdf" target="_blank">
 
-							Liepājas speciālās ekonomiskās zonas teritorijā esošo nekustamo īpašumu apbūves tiesības rezervēšanas un apbūves tiesības piešķiršanas kārtība
+Liepājas speciālās ekonomiskās zonas teritorijā esošo nekustamo īpašumu apbūves tiesības rezervēšanas un apbūves tiesības piešķiršanas kārtība
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1753338747_LSEZ apbūves tiesības rezervēšanas un piešķiršanas kārtība.pdf" class="document" href="../../doc/mod/document/232/1753338747_LSEZ apbūves tiesības rezervēšanas un piešķiršanas kārtība.pdf" target="_blank">
@@ -459,9 +262,9 @@
 <div class="category">Piestātņu ekspluatācijas noteikumi</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/145/1751881680_PTEN 2025 _APSTIPRINĀTS_02.07.2025.pdf" target="_blank">
 
-							Liepājas ostas piestātņu tehniskās ekspluatācijas noteikumi (spēkā no 02.07.2025)
+Liepājas ostas piestātņu tehniskās ekspluatācijas noteikumi (spēkā no 02.07.2025)
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1751881680_PTEN 2025 _APSTIPRINĀTS_02.07.2025.pdf" class="document" href="../../doc/mod/document/145/1751881680_PTEN 2025 _APSTIPRINĀTS_02.07.2025.pdf" target="_blank">
@@ -475,9 +278,9 @@
 <div class="category">Liepājas ostas maksas</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/76/1736242178_Liepājas ostas maksas (01.01.2025).pdf" target="_blank">
 
-							Liepājas ostas maksas (stājas spēkā no 01.01.2025)
+Liepājas ostas maksas (stājas spēkā no 01.01.2025)
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1736242178_Liepājas ostas maksas (01.01.2025).pdf" class="document" href="../../doc/mod/document/76/1736242178_Liepājas ostas maksas (01.01.2025).pdf" target="_blank">
@@ -491,9 +294,9 @@
 <div class="category">Liepājas ostas noteikumi</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/71/1724757985_liepajas-ostas-noteikumi-2024.pdf" target="_blank">
 
-							Liepājas ostas noteikumi
+Liepājas ostas noteikumi
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1724757985_liepajas-ostas-noteikumi-2024.pdf" class="document" href="../../doc/mod/document/71/1724757985_liepajas-ostas-noteikumi-2024.pdf" target="_blank">
@@ -507,9 +310,9 @@
 <div class="category">Nomas un apbūves tiesības piešķiršanas dokumenti</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/228/1729586930_LIP apbūves tiesības rezervēšanas un piešķiršanas kārtība-1.pdf" target="_blank">
 
-							Liepājas industriālā parka teritorijā esošo nekustamo īpašumu apbūves tiesības rezervēšanas un apbūves tiesības piešķiršanas kārtība
+Liepājas industriālā parka teritorijā esošo nekustamo īpašumu apbūves tiesības rezervēšanas un apbūves tiesības piešķiršanas kārtība
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1729586930_LIP apbūves tiesības rezervēšanas un piešķiršanas kārtība-1.pdf" class="document" href="../../doc/mod/document/228/1729586930_LIP apbūves tiesības rezervēšanas un piešķiršanas kārtība-1.pdf" target="_blank">
@@ -523,9 +326,9 @@
 <div class="category">Nomas un apbūves tiesības piešķiršanas dokumenti</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/229/1721978231_Īpašie nosacījumi komercdarbības veikšanai Liepājas industriālā parka teritorijā.pdf" target="_blank">
 
-							 Īpašie nosacījumi komercdarbības veikšanai Liepājas industriālā parka teritorijā
+Īpašie nosacījumi komercdarbības veikšanai Liepājas industriālā parka teritorijā
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1721978231_Īpašie nosacījumi komercdarbības veikšanai Liepājas industriālā parka teritorijā.pdf" class="document" href="../../doc/mod/document/229/1721978231_Īpašie nosacījumi komercdarbības veikšanai Liepājas industriālā parka teritorijā.pdf" target="_blank">
@@ -539,9 +342,9 @@
 <div class="category">Nomas un apbūves tiesības piešķiršanas dokumenti</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/233/1731307263_LSEZ iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" target="_blank">
 
-							Iesniegums līguma par apbūves tiesības rezervēšanu vai apbūves tiesības piešķiršanu Liepājas speciālās ekonomiskās zonas teritorijā slēgšanu
+Iesniegums līguma par apbūves tiesības rezervēšanu vai apbūves tiesības piešķiršanu Liepājas speciālās ekonomiskās zonas teritorijā slēgšanu
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1731307263_LSEZ iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" class="document" href="../../doc/mod/document/233/1731307263_LSEZ iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" target="_blank">
@@ -555,9 +358,9 @@
 <div class="category">Nomas un apbūves tiesības piešķiršanas dokumenti</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/231/1721978390_Pielikums_Nr_1.pdf" target="_blank">
 
-							Liepājas industriālā parka teritorijas plāns
+Liepājas industriālā parka teritorijas plāns
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1721978390_Pielikums_Nr_1.pdf" class="document" href="../../doc/mod/document/231/1721978390_Pielikums_Nr_1.pdf" target="_blank">
@@ -571,9 +374,9 @@
 <div class="category">Nomas un apbūves tiesības piešķiršanas dokumenti</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/230/1721978295_LIP iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" target="_blank">
 
-							Iesniegums līguma par apbūves tiesības rezervēšanu vai apbūves tiesības piešķiršanu Liepājas industriālā parka teritorijā slēgšanu
+Iesniegums līguma par apbūves tiesības rezervēšanu vai apbūves tiesības piešķiršanu Liepājas industriālā parka teritorijā slēgšanu
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1721978295_LIP iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" class="document" href="../../doc/mod/document/230/1721978295_LIP iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" target="_blank">
@@ -587,9 +390,9 @@
 <div class="category">Attīstības plāns</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/197/1724752435_LSEZ_attistibas_plans.pdf" target="_blank">
 
-							Liepājas SEZ attīstības plāns 2023. - 2035.gadam
+Liepājas SEZ attīstības plāns 2023. - 2035.gadam
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1724752435_LSEZ_attistibas_plans.pdf" class="document" href="../../doc/mod/document/197/1724752435_LSEZ_attistibas_plans.pdf" target="_blank">
@@ -603,9 +406,9 @@
 <div class="category">Darbības plāns neparedzēta piesārņojuma gadījumā</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/150/1723464984_LSEZ_drosibas_plans_2024.pdf" target="_blank">
 
-							Darbības plāns neparedzēta piesārņojuma gadījumā
+Darbības plāns neparedzēta piesārņojuma gadījumā
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1723464984_LSEZ_drosibas_plans_2024.pdf" class="document" href="../../doc/mod/document/150/1723464984_LSEZ_drosibas_plans_2024.pdf" target="_blank">
@@ -619,9 +422,9 @@
 <div class="category">Korporatīvā pārvaldība</div>
 <a aria-label="Dokuments" href="../../doc/mod/document/224/1718103373_etikas_kodekss.pdf" target="_blank">
 
-							Ētikas kodekss
+Ētikas kodekss
 
-						</a>
+</a>
 <div class="mt-2"></div>
 </div>
 <a aria-label="1718103373_etikas_kodekss.pdf" class="document" href="../../doc/mod/document/224/1718103373_etikas_kodekss.pdf" target="_blank">
@@ -635,7 +438,7 @@
 <div class="next">
 <a aria-label="Tālāk" class="next docs-pagination" data-page="2" href="index.php">
 
-							Tālāk <img alt="Tālāk" src="../../img/round-right.svg"/>
+Tālāk <img alt="Tālāk" src="../../img/round-right.svg"/>
 </a>
 </div>
 </div></div>
@@ -681,20 +484,20 @@
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-6QTXK76SH0"></script>
 <script>
 
-				  window.dataLayer = window.dataLayer || [];
+window.dataLayer = window.dataLayer || [];
 
-				  function gtag(){dataLayer.push(arguments);}
+function gtag(){dataLayer.push(arguments);}
 
-				  gtag('js', new Date());
+gtag('js', new Date());
 
 
 
-				  gtag('config', 'G-6QTXK76SH0');
+gtag('config', 'G-6QTXK76SH0');
 
-				</script>
+</script>
 <script crossorigin="anonymous" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" src="https://code.jquery.com/jquery-3.7.0.min.js">
 
-				<script src="https://code.jquery.com/color/jquery.color.plus-names-2.1.2.min.js"></script>
+<script src="https://code.jquery.com/color/jquery.color.plus-names-2.1.2.min.js"></script>
 <script src="../../js/jarallax.min__cc5fd325af.js"></script>
 <script src="../../js/bootstrap.bundle.min.js"></script>
 <script src="../../js/main__7152e3fda1.js"></script>

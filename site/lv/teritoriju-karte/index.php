@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 
 <html lang="lv">
 <head>
@@ -19,15 +19,15 @@
 <link href="../../css/block/banner/animate.min.css" rel="stylesheet" type="text/css"/><link href="../../css/block/banner/glide.core.min.css" rel="stylesheet" type="text/css"/><link href="../../css/block/banner/glide.theme.min.css" rel="stylesheet" type="text/css"/><link href="../../css/block/banner/main__8f5730ec2e.css" rel="stylesheet" type="text/css"/><link href="../../css/block/map/carousel.css" rel="stylesheet" type="text/css"/><link href="../../css/block/map/main__1d365e2dc4.css" rel="stylesheet" type="text/css"/><link href="../../css/block/text/main__f67bbdbffc.css" rel="stylesheet" type="text/css"/> <link href="../../cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
 <script>
 
-				const html = document.querySelector("html");
+const html = document.querySelector("html");
 
-				if(localStorage['contrast']){
+if(localStorage['contrast']){
 
-					html.classList.add(localStorage['contrast']);
+html.classList.add(localStorage['contrast']);
 
-				}
+}
 
-			</script>
+</script>
 <script>var web_url="https://liepaja-sez.lv/";</script>
 <script>var lang="lv";</script>
 </head>
@@ -43,57 +43,57 @@
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../investe-liepaja/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Investē Liepājā
+Investē Liepājā
 
-						</a>
+</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 sidebar-parent ps-0">
 <a class="sidebar-nav-icon inactive mb-4" href="">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Osta
+Osta
 
-						</a>
+</a>
 <div class="sidebar-nested ps-md-4">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../par-ostu/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Par ostu
+Par ostu
 
-						</a>
+</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../pramju-satiksme/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Prāmju satiksme
+Prāmju satiksme
 
-						</a>
+</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../kruiza-kugi/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Kruīza kuģi
+Kruīza kuģi
 
-						</a>
+</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../jahtu-osta/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Jahtu osta
+Jahtu osta
 
-						</a>
+</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../oskara-kalpaka-tilts/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Oskara Kalpaka tilts
+Oskara Kalpaka tilts
 
-						</a>
+</a>
 </div>
 </div>
 </div>
@@ -101,33 +101,33 @@
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../kapitalsabiedribas/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Kapitālsabiedrības
+Kapitālsabiedrības
 
-						</a>
+</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../attistibas-projekti/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Attīstības projekti
+Attīstības projekti
 
-						</a>
+</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
 <a aria-label="nosaukums" class="sidebar-nav-icon" href="../darbs-liepaja/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Darbs Liepājā
+Darbs Liepājā
 
-						</a>
+</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
 <a aria-label="nosaukums" class="active sidebar-nav-icon" href="index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
-							Teritoriju karte
+Teritoriju karte
 
-						</a>
+</a>
 </div>
 </div>
 </div>
@@ -455,20 +455,20 @@
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-6QTXK76SH0"></script>
 <script>
 
-				  window.dataLayer = window.dataLayer || [];
+window.dataLayer = window.dataLayer || [];
 
-				  function gtag(){dataLayer.push(arguments);}
+function gtag(){dataLayer.push(arguments);}
 
-				  gtag('js', new Date());
+gtag('js', new Date());
 
 
 
-				  gtag('config', 'G-6QTXK76SH0');
+gtag('config', 'G-6QTXK76SH0');
 
-				</script>
+</script>
 <script crossorigin="anonymous" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" src="https://code.jquery.com/jquery-3.7.0.min.js">
 
-				<script src="https://code.jquery.com/color/jquery.color.plus-names-2.1.2.min.js"></script>
+<script src="https://code.jquery.com/color/jquery.color.plus-names-2.1.2.min.js"></script>
 <script src="../../js/jarallax.min__cc5fd325af.js"></script>
 <script src="../../js/bootstrap.bundle.min.js"></script>
 <script src="../../js/main__7152e3fda1.js"></script>
