@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/medijiem/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -49,7 +49,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Fotos
@@ -57,7 +57,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -71,18 +71,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Liepaja SEZ Behörde entwickelt weiterhin notwendige Infrastruktur für Fischer im Hafen</h2>
+<h2>Liepāja SEZ Behörde entwickelt weiterhin notwendige Infrastruktur für Fischer im Hafen</h2>
 <span class="mb-3">25.03.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-parvalde-turpina-attistit-zvejniekiem-nepieciesamo-infrastrukturu-osta/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-sez-parvalde-turpina-attistit-zvejniekiem-nepieciesamo-infrastrukturu-osta/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Liepaja SEZ Authority hat den Bau einer Einfahrt zum Hafen 92 begonnen. Mitfinanziert durch das operationelle Programm des Europäischen Meeres-, Fischerei- und Aquakulturfonds für die Entwicklung der Fischerei 2021. - 2027. 1907. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-parvalde-turpina-attistit-zvejniekiem-nepieciesamo-infrastrukturu-osta/index.php">Weiterlesen</a>
+<p>Liepāja SEZ Authority beginnt den Bau der Zufahrtsstraße auf dem Hafen 92. Mit Mitteln des Europäischen Meeres-, Fischerei- und Aquakulturfonds kofinanzierte Liegeplätze 2021. - 2027. . </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-sez-parvalde-turpina-attistit-zvejniekiem-nepieciesamo-infrastrukturu-osta/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/283/1774438569_I40A7990.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-parvalde-turpina-attistit-zvejniekiem-nepieciesamo-infrastrukturu-osta/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-sez-parvalde-turpina-attistit-zvejniekiem-nepieciesamo-infrastrukturu-osta/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/283/1774438569_I40A7990.webp"/>
 </a>
 </div>
@@ -91,18 +91,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Änderungen des Gesetzes über die Verlängerung der Steuervergünstigung in Liepaja SEZ</h2>
+<h2>Änderungen des Gesetzes über die Verlängerung der Steuervergünstigung in Liepāja SEZ</h2>
 <span class="mb-3">11.03.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../virza-apstiprinasanai-saeima-grozijumus-likuma-nodoklu-atvieglojuma-termina-pagarinasanu-l/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/virza-apstiprinasanai-saeima-grozijumus-likuma-nodoklu-atvieglojuma-termina-pagarinasanu-l/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>Die Haushalts- und Finanzkommission des Parlaments heute, 11. Am März beschloss, die Saeima in der 3. Lesung zur Genehmigung von Gesetzesentwürfen Änderungen des Gesetzes über die Anwendung von Steuern in Freizonen und besonderen Wirtschaftszonen zu leiten. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../virza-apstiprinasanai-saeima-grozijumus-likuma-nodoklu-atvieglojuma-termina-pagarinasanu-l/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/virza-apstiprinasanai-saeima-grozijumus-likuma-nodoklu-atvieglojuma-termina-pagarinasanu-l/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/281/1773233449_I40A5405.webp)">
-<a aria-label="Weiterlesen" href="../virza-apstiprinasanai-saeima-grozijumus-likuma-nodoklu-atvieglojuma-termina-pagarinasanu-l/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/virza-apstiprinasanai-saeima-grozijumus-likuma-nodoklu-atvieglojuma-termina-pagarinasanu-l/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/281/1773233449_I40A5405.webp"/>
 </a>
 </div>
@@ -111,18 +111,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Vorstand der Liepaja SEZ 4. Beschlüsse vom März</h2>
+<h2>Vorstand der Liepāja SEZ 4. Beschlüsse vom März</h2>
 <span class="mb-3">10.03.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-valdes-4-marta-lemumi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-sez-valdes-4-marta-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Dieses Jahr, 4. Am März fand die regelmäßige Sitzung des Vorstands der Liepaja SEZ statt, in der 5 Fragen zu Schlepperdiensten im Hafen von Liepaja diskutiert wurden, zum Abschluss eines Baurechtsabkommens im Gebiet des Industrieparks Liepaja, zwei Immobilienreservierungsvereinbarungen und zum Thema Entfremdung von Immobilien.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-valdes-4-marta-lemumi/index.php">Weiterlesen</a>
+<p>Dieses Jahr, 4. Am März fand die regelmäßige Sitzung des Vorstands der Liepāja SEZ statt, in der 5 Fragen zu Schlepperdiensten im Hafen von Liepāja diskutiert wurden, zum Abschluss eines Baurechtsabkommens im Gebiet des Industrieparks Liepāja, zwei Immobilienreservierungsvereinbarungen und zum Thema Entfremdung von Immobilien.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-sez-valdes-4-marta-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/278/1773137745_15_03.05.2026._valde_LIP.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-valdes-4-marta-lemumi/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-sez-valdes-4-marta-lemumi/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/278/1773137745_15_03.05.2026._valde_LIP.webp"/>
 </a>
 </div>
@@ -134,15 +134,15 @@ Vorstandssitzungen
 <h2>Öffentliche Sitzung zur Einleitung der Umweltverträglichkeitsprüfung für die NorthSAF-Fuel Facility</h2>
 <span class="mb-3">05.03.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../publiska-sanaksme-par-ietekmes-uz-vidi-novertejuma-uzsaksanu-norsaf-ilgtspejigas-aviacijas/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/publiska-sanaksme-par-ietekmes-uz-vidi-novertejuma-uzsaksanu-norsaf-ilgtspejigas-aviacijas/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>Mit einer breiten Erklärung und Diskussion 4. Am Abend des März fand ein erstes öffentliches Treffen zur Umweltverträglichkeitsprüfung der Pläne "NorSAF" für eine nachhaltige Kraftstoffproduktion im Luftverkehr statt. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../publiska-sanaksme-par-ietekmes-uz-vidi-novertejuma-uzsaksanu-norsaf-ilgtspejigas-aviacijas/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/publiska-sanaksme-par-ietekmes-uz-vidi-novertejuma-uzsaksanu-norsaf-ilgtspejigas-aviacijas/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/277/1772709234_I40A4933.webp)">
-<a aria-label="Weiterlesen" href="../publiska-sanaksme-par-ietekmes-uz-vidi-novertejuma-uzsaksanu-norsaf-ilgtspejigas-aviacijas/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/publiska-sanaksme-par-ietekmes-uz-vidi-novertejuma-uzsaksanu-norsaf-ilgtspejigas-aviacijas/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/277/1772709234_I40A4933.webp"/>
 </a>
 </div>
@@ -154,15 +154,15 @@ Vorstandssitzungen
 <h2>Unternehmer investieren weiterhin in die Entwicklung durch den Bau neuer Produktionsanlagen und Transformator</h2>
 <span class="mb-3">16.02.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../uznemeji-turpina-ieguldit-attistiba-buvejot-jaunas-razosanas-telpas-un-transformatoru/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/uznemeji-turpina-ieguldit-attistiba-buvejot-jaunas-razosanas-telpas-un-transformatoru/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>In diesem Jahr wurden die ersten beiden Investitionsverträge mit Liepaja SEZ Unternehmen für einen Gesamtbetrag von 2 078 514,00 EUR abgeschlossen. Beide Projekte wurden vom Vorstand der Liepaja SEZ geprüft und unterstützt, wobei die Beihilfeintensität und das Recht auf direkte Steuererleichterungen für beabsichtigte Investitionen erst dann festgelegt wurden, wenn sie getätigt werden.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../uznemeji-turpina-ieguldit-attistiba-buvejot-jaunas-razosanas-telpas-un-transformatoru/index.php">Weiterlesen</a>
+<p>In diesem Jahr wurden die ersten beiden Investitionsverträge mit Liepāja SEZ Unternehmen für einen Gesamtbetrag von 2 078 514,00 EUR abgeschlossen. Beide Projekte wurden vom Vorstand der Liepāja SEZ geprüft und unterstützt, wobei die Beihilfeintensität und das Recht auf direkte Steuererleichterungen für beabsichtigte Investitionen erst dann festgelegt wurden, wenn sie getätigt werden.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/uznemeji-turpina-ieguldit-attistiba-buvejot-jaunas-razosanas-telpas-un-transformatoru/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/275/1771264521_12_02.16.2026._AE partner.webp)">
-<a aria-label="Weiterlesen" href="../uznemeji-turpina-ieguldit-attistiba-buvejot-jaunas-razosanas-telpas-un-transformatoru/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/uznemeji-turpina-ieguldit-attistiba-buvejot-jaunas-razosanas-telpas-un-transformatoru/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/275/1771264521_12_02.16.2026._AE partner.webp"/>
 </a>
 </div>
@@ -171,18 +171,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Liepaja SEZ Authority 2026. Jährlicher Haushaltsplan mit Schwerpunkt auf Entwicklung</h2>
+<h2>Liepāja SEZ Authority 2026. Jährlicher Haushaltsplan mit Schwerpunkt auf Entwicklung</h2>
 <span class="mb-3">10.02.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-parvaldes-2026-gada-budzets-versts-uz-attistibu/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-sez-parvaldes-2026-gada-budzets-versts-uz-attistibu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Liepaja SEZ Authority 2026. Der jährliche Haushalt wurde auf konservative und ausgewogene Weise geschaffen, um sowohl die Ausführung von Grundfunktionen als auch die weitere Umsetzung entwicklungsorientierter Investitionsvorhaben in Hafen- und Industriegebieten sicherzustellen. Auflage. Die strategische Ausrichtung des Jahres zielt auf die Steigerung der operativen Effizienz, den Aufbau von Infrastruktur durch digitale Verwaltung im Hafen und die Verbesserung der Cybersicherheit ab. Liepaja SEZ Vorstand genehmigt 2026. Jahresbudget mit geplantem Umsatz von 17,9 Mio. EUR  </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-parvaldes-2026-gada-budzets-versts-uz-attistibu/index.php">Weiterlesen</a>
+<p>Liepāja SEZ Behörde 2026. Der jährliche Haushalt wurde auf konservative und ausgewogene Weise geschaffen, um sowohl die Ausführung von Grundfunktionen als auch die weitere Umsetzung entwicklungsorientierter Investitionsvorhaben in Hafen- und Industriegebieten sicherzustellen. 2026. Die strategische Ausrichtung des Jahres zielt auf die Steigerung der operativen Effizienz, den Aufbau von Infrastruktur durch digitale Verwaltung im Hafen und die Verbesserung der Cybersicherheit ab. Liepāja SEZ Vorstand genehmigt 2026. Jahresbudget mit geplantem Umsatz 17,9 Mio. EUR  </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-sez-parvaldes-2026-gada-budzets-versts-uz-attistibu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/273/1770720137_09_02.10.2026._LSEZ_parvaldes_budzets_2026.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-parvaldes-2026-gada-budzets-versts-uz-attistibu/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-sez-parvaldes-2026-gada-budzets-versts-uz-attistibu/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/273/1770720137_09_02.10.2026._LSEZ_parvaldes_budzets_2026.webp"/>
 </a>
 </div>
@@ -191,7 +191,7 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev" data-block="2" data-page="5" data-per-page="6" data-topic="14" href="../5/index.php">
+<a class="news-list-pagination prev" data-block="2" data-page="5" data-per-page="6" data-topic="14" href="/site/de/medijiem/5/index.php">
 <img alt="Zurück" src="../../../img/round-right.svg"/>
 
 Zurück
@@ -199,7 +199,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="2" data-page="7" data-per-page="6" data-topic="14" href="../7/index.php">
+<a class="news-list-pagination next" data-block="2" data-page="7" data-per-page="6" data-topic="14" href="/site/de/medijiem/7/index.php">
 
 Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 </a>
@@ -244,7 +244,7 @@ Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

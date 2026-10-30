@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/jaunumi-1/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -49,7 +49,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Fotos
@@ -57,7 +57,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -71,18 +71,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Liepaja SEZ Authority kündigt Beschaffung für Hafen von Liepaja 46 an. mit einem Hubraum von 250 cm3 oder weniger</h2>
+<h2>Liepāja SEZ Authority kündigt Beschaffung für Hafen von Liepāja an 46. mit einem Hubraum von oder weniger</h2>
 <span class="mb-3">08.10.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-parvalde-izsludina-iepirkumu-par-liepajas-ostas-46-piestatnes-parbuvi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepajas-sez-parvalde-izsludina-iepirkumu-par-liepajas-ostas-46-piestatnes-parbuvi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Um die Entwicklung von Fracht- und Passagierfährlinien mit dem Hafen von Liepaja zu fördern und die Kontinuität des Warenflusses sicherzustellen, setzt Liepaja SEZ seine Arbeit fort, um den Hafen von Liepaja 46 wieder aufzubauen. Der Kai. Die regelmäßige Bereitstellung des Fährverkehrs ist nicht nur für Liepaja und Lettland, sondern auch für die Wirtschaft der EU und den Transport militärischer Mobilität von strategischer Bedeutung. Letztes Jahr stellte der Kai 1,8 Millionen zur Verfügung. eine Tonne Frachtumschlag im Wert von rund 4 Mrd. EUR.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-parvalde-izsludina-iepirkumu-par-liepajas-ostas-46-piestatnes-parbuvi/index.php">Weiterlesen</a>
+<p>Um die Entwicklung von Fracht- und Passagierfährlinien mit dem Hafen von Liepāja zu fördern und die Kontinuität des Warenflusses sicherzustellen, setzt Liepāja SEZ seine Arbeit fort, um den Hafen von Liepāja 46 wieder aufzubauen. Der Kai. Die regelmäßige Bereitstellung des Fährverkehrs ist nicht nur für Liepāja und Lettland, sondern auch für die Wirtschaft der EU und den Transport militärischer Mobilität von strategischer Bedeutung. Letztes Jahr stellte der Kai 1,8 Millionen zur Verfügung. eine Tonne Frachtumschlag im Wert von rund 4 Mrd. EUR.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepajas-sez-parvalde-izsludina-iepirkumu-par-liepajas-ostas-46-piestatnes-parbuvi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/253/1759944343_49_10.08.2025._vizualizācija_46.piestatne_1.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-parvalde-izsludina-iepirkumu-par-liepajas-ostas-46-piestatnes-parbuvi/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepajas-sez-parvalde-izsludina-iepirkumu-par-liepajas-ostas-46-piestatnes-parbuvi/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/253/1759944343_49_10.08.2025._vizualizācija_46.piestatne_1.webp"/>
 </a>
 </div>
@@ -91,18 +91,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>"Stena Line" wird "Terrabalt" kaufen und Hafenbetrieb in Liepaja</h2>
+<h2>"Stena Line" wird "Terrabalt" kaufen und Hafenbetrieb in Liepāja</h2>
 <span class="mb-3">10.09.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../stena-line-iegadasies-terrabalt-un-nodrosinas-ostas-operacijas-liepaja/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/stena-line-iegadasies-terrabalt-un-nodrosinas-ostas-operacijas-liepaja/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Die Fährgesellschaft "Stena Line" wird weiterhin das Wachstum des Handels und die Stabilität der Lieferketten in der Ostsee fördern, um alle Teile des Hafenbetreibers von Liepaja zu erwerben.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../stena-line-iegadasies-terrabalt-un-nodrosinas-ostas-operacijas-liepaja/index.php">Weiterlesen</a>
+<p>Die Fährgesellschaft "Stena Line" wird weiterhin das Wachstum des Handels und die Stabilität der Lieferketten in der Ostsee fördern, um alle Teile des Hafenbetreibers von Liepāja zu erwerben.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/stena-line-iegadasies-terrabalt-un-nodrosinas-ostas-operacijas-liepaja/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/247/1757492557_54766590116_f08ae260c4_o.webp)">
-<a aria-label="Weiterlesen" href="../stena-line-iegadasies-terrabalt-un-nodrosinas-ostas-operacijas-liepaja/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/stena-line-iegadasies-terrabalt-un-nodrosinas-ostas-operacijas-liepaja/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/247/1757492557_54766590116_f08ae260c4_o.webp"/>
 </a>
 </div>
@@ -114,15 +114,15 @@ Vorstandssitzungen
 <h2>Informationen über die Veröffentlichung einer Bekanntmachung über die Immobilienauktion bei Pulvera iela 29</h2>
 <span class="mb-3">27.08.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../informacijas-precizejums-par-publiceto-pazinojumu-par-nekustama-ipasuma-izsoli-pulvera-iel/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/informacijas-precizejums-par-publiceto-pazinojumu-par-nekustama-ipasuma-izsoli-pulvera-iel/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Liepaja Special Economic Zone Authority klärt in diesem Jahr 1. Ankündigung zur Immobilienauktion veröffentlicht am 29. August 2009 in Pulvera iela</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../informacijas-precizejums-par-publiceto-pazinojumu-par-nekustama-ipasuma-izsoli-pulvera-iel/index.php">Weiterlesen</a>
+<p>Liepāja Special Economic Zone Authority spezifiziert dieses Jahr 1. veröffentlicht Mitteilung über die Immobilienauktion in Pulvera Street, August 29</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/informacijas-precizejums-par-publiceto-pazinojumu-par-nekustama-ipasuma-izsoli-pulvera-iel/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/243/1756303751_original_1754024810_original_1749026168_original_1746620912_original_1744188343_LSEZ_aero (234).webp)">
-<a aria-label="Weiterlesen" href="../informacijas-precizejums-par-publiceto-pazinojumu-par-nekustama-ipasuma-izsoli-pulvera-iel/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/informacijas-precizejums-par-publiceto-pazinojumu-par-nekustama-ipasuma-izsoli-pulvera-iel/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/243/1756303751_original_1754024810_original_1749026168_original_1746620912_original_1744188343_LSEZ_aero (234).webp"/>
 </a>
 </div>
@@ -131,18 +131,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Die Straßen des Industrieparks Liepaja werden benannt</h2>
+<h2>Die Straßen des Industrieparks Liepāja werden benannt</h2>
 <span class="mb-3">22.08.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-industriala-parka-ielam-pieskir-nosaukumus/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepajas-industriala-parka-ielam-pieskir-nosaukumus/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Liepaja City Council, 21. Am 18. August wurden acht neue Straßennamen für die geplanten Straßen im Gebiet der ehemaligen Fabrik Liepaja metallurgs genehmigt.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-industriala-parka-ielam-pieskir-nosaukumus/index.php">Weiterlesen</a>
+<p>Stadtrat von Liepāja, 21. Am . August wurden acht neue Straßennamen für die geplanten Straßen im Gebiet der ehemaligen Fabrik Liepāja metallurgs genehmigt.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepajas-industriala-parka-ielam-pieskir-nosaukumus/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/241/1755849138__R1A1285.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-industriala-parka-ielam-pieskir-nosaukumus/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepajas-industriala-parka-ielam-pieskir-nosaukumus/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/241/1755849138__R1A1285.webp"/>
 </a>
 </div>
@@ -151,18 +151,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Liepaja SEZ Authority rundet den Prozess der Rekonstruktion des Bauprojekts Nr.46 Liepaja Port Pier ab</h2>
+<h2>Liepāja SEZ Authority rundet den Prozess der Rekonstruktion des Bauprojekts Nr.46 Liepāja Port Pier ab</h2>
 <span class="mb-3">22.08.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-parvalde-nosledz-buvprojekta-liepajas-ostas-piestatnes-nr46-parbuve-izstrades/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepajas-sez-parvalde-nosledz-buvprojekta-liepajas-ostas-piestatnes-nr46-parbuve-izstrades/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Ziel des Projekts ist es, eine sichere Anlegemöglichkeit von RO-RO-Fähren im Hafen von Liepaja zu gewährleisten und dadurch die Kapazität der TEN-T-Infrastruktur zu stärken sowie den Zugang zu internen und externen Märkten durch verbesserte Seeverkehrsverbindungen zu verbessern.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-parvalde-nosledz-buvprojekta-liepajas-ostas-piestatnes-nr46-parbuve-izstrades/index.php">Weiterlesen</a>
+<p>Ziel des Projekts ist es, eine sichere Anlegemöglichkeit von RO-RO-Fähren im Hafen von Liepāja zu gewährleisten und dadurch die Kapazität der TEN-T-Infrastruktur zu stärken sowie den Zugang zu internen und externen Märkten durch verbesserte Seeverkehrsverbindungen zu verbessern.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepajas-sez-parvalde-nosledz-buvprojekta-liepajas-ostas-piestatnes-nr46-parbuve-izstrades/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/256/1760339559_870-eu.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-parvalde-nosledz-buvprojekta-liepajas-ostas-piestatnes-nr46-parbuve-izstrades/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepajas-sez-parvalde-nosledz-buvprojekta-liepajas-ostas-piestatnes-nr46-parbuve-izstrades/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/256/1760339559_870-eu.webp"/>
 </a>
 </div>
@@ -174,15 +174,15 @@ Vorstandssitzungen
 <h2>Unternehmerfrühstück im Leuchtturm</h2>
 <span class="mb-3">08.08.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../uznemeju-brokastis-pie-bakas/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/uznemeju-brokastis-pie-bakas/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>8. Am August 2016 lud die Liepaja SEZ Behörde zum monatlichen "Enterprise Breakfast" ein, um mit neu gebauten Fischverarbeitungsanlagen "Syfud" und Projekten der Liepaja-SEZ-Agentur die notwendige Infrastruktur für die Fischerei zu schaffen. Gleichzeitig bietet es Unternehmern die Möglichkeit, einen Leuchtturm zu besichtigen, der in Zusammenarbeit mit der Gemeinde zur Besichtigung geöffnet werden soll, ergänzt durch eine multimediale Ausstellung der Hafengeschichte. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../uznemeju-brokastis-pie-bakas/index.php">Weiterlesen</a>
+<p>8. Am August lud die Liepāja SEZ Behörde zum monatlichen "Enterprise Breakfast" ein, um mit der neu gebauten Fischverarbeitungsanlage "Syfud" und den von der Liepāja SEZ Administration durchgeführten Projekten die notwendige Infrastruktur für die Fischerei zu schaffen. Gleichzeitig bietet es Unternehmern die Möglichkeit, einen Leuchtturm zu besichtigen, der in Zusammenarbeit mit der Gemeinde zur Besichtigung geöffnet werden soll, ergänzt durch eine multimediale Ausstellung der Hafengeschichte. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/uznemeju-brokastis-pie-bakas/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/238/1754662800__R1A0385.webp)">
-<a aria-label="Weiterlesen" href="../uznemeju-brokastis-pie-bakas/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/uznemeju-brokastis-pie-bakas/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/238/1754662800__R1A0385.webp"/>
 </a>
 </div>
@@ -191,7 +191,7 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev" data-block="2" data-page="8" data-per-page="6" data-topic="14" href="../8/index.php">
+<a class="news-list-pagination prev" data-block="2" data-page="8" data-per-page="6" data-topic="14" href="/site/de/jaunumi-1/8/index.php">
 <img alt="Zurück" src="../../../img/round-right.svg"/>
 
 Zurück
@@ -199,7 +199,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="2" data-page="10" data-per-page="6" data-topic="14" href="../10/index.php">
+<a class="news-list-pagination next" data-block="2" data-page="10" data-per-page="6" data-topic="14" href="/site/de/jaunumi-1/10/index.php">
 
 Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 </a>
@@ -244,7 +244,7 @@ Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

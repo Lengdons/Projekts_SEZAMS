@@ -6,13 +6,13 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
-<meta content="Hafen von Liepaja, Liepaja Bezirkspartnerschaft, Uldis Hmielevskis, Egils Sveilis" name="keywords"/><meta content="follow, index" name="robots"/><meta content="https://lsez.it-lideris.lv//img/mod/news/35/1702379138__R1A0609.webp" property="og:image"/><meta content="article" property="og:type"/>
+<meta content="Hafen von Liepāja, Liepāja Bezirkspartnerschaft, Uldis Hmielevskis, Egils Sveilis" name="keywords"/><meta content="follow, index" name="robots"/><meta content="https://lsez.it-lideris.lv//img/mod/news/35/1702379138__R1A0609.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/medijiem/biedriba-liepajas-rajona-partneriba-iepazistas-ar-zvejniekiem-nepieciesamo-infrastrukturu-" property="og:url"/>
-<meta content="Verein der Liepaja Bezirkspartnerschaft.Erfahren Sie die notwendige Infrastruktur für Fischer im Hafen von Liepaja" property="og:title"/>
+<meta content="Verein der Liepāja Bezirkspartnerschaft.Erfahren Sie die notwendige Infrastruktur für Fischer im Hafen von Liepāja" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Verein der Liepaja Bezirkspartnerschaft.Erkunden Sie sich mit der notwendigen Infrastruktur für Fischer im Hafen von Liepaja.</title>
+<title>Verein der Liepāja Bezirkspartnerschaft.Erkunden Sie sich mit der notwendigen Infrastruktur für Fischer im Hafen von Liepāja.</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
@@ -38,18 +38,18 @@ html.classList.add(localStorage['contrast']);
 <div class="container article-full pt-5 my-5">
 <div class="row">
 <div class="col-12 col-md-9 offset-md-3 mt-md-5">
-<span class="date d-block mt-md-5">17. 8. August 2023</span>
-<h1 class="article-title">Verein der Liepaja Bezirkspartnerschaft.Erfahren Sie die notwendige Infrastruktur für Fischer im Hafen von Liepaja</h1>
+<span class="date d-block mt-md-5">17. August 2023</span>
+<h1 class="article-title">Verein der Liepāja Bezirkspartnerschaft.Erfahren Sie die notwendige Infrastruktur für Fischer im Hafen von Liepāja</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Der neue Rat der Gesellschaft √Liepāja Bezirkspartnerschaft ♫ 9. Im August lernte sie Projekte kennen, die von der Liepaja SEZ Authority im Hafen von Liepaja durchgeführt wurden, um den Fischern die notwendige Infrastruktur zu bieten. Gleichzeitig diskutierten Liepaja SEZ-Manager Uldis Hmielevskis und der stellvertretende Technische Direktor Egils Sveili über die Bedürfnisse und Ideen, die im neuen Aktionsprogramm des Europäischen Meeres- und Fischereifonds für Maßnahmen zur Entwicklung der Fischerei umgesetzt werden könnten.</p><p>Die Fischereiindustrie war für Liepaja schon immer wichtig, da sie nicht nur aus der Fischerei besteht, sondern auch aus Fischverarbeitungs- und Fischproduktionsunternehmen. Die Liepaja SEZ-Behörde unterstützt daher durch die Organisation der notwendigen Infrastruktur die Fischerei, trägt zur Verbesserung der täglichen Arbeitsbedingungen von Fischern bei und sorgt gleichzeitig für urbane Umwelt, was sie für jeden Pilger und Gäste der Stadt attraktiv macht.</p><p>Aktionsprogramm des Europäischen Meeres- und Fischereifonds für die Entwicklung der Fischerei 2014. Insbesondere ist die Kommission der Auffassung, dass staatliche Beihilfen im Sinne von Artikel 107 Absatz 1 AEUV nicht erforderlich sind. Die Liepaja SEZ Authority hat drei Projekte durchgeführt - 2017. 1931 rekonstruierte er das Alte Ostmal von der Uliha Straße nach Celtnieku Straße, als er den Bürgersteig der Kutsche ersetzte. Die 3. Phase des Projekts wird 2019 umgesetzt. Im Jahr 1999 wurde das Gebiet am Ende der Uliha Straße verbessert, ein Lagerhaus in sowjetischer Zeit gebaut und baute einen Parkplatz und Fischentladeplatz für LKW.</p><p>Am ehrgeizigsten war das Projekt 2. eine Schicht, die 2023 in Betrieb genommen wurde. Anfang 2009, als die alte Oostmala rekonstruiert wurde Kai Nr.83, No.85, No.86 und No.87, während auf der Jaunliepaja Seite der Kai Nr.71 und Nr.72 erneuert wurden, sowie den Abschnitt der Delocknieku Straße. Insgesamt sind mehr als 600 Meter Liegeplätze angeordnet - ~ 360 Meter von ihnen auf der Alten Liepāja Seite, während ~240 Meter in Jaunliepaja. Ebenfalls arrangiert Abschnitt der Atslēgnieku Straße 800 Meter lang, die Fischlandung und den Transport von Fischern zum und vom Pier gewährleistet. Der Straßenabschnitt des Hafens hat eine solide Abdeckung erhalten und daher gibt es keine gemeinsamen Bodenstraßen im Hafengebiet.</p><p>Uldis Hmielevskis, Liepaja SEZ Generaldirektor und stellvertretender Technischer Direktor der Liepaja-Sez-Behörde Egils Sveilis erörterte mit dem Assoziationsrat "Partnerschaft Liepāja," welche Projekte zur Unterstützung von Fischerei und Fischerei für die Durchführung des Aktionsprogramms des Europäischen Meeres- und Fischereifonds für die Entwicklung der Fischerei 2021 geplant sind. ABl. 1907.</p><p>Die Liepaja Bezirkspartnerschaft, die 2006 gegründet wurde und eine lokale Aktionsgruppe in der Region Südkurzeme ist. 19. Mai Im September soll die öffentliche Beteiligung an der Entwicklung des ländlichen Raums gefördert und unterstützt werden, eine Strategie für nachhaltige Entwicklung unter Anwendung von Grundsätzen der öffentlichen Beteiligung entwickelt und umgesetzt werden, die Zusammenarbeit mit staatlichen, kommunalen und nichtstaatlichen Organisationen, Unternehmen und anderen Institutionen in Lettland und im Ausland koordiniert und die finanziellen, materiellen, intellektuellen und sonstigen Ressourcen zur Vertretung der Interessen der Bürger des Partnerschaftsraums auf nationaler und internationaler Ebene anzuziehen.</p><p>Die Organisation verwaltet den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und den Europäischen Meeres- und Fischereifonds (EMFF), der sowohl Projekte von Unternehmen als auch öffentlichem Nutzen unterstützt.</p></div>
+<div class="col"><div class="col-12 output"><p>Der neue Rat der Gesellschaft √Liepāja Bezirkspartnerschaft ♫ 9. Im August lernte sie Projekte kennen, die von der Liepāja SEZ Authority im Hafen von Liepāja durchgeführt wurden, um den Fischern die notwendige Infrastruktur zu bieten. Gleichzeitig diskutierten Liepāja SEZ-Manager Uldis Hmielevskis und der stellvertretende Technische Direktor Egils Sveili über die Bedürfnisse und Ideen, die im neuen Aktionsprogramm des Europäischen Meeres- und Fischereifonds für Maßnahmen zur Entwicklung der Fischerei umgesetzt werden könnten.</p><p>Die Fischereiindustrie war für Liepāja schon immer wichtig, da sie nicht nur aus der Fischerei besteht, sondern auch aus Fischverarbeitungs- und Fischproduktionsunternehmen. Die Liepāja SEZ-Behörde unterstützt daher durch die Organisation der notwendigen Infrastruktur die Fischerei, trägt zur Verbesserung der täglichen Arbeitsbedingungen von Fischern bei und sorgt gleichzeitig für urbane Umwelt, was sie für jeden Pilger und Gäste der Stadt attraktiv macht.</p><p>Aktionsprogramm des Europäischen Meeres- und Fischereifonds für die Entwicklung der Fischerei 2014. – 2020. Die Liepāja SEZ-Behörde hat drei Projekte durchgeführt - 2017. rekonstruierte er das Alte Ostmal von der Uliha Straße nach Celtnieku Straße, als er den Bürgersteig der Kutsche ersetzte. Projektdurchführung 3im Rahmen einer zweiten Phase 2019. Im Jahr wurde das Gebiet am Ende der Uliha Straße verbessert, ein Lagerhaus in sowjetischer Zeit gebaut und baute einen Parkplatz und Fischentladeplatz für LKW.</p><p>Das ambitionierteste war das Projekt 2. eine in Betrieb genommene Schicht 2023. Anfang wurde die alte Oostmala durch Kai Nr.83, Nein85,Nein86 und Nr.87Während in Jaunliepaja der Kai Nr. erneuert wurde.71 und Nr.72, sowie die Schließfachstraße Abschnitt. Im Allgemeinen sind Kais mehr als arrangiert 600Meter lang - ~ 360 Meter von ihnen auf der alten Liepāja Seite, während ~240 Ich bekomme eine Sekunde in New Liepāja. Auch angeordneter Abschnitt der Atlocknieku Straße 800 eine Länge von Metern, die die Landung von Fischen und den Transport von Fischern zum Kai und vom Kai gewährleistet. Der Straßenabschnitt des Hafens hat eine solide Abdeckung erhalten und daher gibt es keine gemeinsamen Bodenstraßen im Hafengebiet.</p><p>Uldis Hmielevskis, Liepāja SEZ Manager und stellvertretender Technischer Direktor der Liepāja SEZ Authority Egils Sveilis diskutierte mit dem Rat der Verbände "Partnerschaft von Liepāja," welche Projekte zur Unterstützung der Fischerei und der Fischerei für die Durchführung des Aktionsprogramms des Europäischen Meeres- und Fischereifonds für die Entwicklung der Fischerei geplant sind. 2021. – 2027. .</p><p>Die Liepāja Bezirkspartnerschaft, die 2006 gegründet wurde und eine lokale Aktionsgruppe in der Region Südkurzeme ist. 19. Mai Im September soll die öffentliche Beteiligung an der Entwicklung des ländlichen Raums gefördert und unterstützt werden, eine Strategie für nachhaltige Entwicklung unter Anwendung von Grundsätzen der öffentlichen Beteiligung entwickelt und umgesetzt werden, die Zusammenarbeit mit staatlichen, kommunalen und nichtstaatlichen Organisationen, Unternehmen und anderen Institutionen in Lettland und im Ausland koordiniert und die finanziellen, materiellen, intellektuellen und sonstigen Ressourcen zur Vertretung der Interessen der Bürger des Partnerschaftsraums auf nationaler und internationaler Ebene anzuziehen.</p><p>Die Organisation verwaltet den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und den Europäischen Meeres- und Fischereifonds (EMFF), der sowohl Projekte von Unternehmen als auch öffentlichem Nutzen unterstützt.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/35/870_1702379138__R1A0609.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/35/original_1702379138__R1A0609.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/35/original_1702379138__R1A0609.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -69,12 +69,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -84,12 +84,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -131,7 +131,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

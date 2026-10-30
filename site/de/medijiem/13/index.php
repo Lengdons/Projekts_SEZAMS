@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/medijiem/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -49,7 +49,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Fotos
@@ -57,7 +57,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -71,18 +71,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Liepaja SEZ Company zieht strategischen Investor an und ersetzt den Namen</h2>
+<h2>Liepāja SEZ Company zieht strategischen Investor an und ersetzt den Namen</h2>
 <span class="mb-3">12.02.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-kapitalsabiedriba-piesaista-strategisko-investoru-un-nomaina-nosaukumu/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-sez-kapitalsabiedriba-piesaista-strategisko-investoru-un-nomaina-nosaukumu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Um das Projekt auf nachhaltigem Flugkraftstoff (SAF) Produktionseinheit und CO2-Terminalbau zu implementieren Liepaja Special Economic Zone Kapitalgesellschaft "GI Termināls" zog strategischen Investor an und änderte den Namen des Unternehmens. Ab sofort heißt das Unternehmen √NORSAF und der Mehrheitsaktionär ist die in Irland eingetragene AVIA Solution Group.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-kapitalsabiedriba-piesaista-strategisko-investoru-un-nomaina-nosaukumu/index.php">Weiterlesen</a>
+<p>Um das Projekt auf nachhaltigem Flugkraftstoff (SAF) Produktionseinheit und CO2-Terminalbau zu implementieren Liepāja Special Economic Zone Kapitalgesellschaft "GI Termināls" zog strategischen Investor an und änderte den Namen des Unternehmens. Ab sofort heißt das Unternehmen √NORSAF und der Mehrheitsaktionär ist die in Irland eingetragene AVIA Solution Group.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-sez-kapitalsabiedriba-piesaista-strategisko-investoru-un-nomaina-nosaukumu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/201/1739358602_08_02.12.2025._NORSAF.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-kapitalsabiedriba-piesaista-strategisko-investoru-un-nomaina-nosaukumu/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-sez-kapitalsabiedriba-piesaista-strategisko-investoru-un-nomaina-nosaukumu/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/201/1739358602_08_02.12.2025._NORSAF.webp"/>
 </a>
 </div>
@@ -91,18 +91,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Liepaja SEZ Authority lädt Sie zur Teilnahme an der Ausstellung "Made in Liepaja" ein</h2>
+<h2>Liepāja SEZ Authority lädt Sie zur Teilnahme an der Ausstellung "Made in Liepāja" ein</h2>
 <span class="mb-3">30.01.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-parvalde-aicina-apmeklet-izstadi-razots-liepaja/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-sez-parvalde-aicina-apmeklet-izstadi-razots-liepaja/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Vom 31. vom 1. Januar bis 1. Januar Das Olympiazentrum Liepāja wird eine Ausstellung in Liepaja veranstalten, wo mehr als 180 Firmenstände angeboten werden, um das vielfältige Geschäftsumfeld von Liepaja kennenzulernen. Während der Ausstellung wird es auch eine Konferenz geben, in der Experten die Herausforderungen der wirtschaftlichen Entwicklung Lettlands und Liepajas diskutieren werden. Die Ausstellung ist für Besucher kostenlos und lädt Schülerinnen und Schüler ein, sich mit zukünftigen Arbeitsmöglichkeiten in Liepaja vertraut zu machen.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-parvalde-aicina-apmeklet-izstadi-razots-liepaja/index.php">Weiterlesen</a>
+<p>Von 31. Januar bis 1. Februar Liepāja Olympic Centre wird Gastgeber der Ausstellung √ Hergestellt in Liepāja, wo mehr als 180 werden Sie in das vielfältige Geschäftsumfeld von Liepāja vorstellen. Während der Ausstellung wird auch eine Konferenz stattfinden, auf der Experten die Herausforderungen der wirtschaftlichen Entwicklung in Lettland und Liepāja diskutieren werden. Die Ausstellung ist für Besucher kostenlos und lädt Schülerinnen und Schüler ein, sich mit zukünftigen Arbeitsmöglichkeiten in Liepāja vertraut zu machen.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-sez-parvalde-aicina-apmeklet-izstadi-razots-liepaja/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/200/1738230121_04_01.30.2025._gimnazija.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-parvalde-aicina-apmeklet-izstadi-razots-liepaja/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-sez-parvalde-aicina-apmeklet-izstadi-razots-liepaja/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/200/1738230121_04_01.30.2025._gimnazija.webp"/>
 </a>
 </div>
@@ -111,18 +111,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Die Ausstellung "Made in Liepaja" findet dieses Wochenende statt.</h2>
+<h2>Die Ausstellung "Made in Liepāja" findet dieses Wochenende statt.</h2>
 <span class="mb-3">29.01.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../jau-saja-nedelas-nogale-risinasies-izstade-razots-liepaja/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/jau-saja-nedelas-nogale-risinasies-izstade-razots-liepaja/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Liepaja produziert und produziert viel. Die Ausstellung "Made in Liepaja" schon dieses Wochenende - am 31. Januar und 1. Februar. Es wird eine Gelegenheit für alle sein, die Produktion von Liepaja und umgebenden Unternehmern zu sehen.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../jau-saja-nedelas-nogale-risinasies-izstade-razots-liepaja/index.php">Weiterlesen</a>
+<p>Liepāja produziert und produziert viel. Die Ausstellung "Made in Liepāja" schon dieses Wochenende - am 31. Januar und 1. Februar. Es wird eine Gelegenheit für alle sein, die Produktion von Liepāja und umgebenden Unternehmern zu sehen.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/jau-saja-nedelas-nogale-risinasies-izstade-razots-liepaja/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/199/1738141168_45203284565_c3015122a6_o.webp)">
-<a aria-label="Weiterlesen" href="../jau-saja-nedelas-nogale-risinasies-izstade-razots-liepaja/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/jau-saja-nedelas-nogale-risinasies-izstade-razots-liepaja/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/199/1738141168_45203284565_c3015122a6_o.webp"/>
 </a>
 </div>
@@ -134,15 +134,15 @@ Vorstandssitzungen
 <h2>Das Seminar "Praktische Nachhaltigkeit" soll stattfinden</h2>
 <span class="mb-3">22.01.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../risinas-seminars-praktiska-ilgtspeja/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/risinas-seminars-praktiska-ilgtspeja/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Das Seminar "Praktische Nachhaltigkeit," das am 22. Januar in der Liepaja SEZ Authority stattfindet, bietet die Gelegenheit, aktuelle Themen im Bereich Nachhaltigkeit und Kredit zu erfahren. Solche Initiativen helfen Unternehmern und Organisationen, sich an die heutigen rasanten technologischen Entwicklungen und globalen Veränderungen anzupassen, indem sie praktische Kenntnisse über nachhaltige Finanzierung anbieten und wie sie unternehmerische Initiative fördern können.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../risinas-seminars-praktiska-ilgtspeja/index.php">Weiterlesen</a>
+<p>Das Seminar "Praktische Nachhaltigkeit," das am 22. Januar in der Liepāja SEZ Authority stattfindet, bietet die Gelegenheit, aktuelle Themen im Bereich Nachhaltigkeit und Kredit zu erfahren. Solche Initiativen helfen Unternehmern und Organisationen, sich an die heutigen rasanten technologischen Entwicklungen und globalen Veränderungen anzupassen, indem sie praktische Kenntnisse über nachhaltige Finanzierung anbieten und wie sie unternehmerische Initiative fördern können.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/risinas-seminars-praktiska-ilgtspeja/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/198/1737550832__R1A5442.webp)">
-<a aria-label="Weiterlesen" href="../risinas-seminars-praktiska-ilgtspeja/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/risinas-seminars-praktiska-ilgtspeja/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/198/1737550832__R1A5442.webp"/>
 </a>
 </div>
@@ -154,15 +154,15 @@ Vorstandssitzungen
 <h2>Produktion gestartet von der neuen LSEZ AS "Norplast Piemare" Fabrik</h2>
 <span class="mb-3">17.01.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../razosanu-uzsakusi-jauna-lsez-as-norplast-piemare-razotne/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/razosanu-uzsakusi-jauna-lsez-as-norplast-piemare-razotne/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>Ende letzten Jahres wurde das neu gebaute Glasfasergebäude von LSEZ JSC "Norplast Pimare" gestartet. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../razosanu-uzsakusi-jauna-lsez-as-norplast-piemare-razotne/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/razosanu-uzsakusi-jauna-lsez-as-norplast-piemare-razotne/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/197/1737104288__R1A5307.webp)">
-<a aria-label="Weiterlesen" href="../razosanu-uzsakusi-jauna-lsez-as-norplast-piemare-razotne/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/razosanu-uzsakusi-jauna-lsez-as-norplast-piemare-razotne/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/197/1737104288__R1A5307.webp"/>
 </a>
 </div>
@@ -171,18 +171,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Herausforderungen, stabiler Betrieb und Entwicklung mit Blick auf die Zukunft √ Liepaja SEZ-Manager Uldis Hmielevskis beschreibt die Tätigkeit der Liepaja SEZ Authority im Jahr 2024. 2009</h2>
+<h2>Herausforderungen, stabiler Betrieb und Entwicklung mit Blick auf die Zukunft, beschreibt Uldis Hmielevskis, Liepāja SEZ Manager, die Tätigkeit der Liepāja SEZ Authority 2024.</h2>
 <span class="mb-3">13.01.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../izaicinajumi-stabila-darbiba-un-attistiba-ar-skatu-no-nakotnes-ta-liepajas-sez-parvaldniek/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/izaicinajumi-stabila-darbiba-un-attistiba-ar-skatu-no-nakotnes-ta-liepajas-sez-parvaldniek/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Liepaja SEZ Authority hat 2024 zusammengestellt. die Aufführung des Jahres. Die Unternehmen haben vier neue und bedeutende Investitionsvorhaben umgesetzt, von denen der Gesamtbetrag mehr als ~128 Millionen beträgt. Euro, eine wichtige Erklärung wurde über die Einrichtung des Liepaja Sustainable Industry Centre in Liepaja Special Economic Zone unterzeichnet, das direkt mit mindestens sieben Entwicklungsprojekten im Zusammenhang mit erneuerbaren Ressourcen, deren Verarbeitung und Herstellung neuer Produkte unter Verwendung der neuesten wissenschaftlichen Forschung und Technologien zusammenhängt.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../izaicinajumi-stabila-darbiba-un-attistiba-ar-skatu-no-nakotnes-ta-liepajas-sez-parvaldniek/index.php">Weiterlesen</a>
+<p>Liepāja SEZ Authority hat 2024 zusammengestellt. die Aufführung des Jahres. Die Unternehmen haben vier neue und bedeutende Investitionsvorhaben umgesetzt, von denen der Gesamtbetrag mehr als ~128 Millionen beträgt. Euro, eine wichtige Erklärung wurde über die Einrichtung des Liepāja Sustainable Industry Centre in Liepāja Special Economic Zone unterzeichnet, das direkt mit mindestens sieben Entwicklungsprojekten im Zusammenhang mit erneuerbaren Ressourcen, deren Verarbeitung und Herstellung neuer Produkte unter Verwendung der neuesten wissenschaftlichen Forschung und Technologien zusammenhängt.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/izaicinajumi-stabila-darbiba-un-attistiba-ar-skatu-no-nakotnes-ta-liepajas-sez-parvaldniek/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/196/1736781759__R1A5191.webp)">
-<a aria-label="Weiterlesen" href="../izaicinajumi-stabila-darbiba-un-attistiba-ar-skatu-no-nakotnes-ta-liepajas-sez-parvaldniek/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/izaicinajumi-stabila-darbiba-un-attistiba-ar-skatu-no-nakotnes-ta-liepajas-sez-parvaldniek/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/196/1736781759__R1A5191.webp"/>
 </a>
 </div>
@@ -191,7 +191,7 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev" data-block="2" data-page="12" data-per-page="6" data-topic="14" href="../12/index.php">
+<a class="news-list-pagination prev" data-block="2" data-page="12" data-per-page="6" data-topic="14" href="/site/de/medijiem/12/index.php">
 <img alt="Zurück" src="../../../img/round-right.svg"/>
 
 Zurück
@@ -199,7 +199,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="2" data-page="14" data-per-page="6" data-topic="14" href="../14/index.php">
+<a class="news-list-pagination next" data-block="2" data-page="14" data-per-page="6" data-topic="14" href="/site/de/medijiem/14/index.php">
 
 Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 </a>
@@ -244,7 +244,7 @@ Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

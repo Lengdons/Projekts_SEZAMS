@@ -40,7 +40,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../medijiem/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/medijiem/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -48,7 +48,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Fotos
@@ -56,7 +56,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -73,11 +73,11 @@ Vorstandssitzungen
 <div class="grid-sizer"></div>
 <div aria-label="Prüfzeichen" class="grid-item">
 <div class="image-container">
-<img alt="Wartungsarbeiten für die Navigationsinfrastruktur im Hafen von Liepaja" class="img-fluid photo-image" src="../../img/mod/image/72177720336224331/55599090303.jpg"/>
+<img alt="Wartungsarbeiten für die Navigationsinfrastruktur im Hafen von Liepāja" class="img-fluid photo-image" src="../../img/mod/image/72177720336224331/55599090303.jpg"/>
 <div class="image-overlay">
 <div class="photo-title">
 <span>19.10.2026.</span>
-<h4>Wartungsarbeiten für die Navigationsinfrastruktur im Hafen von Liepaja</h4>
+<h4>Wartungsarbeiten für die Navigationsinfrastruktur im Hafen von Liepāja</h4>
 <a aria-label="Galerie anzeigen" href="https://www.flickr.com/photos/199168550@N06/albums/72177720336224331" target="_blank">
 
 Galerie anzeigen
@@ -173,7 +173,7 @@ Galerie anzeigen
 <div class="image-overlay">
 <div class="photo-title">
 <span>04.09.2026.</span>
-<h4>"Insignia" - 2026 Das letzte Kreuzfahrtschiff in Liepaja</h4>
+<h4>"Insignia" - 2026 Das letzte Kreuzfahrtschiff in Liepāja</h4>
 <a aria-label="Galerie anzeigen" href="https://www.flickr.com/photos/199168550@N06/albums/72177720335475434" target="_blank">
 
 Galerie anzeigen
@@ -185,11 +185,11 @@ Galerie anzeigen
 </div>
 <div aria-label="Prüfzeichen" class="grid-item">
 <div class="image-container">
-<img alt="RTU-Studierende lernen Liepaja SEZ und Liepaja SEZ Unternehmen kennen" class="img-fluid photo-image" src="../../img/mod/image/72177720335474134/55507813230.jpg"/>
+<img alt="RTU-Studierende lernen Liepāja SEZ und Liepāja SEZ Unternehmen kennen" class="img-fluid photo-image" src="../../img/mod/image/72177720335474134/55507813230.jpg"/>
 <div class="image-overlay">
 <div class="photo-title">
 <span>04.09.2026.</span>
-<h4>RTU-Studierende lernen Liepaja SEZ und Liepaja SEZ Unternehmen kennen</h4>
+<h4>RTU-Studierende lernen Liepāja SEZ und Liepāja SEZ Unternehmen kennen</h4>
 <a aria-label="Galerie anzeigen" href="https://www.flickr.com/photos/199168550@N06/albums/72177720335474134" target="_blank">
 
 Galerie anzeigen
@@ -217,11 +217,11 @@ Galerie anzeigen
 </div>
 <div aria-label="Prüfzeichen" class="grid-item">
 <div class="image-container">
-<img alt="Schiffe betreten den Hafen von Liepaja nach der lettischen Ernte" class="img-fluid photo-image" src="../../img/mod/image/72177720335334268/55491093691.jpg"/>
+<img alt="Schiffe betreten den Hafen von Liepāja nach der lettischen Ernte" class="img-fluid photo-image" src="../../img/mod/image/72177720335334268/55491093691.jpg"/>
 <div class="image-overlay">
 <div class="photo-title">
 <span>27.08.2026.</span>
-<h4>Schiffe betreten den Hafen von Liepaja nach der lettischen Ernte</h4>
+<h4>Schiffe betreten den Hafen von Liepāja nach der lettischen Ernte</h4>
 <a aria-label="Galerie anzeigen" href="https://www.flickr.com/photos/199168550@N06/albums/72177720335334268" target="_blank">
 
 Galerie anzeigen
@@ -269,7 +269,7 @@ Galerie anzeigen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="photo-pagination prev d-none" data-block="1" data-page="" data-per-page="12" href="index.php">
+<a class="photo-pagination prev d-none" data-block="1" data-page="" data-per-page="12" href="/site/de/foto/index.php">
 <img alt="Zurück" src="../../img/round-right.svg"/>
 
 Zurück
@@ -277,7 +277,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="photo-pagination next" data-block="1" data-page="2" data-per-page="12" href="index.php">
+<a class="photo-pagination next" data-block="1" data-page="2" data-per-page="12" href="/site/de/foto/index.php">
 
 Weiter <img alt="Zurück" src="../../img/round-right.svg"/>
 </a>
@@ -313,7 +313,7 @@ Weiter <img alt="Zurück" src="../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/foto/index.php"><img alt="Nach oben" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

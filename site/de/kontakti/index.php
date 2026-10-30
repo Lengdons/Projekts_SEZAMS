@@ -38,7 +38,7 @@ html.classList.add(localStorage['contrast']);
 <div class="container pt-3">
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><h1 class="block-title mb-5">Kontakt<span></span></h1><div class="col-12 output"><p><strong>Verwaltung der Sonderwirtschaftszone Liepāja</strong><br/>4 Feniksa Street, Liepaja, Lettland, LV-3401<br/><br/><strong>Telefon: </strong>(+371) 63427605<br/><strong>E-Mail: </strong><a href="mailto:lsez@lsez.lv">lsez@lsez.lv</a><br/><a href="https://www.latvija.lv/lv/Eaddress/write?adress=_default@90000329402"><strong>E-Mail Adresse</strong></a></p><p><strong>Informationstelefon</strong><br/><strong>Umwelt (24x7): </strong>(+371) 25625014</p></div>
+<div class="col"><h1 class="block-title mb-5">Kontakt<span></span></h1><div class="col-12 output"><p><strong>Verwaltung der Sonderwirtschaftszone Liepāja</strong><br/>4 Feniksa Street, Liepāja, Lettland, LV-3401<br/><br/><strong>Telefon: </strong>(+371) 63427605<br/><strong>E-Mail: </strong><a href="mailto:lsez@lsez.lv">lsez@lsez.lv</a><br/><a href="https://www.latvija.lv/lv/Eaddress/write?adress=_default@90000329402"><strong>E-Mail Adresse</strong></a></p><p><strong>Informationstelefon</strong><br/><strong>Umwelt (24x7): </strong>(+371) 25625014</p></div>
 </div>
 </div>
 </div>
@@ -47,7 +47,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 sidebar-nav">
 <div class="row">
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Geschäftsleitung" class="d-flex align-items-center current sidebar-nav-icon" href="/site/lv/kontakti/vadiba/index.php">
+<a aria-label="Geschäftsleitung" class="d-flex align-items-center current sidebar-nav-icon" href="/site/de/kontakti/vadiba/index.php">
 <img alt="Geschäftsleitung" src="/site/img/round-right-blue.svg"/>
 
 Geschäftsleitung
@@ -55,7 +55,7 @@ Geschäftsleitung
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Büro der Geschäftsleitung" class="d-flex align-items-center sidebar-nav-icon" href="/site/lv/kontakti/parvaldnieka-birojs/index.php">
+<a aria-label="Büro der Geschäftsleitung" class="d-flex align-items-center sidebar-nav-icon" href="/site/de/kontakti/parvaldnieka-birojs/index.php">
 <img alt="Büro der Geschäftsleitung" src="/site/img/round-right-blue.svg"/>
 
 Büro der Geschäftsleitung
@@ -63,7 +63,7 @@ Büro der Geschäftsleitung
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Abteilung für Geschäftsentwicklung" class="d-flex align-items-center sidebar-nav-icon" href="/site/lv/kontakti/biznesa-attistibas-departaments/index.php">
+<a aria-label="Abteilung für Geschäftsentwicklung" class="d-flex align-items-center sidebar-nav-icon" href="/site/de/kontakti/biznesa-attistibas-departaments/index.php">
 <img alt="Abteilung für Geschäftsentwicklung" src="/site/img/round-right-blue.svg"/>
 
 Abteilung für Geschäftsentwicklung
@@ -71,7 +71,7 @@ Abteilung für Geschäftsentwicklung
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Hafenmeisteramt" class="d-flex align-items-center sidebar-nav-icon" href="/site/lv/kontakti/ostas-kapteina-dienests/index.php">
+<a aria-label="Hafenmeisteramt" class="d-flex align-items-center sidebar-nav-icon" href="/site/de/kontakti/ostas-kapteina-dienests/index.php">
 <img alt="Hafenmeisteramt" src="/site/img/round-right-blue.svg"/>
 
 Hafenmeisteramt
@@ -79,7 +79,7 @@ Hafenmeisteramt
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Infrastrukturabteilung" class="d-flex align-items-center sidebar-nav-icon" href="/site/lv/kontakti/infrastrukturas-departaments/index.php">
+<a aria-label="Infrastrukturabteilung" class="d-flex align-items-center sidebar-nav-icon" href="/site/de/kontakti/infrastrukturas-departaments/index.php">
 <img alt="Infrastrukturabteilung" src="/site/img/round-right-blue.svg"/>
 
 Infrastrukturabteilung
@@ -87,7 +87,7 @@ Infrastrukturabteilung
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Rechts- und Verwaltungsabteilung" class="d-flex align-items-center sidebar-nav-icon" href="/site/lv/kontakti/juridiski-administrativais-departaments/index.php">
+<a aria-label="Rechts- und Verwaltungsabteilung" class="d-flex align-items-center sidebar-nav-icon" href="/site/de/kontakti/juridiski-administrativais-departaments/index.php">
 <img alt="Rechts- und Verwaltungsabteilung" src="/site/img/round-right-blue.svg"/>
 
 Rechts- und Verwaltungsabteilung
@@ -95,7 +95,7 @@ Rechts- und Verwaltungsabteilung
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Finanzabteilung" class="d-flex align-items-center sidebar-nav-icon" href="/site/lv/kontakti/finansu-departaments/index.php">
+<a aria-label="Finanzabteilung" class="d-flex align-items-center sidebar-nav-icon" href="/site/de/kontakti/finansu-departaments/index.php">
 <img alt="Finanzabteilung" src="/site/img/round-right-blue.svg"/>
 
 Finanzabteilung
@@ -103,7 +103,7 @@ Finanzabteilung
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Personalabteilung" class="d-flex align-items-center sidebar-nav-icon" href="/site/lv/kontakti/personala-vadibas-departaments/index.php">
+<a aria-label="Personalabteilung" class="d-flex align-items-center sidebar-nav-icon" href="/site/de/kontakti/personala-vadibas-departaments/index.php">
 <img alt="Personalabteilung" src="/site/img/round-right-blue.svg"/>
 
 Personalabteilung
@@ -111,7 +111,7 @@ Personalabteilung
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Abteilung für Sicherheit, Gefahrenabwehr und Umwelt" class="d-flex align-items-center sidebar-nav-icon" href="/site/lv/kontakti/drosibas-aizsardzibas-un-vides-dala/index.php">
+<a aria-label="Abteilung für Sicherheit, Gefahrenabwehr und Umwelt" class="d-flex align-items-center sidebar-nav-icon" href="/site/de/kontakti/drosibas-aizsardzibas-un-vides-dala/index.php">
 <img alt="Abteilung für Sicherheit, Gefahrenabwehr und Umwelt" src="/site/img/round-right-blue.svg"/>
 
 Abteilung für Sicherheit, Gefahrenabwehr und Umwelt
@@ -119,7 +119,7 @@ Abteilung für Sicherheit, Gefahrenabwehr und Umwelt
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Interne Revision" class="d-flex align-items-center sidebar-nav-icon" href="/site/lv/kontakti/iekseja-audita-dala/index.php">
+<a aria-label="Interne Revision" class="d-flex align-items-center sidebar-nav-icon" href="/site/de/kontakti/iekseja-audita-dala/index.php">
 <img alt="Interne Revision" src="/site/img/round-right-blue.svg"/>
 
 Interne Revision
@@ -158,7 +158,7 @@ Interne Revision
 <div class="session-submit d-none"></div> <script async="" defer="" src="https://www.google.com/recaptcha/api.js"></script>
 <script>
 
-$(document).ready(function(){							
+$(document).ready(function(){
 
 if($('.session-submit').text()=="success"){
 
@@ -174,7 +174,7 @@ confirmButtonText: 'OK'
 
 });
 
-}		
+}
 
 if($('.session-submit').text()=="fail"){
 
@@ -255,7 +255,7 @@ confirmButtonText: 'OK'
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="/site/img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/kontakti/index.php"><img alt="Nach oben" class="img-fluid" src="/site/img/round-right.svg"/></a>
 </div>
 </div>
 </div>

@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/medijiem/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -49,7 +49,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Fotos
@@ -57,7 +57,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -74,15 +74,15 @@ Vorstandssitzungen
 <h2>Mit Ruderrennen von Matrosen, Boots- und Bootsparade laden wir Sie ein, das Sea Festival auf dem Wasser zu feiern</h2>
 <span class="mb-3">03.07.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../ar-jurasbrauceju-airesanas-sacensibam-kugu-un-laivu-paradi-aicinam-svinet-juras-svetkus-uz/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/ar-jurasbrauceju-airesanas-sacensibam-kugu-un-laivu-paradi-aicinam-svinet-juras-svetkus-uz/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Bereits zum achten Mal lädt Liepaja SEZ Authority Sea Festival ein, mit einer Veranstaltung in der Breite der Stadt vom See bis zum Meer gebügelt zu werden. Am Juli findet im Yacht Port Trade Channel statt. Die Veranstaltung wird vom Naval Ruderwettbewerb um 20.00 Uhr eröffnet. 16.00 Uhr Um 19:00 20:00 Uhr wird es ein Treffen für die Parade geben, aber um 21:00 Uhr. Um 20:00 Uhr, während die Hörner der Schiffe klingen, werden die Schlepper des Hafens von Liepaja öffnen. Für Zuschauer ab 11:00 Uhr. Um 16:00 Uhr wird es auch auf der Jaunliepaja eine offene Promenade geben.   </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../ar-jurasbrauceju-airesanas-sacensibam-kugu-un-laivu-paradi-aicinam-svinet-juras-svetkus-uz/index.php">Weiterlesen</a>
+<p>Bereits zum achten Mal lädt Liepāja SEZ Authority Sea Festival ein, mit einer Veranstaltung in der Breite der Stadt von See zu Meer, die 10. Am Juli findet im Yacht Port Trade Channel statt. Die Veranstaltung wird vom Naval Ruderwettbewerb um Uhr eröffnet. 16:00Brüssel, den Uhr 19:00 – 20:00 Um Uhr findet ein Treffen für die Parade statt. 20:00, während Schiffhörner klingen, wird die Show Schlepper im Hafen von Liepāja offenbaren. Für Zuschauer ab Uhr. 16:00 wird auch auf der Jaunliepaja Seite offen sein.   </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/ar-jurasbrauceju-airesanas-sacensibam-kugu-un-laivu-paradi-aicinam-svinet-juras-svetkus-uz/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/299/1783331473_47_07.03.2026._Juras svētki_karte.webp)">
-<a aria-label="Weiterlesen" href="../ar-jurasbrauceju-airesanas-sacensibam-kugu-un-laivu-paradi-aicinam-svinet-juras-svetkus-uz/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/ar-jurasbrauceju-airesanas-sacensibam-kugu-un-laivu-paradi-aicinam-svinet-juras-svetkus-uz/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/299/1783331473_47_07.03.2026._Juras svētki_karte.webp"/>
 </a>
 </div>
@@ -91,18 +91,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Unter der einheitlichen Industriemarke VIALETTA Liepaja SEZ Authority stärkt bestehende Zusammenarbeit und sucht neue Entwicklungsrichtungen</h2>
+<h2>Unter der einheitlichen Industriemarke VIALETTA Liepāja SEZ Authority stärkt bestehende Zusammenarbeit und sucht neue Entwicklungsrichtungen</h2>
 <span class="mb-3">25.06.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../zem-vienota-nozares-zimola-via-latvia-liepajas-sez-parvalde-stiprina-esoso-sadarbibu-un-me/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/zem-vienota-nozares-zimola-via-latvia-liepajas-sez-parvalde-stiprina-esoso-sadarbibu-un-me/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Um nach neuen Partnern zu suchen, neue Lösungen und Entwicklungsmöglichkeiten Deputy Liepaja SEZ Manager Elan Strazdiņš und Head of Business and Development Department der Liepaja SEZ Authority Raivo Špaks von 16-18. nahm an einem der weltweit wichtigsten Projekte, Trocken- und Non-Standard-Logistikmessen für Frachtlogistik √ Breakbulk Europe 2026 teil, die in Rotterdam, den Niederlanden stattfanden. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../zem-vienota-nozares-zimola-via-latvia-liepajas-sez-parvalde-stiprina-esoso-sadarbibu-un-me/index.php">Weiterlesen</a>
+<p>Um nach neuen Partnern zu suchen, neue Lösungen und Entwicklungsmöglichkeiten Deputy Liepāja SEZ Manager Elan Strazdiņš und Head of Business and Development Department der Liepāja SEZ Authority Raivo Špaks von 16-18. nahm an einem der weltweit wichtigsten Projekte, Trocken- und Non-Standard-Logistikmessen für Frachtlogistik √ Breakbulk Europe 2026 teil, die in Rotterdam, den Niederlanden stattfanden. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/zem-vienota-nozares-zimola-via-latvia-liepajas-sez-parvalde-stiprina-esoso-sadarbibu-un-me/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/298/1782387416_hamburga.webp)">
-<a aria-label="Weiterlesen" href="../zem-vienota-nozares-zimola-via-latvia-liepajas-sez-parvalde-stiprina-esoso-sadarbibu-un-me/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/zem-vienota-nozares-zimola-via-latvia-liepajas-sez-parvalde-stiprina-esoso-sadarbibu-un-me/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/298/1782387416_hamburga.webp"/>
 </a>
 </div>
@@ -111,18 +111,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Eine neue Auktion über Immobilien in Liepaja Industrial Park wird angekündigt</h2>
+<h2>Eine neue Auktion über Immobilien in Liepāja Industrial Park wird angekündigt</h2>
 <span class="mb-3">18.06.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../izsludinas-atkartotu-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/izsludinas-atkartotu-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Die Liepaja Special Economic Zone (Liepāja SEZ) hat eine überarbeitete Auktion auf Immobilien in der Naglu Street 1 angekündigt, die sich im Gebiet des Industrieparks Liepaja befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../izsludinas-atkartotu-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka/index.php">Weiterlesen</a>
+<p>Die Liepāja Special Economic Zone (Liepāja SEZ) hat eine überarbeitete Auktion auf Immobilien in der Naglu Street 1 angekündigt, die sich im Gebiet des Industrieparks Liepāja befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/izsludinas-atkartotu-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/296/1782376099_44_06.18.2026._LIP.webp)">
-<a aria-label="Weiterlesen" href="../izsludinas-atkartotu-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/izsludinas-atkartotu-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/296/1782376099_44_06.18.2026._LIP.webp"/>
 </a>
 </div>
@@ -134,15 +134,15 @@ Vorstandssitzungen
 <h2>LSEZ “NorSAF” un ASV uzņēmums KBR noslēdz licences līgumu SAF un eSAF ražošanai Latvijā Eiropas tirgum  </h2>
 <span class="mb-3">29.05.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../lsez-norsaf-un-asv-uznemums-kbr-nosledz-licences-ligumu-saf-un-esaf-razosanai-latvija-eiro/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/lsez-norsaf-un-asv-uznemums-kbr-nosledz-licences-ligumu-saf-un-esaf-razosanai-latvija-eiro/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Oil and Chemical Product Storage and Handling Terminal NorSAF, die in Liepaja Special Economic Zone (LSEZ) plant, das größte nachhaltige Flugzeugkraftstoffwerk (SAF und eSAF) in Nordeuropa zu bauen, hat einen unbefristeten Lizenzvertrag mit dem US-amerikanischen Unternehmen KBR über die Implementierung der PureSAF® Technologie geschlossen. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../lsez-norsaf-un-asv-uznemums-kbr-nosledz-licences-ligumu-saf-un-esaf-razosanai-latvija-eiro/index.php">Weiterlesen</a>
+<p>Oil and Chemical Product Storage and Handling Terminal NorSAF, die in Liepāja Special Economic Zone (LSEZ) plant, das größte nachhaltige Flugzeugkraftstoffwerk (SAF und eSAF) in Nordeuropa zu bauen, hat einen unbefristeten Lizenzvertrag mit dem US-amerikanischen Unternehmen KBR über die Implementierung der PureSAF® Technologie geschlossen. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/lsez-norsaf-un-asv-uznemums-kbr-nosledz-licences-ligumu-saf-un-esaf-razosanai-latvija-eiro/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/292/1780052763_f5af328f-9cb5-401e-893f-9c2809fa8715.webp)">
-<a aria-label="Weiterlesen" href="../lsez-norsaf-un-asv-uznemums-kbr-nosledz-licences-ligumu-saf-un-esaf-razosanai-latvija-eiro/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/lsez-norsaf-un-asv-uznemums-kbr-nosledz-licences-ligumu-saf-un-esaf-razosanai-latvija-eiro/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/292/1780052763_f5af328f-9cb5-401e-893f-9c2809fa8715.webp"/>
 </a>
 </div>
@@ -151,18 +151,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Neue Beschaffung für Port of Liepaja 46 wird angekündigt. mit einem Hubraum von 250 cm3 oder weniger</h2>
+<h2>Neue Beschaffung für den Hafen von Liepāja wird angekündigt 46. mit einem Hubraum von oder weniger</h2>
 <span class="mb-3">19.05.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../izsludinas-jaunu-iepirkumu-par-liepajas-ostas-46-piestatnes-parbuvi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/izsludinas-jaunu-iepirkumu-par-liepajas-ostas-46-piestatnes-parbuvi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Durch eine Änderung des verfügbaren Betrags der EU-Strukturfondsmittel hat die Liepaja SEZ-Behörde beschlossen, die angekündigte Auftragsvergabe für Port 46 einzustellen. Um eine aktualisierte technische Spezifikation zu erstellen und in dieser Woche ein neues Vergabeverfahren einzuleiten - zunächst durch Anhörung interessierter Bieter und ferner durch Aufforderung des Bieters zur Einreichung von Angeboten.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../izsludinas-jaunu-iepirkumu-par-liepajas-ostas-46-piestatnes-parbuvi/index.php">Weiterlesen</a>
+<p>Durch eine Änderung des verfügbaren Betrags der EU-Strukturfondsmittel hat die Liepāja SEZ-Behörde beschlossen, die angekündigte Auftragsvergabe für Port 46 einzustellen. Um eine aktualisierte technische Spezifikation zu erstellen und in dieser Woche ein neues Vergabeverfahren einzuleiten - zunächst durch Anhörung interessierter Bieter und ferner durch Aufforderung des Bieters zur Einreichung von Angeboten.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/izsludinas-jaunu-iepirkumu-par-liepajas-ostas-46-piestatnes-parbuvi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/291/1779180165_38_05.18.2026._46._pramis_vizualizacija.webp)">
-<a aria-label="Weiterlesen" href="../izsludinas-jaunu-iepirkumu-par-liepajas-ostas-46-piestatnes-parbuvi/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/izsludinas-jaunu-iepirkumu-par-liepajas-ostas-46-piestatnes-parbuvi/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/291/1779180165_38_05.18.2026._46._pramis_vizualizacija.webp"/>
 </a>
 </div>
@@ -174,15 +174,15 @@ Vorstandssitzungen
 <h2>"AE Partner" wächst weiter und stärkt die Produktionskapazität</h2>
 <span class="mb-3">15.05.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../ae-partner-turpina-izaugsmi-un-stiprina-razosanas-kapacitati/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/ae-partner-turpina-izaugsmi-un-stiprina-razosanas-kapacitati/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Hochwertiger Hersteller von elektrischen Steuerungs- und Regelgeräten "AE Partner" Liepaja Special Economic Zone (LSEZ) Ltd. hat ein stabiles Wachstum 2025 abgeschlossen. Steigerung des Umsatzes und des Gewinns.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../ae-partner-turpina-izaugsmi-un-stiprina-razosanas-kapacitati/index.php">Weiterlesen</a>
+<p>Hochwertiger Hersteller von elektrischen Steuerungs- und Regelgeräten "AE Partner" Liepāja Special Economic Zone (LSEZ) Ltd. hat ein stabiles Wachstum 2025 abgeschlossen. Steigerung des Umsatzes und des Gewinns.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/ae-partner-turpina-izaugsmi-un-stiprina-razosanas-kapacitati/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/290/1778833163_36_05.15.2026._AE PARTNER__.webp)">
-<a aria-label="Weiterlesen" href="../ae-partner-turpina-izaugsmi-un-stiprina-razosanas-kapacitati/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/ae-partner-turpina-izaugsmi-un-stiprina-razosanas-kapacitati/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/290/1778833163_36_05.15.2026._AE PARTNER__.webp"/>
 </a>
 </div>
@@ -191,7 +191,7 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev" data-block="2" data-page="3" data-per-page="6" data-topic="14" href="../3/index.php">
+<a class="news-list-pagination prev" data-block="2" data-page="3" data-per-page="6" data-topic="14" href="/site/de/medijiem/3/index.php">
 <img alt="Zurück" src="../../../img/round-right.svg"/>
 
 Zurück
@@ -199,7 +199,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="2" data-page="5" data-per-page="6" data-topic="14" href="../5/index.php">
+<a class="news-list-pagination next" data-block="2" data-page="5" data-per-page="6" data-topic="14" href="/site/de/medijiem/5/index.php">
 
 Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 </a>
@@ -244,7 +244,7 @@ Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

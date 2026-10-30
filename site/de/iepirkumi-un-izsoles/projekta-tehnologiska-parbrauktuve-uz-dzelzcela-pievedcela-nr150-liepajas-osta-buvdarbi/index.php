@@ -10,12 +10,12 @@
 
 <meta name="robots" content="follow, index"><meta property="og:type" content="article" />
 <meta property="og:url" content="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/projekta-tehnologiska-parbrauktuve-uz-dzelzcela-pievedcela-nr150-liepajas-osta-buvdarbi/" />
-<meta property="og:title" content="Bauarbeiten an der Eisenbahnzufahrt Nr. 150 in Liepaja Hafen Nr. LSEZ2021/69/K" />
+<meta property="og:title" content="Bauarbeiten an der Eisenbahnzufahrt Nr. 150 in Liepāja Hafen Nr. LSEZ2021/69/K" />
 <meta property="og:site_name" content="Sonderwirtschaftszone Liepāja" />
 <meta name="twitter:site" content="@liepajaSEZ" />
 <meta name="twitter:creator" content="@liepajaSEZ" />
 
-<title>Bauarbeiten an der Eisenbahnzufahrt Nr. 150 in Liepaja Hafen Nr. LSEZ2021/69/K √ SEZ</title>			
+<title>Bauarbeiten an der Eisenbahnzufahrt Nr. 150 in Liepāja Hafen Nr. LSEZ2021/69/K √ SEZ</title>
 
 <link rel="stylesheet" href="https://liepaja-sez.lv/css/jarallax.min.css">
 <link rel="stylesheet" href="https://liepaja-sez.lv/css/bootstrap.min.css">
@@ -48,48 +48,48 @@ html.classList.add(localStorage['contrast']);
 <p class="job"></p>
 <br>
 <span>Tel.: <a href="tel:" target="_blank"></a></span>
-<span>E-Mail: <a href="mailto:" target="_blank"></a></span>								
-</div>					
+<span>E-Mail: <a href="mailto:" target="_blank"></a></span>
+</div>
 <div class="col-12 col-md-9 mt-md-5">
-<span class="date d-block mt-md-5">15. 22. Oktober 2021</span>
-<h1 class="article-title">Bauarbeiten an der Eisenbahnzufahrt Nr. 150 in Liepaja Hafen Nr. LSEZ2021/69/K</h1>
+<span class="date d-block mt-md-5">15. Oktober 2021</span>
+<h1 class="article-title">Bauarbeiten an der Eisenbahnzufahrt Nr. 150 in Liepāja Hafen Nr. LSEZ2021/69/K</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>CPV-Codes: 400000-7</p><p>&nbsp;</p><p>Die Beschaffungsarbeiten werden durch das Europäische Meeres- und Fischereifonds-Förderprogramm für die Entwicklung der Fischerei 2014-2020 durchgeführt und finanziert.Die Entwicklung der Infrastruktur für Fischer im Hafen von Liepaja - 2. Stufe (Projektantrag Nr. 20-00-F01123-0002) Innerhalb.</p><p>&nbsp;</p><p>Das Angebot muss bis 29. Oktober 2021 um 10.00 Uhr elektronisch im EIS-System e-Competition eingereicht werden.</p></div>
+<div class="col"><div class="col-12 output"><p>CPV-Codes:45000000-7</p><p>&nbsp;</p><p>Die Beschaffungsarbeiten werden aus Mitteln des Europäischen Meeres- und Fischereifonds für ein Aktionsprogramm zur Entwicklung der Fischerei durchgeführt und finanziert. 2014.-2020Entwicklung der notwendigen Infrastruktur für die Fischer im Hafen von Liepāja - 2(Projektantrag Nr.20-00-F01123-000002) innerhalb des Rahmens.</p><p>&nbsp;</p><p>Das Angebot muss bis 29. Oktober 2021 um 10.00 Uhr elektronisch im EIS-System e-Competition eingereicht werden.</p></div>
 </div>
 </div>
-</div><h1 class="block-title mt-3">Notifizierung<span></span></h1>
+</div><h1 class="block-title mt-3">Mitteilung<span></span></h1>
 <div class="container news_documents pb-3">
 <div class="row">
 <div class="col-12 col-lg-6 document-single">
 <div class="document-info py-3">
-<div class="date">15. 22. Oktober 2021</div>
+<div class="date">15. Oktober 2021</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
 <a href="https://liepaja-sez.lv/doc/mod/document/102/" target="_blank" aria-label="Dokument">
-Notifizierung
+Mitteilung
 </a>
 <div class="mt-2"></div>
 </div>
 <a class="document" href="https://liepaja-sez.lv/doc/mod/document/102/" target="_blank" aria-label="">
 <i class="bi bi-file-earmark"></i>
-</a>							
+</a>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/59/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/59/original_" aria-label="Download" download>
-<img class="download-icon" alt="Download" src="https://liepaja-sez.lv/img/dl.svg"/>	
-</a>															
+<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/59/original_" aria-label="Herunterladen" download>
+<img class="download-icon" alt="Herunterladen" src="https://liepaja-sez.lv/img/dl.svg"/>
+</a>
 </div>
-</div>						
+</div>
 </div>
 </div>
 <div class="container my-4">
 <div class="row">
 <div id="useful-p" class="col-12 useful">
 <span class="me-2">War diese Information hilfreich?</span>
-<button data-value="1" data-table-name="mod_news" data-table-id="59" class="useful-btn">Ja </button> 
+<button data-value="1" data-table-name="mod_news" data-table-id="59" class="useful-btn">Ja </button>
 <button data-value="0" data-table-name="mod_news" data-table-id="59" class="useful-btn">Nein </button>
 </div>
 </div>
@@ -97,14 +97,14 @@ Notifizierung
 <div class="row related-article">
 <div class="col-12 col-lg-9 offset-lg-3 sizer first">
 <div class="row">
-<div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>						
+<div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Liepaja SEZ Authority organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in Eksporta Straße 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Weiterlesen</a>
+<h4>Die Verwaltung der Sonderwirtschaftszone Liepāja veranstaltet eine elektronische Versteigerung mit aufsteigenden Geboten für eine neu zu bildende Immobilie in der Eksporta iela 3</h4>
+<a class="d-none d-md-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">Liepaja Special Economic Zone Authority, Unified Registrierung No.LV90000329402, organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in Eksporta iela 3, Liepāja, die aus einer Grundeinheit mit einer Gesamtfläche von 51521 m2 und 12 Gebäuden bestehen wird.</div>
+<div class="col-12 col-md-8 col-lg-9">Die Verwaltung der Sonderwirtschaftszone Liepāja, einheitliche Registrierungsnummer LV90000329402, veranstaltet eine elektronische Versteigerung mit aufsteigenden Geboten für eine neu zu bildende Immobilie in der Eksporta iela 3 in Liepāja. Diese wird aus einem Grundstück mit einer Gesamtfläche von 51521 m2 und 12 Bauwerken bestehen.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -112,34 +112,34 @@ Notifizierung
 <div class="row related-article">
 <div class="col-12 col-lg-9 offset-lg-3 sizer ">
 <div class="row">
-<div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>						
+<div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Hafen von Liepaja No. 46 Rekonstruktion Bauprojektentwicklung, Bauarbeiten und Autorüberwachung</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Weiterlesen</a>
+<h4>Planung, Bauarbeiten und Bauüberwachung durch den Planer beim Umbau des Liegeplatzes Nr. 46 im Hafen Liepāja</h4>
+<a class="d-none d-md-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">Gegenstand der Beschaffung: Hafen von Liepaja No. 46 Rekonstruktionsbau Projektentwicklung, Bau und Autorüberwachung ANZAHL LSEZ 2026/12 Der Haupt-CPV-Code: 45241500-3 (Ship Liegeplatzbau). 
+<div class="col-12 col-md-8 col-lg-9">Auftragsgegenstand: Planung, Bauarbeiten und Bauüberwachung durch den Planer beim Umbau des Liegeplatzes Nr. 46 im Hafen Liepāja. VERGABENUMMER LSEZ 2026/12. Haupt-CPV-Code: 45241500-3 (Bauarbeiten für Schiffsanlegestellen).
 </div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
-</div>	
+</div>
 <div class="row">
 <div class="col-12 col-lg-9 offset-lg-3 paginator mt-5">
 
-<div class="prev">	
+<div class="prev">
 </div>
 <div class="next">
 <a data-page="2" class="next related-pagination" href="#" aria-label="Weiter">
-Weiter <img src="https://liepaja-sez.lv/img/round-right.svg" alt="Weiter"> 
+Weiter <img src="https://liepaja-sez.lv/img/round-right.svg" alt="Weiter">
 </a>
-</div>		
 </div>
-</div></div>				
+</div>
+</div></div>
 <img class="background" src="https://liepaja-sez.lv/img/bg2.svg" alt="Hintergrundbild"/>
 </main>
-<footer class="footer">				
+<footer class="footer">
 <div class="container py-5">
 <div class="row">
 <div class="col-12 col-md-4 col-lg-2 footer-logo">
@@ -159,15 +159,15 @@ Weiter <img src="https://liepaja-sez.lv/img/round-right.svg" alt="Weiter">
 </div>
 </div>
 </div>
-<div class="col-12 col-md-8 col-lg-1">							
+<div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a href="#" aria-label="Nach oben"><img src="https://liepaja-sez.lv/img/round-right.svg" alt="scroll-up" class="img-fluid"></a>
+<a href="#" aria-label="Nach oben"><img src="https://liepaja-sez.lv/img/round-right.svg" alt="Nach oben" class="img-fluid"></a>
 </div>
 </div>
 </div>
 </div>
-</div>	
+</div>
 
 <div id="sticky-cookie" style="align-items: center; justify-content: center;">
 <img width="24" src="https://liepaja-sez.lv/img/cc.svg?=v5" alt="Cookie" />
@@ -184,11 +184,11 @@ gtag('config', 'G-6QTXK76SH0');
 </script>
 
 
-</script>				
+</script>
 <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous">
 <script src="https://code.jquery.com/color/jquery.color.plus-names-2.1.2.min.js"></script>
 
-<script src="https://liepaja-sez.lv/js/jarallax.min.js?v=3"></script>				
+<script src="https://liepaja-sez.lv/js/jarallax.min.js?v=3"></script>
 <script src="https://liepaja-sez.lv/js/bootstrap.bundle.min.js"></script>
 <script src="https://liepaja-sez.lv/js/main.js?v=9"></script>
 <script src="https://liepaja-sez.lv/js/mod/menu/main.js?v=1"></script><script src="https://liepaja-sez.lv/js/block/useful/main.js?v=1"></script>				<script defer src="https://liepaja-sez.lv/cc/src/cookieconsent.js"></script>

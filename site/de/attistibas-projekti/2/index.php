@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../../investe-liepaja/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/investe-liepaja/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Investieren in Liepāja
@@ -57,7 +57,7 @@ Hafen
 </a>
 <div class="sidebar-nested ps-md-4">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../../par-ostu/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/par-ostu/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Über den Hafen
@@ -65,7 +65,7 @@ Hafen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../../pramju-satiksme/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/pramju-satiksme/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Fährverkehr
@@ -73,7 +73,7 @@ Fährverkehr
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../../kruiza-kugi/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/kruiza-kugi/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Kreuzfahrtschiffe
@@ -81,7 +81,7 @@ Kreuzfahrtschiffe
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../../jahtu-osta/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/jahtu-osta/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Yachthafen
@@ -89,7 +89,7 @@ Yachthafen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../../oskara-kalpaka-tilts/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/oskara-kalpaka-tilts/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Oskars-Kalpaks-Brücke
@@ -99,7 +99,7 @@ Oskars-Kalpaks-Brücke
 </div>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../../kapitalsabiedribas/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/kapitalsabiedribas/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Unternehmen
@@ -107,7 +107,7 @@ Unternehmen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/attistibas-projekti/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Entwicklungsprojekte
@@ -115,7 +115,7 @@ Entwicklungsprojekte
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../../darbs-liepaja/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/darbs-liepaja/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Stellenangebote in Liepāja
@@ -123,7 +123,7 @@ Stellenangebote in Liepāja
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../../teritoriju-karte/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/teritoriju-karte/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Gebietskarte
@@ -140,15 +140,15 @@ Gebietskarte
 <h2>Jahr 2017-2019</h2>
 <span class="mb-3">02.07.2019.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../2017-2019gads/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/attistibas-projekti/2017-2019gads/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Entwicklung von Landzufahrtsstraßen im Hafen von Liepaja</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../2017-2019gads/index.php">Weiterlesen</a>
+<p>Entwicklung von Landzufahrtsstraßen im Hafen von Liepāja</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/attistibas-projekti/2017-2019gads/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/93/)">
-<a aria-label="Weiterlesen" href="../2017-2019gads/index.php">
+<a aria-label="Weiterlesen" href="/site/de/attistibas-projekti/2017-2019gads/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/93/"/>
 </a>
 </div>
@@ -160,15 +160,15 @@ Gebietskarte
 <h2>2017-2018</h2>
 <span class="mb-3">02.07.2018.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../2017-2018gads/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/attistibas-projekti/2017-2018gads/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Der Europäische Landwirtschaftsfonds für die Entwicklung des ländlichen Raums - Europa investiert in ländliche Gebiete.Das kofinanzierte Projekt entwickelt die notwendige Infrastruktur für Fischer im Hafen von Liepaja.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../2017-2018gads/index.php">Weiterlesen</a>
+<p>Der Europäische Landwirtschaftsfonds für die Entwicklung des ländlichen Raums - Europa investiert in ländliche Gebiete.Das kofinanzierte Projekt entwickelt die notwendige Infrastruktur für Fischer im Hafen von Liepāja.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/attistibas-projekti/2017-2018gads/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/95/)">
-<a aria-label="Weiterlesen" href="../2017-2018gads/index.php">
+<a aria-label="Weiterlesen" href="/site/de/attistibas-projekti/2017-2018gads/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/95/"/>
 </a>
 </div>
@@ -180,15 +180,15 @@ Gebietskarte
 <h2>2011-2015</h2>
 <span class="mb-3">02.07.2015.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../2011-2015gads/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/attistibas-projekti/2011-2015gads/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Reinigung des Karosta-Kanals des Hafens von Liepaja, Phase I</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../2011-2015gads/index.php">Weiterlesen</a>
+<p>Reinigung des Karosta-Kanals des Hafens von Liepāja, Phase I</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/attistibas-projekti/2011-2015gads/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/96/)">
-<a aria-label="Weiterlesen" href="../2011-2015gads/index.php">
+<a aria-label="Weiterlesen" href="/site/de/attistibas-projekti/2011-2015gads/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/96/"/>
 </a>
 </div>
@@ -200,15 +200,15 @@ Gebietskarte
 <h2>2009-2015</h2>
 <span class="mb-3">01.01.2015.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../2009-2015gads/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/attistibas-projekti/2009-2015gads/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>EU-Kohäsionsfonds-Projekt Vertiefung des Hafens von Liepaja"</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../2009-2015gads/index.php">Weiterlesen</a>
+<p>EU-Kohäsionsfonds-Projekt Vertiefung des Hafens von Liepāja"</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/attistibas-projekti/2009-2015gads/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/97/)">
-<a aria-label="Weiterlesen" href="../2009-2015gads/index.php">
+<a aria-label="Weiterlesen" href="/site/de/attistibas-projekti/2009-2015gads/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/97/"/>
 </a>
 </div>
@@ -220,15 +220,15 @@ Gebietskarte
 <h2>2006-2010</h2>
 <span class="mb-3">07.02.2009.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../2006-2010gads/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/attistibas-projekti/2006-2010gads/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Projekt des EU-Kohäsionsfonds für den Wiederaufbau von Hafenzufahrtsstraßen in Liepaja</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../2006-2010gads/index.php">Weiterlesen</a>
+<p>Projekt des EU-Kohäsionsfonds für den Wiederaufbau von Hafenzufahrtsstraßen in Liepāja</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/attistibas-projekti/2006-2010gads/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/98/)">
-<a aria-label="Weiterlesen" href="../2006-2010gads/index.php">
+<a aria-label="Weiterlesen" href="/site/de/attistibas-projekti/2006-2010gads/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/98/"/>
 </a>
 </div>
@@ -240,15 +240,15 @@ Gebietskarte
 <h2>2002</h2>
 <span class="mb-3">02.07.2002.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../2002gads/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/attistibas-projekti/2002gads/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Bau von Öl-kontaminierten Wasseraufnahme- und Behandlungsanlagen im Hafen von Liepaja</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../2002gads/index.php">Weiterlesen</a>
+<p>Bau von Öl-kontaminierten Wasseraufnahme- und Behandlungsanlagen im Hafen von Liepāja</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/attistibas-projekti/2002gads/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/99/)">
-<a aria-label="Weiterlesen" href="../2002gads/index.php">
+<a aria-label="Weiterlesen" href="/site/de/attistibas-projekti/2002gads/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/99/"/>
 </a>
 </div>
@@ -260,15 +260,15 @@ Gebietskarte
 <h2>1999</h2>
 <span class="mb-3">02.07.1999.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../1999gads-1/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/attistibas-projekti/1999gads-1/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>Bau einer Zufahrtsstraße für den Hafen</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../1999gads-1/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/attistibas-projekti/1999gads-1/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/101/)">
-<a aria-label="Weiterlesen" href="../1999gads-1/index.php">
+<a aria-label="Weiterlesen" href="/site/de/attistibas-projekti/1999gads-1/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/101/"/>
 </a>
 </div>
@@ -280,15 +280,15 @@ Gebietskarte
 <h2>1999</h2>
 <span class="mb-3">02.07.1999.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../1999gads/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/attistibas-projekti/1999gads/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Deepening Liepaja Port Guidelines und Aquatorium</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../1999gads/index.php">Weiterlesen</a>
+<p>Deepening Liepāja Port Guidelines und Aquatorium</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/attistibas-projekti/1999gads/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/100/)">
-<a aria-label="Weiterlesen" href="../1999gads/index.php">
+<a aria-label="Weiterlesen" href="/site/de/attistibas-projekti/1999gads/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/100/"/>
 </a>
 </div>
@@ -300,15 +300,15 @@ Gebietskarte
 <h2>1997</h2>
 <span class="mb-3">02.07.1997.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../1997gads/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/attistibas-projekti/1997gads/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Wiederaufbau des südlichen Pier von Liepaja Hafen</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../1997gads/index.php">Weiterlesen</a>
+<p>Wiederaufbau des südlichen Pier von Liepāja Hafen</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/attistibas-projekti/1997gads/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/102/)">
-<a aria-label="Weiterlesen" href="../1997gads/index.php">
+<a aria-label="Weiterlesen" href="/site/de/attistibas-projekti/1997gads/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/102/"/>
 </a>
 </div>
@@ -317,7 +317,7 @@ Gebietskarte
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev" data-block="13" data-page="1" data-per-page="10" data-topic="21" href="../1/index.php">
+<a class="news-list-pagination prev" data-block="13" data-page="1" data-per-page="10" data-topic="21" href="/site/de/dokumenti/1/index.php">
 <img alt="Zurück" src="../../../img/round-right.svg"/>
 
 Zurück
@@ -325,7 +325,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next d-none" data-block="13" data-page="" data-per-page="10" data-topic="21" href="../3/index.php">
+<a class="news-list-pagination next d-none" data-block="13" data-page="" data-per-page="10" data-topic="21" href="/site/de/attistibas-projekti/3/index.php">
 
 Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 </a>
@@ -370,7 +370,7 @@ Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/attistibas-projekti/2/index.php"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

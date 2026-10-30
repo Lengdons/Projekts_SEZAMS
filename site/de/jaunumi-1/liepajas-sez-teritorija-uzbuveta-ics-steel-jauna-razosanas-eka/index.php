@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="https://liepaja-sez.lv/img/mod/news/86/1706102113__R1A0067.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/medijiem/liepajas-sez-teritorija-uzbuveta-ics-steel-jauna-razosanas-eka" property="og:url"/>
-<meta content="Das neue Produktionsgebäude von Liepaja SEZ wurde auf dem Gebiet der Liepaja SEZ gebaut" property="og:title"/>
+<meta content="Das neue Produktionsgebäude von Liepāja SEZ wurde auf dem Gebiet der Liepāja SEZ gebaut" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Das neue Produktionsgebäude von Liepaja SEZ wurde auf dem Gebiet der Liepaja-SWZ errichtet.</title>
+<title>Das neue Produktionsgebäude von Liepāja SEZ wurde auf dem Gebiet der Liepāja-SWZ errichtet.</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
@@ -47,18 +47,18 @@ html.classList.add(localStorage['contrast']);
 <span>E-Mail: <a href="mailto:liga.ratniece-kadege@lsez.lv" target="_blank">liga.ratniece-kadege@lsez.lv</a></span>
 </div>
 <div class="col-12 col-md-9 mt-md-5">
-<span class="date d-block mt-md-5">19. 8. Januar 2024</span>
-<h1 class="article-title">Das neue Produktionsgebäude von Liepaja SEZ wurde auf dem Gebiet der Liepaja SEZ gebaut</h1>
+<span class="date d-block mt-md-5">19. Januar 2024</span>
+<h1 class="article-title">Das neue Produktionsgebäude von Liepāja SEZ wurde auf dem Gebiet der Liepāja SEZ gebaut</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Die Geschäftsidee der Gründung einer Fabrik wurde von SIA "ICS Steel" 2018 ins Leben gerufen. 1999 und dies ist ein gutes Beispiel dafür, Hobby ins Geschäft zu verwandeln. Der Miteigentümer des Unternehmens, der Lieutenant Ingus Sudmalis, interessierte sich zunächst für das Chromieren verschiedener Metallteile in seinem Atelier und erkannte schnell, dass es eine große Nachfrage dafür gab. Ingus Sudmalis, Production Manager von SIA SUICS Steel, räumt ein, dass es die Gründung eines Unternehmens gefördert hat und plant, eine eigene Anlage zu bauen.</p><p>In der neuen Anlage ist geplant, verschiedene Arten von Metalloberflächenbehandlung durchzuführen, wie Galvanisieren, Chromieren, Vernickeln und Elektropulping. SIA Im Jahr 2009 gemietete Räumlichkeiten in Liepaja Business Centre. Aktuell beschäftigt das Unternehmen 22 Mitarbeiter und ihre Zahl wird voraussichtlich bald steigen. Dies ist auf die Nachfrage nach metallverarbeitenden Dienstleistungen zurückzuführen.</p><p>Uldis Klapers, Mitglied des Vorstandes der SIA БICS Steel betont, dass es in Liepaja sehr viele metallverarbeitende Unternehmen gibt, die bereits bestehende und potenzielle Kunden sind. Die Nachfrage ist hoch, da es heute wichtig ist, Kosten und Zeit zu optimieren. Die Qualität der Metalloberflächenbeschichtung in Liepaja war bisher nicht möglich zu empfangen und metallverarbeitende Unternehmen schickten Teile zur Verarbeitung in andere Länder. Nun sind all diese Dinge, die von Liepaja metallverarbeitenden Unternehmen produziert werden, mit dem notwendigen Material SIA "ICS Steel" in maximaler Zeit und hoher Qualität abgedeckt.</p><p>Die Zeit von der Idee zu einer neuen Fabrik war etwa fünf Jahre, die Überwindung verschiedener Hindernisse, aber das Ergebnis ist es wert. Die Umsetzung der Geschäftsidee erfolgte in enger Zusammenarbeit mit Liepaja Special Economic Zone Authority. Uldis Hmielevskis, Liepaja SEZ General Manager, verbirgt sich nicht, dass es eine große Freude ist, dass lokale Unternehmer neben skandinavischen Kapitalgesellschaften auch neue Fabriken bauen. Es ist sehr wichtig, dass sich lettische Kapitalgesellschaften in Liepaja und Lettland entwickeln, weil sie die Stärke unseres Landes auch in der Wirtschaft zeigt.</p><p>SIA CTS Steel testet weiterhin neue Geräte in der neuen Fabrik, plant jedoch ab März, dort mit voller Kapazität zu arbeiten. Ingus Sudmalis, Ltd. ist überzeugt, dass ICS Steel in zwei Jahren das stärkste Unternehmen in den baltischen Ländern auf diesem Gebiet sein wird. Wir sind Europas größte elektrische Polierlinie für Edelstahl. Der andere ist gerade über dem Meer, in Amerika. Du kannst diese Größe nirgendwo anders machen, wir sind die Einzigen. Wir haben innovative Technologien entwickelt, um dies zu tun, denn bisher konnte es nicht wirklich getan werden.</p><p>Bei der Planung der Geschäftsentwicklung hat SIA √ICS Steel in den kommenden Jahren neben dem neuen Werk zwei Produktionsgebäude geplant. </p></div>
+<div class="col"><div class="col-12 output"><p>Die Geschäftsidee der Errichtung einer Fabrik wurde von SIA Ciss Steel ins Leben gerufen 2018. und dies ist ein gutes Beispiel dafür, Hobby ins Geschäft zu verwandeln. Der Miteigentümer des Unternehmens, der Lieutenant Ingus Sudmalis, interessierte sich zunächst für das Chromieren verschiedener Metallteile in seinem Atelier und erkannte schnell, dass es eine große Nachfrage dafür gab. Ingus Sudmalis, Production Manager von SIA SUICS Steel, räumt ein, dass es die Gründung eines Unternehmens gefördert hat und plant, eine eigene Anlage zu bauen.</p><p>In der neuen Anlage ist geplant, verschiedene Arten von Metalloberflächenbehandlung durchzuführen, wie Galvanisieren, Chromieren, Vernickeln und Elektropulping. SIA ŘICS Steel hat seine Tätigkeit aufgenommen 2022. Im Jahr gemietete Räumlichkeiten in Liepāja Business Centre. Derzeit im Unternehmen tätig 22 Die Menschen und ihre Zahlen werden zunehmen. Dies ist auf die Nachfrage nach metallverarbeitenden Dienstleistungen zurückzuführen.</p><p>Uldis Klapers, Mitglied des Vorstandes der SIA БICS Steel betont, dass es in Liepāja sehr viele metallverarbeitende Unternehmen gibt, die bereits bestehende und potenzielle Kunden sind. Die Nachfrage ist hoch, da es heute wichtig ist, Kosten und Zeit zu optimieren. Die Qualität der Metalloberflächenbeschichtung in Liepāja war bisher nicht möglich zu empfangen und metallverarbeitende Unternehmen schickten Teile zur Verarbeitung in andere Länder. Nun sind all diese Dinge, die von Liepāja metallverarbeitenden Unternehmen produziert werden, mit dem notwendigen Material SIA "ICS Steel" in maximaler Zeit und hoher Qualität abgedeckt.</p><p>Die Zeit von der Idee zu einer neuen Fabrik war etwa fünf Jahre, die Überwindung verschiedener Hindernisse, aber das Ergebnis ist es wert. Die Umsetzung der Geschäftsidee erfolgte in enger Zusammenarbeit mit Liepāja Special Economic Zone Authority. Uldis Hmielevskis, Liepāja SEZ General Manager, verbirgt sich nicht, dass es eine große Freude ist, dass lokale Unternehmer neben skandinavischen Kapitalgesellschaften auch neue Fabriken bauen. Es ist sehr wichtig, dass sich lettische Kapitalgesellschaften in Liepāja und Lettland entwickeln, weil sie die Stärke unseres Landes auch in der Wirtschaft zeigt.</p><p>SIA CTS Steel testet weiterhin neue Geräte in der neuen Fabrik, plant jedoch ab März, dort mit voller Kapazität zu arbeiten. Ingus Sudmalis, Ltd. ist überzeugt, dass ICS Steel in zwei Jahren das stärkste Unternehmen in den baltischen Ländern auf diesem Gebiet sein wird. Wir sind Europas größte elektrische Polierlinie für Edelstahl. Der andere ist gerade über dem Meer, in Amerika. Du kannst diese Größe nirgendwo anders machen, wir sind die Einzigen. Wir haben innovative Technologien entwickelt, um dies zu tun, denn bisher konnte es nicht wirklich getan werden.</p><p>Bei der Planung der Geschäftsentwicklung hat SIA √ICS Steel in den kommenden Jahren neben dem neuen Werk zwei Produktionsgebäude geplant. </p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/86/870_1706102113__R1A0067.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/86/original_1706102113__R1A0067.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/86/original_1706102113__R1A0067.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

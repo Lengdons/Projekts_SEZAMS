@@ -40,7 +40,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../investe-liepaja/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/investe-liepaja/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Investieren in Liepāja
@@ -56,7 +56,7 @@ Hafen
 </a>
 <div class="sidebar-nested ps-md-4">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../par-ostu/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/par-ostu/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Über den Hafen
@@ -64,7 +64,7 @@ Hafen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../pramju-satiksme/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/pramju-satiksme/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Fährverkehr
@@ -72,7 +72,7 @@ Fährverkehr
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../kruiza-kugi/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/kruiza-kugi/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Kreuzfahrtschiffe
@@ -80,7 +80,7 @@ Kreuzfahrtschiffe
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/jahtu-osta/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Yachthafen
@@ -88,7 +88,7 @@ Yachthafen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../oskara-kalpaka-tilts/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/oskara-kalpaka-tilts/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Oskars-Kalpaks-Brücke
@@ -98,7 +98,7 @@ Oskars-Kalpaks-Brücke
 </div>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../kapitalsabiedribas/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/kapitalsabiedribas/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Unternehmen
@@ -106,7 +106,7 @@ Unternehmen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../attistibas-projekti/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/attistibas-projekti/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Entwicklungsprojekte
@@ -114,7 +114,7 @@ Entwicklungsprojekte
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../darbs-liepaja/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/darbs-liepaja/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Stellenangebote in Liepāja
@@ -122,7 +122,7 @@ Stellenangebote in Liepāja
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../teritoriju-karte/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/teritoriju-karte/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Gebietskarte
@@ -150,7 +150,7 @@ Gebietskarte
 </div>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><h6>Liepaja Yacht Port befindet sich auf der Seite des Handelskanals in der Nähe des Gebäudes "Promenade Hotel." Seine Lage ermöglicht es Ihnen, Yachten im Stadtzentrum zu vermieten und Geschäfte, Restaurants, Sehenswürdigkeiten, öffentliche Verkehrsmittel und Touristeninformationszentrum während eines 5- bis 10-minütigen Spaziergangs zu erreichen.</h6></div>
+<div class="col"><div class="col-12 output"><h6>Liepāja Yacht Port befindet sich auf der Seite des Handelskanals in der Nähe des Gebäudes "Promenade Hotel." Seine Lage ermöglicht es Ihnen, Yachten im Stadtzentrum zu vermieten und Geschäfte, Restaurants, Sehenswürdigkeiten, öffentliche Verkehrsmittel und Touristeninformationszentrum während eines 5- bis 10-minütigen Spaziergangs zu erreichen.</h6></div>
 </div>
 </div>
 </div>
@@ -160,7 +160,7 @@ Gebietskarte
 <p>Für eingehende Yachten Yacht Hafen bietet notwendige Kai-Dienstleistungen für Anlegestellen, Wasserversorgung, Stromversorgung, Kai Sicherheit. Für die Bequemlichkeit der Gäste wird eine komfortable Toilette, Dusche und Waschküche angeboten.</p>
 </div>
 <div class="col-12 col-md-6 column-content">
-<p>Seit 2008 Der Yachthafen von 2001 erhielt die Blaue Flagge, ein international anerkanntes Öko-Zertifikat. Die Blaue Flagge ist eine Bestätigung der Stiftung für Umwelterziehung, dass der Strand oder Yachthafen die strengen Qualitätsstandards der Stiftung gewährleistet.</p>
+<p>Seit 2008. Der Yachthafen von erhielt die Blaue Flagge, ein international anerkanntes Öko-Zertifikat. Die Blaue Flagge ist eine Bestätigung der Stiftung für Umwelterziehung, dass der Strand oder Yachthafen die strengen Qualitätsstandards der Stiftung gewährleistet.</p>
 </div>
 </div>
 </div>
@@ -201,7 +201,7 @@ Badeausrüstung Layout in der Nähe der Marinas von Yacht Port
 </div>
 <div aria-labelledby="heading5640" class="collapse" data-parent="#accordion" id="collapse5640">
 <div class="card-body">
-<ul><li>Um das Wasserfahrzeug lange Zeit an einem der Liegeplätze im Hafen von Liepaja zu halten, ist es notwendig, ein Boot/Kuter-Anlegeabkommen mit Liepaja Special Economic Zone Authority durch Ausfüllen des Anmeldeformulars in der Mitte des Yachthafens abzuschließen.</li><li>Yacht-/Kuter-Anlegeverträge für ihre Langzeitverstauung an Yachthäfen werden auf der ersten, erstmaligen Basis abgeschlossen, bis die zu diesem Zweck verfügbaren Sitze zur Verfügung stehen. Es ist keine Reservierung der Sitze vorgesehen.</li><li>Zur Anwendung eines monatlichen Gebührensatzes für langfristige Anlegestellen beträgt die Mindestdauer des Yacht-/Cutter-Anlegevertrages 2 Monate. Während der Saison werden den Wartelistenkunden freie Stellen in Übereinstimmung mit der Bestellung angeboten.</li></ul><br/>
+<ul><li>Um das Wasserfahrzeug lange Zeit an einem der Liegeplätze im Hafen von Liepāja zu halten, ist es notwendig, ein Boot/Kuter-Anlegeabkommen mit Liepāja Special Economic Zone Authority durch Ausfüllen des Anmeldeformulars in der Mitte des Yachthafens abzuschließen.</li><li>Yacht-/Kuter-Anlegeverträge für ihre Langzeitverstauung an Yachthäfen werden auf der ersten, erstmaligen Basis abgeschlossen, bis die zu diesem Zweck verfügbaren Sitze zur Verfügung stehen. Es ist keine Reservierung der Sitze vorgesehen.</li><li>Zur Anwendung eines monatlichen Gebührensatzes für langfristige Anlegestellen beträgt die Mindestdauer des Yacht-/Cutter-Anlegevertrages 2 Monate. Während der Saison werden den Wartelistenkunden freie Stellen in Übereinstimmung mit der Bestellung angeboten.</li></ul><br/>
 <img alt="" src="../../img/block/accordion/133/1717506654_karte_shema _jahtu osta.webp"/>
 </div>
 </div>
@@ -218,7 +218,7 @@ Bestimmungen für Yachten und kleine Schiffe
 </div>
 <div aria-labelledby="heading5641" class="collapse" data-parent="#accordion" id="collapse5641">
 <div class="card-body">
-<p>Um einen sicheren Versand zu organisieren, empfiehlt es sich, untergroße Schiffe mit Ultra-Kurzwellen-Radiogeräten dauerhaft mit Funkdiensten auszustatten. 11 Canal.</p><p>Es ist zu berücksichtigen, dass ein Mitglied der Schifffahrtsindustrie, das sicher außerhalb großer Fairways navigieren kann, nicht die Beförderung von Schiffen auf ihnen beeinträchtigen darf. Die Beförderung von Yachten und kleinen Schiffen in einem Hafen muss so erfolgen, dass sie nicht mit Schiffen auf dem Fairway stören. Bei der Schifffahrt im Aquatorium des Hafens von Liepaja müssen die Vorschriften über den Schiffsverkehr in Binnengewässern und den Hafen von Liepāja eingehalten werden.</p><p>Ein Boot, ein Boot oder ein Freizeitfahrzeug mit einer Länge von weniger als 24 Metern gilt als Unterwasserschiff.</p><p>Für Yachten und Sportboote ist die Navigation auf dem kommerziellen Kanal erlaubt.</p><p>Geschwindigkeitsbegrenzung für unterdimensionierte Schiffe im Handelskanal 5 Knoten (9 km/h). Der Rest des Aquators des Hafens setzt keine Geschwindigkeitsbegrenzung fest, sondern muss mit Geschwindigkeiten fahren, die andere Verkehrsteilnehmer, Personen, Ankerboote und andere schwimmende oder feste Strukturen nicht gefährden, insbesondere unter Berücksichtigung der Wellenwirkung des Wasserwerks.</p><br/>
+<p>Um einen sicheren Versand zu organisieren, empfiehlt es sich, untergroße Schiffe mit Ultra-Kurzwellen-Radiogeräten dauerhaft mit Funkdiensten auszustatten. 11 Canal.</p><p>Es ist zu berücksichtigen, dass ein Mitglied der Schifffahrtsindustrie, das sicher außerhalb großer Fairways navigieren kann, nicht die Beförderung von Schiffen auf ihnen beeinträchtigen darf. Die Beförderung von Yachten und kleinen Schiffen in einem Hafen muss so erfolgen, dass sie nicht mit Schiffen auf dem Fairway stören. Bei der Schifffahrt im Aquatorium des Hafens von Liepāja müssen die Vorschriften über den Schiffsverkehr in Binnengewässern und den Hafen von Liepāja eingehalten werden.</p><p>Ein Boot, ein Boot oder ein Freizeitfahrzeug mit einer Länge von weniger als 24 Metern gilt als Unterwasserschiff.</p><p>Für Yachten und Sportboote ist die Navigation auf dem kommerziellen Kanal erlaubt.</p><p>Geschwindigkeitsbegrenzung für unterdimensionierte Schiffe im Handelskanal 5 Knoten (9 km/h). Der Rest des Aquators des Hafens setzt keine Geschwindigkeitsbegrenzung fest, sondern muss mit Geschwindigkeiten fahren, die andere Verkehrsteilnehmer, Personen, Ankerboote und andere schwimmende oder feste Strukturen nicht gefährden, insbesondere unter Berücksichtigung der Wellenwirkung des Wasserwerks.</p><br/>
 </div>
 </div>
 </div>
@@ -232,14 +232,14 @@ Bestimmungen für Yachten und kleine Schiffe
 </div>
 <div class="col-12 mb-3">
 
-Informationen über Liepaja Yacht Hafen Vorschriften, Tarife und den Abschluss des Bootsanlegevertrages - Telefon: (+371) 26155882
+Informationen über Liepāja Yacht Hafen Vorschriften, Tarife und den Abschluss des Bootsanlegevertrages - Telefon: (+371) 26155882
 
 </div>
 <div class="col-12 mt-3">
 <div class="session-submit d-none"></div> <script async="" defer="" src="https://www.google.com/recaptcha/api.js"></script>
 <script>
 
-$(document).ready(function(){							
+$(document).ready(function(){
 
 if($('.session-submit').text()=="success"){
 
@@ -255,7 +255,7 @@ confirmButtonText: 'OK'
 
 });
 
-}		
+}
 
 if($('.session-submit').text()=="fail"){
 
@@ -338,7 +338,7 @@ confirmButtonText: 'OK'
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/jahtu-osta/index.php"><img alt="Nach oben" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

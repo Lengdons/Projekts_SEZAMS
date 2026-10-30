@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="https://liepaja-sez.lv//img/mod/news/317/1788948830_63_09.08.2026._1_LBT.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/sakums/sogad-graudaugu-sezona-liepajas-osta-sakas-velak-neka-citus-gadus" property="og:url"/>
-<meta content="Diese Jahreszeit beginnt später als andere Jahre im Hafen von Liepaja " property="og:title"/>
+<meta content="Die Getreidesaison im Hafen Liepāja beginnt dieses Jahr später als in anderen Jahren " property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Dieses Jahr beginnt die Getreidesaison im Hafen von Liepaja später als andere Jahre</title>
+<title>Dieses Jahr beginnt die Getreidesaison im Hafen von Liepāja später als andere Jahre</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="../../../css/main__40614cace7.css" rel="stylesheet"/>
@@ -48,17 +48,17 @@ html.classList.add(localStorage['contrast']);
 </div>
 <div class="col-12 col-md-9 mt-md-5">
 <span class="date d-block mt-md-5">09. September 2026</span>
-<h1 class="article-title">Diese Jahreszeit beginnt später als andere Jahre im Hafen von Liepaja </h1>
+<h1 class="article-title">Die Getreidesaison im Hafen Liepāja beginnt dieses Jahr später als in anderen Jahren </h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Hafen von Liepaja stevedore Unternehmen 2026. Im August 1961 wurden 341.83.000 umgetauscht. a. verschiedene Arten von Ladung. Traditionell besteht die größte Frachtgruppe aus trockenen Schüttgütern - landwirtschaftliche Produkte, Baustoffe und Holzschnitzel - 188,16 Tausend. a. Die zweitgrößte Frachtgruppe ist General Cargos - 153,24 Tausend. a. davon am meisten 129,2 Tausend a. sind Frachten, die auf der regulären Fährlinie Liepaja Travemide in Deutschland befördert werden.</p><p>Auflage. Im August des Jahres wird die Fracht im gleichen Zeitraum in anderen Jahren weniger als durchschnittlich behandelt.*</p><p>Auflage. Jahr 2005: 84,01 Tausend t<br/>Auflage. 161,7 Tausend t<br/>Auflage. 18,7 Tausend t<br/>Auflage. 212,6 Tausend t<br/>Auflage. 19,717,2 Tausend t</p><p>== Weblinks ==== Einzelnachweise == Tonnen pro Jahr</p><p>Der Hafen von Liepaja hat historisch und auch nach der Restaurierung seiner Aktivitäten in den 90er Jahren des letzten Jahrhunderts seine Tätigkeit bewusst entwickelt, um Getreideterminals zu entwickeln, mit Schwerpunkt auf lokalen Ladungen (~50% sind lokale Frachten, andere Transitfrachten) einschließlich. Ausfuhren von Getreide, das in Lettland erzeugt wird. Auflage. August 2007 <strong> </strong>zu Beginn von Liepaja Hafen Getreide Terminal begann lettische Gerste, Weizen Akzeptanz in Übereinstimmung mit geschlossenen Verträgen und gleichzeitig Speicherkapazität von Terminals, die etwa 730mila Tonnen.</p><p>Das größte Trockengut-Terminal im Hafen von Liepaja LSEZ "Liepaja Bulk Terminal LTD" hat ab 2026 Vereinbarungen mit großen lettischen Getreideexportunternehmen wie Baltic Agro-, Latraps und Linas Agro-Course geschlossen. 1. Jahr Juli bis 2027 1. Jahr Juli. Zudem arbeitet das Unternehmen mit internationalen Unternehmen wie Archer Daniels Midland (AMD) zusammen. Laut Juris Matvejevs, Vorsitzender des Board of LSEZ Ltd. "Liepaja Bulk Terminal LTD," ist die Akzeptanz lettischer Getreide in diesem Jahr langsamer als für andere Jahre und die erste Ladung der lettischen Weizenexporte verließ Liepaja Hafen nur 6. Im September, als ein Klassenschiff von Panamax ♫ Tuo Fu 8√ (65 486.39 Tonnen) den Hafen verließ, um nach Abu Dhabi zu fahren. Die Länder Zentralasiens arbeiten auch an den Agrarausfuhren in die EU-Länder sowie den Importen von argentinischem Soja und Brasilienzucker. Das Unternehmen kooperiert mit den weltweit führenden landwirtschaftlichen Produktlogistikunternehmen wie ADM (USA), die zu den führenden weltweiten Agrarvertrieben und Verarbeitern zählt. Das Unternehmen kauft, speichert, transportiert und verarbeitet Getreide- und Ölpflanzen und verbindet Landwirte mit Lebensmittel-, Futtermittel- und Industriemärkten weltweit.</p><p>Das zweitgrößte Getreideterminal √DanStore wird 1999 gegründet. Als Joint Venture zwischen den dänischen Unternehmen Svane Shipping und Scanmills im Jahr 2006.<i> </i>2003: 1999 wurde der strategische Partner des Unternehmens ein internationaler Agrarrohstoffhändler und Prozessor √Bunge, der dazu beigetragen hat, ein spezialisiertes Trockengutterminal zu schaffen und zu entwickeln. Darüber hinaus arbeitet DanStore derzeit im Rahmen abgeschlossener Verträge, einschließlich mit den lettischen Getreideunternehmen Baltic Agro und Agerona. Die Belastung des von lettischen Landwirten erzeugten Weizens ist derzeit im Gange.<i> </i>ein Klassenschiff "Jera," das nach Nigeria gebracht werden soll. </p><p>Die Prioritäten der Stevedore-Unternehmen im Hafen von Liepaja waren schon immer lokale Frachten, aber um einen reibungslosen Einsatz von Kapazitätsvereinbarungen zu gewährleisten, werden mit den weltweit größten Frachtlogistikunternehmen abgeschlossen. Im Hafen von Liepaja sind etwa die Hälfte lettische Fracht und eine andere Transitfracht. In den letzten Jahren wurde viel Arbeit geleistet und es wurde hart daran gearbeitet, einen Transitfrachtkorridor mit den zentralasiatischen Ländern aufzubauen. Wenn der Transit von Getreide in Drittländer eingeschränkt wird, erhöht er automatisch den Weltmarktpreis für Getreide, d.h. Lebensmittel, was unter anderem eine reale Auswirkung auf die steigende Inflation in Europa haben wird. Lettland und die ganze Welt. </p><p> </p></div>
+<div class="col"><div class="col-12 output"><p>stevedore Unternehmen im Hafen von Liepāja August 2026 Umladung 341,83 Tausend a. verschiedene Arten von Ladung. Traditionell besteht die größte Frachtgruppe aus trockenem Schüttgut - landwirtschaftliche Produkte, Baustoffe und Holzschnitzel - 188,16 Tausend a. Die zweitgrößte Frachtgruppe ist General Cargos - 153,24 Tausend a. davon am meisten 129,2 Tausend a. sind Frachten, die auf der regulären Fährlinie Liepāja Travemide in Deutschland befördert werden.</p><p>August 2026 Das Volumen der umgeladenen Ladung ist während des gleichen Zeitraums in anderen Jahren geringer als im Durchschnitt.*</p><p>2026. Jahr 84,01 Tausend t<br/>2025. Jahr 161,7 Tausend t<br/>2024. Jahr 184,7 Tausend t<br/>2023. Jahr 212,6 Tausend t<br/>2026. Jahr 217,2 Tausend t</p><p>== Weblinks ==== Einzelnachweise == Tonnen pro Jahr</p><p>Der Hafen von Liepāja war historisch und auch nach der Restaurierung seiner Aktivitäten im letzten Jahrhundert 90in diesen Jahren bewusst ihre Tätigkeit zur Entwicklung von Getreideterminals entwickelt, mit Schwerpunkt auf lokalen Ladungen (~50% sind Inlandsfracht, sonstige Transitgüter) einschließlich Ausfuhren von Getreide, das in Lettland erzeugt wird. August 2026 <strong> </strong>zu Beginn von Liepāja Hafen Getreide Terminal begann lettische Gerste, Weizen Akzeptanz in Übereinstimmung mit geschlossenen Verträgen und gleichzeitig Speicherkapazität von Terminals, die etwa 730mila Tonnen.</p><p>Das größte Trockengut-Terminal im Hafen von Liepāja LSEZ "Liepāja Bulk Terminal LTD" hat ab 2026 Vereinbarungen mit großen lettischen Getreideexportunternehmen wie Baltic Agro-, Latraps und Linas Agro-Course geschlossen. 1. Jahr Juli bis 2027 1. Jahr Juli. Zudem arbeitet das Unternehmen mit internationalen Unternehmen wie Archer Daniels Midland (AMD) zusammen. Laut Juris Matvejevs, Vorsitzender des Board of LSEZ Ltd. "Liepāja Bulk Terminal LTD," ist die Akzeptanz lettischer Getreide in diesem Jahr langsamer als für andere Jahre und die erste Ladung der lettischen Weizenexporte verließ Liepāja Hafen nur 6. Im September, als ein Klassenschiff von Panamax ♫ Tuo Fu 8√ (65 486.39 Tonnen) den Hafen verließ, um nach Abu Dhabi zu fahren. Die Länder Zentralasiens arbeiten auch an den Agrarausfuhren in die EU-Länder sowie den Importen von argentinischem Soja und Brasilienzucker. Das Unternehmen kooperiert mit den weltweit führenden landwirtschaftlichen Produktlogistikunternehmen wie ADM (USA), die zu den führenden weltweiten Agrarvertrieben und Verarbeitern zählt. Das Unternehmen kauft, speichert, transportiert und verarbeitet Getreide- und Ölpflanzen und verbindet Landwirte mit Lebensmittel-, Futtermittel- und Industriemärkten weltweit.</p><p>Das zweitgrößte Getreideterminal ♫DanStore" wurde gegründet 1999. Als Joint Venture zwischen den dänischen Unternehmen Svane Shipping und Scanmills im Jahr .<i> </i>Im Gegenzug: 2003. wurde der strategische Partner des Unternehmens ein internationaler Agrarrohstoffhändler und Prozessor √Bunge, der dazu beigetragen hat, ein spezialisiertes Trockengutterminal zu schaffen und zu entwickeln. Darüber hinaus arbeitet DanStore derzeit im Rahmen der abgeschlossenen Vereinbarungen, darunter: mit den lettischen Getreideunternehmen Baltic Agro und Agerona. Die Belastung des von lettischen Landwirten erzeugten Weizens ist derzeit im Gange.<i> </i>ein Klassenschiff "Jera," das nach Nigeria gebracht werden soll. </p><p>Die Prioritäten der Stevedore-Unternehmen im Hafen von Liepāja waren schon immer lokale Frachten, aber um einen reibungslosen Einsatz von Kapazitätsvereinbarungen zu gewährleisten, werden mit den weltweit größten Frachtlogistikunternehmen abgeschlossen. Im Hafen von Liepāja sind etwa die Hälfte lettische Fracht und eine andere Transitfracht. In den letzten Jahren wurde viel Arbeit geleistet und es wurde hart daran gearbeitet, einen Transitfrachtkorridor mit den zentralasiatischen Ländern aufzubauen. Wenn der Transit von Getreide in Drittländer eingeschränkt wird, erhöht er automatisch den Weltmarktpreis für Getreide, d.h. Lebensmittel, was unter anderem eine reale Auswirkung auf die steigende Inflation in Europa haben wird. Lettland und die ganze Welt. </p><p> </p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="../../../img/mod/news/317/870_1788948830_63_09.08.2026._1_LBT.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="../../../img/mod/news/317/original_1788948830_63_09.08.2026._1_LBT.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="../../../img/mod/news/317/original_1788948830_63_09.08.2026._1_LBT.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="../tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/sakums/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/sakums/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="../izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/sakums/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/sakums/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -108,7 +108,7 @@ html.classList.add(localStorage['contrast']);
 <div class="prev">
 </div>
 <div class="next">
-<a aria-label="Weiter" class="next related-pagination" data-page="2" href="index.php">
+<a aria-label="Weiter" class="next related-pagination" data-page="2" href="/site/de/sakums/sogad-graudaugu-sezona-liepajas-osta-sakas-velak-neka-citus-gadus/index.php">
 
 Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 </a>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/sakums/sogad-graudaugu-sezona-liepajas-osta-sakas-velak-neka-citus-gadus/index.php"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

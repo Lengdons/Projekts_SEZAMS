@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/medijiem/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -49,7 +49,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Fotos
@@ -57,7 +57,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -71,7 +71,7 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev d-none" data-block="2" data-page="" data-per-page="6" data-topic="14" href="../27/index.php">
+<a class="news-list-pagination prev d-none" data-block="2" data-page="" data-per-page="6" data-topic="14" href="/site/de/medijiem/27/index.php">
 <img alt="Zurück" src="../../../img/round-right.svg"/>
 
 Zurück
@@ -79,7 +79,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next d-none" data-block="2" data-page="" data-per-page="6" data-topic="14" href="../29/index.php">
+<a class="news-list-pagination next d-none" data-block="2" data-page="" data-per-page="6" data-topic="14" href="/site/de/medijiem/29/index.php">
 
 Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 </a>
@@ -124,7 +124,7 @@ Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

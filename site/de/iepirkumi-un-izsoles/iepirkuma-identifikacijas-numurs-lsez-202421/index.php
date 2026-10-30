@@ -10,12 +10,12 @@
 
 <meta name="robots" content="follow, index"><meta property="og:type" content="article" />
 <meta property="og:url" content="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/iepirkuma-identifikacijas-numurs-lsez-202421/" />
-<meta property="og:title" content="PROCUREMENT (IDENTIFICATION NUMBER LSEZ 2024/21) Abfall aus dem Schiffsbetrieb MARPOL I und MARPOL IV (von Kreuzfahrtschiffen) Management im Hafen von Liepaja" />
+<meta property="og:title" content="PROCUREMENT (IDENTIFICATION NUMBER LSEZ 2024/21) Abfall aus dem Schiffsbetrieb MARPOL I und MARPOL IV (von Kreuzfahrtschiffen) Management im Hafen von Liepāja" />
 <meta property="og:site_name" content="Sonderwirtschaftszone Liepāja" />
 <meta name="twitter:site" content="@liepajaSEZ" />
 <meta name="twitter:creator" content="@liepajaSEZ" />
 
-<title>PROCUREMENT (INDICATION NUMBER LSEZ 2024/21) Abfälle aus der Schiffsoperation MARPOL I und MARPOL IV (von Kreuzfahrtschiffen) im Hafen von Liepaja</title>			
+<title>PROCUREMENT (INDICATION NUMBER LSEZ 2024/21) Abfälle aus der Schiffsoperation MARPOL I und MARPOL IV (von Kreuzfahrtschiffen) im Hafen von Liepāja</title>
 
 <link rel="stylesheet" href="https://liepaja-sez.lv/css/jarallax.min.css">
 <link rel="stylesheet" href="https://liepaja-sez.lv/css/bootstrap.min.css">
@@ -48,31 +48,31 @@ html.classList.add(localStorage['contrast']);
 <p class="job"></p>
 <br>
 <span>Tel.: <a href="tel:" target="_blank"></a></span>
-<span>E-Mail: <a href="mailto:" target="_blank"></a></span>								
-</div>					
+<span>E-Mail: <a href="mailto:" target="_blank"></a></span>
+</div>
 <div class="col-12 col-md-9 mt-md-5">
 <span class="date d-block mt-md-5">23. Mai 2024</span>
-<h1 class="article-title">PROCUREMENT (IDENTIFICATION NUMBER LSEZ 2024/21) Abfall aus dem Schiffsbetrieb MARPOL I und MARPOL IV (von Kreuzfahrtschiffen) Management im Hafen von Liepaja</h1>
+<h1 class="article-title">PROCUREMENT (IDENTIFICATION NUMBER LSEZ 2024/21) Abfall aus dem Schiffsbetrieb MARPOL I und MARPOL IV (von Kreuzfahrtschiffen) Management im Hafen von Liepāja</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p><strong>Gegenstand der Auftragsvergabe</strong><br>Gegenstand der Beschaffung ist es, die im Betrieb von Schiffen MARPOL I und MARPOL IV (von Kreuzfahrtschiffen) anfallenden Abfälle gemäß den verbindlichen Vorschriften vom 22. November 2018 des Stadtrats von Liepaja zu akzeptieren. Anforderungen und Empfehlungen von Regulierungsakten und internationalen Rechtsnormen der Republik Lettland (nachfolgend "der Dienst" genannt).</p><p><br>1.1.1. Vertragslaufzeit: 48 (vierundachtzig) Monate nach Vertragsabschluss.</p><p>1.4.2. Ort der Aufführung: Republik Lettland, Liepaja, Hafen von Liepaja. 1.4.3. Damit Lieferanten den Inhalt des Beschaffungsgegenstandes (Objekte) genau verstehen können, ein Angebot qualitativ vorbereiten, Kostenberechnungen vornehmen und alle Umstände, die die Bestimmung des Auftragspreises und die Ausführung von Werken beeinflussen oder beeinträchtigen könnten, vollständig verstehen können, bestimmt der Kunde die Prüfung aller Objekte als obligatorische Bedingung. Im Einvernehmen mit Liepaja SEZ Authority Security, Protection and Environment Spezialisten Maija.uzolina@lsez.lv, Tel.nr. 26469786. Die Liepaja SEZ-Behörde stellt den Antragstellern eine Bescheinigung über die Kontrolle der Liegeplätze im Hafen von Liepaja (Anhang 13 der Verordnung) vor.</p><p>1.4.4 Während des Besuchs der Website wird nur die Ansicht des Objektes stattfinden. Es werden keine zusätzlichen Informationen in Bezug auf den Gegenstand der Beschaffung oder die Vergabevorschriften vorgelegt. Alle zusätzlichen Informationen (Antworten auf Fragen, die während des Besuchs gestellt wurden) werden allen Bewerbern übermittelt und gleichzeitig in das EIS-Subsystem www.eis.gov.lv e-Wettbewerb innerhalb dieses Wettbewerbsabschnittes ab Eingang von Fragen platziert (Informationen zu gestellten Fragen sind in 5 (5) angegeben). während der Arbeitstage, spätestens jedoch 6 (sechs) Tage vor dem Abschlusstermin für die Einreichung von Angeboten</p><p><br>1.1.2. Die Angebote müssen im elektronischen Beschaffungssystem, nachstehend "EIS" genannt, eingereicht werden (https://www.eis.gov.lv/EKEIS/Supplier/). Eine spezifische Frist für die Einreichung von Angeboten ist im jeweiligen Beschaffungswesensmonitoring Office zu sehen, nachstehend IUB, Website-Notification und EIS e-Competition Subsystem genannt.<br>1.10.1. Die Verordnung mit ihren Anhängen bietet direkten und kostenlosen elektronischen Zugang zum Teilsystem EIS e-Wettbewerb (https://www.eis.gov.lv/EKEIS/Supplier/Organizer/3290).<br>&nbsp;</p></div>
+<div class="col"><div class="col-12 output"><p><strong>Gegenstand der Auftragsvergabe</strong><br>Der Gegenstand der Beschaffung ist, die im Betrieb von Schiffen MARPOL I und MARPOL IV (von Kreuzfahrtschiffen) erzeugten Abfälle zu akzeptieren, laut Liepāja Stadtrat 22. November 2018 die verbindlichen Vorschriften des Hafens von Liepāja Verordnungen des Kunden (Verordnungen) 1Anhang), Abfallbewirtschaftungsplan des Hafens von Liepāja, Anforderungen und Empfehlungen der Gesetze und Verordnungen der Republik Lettland und des Völkerrechts (nachstehend "der Dienst" genannt).</p><p><br>1.1.1. Vertragslaufzeit: 48 (vierundachtzig) Monate nach Vertragsabschluss.</p><p>1.4.2. Ort der Aufführung: Republik Lettland, Liepāja, Hafen von Liepāja. 1.4.3. Damit Lieferanten den Inhalt des Beschaffungsgegenstandes (Objekte) genau verstehen können, ein Angebot qualitativ vorbereiten, Kostenberechnungen vornehmen und alle Umstände, die die Bestimmung des Auftragspreises und die Ausführung von Werken beeinflussen oder beeinträchtigen könnten, vollständig verstehen können, bestimmt der Kunde die Prüfung aller Objekte als obligatorische Bedingung. Im Einvernehmen mit Liepāja SEZ Authority Security, Protection and Environment Spezialisten Maija.uzolina@lsez.lv, Tel.nr. 26469786. Die Liepāja SEZ-Behörde stellt den Antragstellern eine Bescheinigung über die Kontrolle der Liegeplätze im Hafen von Liepāja (Anhang 13 der Verordnung) vor.</p><p>1.4.4. Während des Besuchs der Website wird nur die Ansicht des Objektes stattfinden. Es werden keine zusätzlichen Informationen in Bezug auf den Gegenstand der Beschaffung oder die Vergabevorschriften vorgelegt. Alle zusätzlichen Informationen (Antworten auf die Fragen, die während des Besuchs gestellt wurden) werden allen Bewerbern übermittelt und gleichzeitig in das EIS-Subsystem www.eis.gov.lv e-Wettbewerb innerhalb dieses Wettbewerbsabschnittes ab Eingang von Fragen platziert (Informationen zu gestellten Fragen sind erhältlich). 5 (fünf) Arbeitstage, spätestens jedoch: 6 (sechs) Tage vor Ablauf der Frist für die Einreichung der Angebote</p><p><br>1.1.2. Die Angebote müssen im elektronischen Beschaffungssystem, nachstehend "EIS" genannt, eingereicht werden (https://www.eis.gov.lv/EKEIS/Supplier/). Eine spezifische Frist für die Einreichung von Angeboten ist im jeweiligen Beschaffungswesensmonitoring Office zu sehen, nachstehend IUB, Website-Notification und EIS e-Competition Subsystem genannt.<br>1.10.1. Die Verordnung mit ihren Anhängen bietet direkten und kostenlosen elektronischen Zugang zum Teilsystem EIS e-Wettbewerb (https://www.eis.gov.lv/EKEIS/Supplier/Organizer/3290).<br>&nbsp;</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/134/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/134/original_" aria-label="Download" download>
-<img class="download-icon" alt="Download" src="https://liepaja-sez.lv/img/dl.svg"/>	
-</a>															
+<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/134/original_" aria-label="Herunterladen" download>
+<img class="download-icon" alt="Herunterladen" src="https://liepaja-sez.lv/img/dl.svg"/>
+</a>
 </div>
-</div>						
+</div>
 </div>
 </div>
 <div class="container my-4">
 <div class="row">
 <div id="useful-p" class="col-12 useful">
 <span class="me-2">War diese Information hilfreich?</span>
-<button data-value="1" data-table-name="mod_news" data-table-id="134" class="useful-btn">Ja </button> 
+<button data-value="1" data-table-name="mod_news" data-table-id="134" class="useful-btn">Ja </button>
 <button data-value="0" data-table-name="mod_news" data-table-id="134" class="useful-btn">Nein </button>
 </div>
 </div>
@@ -80,14 +80,14 @@ html.classList.add(localStorage['contrast']);
 <div class="row related-article">
 <div class="col-12 col-lg-9 offset-lg-3 sizer first">
 <div class="row">
-<div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>						
+<div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Liepaja SEZ Authority organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in Eksporta Straße 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Weiterlesen</a>
+<h4>Die Verwaltung der Sonderwirtschaftszone Liepāja veranstaltet eine elektronische Versteigerung mit aufsteigenden Geboten für eine neu zu bildende Immobilie in der Eksporta iela 3</h4>
+<a class="d-none d-md-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">Liepaja Special Economic Zone Authority, Unified Registrierung No.LV90000329402, organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in Eksporta iela 3, Liepāja, die aus einer Grundeinheit mit einer Gesamtfläche von 51521 m2 und 12 Gebäuden bestehen wird.</div>
+<div class="col-12 col-md-8 col-lg-9">Die Verwaltung der Sonderwirtschaftszone Liepāja, einheitliche Registrierungsnummer LV90000329402, veranstaltet eine elektronische Versteigerung mit aufsteigenden Geboten für eine neu zu bildende Immobilie in der Eksporta iela 3 in Liepāja. Diese wird aus einem Grundstück mit einer Gesamtfläche von 51521 m2 und 12 Bauwerken bestehen.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -95,34 +95,34 @@ html.classList.add(localStorage['contrast']);
 <div class="row related-article">
 <div class="col-12 col-lg-9 offset-lg-3 sizer ">
 <div class="row">
-<div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>						
+<div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Hafen von Liepaja No. 46 Rekonstruktion Bauprojektentwicklung, Bauarbeiten und Autorüberwachung</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Weiterlesen</a>
+<h4>Planung, Bauarbeiten und Bauüberwachung durch den Planer beim Umbau des Liegeplatzes Nr. 46 im Hafen Liepāja</h4>
+<a class="d-none d-md-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">Gegenstand der Beschaffung: Hafen von Liepaja No. 46 Rekonstruktionsbau Projektentwicklung, Bau und Autorüberwachung ANZAHL LSEZ 2026/12 Der Haupt-CPV-Code: 45241500-3 (Ship Liegeplatzbau). 
+<div class="col-12 col-md-8 col-lg-9">Auftragsgegenstand: Planung, Bauarbeiten und Bauüberwachung durch den Planer beim Umbau des Liegeplatzes Nr. 46 im Hafen Liepāja. VERGABENUMMER LSEZ 2026/12. Haupt-CPV-Code: 45241500-3 (Bauarbeiten für Schiffsanlegestellen).
 </div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
-</div>	
+</div>
 <div class="row">
 <div class="col-12 col-lg-9 offset-lg-3 paginator mt-5">
 
-<div class="prev">	
+<div class="prev">
 </div>
 <div class="next">
 <a data-page="2" class="next related-pagination" href="#" aria-label="Weiter">
-Weiter <img src="https://liepaja-sez.lv/img/round-right.svg" alt="Weiter"> 
+Weiter <img src="https://liepaja-sez.lv/img/round-right.svg" alt="Weiter">
 </a>
-</div>		
 </div>
-</div></div>				
+</div>
+</div></div>
 <img class="background" src="https://liepaja-sez.lv/img/bg2.svg" alt="Hintergrundbild"/>
 </main>
-<footer class="footer">				
+<footer class="footer">
 <div class="container py-5">
 <div class="row">
 <div class="col-12 col-md-4 col-lg-2 footer-logo">
@@ -142,15 +142,15 @@ Weiter <img src="https://liepaja-sez.lv/img/round-right.svg" alt="Weiter">
 </div>
 </div>
 </div>
-<div class="col-12 col-md-8 col-lg-1">							
+<div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a href="#" aria-label="Nach oben"><img src="https://liepaja-sez.lv/img/round-right.svg" alt="scroll-up" class="img-fluid"></a>
+<a href="#" aria-label="Nach oben"><img src="https://liepaja-sez.lv/img/round-right.svg" alt="Nach oben" class="img-fluid"></a>
 </div>
 </div>
 </div>
 </div>
-</div>	
+</div>
 
 <div id="sticky-cookie" style="align-items: center; justify-content: center;">
 <img width="24" src="https://liepaja-sez.lv/img/cc.svg?=v5" alt="Cookie" />
@@ -167,11 +167,11 @@ gtag('config', 'G-6QTXK76SH0');
 </script>
 
 
-</script>				
+</script>
 <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous">
 <script src="https://code.jquery.com/color/jquery.color.plus-names-2.1.2.min.js"></script>
 
-<script src="https://liepaja-sez.lv/js/jarallax.min.js?v=3"></script>				
+<script src="https://liepaja-sez.lv/js/jarallax.min.js?v=3"></script>
 <script src="https://liepaja-sez.lv/js/bootstrap.bundle.min.js"></script>
 <script src="https://liepaja-sez.lv/js/main.js?v=9"></script>
 <script src="https://liepaja-sez.lv/js/mod/menu/main.js?v=1"></script><script src="https://liepaja-sez.lv/js/block/useful/main.js?v=1"></script>				<script defer src="https://liepaja-sez.lv/cc/src/cookieconsent.js"></script>

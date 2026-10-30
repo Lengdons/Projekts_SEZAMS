@@ -15,7 +15,7 @@
 <meta name="twitter:site" content="@liepajaSEZ" />
 <meta name="twitter:creator" content="@liepajaSEZ" />
 
-<title>Re-Auktion mit einem Schritt nach oben für Immobilien an der Naglu Street 1 √ SEZ</title>			
+<title>Re-Auktion mit einem Schritt nach oben für Immobilien an der Naglu Street 1 √ SEZ</title>
 
 <link rel="stylesheet" href="https://liepaja-sez.lv/css/jarallax.min.css">
 <link rel="stylesheet" href="https://liepaja-sez.lv/css/bootstrap.min.css">
@@ -48,14 +48,14 @@ html.classList.add(localStorage['contrast']);
 <p class="job">Leiter der Abteilung Unternehmensentwicklung</p>
 <br>
 <span>Tel.: <a href="tel:(+371) 29294267" target="_blank">(+371) 29294267</a></span>
-<span>E-Mail: <a href="mailto:raivo.spaks@lsez.lv" target="_blank">raivo.spaks@lsez.lv</a></span>								
-</div>					
+<span>E-Mail: <a href="mailto:raivo.spaks@lsez.lv" target="_blank">raivo.spaks@lsez.lv</a></span>
+</div>
 <div class="col-12 col-md-9 mt-md-5">
 <span class="date d-block mt-md-5">18. Februar 2026</span>
 <h1 class="article-title">Neuauktion mit einem Schritt nach oben für Immobilien an der Naglu Street 1</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Liepaja Special Economic Zone Authority, Unified Registrierung No.LV90000329402, organisiert elektronische Reauktion mit einem Schritt nach oben für Immobilien in der Naglu Street 1, Liepāja, kadastral No. 17000220152 bestehend aus einem Gebäude mit der kadastralen Bezeichnung 1700420059027 und einer Grundfläche von 15048 m2.</p><p>Startpreis: 295 000,00 EUR (zweihundert fünfundneunzigtausend Euro und 00 Cent), Auktionsschritt: 2950,00 EUR (2.000 neunhundertfünfzig Euro und 00cent), Ausschreibungssicherheitsgeld: 29 500,00 EUR (zweiundzwanzigtausend Fünfhundert Euro und 00 Zentren). Die Zahlung für den Kauf erfolgt in folgender Reihenfolge:</p><p>- innerhalb von 10 Werktagen nach Inkrafttreten des Vorschlags zahlt der Käufer eine Vorauszahlung in Höhe von 30% (dreißig Prozent) der Kaufgebühr.</p><p>- Der Käufer zahlt den verbleibenden Teil der Kaufgebühr innerhalb von zwei Wochen nach Abschluss des Kaufvertrages.</p><p>Die Auktion beginnt 20.02.2026. 13:00 und schließen 23.03.2026. 15.00 Uhr</p><p>Bewerber für die Auktion können sich ab 20.02.2025 anmelden. von 13.00 bis 12.03.2025 9.00 Uhr 23:59 auf der Website der elektronischen Auktion: <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>.</p><p>Die Person, die an der Auktion teilnehmen möchte, muss bis zur Anmeldefrist für die Auktion Sicherheitsgeld einreichen, 10% (zehn Prozent) des Startpreises der zu versteigernden Immobilie, d.h. 29 500,00 EUR (neunundzwanzigtausend fünfhundert Euro und 00 Cent), was dem aktuellen Konto der LSEZ Authority gutgeschrieben werden muss: Liepaja Special Economic Zone Verwaltung, einheitliche Registrierung Nr. LV90000329402, AS "SEB Banka," Konto Nr. LV42UNLA0012000609480, mit der Aufschrift "Auktion Security for Real Estate at Naglu Street 1." Die Versteigerung erfolgt elektronisch unter: <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>. Par nekustamā īpašuma izsoles norisi zvanīt 29294267, e-pasta adrese: raivo.spaks@lsez.lv.</p></div>
+<div class="col"><div class="col-12 output"><p>Liepāja Special Economic Zone Authority, einheitliche Registrierung Nr.LV90000329402, eine elektronische Auktion mit aufsteigendem Schritt für Immobilien in der Naglu Street organisieren 1, Liepāja, kadastral No. 17000220152bestehend aus einem Gebäude, das vom Kataster bestimmt wird 17000220059027 und Grundeinheiten mit Gesamtfläche 15048 m2.</p><p>Ursprünglicher Preis √ 295 000.00 EUR (zweihundertfünfundneunzigtausend Euro, und 00 (cents), Auktionsschritt 2950.00 EUR (zweitausend neunhundertfünfzig Euro und 00 (cents), Auktionssicherheit √ 29 500.00 EUR ( Euro, und 00 Cents). Die Zahlung für den Kauf erfolgt in folgender Reihenfolge:</p><p>- innerhalb von 10 Werktagen nach Inkrafttreten des Vorschlags zahlt der Käufer eine Vorauszahlung in Höhe von 30% (dreißig Prozent) der Kaufgebühr.</p><p>- Der Käufer zahlt den verbleibenden Teil der Kaufgebühr innerhalb von zwei Wochen nach Abschluss des Kaufvertrages.</p><p>Auktion beginnt 20.02.2026. Uhr13:00 und schließen 23.03.2026. Uhr13:00.</p><p>Bieter können sich für eine Auktion anmelden von: 20.02.2025. Uhr13:00 bis 12.03.2025. Uhr 23:59 auf der Website der elektronischen Auktion: <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>.</p><p>Die Person, die an der Auktion teilnehmen möchte, muss bis zur Anmeldefrist für die Auktion Sicherheitsgeld einreichen, 10% (zehn Prozent) des Startpreises der zu versteigernden Immobilie, d.h. 29 500,00 EUR (neunundzwanzigtausend fünfhundert Euro und 00 Cent), was dem aktuellen Konto der LSEZ Authority gutgeschrieben werden muss: Liepāja Special Economic Zone Verwaltung, einheitliche Registrierung Nr. LV90000329402, AS "SEB Banka," Konto Nr. LV42UNLA0012000609480, mit der Aufschrift "Auktion Security for Real Estate at Naglu Street 1." Die Versteigerung erfolgt elektronisch unter: <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>. Par nekustamā īpašuma izsoles norisi zvanīt 29294267, e-pasta adrese: raivo.spaks@lsez.lv.</p></div>
 </div>
 </div>
 </div>
@@ -72,7 +72,7 @@ Bewertung
 </div>
 <a class="document" href="https://liepaja-sez.lv/doc/mod/document/346/1771405200_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf" target="_blank" aria-label="1771405200_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
-</a>							
+</a>
 </div>
 </div>
 <div class="row">
@@ -87,7 +87,7 @@ Plan
 </div>
 <a class="document" href="https://liepaja-sez.lv/doc/mod/document/347/1771405250_4_Pielikums_Plans_Naglu_1.pdf" target="_blank" aria-label="1771405250_4_Pielikums_Plans_Naglu_1.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
-</a>							
+</a>
 </div>
 </div>
 <div class="row">
@@ -102,7 +102,7 @@ Auktionsregeln
 </div>
 <a class="document" href="https://liepaja-sez.lv/doc/mod/document/348/1771405296_Izsoles_Noteikumi_Naglu_1.pdf" target="_blank" aria-label="1771405296_Izsoles_Noteikumi_Naglu_1.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
-</a>							
+</a>
 </div>
 </div>
 <div class="row">
@@ -117,7 +117,7 @@ Beitrittsantrag
 </div>
 <a class="document" href="https://liepaja-sez.lv/doc/mod/document/349/1771405348_Pielikums_1_Pieteikums_Dalibai_Izsole_Naglu_1.pdf" target="_blank" aria-label="1771405348_Pielikums_1_Pieteikums_Dalibai_Izsole_Naglu_1.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
-</a>							
+</a>
 </div>
 </div>
 <div class="row">
@@ -132,7 +132,7 @@ Absichtserklärung
 </div>
 <a class="document" href="https://liepaja-sez.lv/doc/mod/document/350/1771405389_Pielikums_2_Prieksligums_Naglu_1.pdf" target="_blank" aria-label="1771405389_Pielikums_2_Prieksligums_Naglu_1.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
-</a>							
+</a>
 </div>
 </div>
 <div class="row">
@@ -147,7 +147,7 @@ Kaufvertrag
 </div>
 <a class="document" href="https://liepaja-sez.lv/doc/mod/document/351/1771405428_Pielikums_3_Pirkuma_Ligums_Naglu_1.pdf" target="_blank" aria-label="1771405428_Pielikums_3_Pirkuma_Ligums_Naglu_1.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
-</a>							
+</a>
 </div>
 </div>
 <div class="row">
@@ -162,24 +162,24 @@ Objektfoto in ZIP-Datei
 </div>
 <a class="document" href="https://liepaja-sez.lv/doc/mod/document/353/1771406458_Foto.zip" target="_blank" aria-label="1771406458_Foto.zip">
 <i class="bi bi-file-earmark-zip"></i>
-</a>							
+</a>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/276/870_1771406162__R1A9987.webp"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/276/original_1771406162__R1A9987.webp" aria-label="Download" download>
-<img class="download-icon" alt="Download" src="https://liepaja-sez.lv/img/dl.svg"/>	
-</a>															
+<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/276/original_1771406162__R1A9987.webp" aria-label="Herunterladen" download>
+<img class="download-icon" alt="Herunterladen" src="https://liepaja-sez.lv/img/dl.svg"/>
+</a>
 </div>
-</div>						
+</div>
 </div>
 </div>
 <div class="container my-4">
 <div class="row">
 <div id="useful-p" class="col-12 useful">
 <span class="me-2">War diese Information hilfreich?</span>
-<button data-value="1" data-table-name="mod_news" data-table-id="276" class="useful-btn">Ja </button> 
+<button data-value="1" data-table-name="mod_news" data-table-id="276" class="useful-btn">Ja </button>
 <button data-value="0" data-table-name="mod_news" data-table-id="276" class="useful-btn">Nein </button>
 </div>
 </div>
@@ -187,14 +187,14 @@ Objektfoto in ZIP-Datei
 <div class="row related-article">
 <div class="col-12 col-lg-9 offset-lg-3 sizer first">
 <div class="row">
-<div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>						
+<div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Liepaja SEZ Authority organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in Eksporta Straße 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Weiterlesen</a>
+<h4>Die Verwaltung der Sonderwirtschaftszone Liepāja veranstaltet eine elektronische Versteigerung mit aufsteigenden Geboten für eine neu zu bildende Immobilie in der Eksporta iela 3</h4>
+<a class="d-none d-md-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">Liepaja Special Economic Zone Authority, Unified Registrierung No.LV90000329402, organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in Eksporta iela 3, Liepāja, die aus einer Grundeinheit mit einer Gesamtfläche von 51521 m2 und 12 Gebäuden bestehen wird.</div>
+<div class="col-12 col-md-8 col-lg-9">Die Verwaltung der Sonderwirtschaftszone Liepāja, einheitliche Registrierungsnummer LV90000329402, veranstaltet eine elektronische Versteigerung mit aufsteigenden Geboten für eine neu zu bildende Immobilie in der Eksporta iela 3 in Liepāja. Diese wird aus einem Grundstück mit einer Gesamtfläche von 51521 m2 und 12 Bauwerken bestehen.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -202,34 +202,34 @@ Objektfoto in ZIP-Datei
 <div class="row related-article">
 <div class="col-12 col-lg-9 offset-lg-3 sizer ">
 <div class="row">
-<div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>						
+<div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Hafen von Liepaja No. 46 Rekonstruktion Bauprojektentwicklung, Bauarbeiten und Autorüberwachung</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Weiterlesen</a>
+<h4>Planung, Bauarbeiten und Bauüberwachung durch den Planer beim Umbau des Liegeplatzes Nr. 46 im Hafen Liepāja</h4>
+<a class="d-none d-md-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">Gegenstand der Beschaffung: Hafen von Liepaja No. 46 Rekonstruktionsbau Projektentwicklung, Bau und Autorüberwachung ANZAHL LSEZ 2026/12 Der Haupt-CPV-Code: 45241500-3 (Ship Liegeplatzbau). 
+<div class="col-12 col-md-8 col-lg-9">Auftragsgegenstand: Planung, Bauarbeiten und Bauüberwachung durch den Planer beim Umbau des Liegeplatzes Nr. 46 im Hafen Liepāja. VERGABENUMMER LSEZ 2026/12. Haupt-CPV-Code: 45241500-3 (Bauarbeiten für Schiffsanlegestellen).
 </div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
-</div>	
+</div>
 <div class="row">
 <div class="col-12 col-lg-9 offset-lg-3 paginator mt-5">
 
-<div class="prev">	
+<div class="prev">
 </div>
 <div class="next">
 <a data-page="2" class="next related-pagination" href="#" aria-label="Weiter">
-Weiter <img src="https://liepaja-sez.lv/img/round-right.svg" alt="Weiter"> 
+Weiter <img src="https://liepaja-sez.lv/img/round-right.svg" alt="Weiter">
 </a>
-</div>		
 </div>
-</div></div>				
+</div>
+</div></div>
 <img class="background" src="https://liepaja-sez.lv/img/bg2.svg" alt="Hintergrundbild"/>
 </main>
-<footer class="footer">				
+<footer class="footer">
 <div class="container py-5">
 <div class="row">
 <div class="col-12 col-md-4 col-lg-2 footer-logo">
@@ -249,15 +249,15 @@ Weiter <img src="https://liepaja-sez.lv/img/round-right.svg" alt="Weiter">
 </div>
 </div>
 </div>
-<div class="col-12 col-md-8 col-lg-1">							
+<div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a href="#" aria-label="Nach oben"><img src="https://liepaja-sez.lv/img/round-right.svg" alt="scroll-up" class="img-fluid"></a>
+<a href="#" aria-label="Nach oben"><img src="https://liepaja-sez.lv/img/round-right.svg" alt="Nach oben" class="img-fluid"></a>
 </div>
 </div>
 </div>
 </div>
-</div>	
+</div>
 
 <div id="sticky-cookie" style="align-items: center; justify-content: center;">
 <img width="24" src="https://liepaja-sez.lv/img/cc.svg?=v5" alt="Cookie" />
@@ -274,11 +274,11 @@ gtag('config', 'G-6QTXK76SH0');
 </script>
 
 
-</script>				
+</script>
 <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous">
 <script src="https://code.jquery.com/color/jquery.color.plus-names-2.1.2.min.js"></script>
 
-<script src="https://liepaja-sez.lv/js/jarallax.min.js?v=3"></script>				
+<script src="https://liepaja-sez.lv/js/jarallax.min.js?v=3"></script>
 <script src="https://liepaja-sez.lv/js/bootstrap.bundle.min.js"></script>
 <script src="https://liepaja-sez.lv/js/main.js?v=9"></script>
 <script src="https://liepaja-sez.lv/js/mod/menu/main.js?v=1"></script><script src="https://liepaja-sez.lv/js/block/useful/main.js?v=1"></script>				<script defer src="https://liepaja-sez.lv/cc/src/cookieconsent.js"></script>

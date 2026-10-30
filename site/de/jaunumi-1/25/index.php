@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/jaunumi-1/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -49,7 +49,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Fotos
@@ -57,7 +57,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -71,18 +71,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Liepaja SEZ-Behörde führt weiterhin Pläne zur Errichtung eines Offshore-Windenergiezentrums in der östlichen Ostsee durch</h2>
+<h2>Liepāja SEZ-Behörde führt weiterhin Pläne zur Errichtung eines Offshore-Windenergiezentrums in der östlichen Ostsee durch</h2>
 <span class="mb-3">20.09.2023.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-parvalde-turpina-istenot-ieceri-par-atkrastes-veja-energijas-nozares-centra-i/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepajas-sez-parvalde-turpina-istenot-ieceri-par-atkrastes-veja-energijas-nozares-centra-i/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>20. Uldis Hmieļevskis, Direktorin der Special Economic Zone Liepaja (Liepāja SEZ), präsentierte die Arbeiten zur Schaffung von Offshore-Windschutzstützpunkten im Hafen von Liepaja und entwickelte ein Niederlassungszentrum in der östlichen Ostsee mit die erforderlichen Produktions- und Logistikkapazitäten, Bildungskapazitäten in der Vorbereitung der benötigten Spezialisten.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-parvalde-turpina-istenot-ieceri-par-atkrastes-veja-energijas-nozares-centra-i/index.php">Weiterlesen</a>
+<p>20. Uldis Hmieļevskis, Direktorin der Special Economic Zone Liepāja (Liepāja SEZ), präsentierte die Arbeiten zur Schaffung von Offshore-Windschutzstützpunkten im Hafen von Liepāja und entwickelte ein Niederlassungszentrum in der östlichen Ostsee mit die erforderlichen Produktions- und Logistikkapazitäten, Bildungskapazitäten in der Vorbereitung der benötigten Spezialisten.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepajas-sez-parvalde-turpina-istenot-ieceri-par-atkrastes-veja-energijas-nozares-centra-i/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/30/1702369441_49_09.20.2023._atkraste_LIAA_seminars_1.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-parvalde-turpina-istenot-ieceri-par-atkrastes-veja-energijas-nozares-centra-i/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepajas-sez-parvalde-turpina-istenot-ieceri-par-atkrastes-veja-energijas-nozares-centra-i/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/30/1702369441_49_09.20.2023._atkraste_LIAA_seminars_1.webp"/>
 </a>
 </div>
@@ -91,18 +91,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Hafen von Liepaja arbeitet mit stabilen Frachtumsätzen</h2>
+<h2>Hafen von Liepāja arbeitet mit stabilen Frachtumsätzen</h2>
 <span class="mb-3">19.09.2023.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-osta-strada-ar-stabilu-kravu-apgrozijumu/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepajas-osta-strada-ar-stabilu-kravu-apgrozijumu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Hafen von Liepaja 2023. In acht Monaten 2007 wurden 4,6 Mio I.E. Tonnen unterschiedlicher Ladung. Die größte Frachtgruppe ist noch trockene Schüttgüter, die 68% des gesamten Frachtumschlags ausmachen. Getreide und Getreideerzeugnisse 44% oder 2,01 Mio. Tonnen. Der Hafen von Liepaja hält weiterhin stabilen Ro-Ro Frachtumschlag mit positiver Dynamik aufrecht. Dies hängt mit der Nachfrage nach Gütern und Umsatz sowie der Zusammenarbeit zwischen Geschäftsleuten und Liepaja Special Economic Zone Authority zusammen, um neue Logistikrichtungen und Ladungen anzulocken, weiterhin lokale Frachten anzuziehen, sowie die gegenseitigen Investitionen in die Infrastrukturentwicklung.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-osta-strada-ar-stabilu-kravu-apgrozijumu/index.php">Weiterlesen</a>
+<p>Hafen von Liepāja 2023. in den acht Monaten 4,6 Mio. Tonnen unterschiedlicher Ladung. Die größte Frachtgruppe ist immer noch trockener Schüttgut, das besteht aus 68% der Gesamtfracht einschließlich Getreide und Getreideerzeugnisse 44% oder 2,01 Mio. Tonnen. Der Hafen von Liepāja hält weiterhin stabilen Ro-Ro Frachtumschlag mit positiver Dynamik aufrecht. Es ist auf die Nachfrage und den Umsatz von Waren sowie die Zusammenarbeit zwischen Geschäftsleuten und Liepāja Special Economic Zone Authority bei der Gewinnung neuer Logistikrichtungen und Ladungen, weiterhin anzuziehen lokalen Frachten sowie gegenseitige Investitionen in Infrastrukturentwicklung.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepajas-osta-strada-ar-stabilu-kravu-apgrozijumu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/31/1702369537_48_09.19.2023._kravas_pramis.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-osta-strada-ar-stabilu-kravu-apgrozijumu/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepajas-osta-strada-ar-stabilu-kravu-apgrozijumu/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/31/1702369537_48_09.19.2023._kravas_pramis.webp"/>
 </a>
 </div>
@@ -111,18 +111,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Annahme der Beschlüsse durch den Rat "Liepaja SEZ" am 15. September.</h2>
+<h2>Annahme der Beschlüsse durch den Rat "Liepāja SEZ" am 15. September.</h2>
 <span class="mb-3">15.09.2023.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-valdes-15septembri-pienemtie-lemumi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepajas-sez-valdes-15septembri-pienemtie-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Auflage. im Jahr 15 Januar 2007 Am September fand die ordentliche Sitzung des Vorstands von Liepaja SEZ statt, in der vier Beschlüsse gefasst wurden. Der Verwaltungsrat von Liepaja SEZ hat das Abkommen über die Wiederaufbauarbeiten von Karosta Canal geändert, beschlossen, die Vereinbarung über die Aufrechterhaltung der Hafenschiffskanäle und aquatorium zu verlängern, den Wiederernennungsvertrag zu schließen und den Abschluss von Investitionsabkommen von LSEZ Ltd. zu unterstützen.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-valdes-15septembri-pienemtie-lemumi/index.php">Weiterlesen</a>
+<p>15. September 2023 die regelmäßige Sitzung des Vorstands von Liepāja SEZ, in der angenommen wurde 4 Entscheidungen. Der Verwaltungsrat von Liepāja SEZ hat das Abkommen über die Wiederaufbauarbeiten von Karosta Canal geändert, beschlossen, den Vertrag für die Durchführung der Instandhaltungsarbeiten von Hafenschiff Kanälen und Aquatorium Tiefen zu verlängern, um Wiederernennungsabkommen zu schließen und den Abschluss von Investitionsabkommen von LSEZ Ltd. zu unterstützen.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepajas-sez-valdes-15septembri-pienemtie-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/32/1702369683_47_09.15.2023._osta.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-valdes-15septembri-pienemtie-lemumi/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepajas-sez-valdes-15septembri-pienemtie-lemumi/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/32/1702369683_47_09.15.2023._osta.webp"/>
 </a>
 </div>
@@ -131,18 +131,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Verein der Liepaja Bezirkspartnerschaft.Erfahren Sie die notwendige Infrastruktur für Fischer im Hafen von Liepaja</h2>
+<h2>Verein der Liepāja Bezirkspartnerschaft.Erfahren Sie die notwendige Infrastruktur für Fischer im Hafen von Liepāja</h2>
 <span class="mb-3">17.08.2023.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../biedriba-liepajas-rajona-partneriba-iepazistas-ar-zvejniekiem-nepieciesamo-infrastrukturu-/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/biedriba-liepajas-rajona-partneriba-iepazistas-ar-zvejniekiem-nepieciesamo-infrastrukturu-/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Der neue Rat der Gesellschaft √Liepāja Bezirkspartnerschaft ♫ 9. Im August lernte sie Projekte kennen, die von der Liepaja SEZ Authority im Hafen von Liepaja durchgeführt wurden, um den Fischern die notwendige Infrastruktur zu bieten. Gleichzeitig diskutierten Liepaja SEZ-Manager Uldis Hmielevskis und der stellvertretende Technische Direktor Egils Sveili über die Bedürfnisse und Vorstellungen, die im neuen Aktionsprogramm des Europäischen Meeres- und Fischereifonds für Maßnahmen zur Entwicklung der Fischerei umgesetzt werden könnten.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../biedriba-liepajas-rajona-partneriba-iepazistas-ar-zvejniekiem-nepieciesamo-infrastrukturu-/index.php">Weiterlesen</a>
+<p>Der neue Rat der Gesellschaft √Liepāja Bezirkspartnerschaft ♫ 9. Im August lernte sie Projekte kennen, die von der Liepāja SEZ Authority im Hafen von Liepāja durchgeführt wurden, um den Fischern die notwendige Infrastruktur zu bieten. Gleichzeitig diskutierten Liepāja SEZ-Manager Uldis Hmielevskis und der stellvertretende Technische Direktor Egils Sveili über die Bedürfnisse und Vorstellungen, die im neuen Aktionsprogramm des Europäischen Meeres- und Fischereifonds für Maßnahmen zur Entwicklung der Fischerei umgesetzt werden könnten.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/biedriba-liepajas-rajona-partneriba-iepazistas-ar-zvejniekiem-nepieciesamo-infrastrukturu-/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/35/1702379138__R1A0609.webp)">
-<a aria-label="Weiterlesen" href="../biedriba-liepajas-rajona-partneriba-iepazistas-ar-zvejniekiem-nepieciesamo-infrastrukturu-/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/biedriba-liepajas-rajona-partneriba-iepazistas-ar-zvejniekiem-nepieciesamo-infrastrukturu-/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/35/1702379138__R1A0609.webp"/>
 </a>
 </div>
@@ -151,18 +151,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Neue Getreidesaison begann im Hafen von Liepaja</h2>
+<h2>Neue Getreidesaison begann im Hafen von Liepāja</h2>
 <span class="mb-3">16.08.2023.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-osta-sakusies-jauna-graudaugu-sezona/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepajas-osta-sakusies-jauna-graudaugu-sezona/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Geschäftsleute des Hafens von Liepaja 2023. Im Juli 2000 wurden 458 222, 47 Tonnen verschiedener Ladungen umgerüstet und aktiv auf die neue Getreidesaison vorbereitet, die traditionell 1 beginnt. im August und weiter bis zum folgenden Jahr 1. August. 2022/2023 3156.7 Tausend Umbenennung im Hafen von Liepaja während der Getreidesaison. Tonnen landwirtschaftlicher Fracht. Nach Angaben der Marktteilnehmer variiert jede Getreidesaison je nach Saisonproduktivität und Marktbedingungen. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-osta-sakusies-jauna-graudaugu-sezona/index.php">Weiterlesen</a>
+<p>Unternehmer des Hafens von Liepāja Juli 2023 Umladungen 458 222, 47 Tonnen verschiedener Ladungen und aktive Vorbereitung auf die neue Getreidesaison, die traditionell beginnt 1. und geht weiter bis zum nächsten Jahr 1. August. 2022./2023. In der Getreidesaison im Hafen von Liepāja 3156,7 Tausend Tonnen landwirtschaftlicher Fracht. Nach Angaben der Marktteilnehmer variiert jede Getreidesaison je nach Saisonproduktivität und Marktbedingungen. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepajas-osta-sakusies-jauna-graudaugu-sezona/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/34/1702379011_gov.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-osta-sakusies-jauna-graudaugu-sezona/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepajas-osta-sakusies-jauna-graudaugu-sezona/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/34/1702379011_gov.webp"/>
 </a>
 </div>
@@ -174,15 +174,15 @@ Vorstandssitzungen
 <h2>Am informativen Tag haben die Besucher eine tolle Gelegenheit, sich mit der Rehabilitationsarbeit des Karastakanals vertraut zu machen</h2>
 <span class="mb-3">21.04.2023.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../informativaja-diena-apmekletajiem-bus-iespeja-iepazities-ar-karostas-kanala-sanaciju/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/informativaja-diena-apmekletajiem-bus-iespeja-iepazities-ar-karostas-kanala-sanaciju/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Auflage. 27. März 2001 Im April findet eine informative Veranstaltung über das kulturelle und natürliche Erbe des Karosta-Kanals und die Renovierungsarbeiten des Carosta-Kanals statt. Liepaja Bewohner und Gäste haben die Möglichkeit, die Geheimnisse des Karosta-Kanals zu erkunden und die Restaurierungsarbeiten zu beobachten, begleitet von Historiker Juris Rajlis.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../informativaja-diena-apmekletajiem-bus-iespeja-iepazities-ar-karostas-kanala-sanaciju/index.php">Weiterlesen</a>
+<p>27. April 2023 Eine informative Veranstaltung über das kulturelle und natürliche Erbe des Karosta-Kanals und Renovierungsarbeiten des Carosta-Kanals wird stattfinden. Liepāja Bewohner und Gäste haben die Möglichkeit, die Geheimnisse des Karosta-Kanals zu erkunden und die Restaurierungsarbeiten zu beobachten, begleitet von Historiker Juris Rajlis.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/informativaja-diena-apmekletajiem-bus-iespeja-iepazities-ar-karostas-kanala-sanaciju/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/171/1729583318_nor-grants.webp)">
-<a aria-label="Weiterlesen" href="../informativaja-diena-apmekletajiem-bus-iespeja-iepazities-ar-karostas-kanala-sanaciju/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/informativaja-diena-apmekletajiem-bus-iespeja-iepazities-ar-karostas-kanala-sanaciju/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/171/1729583318_nor-grants.webp"/>
 </a>
 </div>
@@ -191,7 +191,7 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev" data-block="2" data-page="24" data-per-page="6" data-topic="14" href="../24/index.php">
+<a class="news-list-pagination prev" data-block="2" data-page="24" data-per-page="6" data-topic="14" href="/site/de/jaunumi-1/24/index.php">
 <img alt="Zurück" src="../../../img/round-right.svg"/>
 
 Zurück
@@ -199,7 +199,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="2" data-page="26" data-per-page="6" data-topic="14" href="../26/index.php">
+<a class="news-list-pagination next" data-block="2" data-page="26" data-per-page="6" data-topic="14" href="/site/de/jaunumi-1/26/index.php">
 
 Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 </a>
@@ -244,7 +244,7 @@ Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

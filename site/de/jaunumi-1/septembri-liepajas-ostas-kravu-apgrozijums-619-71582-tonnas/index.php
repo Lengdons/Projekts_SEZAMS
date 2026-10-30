@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="https://liepaja-sez.lv/img/mod/news/28/1702369194_52_10.12.2023._LBT_2.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/medijiem/septembri-liepajas-ostas-kravu-apgrozijums-619-71582-tonnas" property="og:url"/>
-<meta content="Im September Frachtumschlag im Hafen von Liepaja 619 715.2 Tonnen" property="og:title"/>
+<meta content="Im September Frachtumschlag im Hafen von Liepāja 619 715,82 Tonnen" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Im September, Frachtumschlag im Hafen von Liepaja 619 715.82 Tonnen</title>
+<title>Im September, Frachtumschlag im Hafen von Liepāja 619 715.82 Tonnen</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
@@ -38,18 +38,18 @@ html.classList.add(localStorage['contrast']);
 <div class="container article-full pt-5 my-5">
 <div class="row">
 <div class="col-12 col-md-9 offset-md-3 mt-md-5">
-<span class="date d-block mt-md-5">12. 22. Oktober 2023</span>
-<h1 class="article-title">Im September Frachtumschlag im Hafen von Liepaja 619 715.2 Tonnen</h1>
+<span class="date d-block mt-md-5">12. Oktober 2023</span>
+<h1 class="article-title">Im September Frachtumschlag im Hafen von Liepāja 619 715,82 Tonnen</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Im September dieses Jahres wurden 619 715.82 Tonnen verschiedener Ladungen im Hafen von Liepaja angeschlossen und behandelt. Die weiterhin stabile Landwirtschaft, der RO-RO Frachtfluss und, wie im Winter nähert sich, steigt traditionell die Erneuerbare Energiefracht einschließlich: Holzsplitter. Liepaja Special Economic Zone Authority, zusammen mit Unternehmern, arbeitet weiter und zieht neue Frachtgruppen an. aus Zentralasien.</p><p>Die größte Frachtgruppe auch im September im Hafen von Liepaja war trockene Schüttgüter 430,7 Tausend. Tonnen (2022). Im September 2002 423,8 Tausend. (t) Das Segment Schüttgut wird von landwirtschaftlichen Frachten dominiert, deren Strömung sicherlich durch wechselnde und widrige Wetterbedingungen im Sommer und zunehmender Wettbewerb beeinträchtigt wurde. Laut Juris Matvejevs, Leiter der LSEZ Ltd. Liepaja Bulk Terminal Ltd., hat sich die Lage im Transport- und Logistiksektor in den letzten Jahren erheblich verändert; es ist schwieriger, Frachtströme zu planen und vorherzusagen, aber das Unternehmen arbeitet und zieht Fracht an. Die Stabilität wird durch die Kapazität der Endlager und die Fähigkeit gewährleistet, mehr als 30 verschiedene Ladungsarten gleichzeitig zu handhaben.</p><p>Im September dieses Jahres hat die LSEZ Ltd 219 856.59 Tonnen umgeladen (2022. Im September 154,48.000. t), die deutlich mehr als ein Jahr zuvor ist, aber es ist das landwirtschaftliche Frachtsegment, das einer der variabelsten mit hoher Saisonalität ist und die aktive Getreidesaison nur 4-5 Monate je nach Ernte beträgt.</p><p>In der trockenen Schüttgütergruppe wird ein stabiler Umsatz von Baustoffen erzielt, der größtenteils durch in Lettland produzierte Zement gewährleistet ist, aber mit Herbstenergie aus erneuerbaren Energien erhöht die Joule-Holzchips für die Wärmeerzeugung in skandinavischen Ländern. Eine relativ neue Ladung in der trockenen Schüttgutgruppe, die es im letzten Jahr geschafft hat, anzuziehen, ist Zucker, der aus Brasilien importiert und 2023 nach Usbekistan in Zentralasien verschifft wurde. Im September 2007 wurden nur 33 Tausend im Hafen von Liepaja umgesiedelt. Tonnen Zucker. Auch verschiedene Metallerze und Ferrolegierungen sind aus neuen Ladungen zu nennen.</p><p>Um die Vorteile des Hafens von Liepaja zu demonstrieren und über die Entwicklung der internationalen Transport- und Logistikdienstleistungen und -infrastruktur sowie die Verringerung der Handelshemmnisse im globalen Handelsfluss zu diskutieren, nahm Liepaja SEZ Manager Uldis Hmieļevskis zusammen mit Liepaja Hafenunternehmern an VI International Transport &amp;amp; im Logistik-Geschäftsforum "New Silk Way" und Ausstellung "TransLogistica Kasachstan 2023."</p><p>Genau wie andere Länder Zentralasiens gehört Kasachstan zu den Geschäftspartnern im Hafen von Liepaja. Landwirtschaftliche Produkte, Metalllegierungen, aber Zucker wird in die Region Zentralasien über Liepāja geliefert, sowie Maschinenbauproduktion weist von Uldis Hmielevskis, Liepaja SEZ Manager. Auch der Frachtfährverkehr ist in der Güterversorgungskette von Stena Line und LSEZ Ltd. - Terrablat, die geradeste Route zwischen Lettland und Deutschland, wichtig. Im September dieses Jahres belief sich die Hafengesellschaft Terrablt auf 155 461.87 Tonnen (2022). Im September 143,43 Tausend. (t)</p><p>Auflage. Im September 2007 wurden 118 Schiffe im Hafen von Liepaja bedient und 7 304 Passagiere begrüßt. Die größte in Lettland produzierte Fracht wurde auf dem DanStore-Terminalplatz auf dem Schiff "Aviona" - 33 000 Tonnen verladen und exportiert, während die größte importierte Ladung Zucker ist, der vom Schiff "Harvest" zurückgebracht und entladen wurde ♫Liepaja Bulk Terminal Ltd.</p><p>In den neun Monaten dieses Jahres betrug der Frachtumschlag im Hafen von Liepaja 5 189 070,99 Tonnen, 1 056 Schiffe wurden abgewickelt, 76427 Passagiere kamen oder gingen.</p></div>
+<div class="col"><div class="col-12 output"><p>Im September dieses Jahres wurden 619 715.82 Tonnen verschiedener Ladungen im Hafen von Liepāja angeschlossen und behandelt. Die weiterhin stabile Landwirtschaft, der RO-RO Frachtfluss und, wie im Winter nähert sich, steigt traditionell die Erneuerbare Energiefracht einschließlich: Holzsplitter. Liepāja Special Economic Zone Authority, zusammen mit Unternehmern, arbeitet weiter und zieht neue Frachtgruppen an. aus Zentralasien.</p><p>Die größte Frachtgruppe im September war trockene Schüttgüter im Hafen von Liepāja 430,7 Tausend Tonnen (September 2022 423,8 Tausend (t) Das Segment Schüttgut wird von landwirtschaftlichen Frachten dominiert, deren Strömung sicherlich durch wechselnde und widrige Wetterbedingungen im Sommer und zunehmender Wettbewerb beeinträchtigt wurde. Laut Juris Matvejevs, Leiter der LSEZ Ltd. Liepāja Bulk Terminal Ltd., hat sich die Lage im Transport- und Logistiksektor in den letzten Jahren erheblich verändert; es ist schwieriger, Frachtströme zu planen und vorherzusagen, aber das Unternehmen arbeitet und zieht Fracht an. Stabilität wird durch Terminalspeicherkapazität und die Fähigkeit, mehr gleichzeitig zu handhaben als 30 verschiedene Arten von Ladung.</p><p>LSEZ Ltd. - Liepāja Bulk Terminal Ltd. im September dieses Jahres 219 856,59 Tonnen (September 2022 154,48 Tausend t), die deutlich mehr als ein Jahr zuvor ist, aber es ist das landwirtschaftliche Frachtsegment, das eine der variabelsten mit hoher Saisonalität und aktiver Getreidesaison ist nur 4-5 Monate, je nach Ernte.</p><p>In der trockenen Schüttgütergruppe wird ein stabiler Umsatz von Baustoffen erzielt, der größtenteils durch in Lettland produzierte Zement gewährleistet ist, aber mit steigender Herbstenergie aus erneuerbaren Energien der Energiefracht steigt.Die Holzschnitzel werden in skandinavischen Ländern für die Heizung verwendet. Eine relativ neue Ladung in der trockenen Schüttgütergruppe, die es geschafft hat, im vergangenen Jahr zu gewinnen ist Zucker aus Brasilien importiert und nach Usbekistan in Zentralasien verschifft √ September 2023 nur im Hafen von Liepāja behandelt 33 Tausend Tonnen Zucker. Auch verschiedene Metallerze und Ferrolegierungen sind aus neuen Ladungen zu nennen.</p><p>Um die Vorteile des Hafens von Liepāja zu demonstrieren und über die Entwicklung der internationalen Transport- und Logistikdienstleistungen und -infrastruktur sowie die Verringerung der Handelshemmnisse im globalen Handelsfluss zu diskutieren, nahm Liepāja SEZ Manager Uldis Hmieļevskis zusammen mit Liepāja Hafenunternehmern an VI International Transport &amp;amp; im Logistik-Geschäftsforum "New Silk Way" und Ausstellung "TransLogistica Kasachstan 2023."</p><p>Genau wie andere Länder Zentralasiens gehört Kasachstan zu den Geschäftspartnern im Hafen von Liepāja. Landwirtschaftliche Produkte, Metalllegierungen, aber Zucker wird in die Region Zentralasien über Liepāja geliefert, sowie Maschinenbauproduktion weist von Uldis Hmielevskis, Liepāja SEZ Manager. Auch der Frachtfährverkehr ist in der Güterversorgungskette von Stena Line und LSEZ Ltd. - Terrablat, die geradeste Route zwischen Lettland und Deutschland, wichtig. Im September dieses Jahres belief sich die Hafengesellschaft Terrablt auf 155 461.87 Tonnen (2022). Im September 143,43 Tausend. (t)</p><p>September 2023 Im Hafen von Liepāja 118 Schiffe und erhalten 7 304 Passagiere. Die größte Fracht von Weizen in Lettland wurde auf dem DanStore Terminal Liegeplätze auf dem Schiff "Aviona" geladen und exportiert - 33 000 Tonnen, während die größte importierte Ladung Zucker ist, der vom Schiff Harvester, Liepāja Bulk Terminal Ltd, zurückgebracht und entladen wurde.</p><p>In den neun Monaten dieses Jahres betrug der Frachtumschlag im Hafen von Liepāja 5 189 070,99 Tonnen, 1 056 Schiffe wurden abgewickelt, 76427 Passagiere kamen oder gingen.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/28/870_1702369194_52_10.12.2023._LBT_2.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/28/original_1702369194_52_10.12.2023._LBT_2.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/28/original_1702369194_52_10.12.2023._LBT_2.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -69,12 +69,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -84,12 +84,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -131,7 +131,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

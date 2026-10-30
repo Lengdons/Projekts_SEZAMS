@@ -40,18 +40,18 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Die Sitzung des Vorstands von Liepaja SEZ findet am 28. im Oktober</h2>
+<h2>Die Sitzung des Vorstands von Liepāja SEZ findet am 28. im Oktober</h2>
 <span class="mb-3">28.09.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="liepajas-sez-valdes-sede-notiks-28-oktobri/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/valdes-sedes/liepajas-sez-valdes-sede-notiks-28-oktobri/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>Frist für die Einreichung von Unterlagen, die in der Sitzung des Vorstands zu erörtern sind: 12.10.2026.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="liepajas-sez-valdes-sede-notiks-28-oktobri/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/valdes-sedes/liepajas-sez-valdes-sede-notiks-28-oktobri/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/110/)">
-<a aria-label="Weiterlesen" href="liepajas-sez-valdes-sede-notiks-28-oktobri/index.php">
+<a aria-label="Weiterlesen" href="/site/de/valdes-sedes/liepajas-sez-valdes-sede-notiks-28-oktobri/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/110/"/>
 </a>
 </div>
@@ -60,7 +60,7 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev d-none" data-block="11" data-page="" data-per-page="1" data-topic="19" href="0/index.php">
+<a class="news-list-pagination prev d-none" data-block="11" data-page="" data-per-page="1" data-topic="19" href="/site/de/attistibas-projekti/0/index.php">
 <img alt="Zurück" src="../../img/round-right.svg"/>
 
 Zurück
@@ -68,7 +68,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next d-none" data-block="11" data-page="" data-per-page="1" data-topic="19" href="2/index.php">
+<a class="news-list-pagination next d-none" data-block="11" data-page="" data-per-page="1" data-topic="19" href="/site/de/valdes-sedes/2/index.php">
 
 Weiter <img alt="Zurück" src="../../img/round-right.svg"/>
 </a>
@@ -80,7 +80,7 @@ Weiter <img alt="Zurück" src="../../img/round-right.svg"/>
 <div class="row">
 <div class="col-12 col-lg-3 mt-5 sidebar-nav ps-0">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../medijiem/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/medijiem/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -88,7 +88,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Fotos
@@ -96,7 +96,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -112,7 +112,7 @@ Vorstandssitzungen
 <div class="category">Vorstandsbeschlüsse</div>
 <a aria-label="Dokument" href="../../doc/mod/document/396/1790765239_15_2026.09.25._valdes_lemumi_web.pdf" target="_blank">
 
-Sitzung des Vorstands der Liepaja SEZ am 25. Juni 2026. Beschlüsse vom September
+Sitzung des Vorstands der Liepāja SEZ am 25. Juni 2026. Beschlüsse vom September
 
 </a>
 <div class="mt-2"></div>
@@ -124,11 +124,11 @@ Sitzung des Vorstands der Liepaja SEZ am 25. Juni 2026. Beschlüsse vom Septembe
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">24. 8. August 2026</div>
+<div class="date">24. August 2026</div>
 <div class="category">Vorstandsbeschlüsse</div>
 <a aria-label="Dokument" href="../../doc/mod/document/392/1787574310_valdes_lemumi_web.pdf" target="_blank">
 
-Sitzung des Vorstands der Liepaja SEZ am 19. Juni 2026. Beschlüsse vom August
+Sitzung des Vorstands der Liepāja SEZ am 19. Juni 2026. Beschlüsse vom August
 
 </a>
 <div class="mt-2"></div>
@@ -140,11 +140,11 @@ Sitzung des Vorstands der Liepaja SEZ am 19. Juni 2026. Beschlüsse vom August
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">15. 8. Juli 2026</div>
+<div class="date">15. Juli 2026</div>
 <div class="category">Vorstandsbeschlüsse</div>
 <a aria-label="Dokument" href="../../doc/mod/document/382/1784183576_PIENEMTIE_LEMUMI_15_07_2026.pdf" target="_blank">
 
-Sitzung des Vorstands der Liepaja SEZ am 15. Juni 2026. Beschlüsse vom Juli
+Sitzung des Vorstands der Liepāja SEZ am 15. Juni 2026. Beschlüsse vom Juli
 
 </a>
 <div class="mt-2"></div>
@@ -156,11 +156,11 @@ Sitzung des Vorstands der Liepaja SEZ am 15. Juni 2026. Beschlüsse vom Juli
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">14. 8. Juli 2026</div>
+<div class="date">14. Juli 2026</div>
 <div class="category">Vorstandsbeschlüsse</div>
 <a aria-label="Dokument" href="../../doc/mod/document/381/1784032124_web_darba kārtība.pdf" target="_blank">
 
-Sitzung des Vorstands der Liepaja SEZ am 8. Februar 2026. Beschlüsse vom Juli
+Sitzung des Vorstands der Liepāja SEZ am 8. Februar 2026. Beschlüsse vom Juli
 
 </a>
 <div class="mt-2"></div>
@@ -172,11 +172,11 @@ Sitzung des Vorstands der Liepaja SEZ am 8. Februar 2026. Beschlüsse vom Juli
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">18. 8. Juni 2026</div>
+<div class="date">18. Juni 2026</div>
 <div class="category">Vorstandsbeschlüsse</div>
 <a aria-label="Dokument" href="../../doc/mod/document/365/1781782664_Valdes lemumi_web.pdf" target="_blank">
 
-Sitzung des Vorstands der Liepaja SEZ am 17. Juni 2026. Beschlüsse vom Juni
+Sitzung des Vorstands der Liepāja SEZ am 17. Juni 2026. Beschlüsse vom Juni
 
 </a>
 <div class="mt-2"></div>
@@ -188,11 +188,11 @@ Sitzung des Vorstands der Liepaja SEZ am 17. Juni 2026. Beschlüsse vom Juni
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">2. 8. Juni 2026</div>
+<div class="date">2. Juni 2026</div>
 <div class="category">Vorstandsbeschlüsse</div>
 <a aria-label="Dokument" href="../../doc/mod/document/361/1780398597_Valdes lemumi_27.05.pdf" target="_blank">
 
-Sitzung des Vorstands der Liepaja SEZ am 27. Juni 2026. Beschlüsse vom Mai
+Sitzung des Vorstands der Liepāja SEZ am 27. Juni 2026. Beschlüsse vom Mai
 
 </a>
 <div class="mt-2"></div>
@@ -208,7 +208,7 @@ Sitzung des Vorstands der Liepaja SEZ am 27. Juni 2026. Beschlüsse vom Mai
 <div class="category">Vorstandsbeschlüsse</div>
 <a aria-label="Dokument" href="../../doc/mod/document/358/1780398565_5_2026.04.22._valdes_lemumi_web.pdf" target="_blank">
 
-Beschlüsse der Sitzungen des Vorstands von Liepaja SEZ am 22. April 2026
+Beschlüsse der Sitzungen des Vorstands von Liepāja SEZ am 22. April 2026
 
 </a>
 <div class="mt-2"></div>
@@ -220,11 +220,11 @@ Beschlüsse der Sitzungen des Vorstands von Liepaja SEZ am 22. April 2026
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">10. 22. März 2026</div>
+<div class="date">10. März 2026</div>
 <div class="category">Vorstandsbeschlüsse</div>
 <a aria-label="Dokument" href="../../doc/mod/document/355/1773138063_2026.03.04._valdes_lemumi_web.pdf" target="_blank">
 
-Beschlüsse der Sitzung des Vorstands von Liepaja SEZ am 4. März 2026
+Beschlüsse der Sitzung des Vorstands von Liepāja SEZ am 4. März 2026
 
 </a>
 <div class="mt-2"></div>
@@ -240,7 +240,7 @@ Beschlüsse der Sitzung des Vorstands von Liepaja SEZ am 4. März 2026
 <div class="category">Vorstandsbeschlüsse</div>
 <a aria-label="Dokument" href="../../doc/mod/document/345/1770823871_Darba kārtība_04.02.2026_web.pdf" target="_blank">
 
-Beschlüsse der Sitzung des Vorstands von Liepaja SEZ am 4. Februar 2026
+Beschlüsse der Sitzung des Vorstands von Liepāja SEZ am 4. Februar 2026
 
 </a>
 <div class="mt-2"></div>
@@ -252,11 +252,11 @@ Beschlüsse der Sitzung des Vorstands von Liepaja SEZ am 4. Februar 2026
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">18. 22. Dezember 2025</div>
+<div class="date">18. Dezember 2025</div>
 <div class="category">Vorstandsbeschlüsse</div>
 <a aria-label="Dokument" href="../../doc/mod/document/340/1766488435_2025.17.12._valdes_lemumi_web.pdf" target="_blank">
 
-Beschlüsse der Sitzung des Vorstands von Liepaja SEZ am 17. Dezember 2025
+Beschlüsse der Sitzung des Vorstands von Liepāja SEZ am 17. Dezember 2025
 
 </a>
 <div class="mt-2"></div>
@@ -268,11 +268,11 @@ Beschlüsse der Sitzung des Vorstands von Liepaja SEZ am 17. Dezember 2025
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">11. 22. Dezember 2025</div>
+<div class="date">11. Dezember 2025</div>
 <div class="category">Vorstandsbeschlüsse</div>
 <a aria-label="Dokument" href="../../doc/mod/document/339/1766488403_2025.10.12._valdes_lemumi_web.pdf" target="_blank">
 
-Beschlüsse des Vorstands von Liepaja SEZ vom 10. Dezember 2025
+Beschlüsse des Vorstands von Liepāja SEZ vom 10. Dezember 2025
 
 </a>
 <div class="mt-2"></div>
@@ -284,11 +284,11 @@ Beschlüsse des Vorstands von Liepaja SEZ vom 10. Dezember 2025
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">27. 8. November 2025</div>
+<div class="date">27. November 2025</div>
 <div class="category">Vorstandsbeschlüsse</div>
 <a aria-label="Dokument" href="../../doc/mod/document/337/1765180783_2025.11.25._valdes_lemumi_web.pdf" target="_blank">
 
-Beschlüsse des Vorstands der Liepaja SEZ am 25. November 2025
+Beschlüsse des Vorstands der Liepāja SEZ am 25. November 2025
 
 </a>
 <div class="mt-2"></div>
@@ -300,11 +300,11 @@ Beschlüsse des Vorstands der Liepaja SEZ am 25. November 2025
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">7. 8. November 2025</div>
+<div class="date">7. November 2025</div>
 <div class="category">Vorstandsbeschlüsse</div>
 <a aria-label="Dokument" href="../../doc/mod/document/336/1765180713_2025.11.05._valdes_lemumi_web.pdf" target="_blank">
 
-Beschlüsse der Sitzung des Vorstands von Liepaja SEZ am 5. November 2025
+Beschlüsse der Sitzung des Vorstands von Liepāja SEZ am 5. November 2025
 
 </a>
 <div class="mt-2"></div>
@@ -316,11 +316,11 @@ Beschlüsse der Sitzung des Vorstands von Liepaja SEZ am 5. November 2025
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">10. 8. Oktober 2025</div>
+<div class="date">10. Oktober 2025</div>
 <div class="category">Vorstandsbeschlüsse</div>
 <a aria-label="Dokument" href="../../doc/mod/document/329/1760100699_2025.10.08._valdes_lemumi_web.pdf" target="_blank">
 
-Beschlüsse des Vorstands von Liepaja SEZ vom 8. Oktober 2025
+Beschlüsse des Vorstands von Liepāja SEZ vom 8. Oktober 2025
 
 </a>
 <div class="mt-2"></div>
@@ -332,11 +332,11 @@ Beschlüsse des Vorstands von Liepaja SEZ vom 8. Oktober 2025
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">10. 8. Oktober 2025</div>
+<div class="date">10. Oktober 2025</div>
 <div class="category">Vorstandsbeschlüsse</div>
 <a aria-label="Dokument" href="../../doc/mod/document/328/1760098165_Darba_kārtība_prese_03.09.2025.pdf" target="_blank">
 
-Beschlüsse der Sitzungen des Vorstands von Liepaja SEZ am 3. September 2025
+Beschlüsse der Sitzungen des Vorstands von Liepāja SEZ am 3. September 2025
 
 </a>
 <div class="mt-2"></div>
@@ -348,11 +348,11 @@ Beschlüsse der Sitzungen des Vorstands von Liepaja SEZ am 3. September 2025
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">12. 8. August 2025</div>
+<div class="date">12. August 2025</div>
 <div class="category">Vorstandsbeschlüsse</div>
 <a aria-label="Dokument" href="../../doc/mod/document/307/1754988857_Darba_kārtība_prese_16.07.2025.pdf" target="_blank">
 
-Sitzungen des Vorstands von Liepaja SEZ 2025. 16., 1996 Beschlüsse vom Juli
+Sitzungen des Vorstands von Liepāja SEZ 16. Juli 2025 Beschlüsse
 
 </a>
 <div class="mt-2"></div>
@@ -364,11 +364,11 @@ Sitzungen des Vorstands von Liepaja SEZ 2025. 16., 1996 Beschlüsse vom Juli
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">12. 8. August 2025</div>
+<div class="date">12. August 2025</div>
 <div class="category">Vorstandsbeschlüsse</div>
 <a aria-label="Dokument" href="../../doc/mod/document/308/1754988896_Darba_kārtība_prese_06.08.2025.pdf" target="_blank">
 
-Sitzungen des Vorstands von Liepaja SEZ 2025. vom 6. Juni 2007 Beschlüsse vom August
+Sitzungen des Vorstands von Liepāja SEZ 6. August 2025 Beschlüsse
 
 </a>
 <div class="mt-2"></div>
@@ -380,11 +380,11 @@ Sitzungen des Vorstands von Liepaja SEZ 2025. vom 6. Juni 2007 Beschlüsse vom A
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">7. 8. Juli 2025</div>
+<div class="date">7. Juli 2025</div>
 <div class="category">Vorstandsbeschlüsse</div>
 <a aria-label="Dokument" href="../../doc/mod/document/284/1751881425_Darba_kārtība_prese.pdf" target="_blank">
 
-Sitzungen des Vorstands von Liepaja SEZ 2025. 2. Jahr Beschlüsse vom Juli
+Sitzungen des Vorstands von Liepāja SEZ 2025. 2. Jahr Beschlüsse vom Juli
 
 </a>
 <div class="mt-2"></div>
@@ -400,7 +400,7 @@ Sitzungen des Vorstands von Liepaja SEZ 2025. 2. Jahr Beschlüsse vom Juli
 <div class="category">Vorstandsbeschlüsse</div>
 <a aria-label="Dokument" href="../../doc/mod/document/275/1748591428_Darba_kārtība_22.05.2025_prese.pdf" target="_blank">
 
-Sitzungen des Vorstands von Liepaja SEZ 2025. im Monat vom 22. Dezember 2001, Beschlüsse vom Mai
+Sitzungen des Vorstands von Liepāja SEZ 22. Mai 2025 Beschlüsse
 
 </a>
 <div class="mt-2"></div>
@@ -412,11 +412,11 @@ Sitzungen des Vorstands von Liepaja SEZ 2025. im Monat vom 22. Dezember 2001, Be
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">30. 8. April 2025</div>
+<div class="date">30. April 2025</div>
 <div class="category">Vorstandsbeschlüsse</div>
 <a aria-label="Dokument" href="../../doc/mod/document/272/1746016571_Darba_kārtība_05.28.04.2025_prese.pdf" target="_blank">
 
-Sitzungen des Vorstands von Liepaja SEZ 2025. 28. Januar 2008 Beschlüsse vom April
+Sitzungen des Vorstands von Liepāja SEZ 2025. , die 28. Beschlüsse vom April
 
 </a>
 <div class="mt-2"></div>
@@ -430,7 +430,7 @@ Sitzungen des Vorstands von Liepaja SEZ 2025. 28. Januar 2008 Beschlüsse vom Ap
 <div class="prev">
 </div>
 <div class="next">
-<a aria-label="Weiter" class="next docs-pagination" data-page="2" href="index.php">
+<a aria-label="Weiter" class="next docs-pagination" data-page="2" href="/site/de/valdes-sedes/index.php">
 
 Weiter <img alt="Weiter" src="../../img/round-right.svg"/>
 </a>
@@ -474,7 +474,7 @@ Weiter <img alt="Weiter" src="../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/valdes-sedes/index.php"><img alt="Nach oben" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

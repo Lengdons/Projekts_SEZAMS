@@ -47,7 +47,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/medijiem/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -55,7 +55,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Fotos
@@ -63,7 +63,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -77,18 +77,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h2>
+<h2>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h2>
 <span class="mb-3">16.10.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<p>Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/326/1792137601_75_10.16.2026._kino_kalpaka_tilts.webp)">
-<a aria-label="Weiterlesen" href="tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/326/1792137601_75_10.16.2026._kino_kalpaka_tilts.webp"/>
 </a>
 </div>
@@ -97,18 +97,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h2>
+<h2>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h2>
 <span class="mb-3">06.10.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<p>Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/324/1791277284_72_10.06.2026._LIP_izsole_Eksporta_iela.webp)">
-<a aria-label="Weiterlesen" href="izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/324/1791277284_72_10.06.2026._LIP_izsole_Eksporta_iela.webp"/>
 </a>
 </div>
@@ -117,18 +117,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Der Bau des Industrieparks Liepaja setzt sich fort mit der Rehabilitierung des Territoriums</h2>
+<h2>Der Ausbau des Industrieparks Liepāja wird mit der Sanierung des Geländes fortgesetzt</h2>
 <span class="mb-3">29.09.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="ar-teritorijas-sanaciju-turpina-liepajas-industriala-parka-izbuvi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/ar-teritorijas-sanaciju-turpina-liepajas-industriala-parka-izbuvi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Liepaja SEZ Authority setzt die Transformation des Territoriums der ehemaligen Fabrik Liepaja metallurgs fort, um Projekt Entwicklung von Liepaja Industrial Park Gebiet 2. Schritt 2 Im Rahmen des Projekts wird ein historisch verschmutztes Industriegebiet eingerichtet und renoviert, das moderne Infrastruktur für Unternehmen aufbaut. Das Projekt wird im Rahmen des Kohäsionspolitikprogramms der Europäischen Union 2021-2027 durchgeführt. Förderung des Übergangs zu einer klimaneutralen Wirtschaft und Eindämmung der sozioökonomischen Folgen dieses Übergangs in der Region Kurzeme.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="ar-teritorijas-sanaciju-turpina-liepajas-industriala-parka-izbuvi/index.php">Weiterlesen</a>
+<p>Liepāja SEZ Authority setzt Umwandlung des Territoriums der ehemaligen Fabrik Liepāja metallurgs, Durchführung Projekt Liepāja Industriepark Gebiet Entwicklung 2. Schritt Im Rahmen des Projekts wird ein historisch verschmutztes Industriegebiet eingerichtet und renoviert, das moderne Infrastruktur für Unternehmen aufbaut. Das Projekt wird von den Programmen der Kohäsionspolitik der Europäischen Union durchgeführt. 2021.-2027. Förderung des Übergangs zu einer klimaneutralen Wirtschaft und Eindämmung der sozioökonomischen Folgen dieses Übergangs in der Region Kurzeme.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/ar-teritorijas-sanaciju-turpina-liepajas-industriala-parka-izbuvi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/322/1790685711_I40A6032.webp)">
-<a aria-label="Weiterlesen" href="ar-teritorijas-sanaciju-turpina-liepajas-industriala-parka-izbuvi/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/ar-teritorijas-sanaciju-turpina-liepajas-industriala-parka-izbuvi/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/322/1790685711_I40A6032.webp"/>
 </a>
 </div>
@@ -137,18 +137,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Boards of Liepaja SEZ 25. Beschlüsse vom September</h2>
+<h2>Beschlüsse des Vorstands der Sonderwirtschaftszone Liepāja vom 25. September</h2>
 <span class="mb-3">28.09.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="liepajas-sez-valdes-25-septembra-lemumi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-sez-valdes-25-septembra-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>25. Am September fand die ordentliche Sitzung des Vorstands der Liepaja SEZ statt, in der Beschlüsse über den Abschluss von Investitionsverträgen, die Nichtnutzung von Vornahmerechten, zur Versteigerung sowie Änderungen früherer Entscheidungen getroffen wurden. Der Vorstand der Liepaja SEZ hat den aktualisierten Entwicklungsplan für Liepaja Special Economic Zone 2018.2035 genehmigt. 2027 und Liepaja Port Development Programme 2023. 1907.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="liepajas-sez-valdes-25-septembra-lemumi/index.php">Weiterlesen</a>
+<p>Dieses Jahr 25. Am September fand die ordentliche Sitzung des Vorstands der Liepāja SEZ statt, in der Beschlüsse über den Abschluss von Investitionsverträgen, die Nichtnutzung von Vornahmerechten, zur Versteigerung sowie Änderungen früherer Entscheidungen getroffen wurden. Liepāja SEZ Vorstand genehmigt den aktualisierten Entwicklungsplan der Sonderwirtschaftszone Liepāja 2018.–2035. und Liepāja Port Development Programm 2023.–2027. .</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-sez-valdes-25-septembra-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/323/1790837289_70_09.28.2026._Brimer_vizualizacija.webp)">
-<a aria-label="Weiterlesen" href="liepajas-sez-valdes-25-septembra-lemumi/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-sez-valdes-25-septembra-lemumi/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/323/1790837289_70_09.28.2026._Brimer_vizualizacija.webp"/>
 </a>
 </div>
@@ -157,18 +157,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Der Industriepark Liepāja gehört zu den attraktivsten Industrie- und Logistikprojekten der Welt TOP 10</h2>
+<h2>Industriepark Liepāja zählt weltweit zu den TOP 10 der attraktivsten Industrie- und Logistikprojekte für Investitionen</h2>
 <span class="mb-3">21.09.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="liepajas-industrialais-parks-ieklauts-pasaules-top-10-investicijam-pievilcigako-industrial/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-industrialais-parks-ieklauts-pasaules-top-10-investicijam-pievilcigako-industrial/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Die neueste Ausgabe der ständigen Veröffentlichungsreihe Real Dl, die die attraktivsten Investitionsprojekte in verschiedenen Regionen und Sektoren hervorhebt, zeigt 2026. TOP 10 2008 Im heutigen Wettbewerb sind Orte attraktiver für Investitionen, die nicht nur Land, sondern auch moderne Infrastruktur, Energiesicherheit, Logistikverbindungen und ein Ökosystem bieten können, das sich für die moderne Produktion eignet. TOP10 als eines der vielversprechendsten europäischen Projekte wird auf den Industriepark Liepaja hingewiesen.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="liepajas-industrialais-parks-ieklauts-pasaules-top-10-investicijam-pievilcigako-industrial/index.php">Weiterlesen</a>
+<p>Die jüngste Ausgabe der ständigen Reihe von Veröffentlichungen der Real Dl zeigt die attraktivsten Investitionsprojekte in verschiedenen Regionen und Sektoren auf: 2026. TOP 10. Im heutigen Wettbewerb sind Orte attraktiver für Investitionen, die nicht nur Land, sondern auch moderne Infrastruktur, Energiesicherheit, Logistikverbindungen und ein Ökosystem bieten können, das sich für die moderne Produktion eignet. TOP10 Der Industriepark Liepāja wird als eines der vielversprechendsten europäischen Projekte hervorgehoben.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-industrialais-parks-ieklauts-pasaules-top-10-investicijam-pievilcigako-industrial/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/319/1790069221_66_09.21.2026._LIP.webp)">
-<a aria-label="Weiterlesen" href="liepajas-industrialais-parks-ieklauts-pasaules-top-10-investicijam-pievilcigako-industrial/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-industrialais-parks-ieklauts-pasaules-top-10-investicijam-pievilcigako-industrial/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/319/1790069221_66_09.21.2026._LIP.webp"/>
 </a>
 </div>
@@ -177,18 +177,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Diese Jahreszeit beginnt später als andere Jahre im Hafen von Liepaja </h2>
+<h2>Die Getreidesaison im Hafen Liepāja beginnt dieses Jahr später als in anderen Jahren </h2>
 <span class="mb-3">09.09.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="sogad-graudaugu-sezona-liepajas-osta-sakas-velak-neka-citus-gadus/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/sogad-graudaugu-sezona-liepajas-osta-sakas-velak-neka-citus-gadus/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Hafen von Liepaja stevedore Unternehmen 2026. Im August 1961 wurden 341.83.000 umgetauscht. a. verschiedene Arten von Ladung. Traditionell besteht die größte Frachtgruppe aus trockenen Schüttgütern - landwirtschaftliche Produkte, Baustoffe und Holzschnitzel - 188,16 Tausend. a. Die zweitgrößte Frachtgruppe ist General Cargos - 153,24 Tausend. a. davon am meisten 129,2 Tausend a. sind Frachten, die auf der regulären Fährlinie Liepaja Travemide in Deutschland befördert werden.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="sogad-graudaugu-sezona-liepajas-osta-sakas-velak-neka-citus-gadus/index.php">Weiterlesen</a>
+<p>stevedore Unternehmen im Hafen von Liepāja August 2026 Umladung 341,83 Tausend a. verschiedene Arten von Ladung. Traditionell besteht die größte Frachtgruppe aus trockenem Schüttgut - landwirtschaftliche Produkte, Baustoffe und Holzschnitzel - 188,16 Tausend a. Die zweitgrößte Frachtgruppe ist General Cargos - 153,24 Tausend a. davon am meisten 129,2 Tausend a. sind Frachten, die auf der regulären Fährlinie Liepāja Travemide in Deutschland befördert werden.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/sogad-graudaugu-sezona-liepajas-osta-sakas-velak-neka-citus-gadus/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/317/1788948830_63_09.08.2026._1_LBT.webp)">
-<a aria-label="Weiterlesen" href="sogad-graudaugu-sezona-liepajas-osta-sakas-velak-neka-citus-gadus/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/sogad-graudaugu-sezona-liepajas-osta-sakas-velak-neka-citus-gadus/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/317/1788948830_63_09.08.2026._1_LBT.webp"/>
 </a>
 </div>
@@ -197,7 +197,7 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev d-none" data-block="2" data-page="" data-per-page="6" data-topic="14" href="0/index.php">
+<a class="news-list-pagination prev d-none" data-block="2" data-page="" data-per-page="6" data-topic="14" href="/site/de/attistibas-projekti/0/index.php">
 <img alt="Zurück" src="../../img/round-right.svg"/>
 
 Zurück
@@ -205,7 +205,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="2" data-page="2" data-per-page="6" data-topic="14" href="2/index.php">
+<a class="news-list-pagination next" data-block="2" data-page="2" data-per-page="6" data-topic="14" href="/site/de/medijiem/2/index.php">
 
 Weiter <img alt="Zurück" src="../../img/round-right.svg"/>
 </a>
@@ -250,7 +250,7 @@ Weiter <img alt="Zurück" src="../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/medijiem/index.php"><img alt="Nach oben" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

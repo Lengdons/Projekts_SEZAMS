@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <h2 class="map-title mb-5">Winterhafen</h2>
 </div>
 <div class="col-12 nocontrast">
-<span id="map-block"><img id="img" src="../../../../img/mod/map/16/1707388062_Kartes_1920x1320_3_ziemasosta.webp"/><a class="map-popover" data-bs-target="#modal54" data-bs-toggle="modal" href="index.php" style="left:70.32461019421902%;top:53.39118538374045%;">
+<span id="map-block"><img id="img" src="../../../../img/mod/map/16/1707388062_Kartes_1920x1320_3_ziemasosta.webp"/><a class="map-popover" data-bs-target="#modal54" data-bs-toggle="modal" href="/site/de/ostas-karte/map/ziemas-osta/index.php" style="left:70.32461019421902%;top:53.39118538374045%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel54" class="modal fade" id="modal54" tabindex="-1">
@@ -52,11 +52,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Die Haupttätigkeit ist die Lagerung und das Umladen von Erdölerzeugnissen. Das Unternehmen ist das einzige flüssige Hafenterminal außerhalb des Karosta Canal District.</p><p><strong>Hafennummer: </strong>69</p><p><strong>Adresse: </strong>Neue Ostmala 33/35, Liepaja, LV-3401, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 29225140</p>
+<p>Die Haupttätigkeit ist die Lagerung und das Umladen von Erdölerzeugnissen. Das Unternehmen ist das einzige flüssige Hafenterminal außerhalb des Karosta Canal District.</p><p><strong>Liegeplatznummern: </strong>69</p><p><strong>Adresse: </strong>Neue Ostmala 33/35, Liepāja, LV-3401, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 29225140</p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal55" data-bs-toggle="modal" href="index.php" style="left:57.46785811981398%;top:39.07399600709496%;">
+</div><a class="map-popover" data-bs-target="#modal55" data-bs-toggle="modal" href="/site/de/ostas-karte/map/ziemas-osta/index.php" style="left:57.46785811981398%;top:39.07399600709496%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel55" class="modal fade" id="modal55" tabindex="-1">
@@ -67,11 +67,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Umschlagterminal im Hafen von Liepaja, der sich mit Umschlag, Umschlag, Lagerung, Verpackung und Transport von verschiedenen Ladungen befasst, sowie die Bildung aller Arten von Frachtdokumenten und Spedition.</p><p><strong>Hafennummer: </strong>62, 63</p><p><strong>Adresse: </strong>Atsavnieku iela 29, Liepaja, LV-3401, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 63427227</p>
+<p>Umschlagterminal im Hafen von Liepāja, der sich mit Umschlag, Umschlag, Lagerung, Verpackung und Transport von verschiedenen Ladungen befasst, sowie die Bildung aller Arten von Frachtdokumenten und Spedition.</p><p><strong>Hafennummer: </strong>62, 63</p><p><strong>Adresse: </strong>Atsavnieku iela 29, Liepāja, LV-3401, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 63427227</p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal56" data-bs-toggle="modal" href="index.php" style="left:33.94273730281754%;top:43.581259329372244%;">
+</div><a class="map-popover" data-bs-target="#modal56" data-bs-toggle="modal" href="/site/de/ostas-karte/map/ziemas-osta/index.php" style="left:33.94273730281754%;top:43.581259329372244%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel56" class="modal fade" id="modal56" tabindex="-1">
@@ -82,11 +82,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Die Haupttätigkeit des Unternehmens ist die Umladung und Lagerung von Schüttgut. Das Dan Storea Terminal ist der zweitgrößte landwirtschaftliche Trockengutumschlagkomplex im Hafen von Liepaja und ein wichtiger Verkehrsknotenpunkt nicht nur für den Export lokaler landwirtschaftlicher Produkte, sondern auch für die Futterfracht.</p><p><strong>Hafennummer: </strong>42, 43</p><p><strong>Adresse: </strong>Brīvostas iela 30, Liepaja, LV-3405, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 63484500</p>
+<p>Die Haupttätigkeit des Unternehmens ist die Umladung und Lagerung von Schüttgut. Das Dan Storea Terminal ist der zweitgrößte landwirtschaftliche Trockengutumschlagkomplex im Hafen von Liepāja und ein wichtiger Verkehrsknotenpunkt nicht nur für den Export lokaler landwirtschaftlicher Produkte, sondern auch für die Futterfracht.</p><p><strong>Hafennummer: </strong>42, 43</p><p><strong>Adresse: </strong>Brīvostas iela 30, Liepāja, LV-3405, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 63484500</p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal57" data-bs-toggle="modal" href="index.php" style="left:36.69565217391305%;top:45.259165613147914%;">
+</div><a class="map-popover" data-bs-target="#modal57" data-bs-toggle="modal" href="/site/de/ostas-karte/map/ziemas-osta/index.php" style="left:36.69565217391305%;top:45.259165613147914%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel57" class="modal fade" id="modal57" tabindex="-1">
@@ -101,7 +101,7 @@ html.classList.add(localStorage['contrast']);
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal58" data-bs-toggle="modal" href="index.php" style="left:54.00291784444241%;top:32.84336729688813%;">
+</div><a class="map-popover" data-bs-target="#modal58" data-bs-toggle="modal" href="/site/de/ostas-karte/map/ziemas-osta/index.php" style="left:54.00291784444241%;top:32.84336729688813%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel58" class="modal fade" id="modal58" tabindex="-1">
@@ -112,11 +112,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Die Haupttätigkeit des Unternehmens besteht in der Umladung und Lagerung von Schüttgut und Generalfracht. Das Unternehmen verfügt über umfangreiche Lager, um die Lagerung und Handhabung von Fracht in der breitesten Nomenklatur zu gewährleisten.</p><p><strong>Hafennummer: </strong>60, 61</p><p><strong>Adresse: </strong>Bāriņu Street 7, Liepaja, LV-3401, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 63489560</p>
+<p>Die Haupttätigkeit des Unternehmens besteht in der Umladung und Lagerung von Schüttgut und Generalfracht. Das Unternehmen verfügt über umfangreiche Lager, um die Lagerung und Handhabung von Fracht in der breitesten Nomenklatur zu gewährleisten.</p><p><strong>Liegeplatznummern: </strong>60, 61</p><p><strong>Adresse: </strong>Bāriņu Street 7, Liepāja, LV-3401, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 63489560</p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal59" data-bs-toggle="modal" href="index.php" style="left:19.353515090726724%;top:61.61031261848138%;">
+</div><a class="map-popover" data-bs-target="#modal59" data-bs-toggle="modal" href="/site/de/ostas-karte/map/ziemas-osta/index.php" style="left:19.353515090726724%;top:61.61031261848138%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel59" class="modal fade" id="modal59" tabindex="-1">
@@ -127,11 +127,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Lettisch-schwedisches Unternehmen, das eines der führenden Holzgroßhandelsunternehmen im Hafen von Liepaja ist. Die Haupttätigkeit des Unternehmens ist der Großhandel von Holz und Chips, zusätzlich zur Bereitstellung von Stevedore, Schiffsagentur, Industriemaschinen, Reparaturwerkstätten und Transportdienstleistungen.</p><p><strong>Hafennummer: </strong>40, 41, 56</p><p><strong>Adresse: </strong>Brīvostas Street 40, Liepaja, LV-3405, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 63423111</p>
+<p>Lettisch-schwedisches Unternehmen, das eines der führenden Holzgroßhandelsunternehmen im Hafen von Liepāja ist. Die Haupttätigkeit des Unternehmens ist der Großhandel von Holz und Chips, zusätzlich zur Bereitstellung von Stevedore, Schiffsagentur, Industriemaschinen, Reparaturwerkstätten und Transportdienstleistungen.</p><p><strong>Liegeplatznummern: </strong>40, 41, 56</p><p><strong>Adresse: </strong>Brīvostas Street 40, Liepāja, LV-3405, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 63423111</p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal60" data-bs-toggle="modal" href="index.php" style="left:33.57800674751527%;top:23.43114094742675%;">
+</div><a class="map-popover" data-bs-target="#modal60" data-bs-toggle="modal" href="/site/de/ostas-karte/map/ziemas-osta/index.php" style="left:33.57800674751527%;top:23.43114094742675%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel60" class="modal fade" id="modal60" tabindex="-1">
@@ -142,11 +142,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Das größte multifunktionale Stevedore-Unternehmen, das 25% des gesamten Frachtumschlags des Hafens an seinen Terminals abgewickelt hat. Das Unternehmen bietet trockene Schüttgut- und General Cargo Handling sowie Stevedore-Services für spezialisierte Zementladungsabwicklung und LSEZ Ltd. - Dan Store an.</p><p><strong>Hafennummer: </strong>14, 42-45</p><p><strong>Adresse: </strong>Brīvostas iela 22, Liepaja, LV-3405, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 27335559; (+371) 63424515</p>
+<p>Das größte multifunktionale Stevedore-Unternehmen, das 25% des gesamten Frachtumschlags des Hafens an seinen Terminals abgewickelt hat. Das Unternehmen bietet trockene Schüttgut- und General Cargo Handling sowie Stevedore-Services für spezialisierte Zementladungsabwicklung und LSEZ Ltd. - Dan Store an.</p><p><strong>Liegeplatznummern: </strong>14, 42-45</p><p><strong>Adresse: </strong>Brīvostas iela 22, Liepāja, LV-3405, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 27335559; (+371) 63424515</p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal61" data-bs-toggle="modal" href="index.php" style="left:16.435670648308562%;top:12.030416073431274%;">
+</div><a class="map-popover" data-bs-target="#modal61" data-bs-toggle="modal" href="/site/de/ostas-karte/map/ziemas-osta/index.php" style="left:16.435670648308562%;top:12.030416073431274%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel61" class="modal fade" id="modal61" tabindex="-1">
@@ -157,11 +157,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Seit mehr als 25 Jahren ist der Güter- und Personenverkehr im Seeverkehr erfolgreich tätig. Derzeit betreibt Terrabaltě eine Fährverbindung, die RO-PAX-Fähren auf der Strecke Liepāja-Traveminde (Deutschland) bedient.</p><p><strong>Hafennummer: </strong>46Z, 46D, 50</p><p><strong>Adresse: </strong>Brīvostas 14A, Liepaja, LV √ 3405, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 63425756</p>
+<p>Seit mehr als 25 Jahren ist der Güter- und Personenverkehr im Seeverkehr erfolgreich tätig. Derzeit betreibt Terrabaltě eine Fährverbindung, die RO-PAX-Fähren auf der Strecke Liepāja-Traveminde (Deutschland) bedient.</p><p><strong>Liegeplatznummern: </strong>46Z, 46D, 50</p><p><strong>Adresse: </strong>Brīvostas 14A, Liepāja, LV √ 3405, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 63425756</p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal62" data-bs-toggle="modal" href="index.php" style="left:47.80249840430382%;top:69.16660701171094%;">
+</div><a class="map-popover" data-bs-target="#modal62" data-bs-toggle="modal" href="/site/de/ostas-karte/map/ziemas-osta/index.php" style="left:47.80249840430382%;top:69.16660701171094%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel62" class="modal fade" id="modal62" tabindex="-1">
@@ -172,7 +172,7 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Fischverarbeitung, das Sortiment besteht aus frischen und gefrorenen Fischen sowie Fischfilets in der Ostsee.</p><p><strong>Adresse: </strong>Zvejnieku aleja 11B-1, Liepaja, LV-3401, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 63423094</p><p> </p>
+<p>Fischverarbeitung, das Sortiment besteht aus frischen und gefrorenen Fischen sowie Fischfilets in der Ostsee.</p><p><strong>Adresse: </strong>Zvejnieku aleja 11B-1, Liepāja, LV-3401, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 63423094</p><p> </p>
 </div>
 </div>
 </div>
@@ -190,7 +190,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 paginator mt-5"><div>
 <a aria-label="Zurück" class="back map-pagination" onclick="history.back()">
 
-Rückgabe <img alt="Rückgabe" src="../../../../img/round-right-blue.svg"/>
+Zurück <img alt="Zurück" src="../../../../img/round-right-blue.svg"/>
 </a>
 </div>
 </div>
@@ -222,7 +222,7 @@ Rückgabe <img alt="Rückgabe" src="../../../../img/round-right-blue.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/ostas-karte/map/ziemas-osta/index.php"><img alt="Nach oben" class="img-fluid" src="../../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

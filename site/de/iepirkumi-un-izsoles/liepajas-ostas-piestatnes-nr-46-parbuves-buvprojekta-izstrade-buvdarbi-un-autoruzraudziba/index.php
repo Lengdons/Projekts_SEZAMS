@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba" property="og:url"/>
-<meta content="Hafen von Liepaja No. 46 Rekonstruktion Bauprojektentwicklung, Bauarbeiten und Autorüberwachung" property="og:title"/>
+<meta content="Planung, Bauarbeiten und Bauüberwachung durch den Planer beim Umbau des Liegeplatzes Nr. 46 im Hafen Liepāja" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Hafen von Liepaja No. 46 Rekonstruktion Bauprojektentwicklung, Bauarbeiten und Autorüberwachung</title>
+<title>Hafen von Liepāja No. 46 Rekonstruktion Bauprojektentwicklung, Bauarbeiten und Autorüberwachung</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="../../../css/main__40614cace7.css" rel="stylesheet"/>
@@ -42,24 +42,24 @@ html.classList.add(localStorage['contrast']);
 <p class="contact mb-4">Kontaktperson</p>
 <img alt="Linda Saltone" class="img-fluid mb-2" src="../../../img/block/contacts/default.svg"/>
 <p class="name">Linda Saltone</p>
-<p class="job">Spezialist für die Beschaffung</p>
+<p class="job">Beschaffungsspezialistin</p>
 <br/>
 <span>Tel.: <a href="tel:+371 29109677" target="_blank">+371 29109677</a></span>
 <span>E-Mail: <a href="mailto:linda.saltone@lsez.lv" target="_blank">linda.saltone@lsez.lv</a></span>
 </div>
 <div class="col-12 col-md-9 mt-md-5">
 <span class="date d-block mt-md-5">23. September 2026</span>
-<h1 class="article-title">Hafen von Liepaja No. 46 Rekonstruktion Bauprojektentwicklung, Bauarbeiten und Autorüberwachung</h1>
+<h1 class="article-title">Planung, Bauarbeiten und Bauüberwachung durch den Planer beim Umbau des Liegeplatzes Nr. 46 im Hafen Liepāja</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p><strong>Gegenstand der Auftragsvergabe: </strong></p><p><strong>Hafen von Liepaja No. 46 Rekonstruktion Bauprojektentwicklung, Bauarbeiten und Autorüberwachung</strong></p><p><strong>ANZAHL LSEZ 2026/12</strong></p><p><strong>Haupt-CPV-Code: </strong>45241500-3 (Bau des Kais). </p><p>Zusätzliche Codes: </p><p>45241600-4 (Installation von Beleuchtungseinrichtungen), </p><p>45231000-5 (Bau von Rohren, Kommunikations- und Stromleitungen), </p><p>4523130-8 (Werke von Wasser- und Abwasserleitungen), </p><p>45111100-9 (Dismantling works), </p><p>71220000-6, (Architecture Design Services),</p><p>71000000-8 (Architektur, Bau, Ingenieurwesen und Inspektion);</p><p> </p><p>Im elektronischen Beschaffungssystem (EIS) einzureichende Angebote, Teilsystem e-Commerce <a href="https://www.eis.gov.lv/EKEIS/Supplier/Organizer/3290">https://www.eis.gov.lv/EKEIS/Supplier/Organizer/3290</a></p><p>bis <strong>EIS für die im Teilsystem e-Wettbewerb festgelegte Einreichungsfrist</strong>.</p><p>Die Eröffnung der Angebote erfolgt innerhalb der im Teilsystem EIS e-Wettbewerb festgelegten Frist.</p></div>
+<div class="col"><div class="col-12 output"><p><strong>Auftragsgegenstand: </strong></p><p><strong>Planung, Bauarbeiten und Bauüberwachung durch den Planer beim Umbau des Liegeplatzes Nr. 46 im Hafen Liepāja</strong></p><p><strong>ANZAHL LSEZ 2026/12</strong></p><p><strong>Haupt-CPV-Code: </strong>45241500-3 (Bau des Kais). </p><p>Zusätzliche Codes: </p><p>45241600-4 (Installation von Beleuchtungseinrichtungen), </p><p>45231000-5 (Bau von Rohren, Kommunikations- und Stromleitungen), </p><p>45231300-8 (Werke von Wasser- und Abwasserleitungen), </p><p>45111100-9 (Dismantling works), </p><p>71220000-6, (Architecture Design Services),</p><p>71000000-8 (Architektur, Bau, Ingenieurwesen und Inspektion);</p><p> </p><p>Angebote sind im Teilsystem für elektronische Ausschreibungen des elektronischen Vergabesystems (EIS) einzureichen <a href="https://www.eis.gov.lv/EKEIS/Supplier/Organizer/3290">https://www.eis.gov.lv/EKEIS/Supplier/Organizer/3290</a></p><p>bis <strong>EIS für die im Teilsystem e-Wettbewerb festgelegte Einreichungsfrist</strong>.</p><p>Die Öffnung der Angebote erfolgt zu dem im EIS-Teilsystem für elektronische Ausschreibungen angegebenen Termin.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="../../../img/mod/news/320/870_" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="../../../img/mod/news/320/original_/index.php">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="../../../img/mod/news/320/original_/index.php">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -79,12 +79,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Liepaja SEZ Authority organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in Eksporta Straße 3</h4>
-<a class="d-none d-md-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Weiterlesen</a>
+<h4>Die Verwaltung der Sonderwirtschaftszone Liepāja veranstaltet eine elektronische Versteigerung mit aufsteigenden Geboten für eine neu zu bildende Immobilie in der Eksporta iela 3</h4>
+<a class="d-none d-md-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">Liepaja Special Economic Zone Authority, Unified Registrierung No.LV90000329402, organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in Eksporta iela 3, Liepāja, die aus einer Grundeinheit mit einer Gesamtfläche von 51521 m2 und 12 Gebäuden bestehen wird.</div>
+<div class="col-12 col-md-8 col-lg-9">Die Verwaltung der Sonderwirtschaftszone Liepāja, einheitliche Registrierungsnummer LV90000329402, veranstaltet eine elektronische Versteigerung mit aufsteigenden Geboten für eine neu zu bildende Immobilie in der Eksporta iela 3 in Liepāja. Diese wird aus einem Grundstück mit einer Gesamtfläche von 51521 m2 und 12 Bauwerken bestehen.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -95,13 +95,13 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">17.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Gegenstand der Beschaffung: Kauf von Strom </h4>
-<a class="d-none d-md-block my-4" href="../iepirkuma-prieksmets-elektroenergijas-iegade/index.php">Weiterlesen</a>
+<a class="d-none d-md-block my-4" href="/site/de/iepirkumi-un-izsoles/iepirkuma-prieksmets-elektroenergijas-iegade/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Betrifft: Erwerb von Elektrizität NUMBER LSEZ 2026/15 Wichtigster CPV-Code: 09310000-5 (Elektrizität)
 
 </div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../iepirkuma-prieksmets-elektroenergijas-iegade/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/iepirkumi-un-izsoles/iepirkuma-prieksmets-elektroenergijas-iegade/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -111,7 +111,7 @@ html.classList.add(localStorage['contrast']);
 <div class="prev">
 </div>
 <div class="next">
-<a aria-label="Weiter" class="next related-pagination" data-page="2" href="index.php">
+<a aria-label="Weiter" class="next related-pagination" data-page="2" href="/site/de/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">
 
 Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 </a>
@@ -143,7 +143,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

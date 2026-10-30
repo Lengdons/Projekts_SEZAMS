@@ -40,7 +40,7 @@ html.classList.add(localStorage['contrast']);
 <div class="row"><h1 class="block-title mt-5 d-block d-lg-none">Tätigkeitsberichte<span></span></h1>
 <div class="col-12 col-lg-3 mt-5 sidebar-nav ps-0">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../parvaldiba/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/parvaldiba/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Unternehmensführung
@@ -48,7 +48,7 @@ Unternehmensführung
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../korporativa-parvaldiba/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/korporativa-parvaldiba/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Corporate Governance
@@ -56,7 +56,7 @@ Corporate Governance
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../iepirkumi-un-izsoles/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/iepirkumi-un-izsoles/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Ausschreibungen und Versteigerungen
@@ -72,7 +72,7 @@ Geschäftsberichte
 </a>
 <div class="sidebar-nested ps-md-4">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../valdes-sedes-lemumi/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes-lemumi/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Vorstandsbeschlüsse
@@ -80,7 +80,7 @@ Vorstandsbeschlüsse
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/atskaites-par-darbibu/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Tätigkeitsberichte
@@ -88,7 +88,7 @@ Tätigkeitsberichte
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../ostas-statistika/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/ostas-statistika/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Hafenstatistik
@@ -102,11 +102,11 @@ Hafenstatistik
 <div class="documents-list">
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">14. 8. Juli 2026</div>
+<div class="date">14. Juli 2026</div>
 <div class="category">2026</div>
 <a aria-label="Dokument" href="../../doc/mod/document/393/1788854150_Operatīvie_finanšu_rādītāji_30.06.2026_.pdf" target="_blank">
 
-Operative Finanzindikatoren der Liepaja SEZ Behörde für den Zeitraum bis 30.06.2026
+Operative Finanzindikatoren der Liepāja SEZ Behörde für den Zeitraum bis 30.06.2026
 
 </a>
 <div class="mt-2"></div>
@@ -122,7 +122,7 @@ Operative Finanzindikatoren der Liepaja SEZ Behörde für den Zeitraum bis 30.06
 <div class="category">2026</div>
 <a aria-label="Dokument" href="../../doc/mod/document/363/1782482634_2026.03.31._LSEZ_finansu_parskats Copy.pdf" target="_blank">
 
-Operative Finanzindikatoren der Liepaja SEZ Behörde für den Zeitraum bis 31.03.2026
+Operative Finanzindikatoren der Liepāja SEZ Behörde für den Zeitraum bis 31.03.2026
 
 </a>
 <div class="mt-2"></div>
@@ -138,7 +138,7 @@ Operative Finanzindikatoren der Liepaja SEZ Behörde für den Zeitraum bis 31.03
 <div class="category">2025</div>
 <a aria-label="Dokument" href="../../doc/mod/document/362/1780474051_Operativie_finansu_dati_31_12_2025_b.pdf" target="_blank">
 
-Operative Finanzindikatoren der Liepaja SEZ Behörde für den Zeitraum bis 31.12.2015
+Operative Finanzindikatoren der Liepāja SEZ Behörde für den Zeitraum bis zu 31.12.2025
 
 </a>
 <div class="mt-2"></div>
@@ -150,11 +150,11 @@ Operative Finanzindikatoren der Liepaja SEZ Behörde für den Zeitraum bis 31.12
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">7. 8. November 2025</div>
+<div class="date">7. November 2025</div>
 <div class="category">2025</div>
 <a aria-label="Dokument" href="../../doc/mod/document/331/1762508330_Operatīvie_finanšu_dati_30.09.2025_web.pdf" target="_blank">
 
-Operative Finanzindikatoren der Liepaja SEZ Behörde für den Zeitraum bis 30.09.2025
+Operative Finanzindikatoren der Liepāja SEZ Behörde für den Zeitraum bis 30.09.2025
 
 </a>
 <div class="mt-2"></div>
@@ -166,11 +166,11 @@ Operative Finanzindikatoren der Liepaja SEZ Behörde für den Zeitraum bis 30.09
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">7. 8. August 2025</div>
+<div class="date">7. August 2025</div>
 <div class="category">2025</div>
 <a aria-label="Dokument" href="../../doc/mod/document/304/1755508286_2025.06.30._LSEZ_finansu_parskats.pdf" target="_blank">
 
-Operative Finanzindikatoren der Liepaja SEZ Behörde für den Zeitraum bis 30.06.2025
+Operative Finanzindikatoren der Liepāja SEZ Behörde für den Zeitraum bis 30.06.2025
 
 </a>
 <div class="mt-2"></div>
@@ -182,11 +182,11 @@ Operative Finanzindikatoren der Liepaja SEZ Behörde für den Zeitraum bis 30.06
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">30. 8. Juni 2025</div>
+<div class="date">30. Juni 2025</div>
 <div class="category">2024</div>
 <a aria-label="Dokument" href="../../doc/mod/document/305/1754545705_Liepājas_SEZ_gada_parskats_2024_revidents_kapitalsabiedribas.pdf" target="_blank">
 
-Jahresbericht der Liepaja SEZ Behörde 2024
+Jahresbericht der Liepāja SEZ Behörde 2024
 
 </a>
 <div class="mt-2"></div>
@@ -198,11 +198,11 @@ Jahresbericht der Liepaja SEZ Behörde 2024
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">7. 8. April 2025</div>
+<div class="date">7. April 2025</div>
 <div class="category">2025</div>
 <a aria-label="Dokument" href="../../doc/mod/document/276/1751449638_2025.03.31._LSEZ_finansu_parskats.pdf" target="_blank">
 
-Operative Finanzindikatoren der Liepaja SEZ Behörde für den Zeitraum bis 31.03.2025
+Operative Finanzindikatoren der Liepāja SEZ Behörde für den Zeitraum bis 31.03.2025
 
 </a>
 <div class="mt-2"></div>
@@ -214,11 +214,11 @@ Operative Finanzindikatoren der Liepaja SEZ Behörde für den Zeitraum bis 31.03
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">23. 8. Juli 2024</div>
+<div class="date">23. Juli 2024</div>
 <div class="category">2023</div>
 <a aria-label="Dokument" href="../../doc/mod/document/235/1730710351_LSEZ_2023_GADA_PARSKATS_plus_kapitalsabiedribas.pdf" target="_blank">
 
-Jahresbericht der Liepaja SEZ Behörde 2023
+Jahresbericht der Liepāja SEZ Behörde 2023
 
 </a>
 <div class="mt-2"></div>
@@ -234,7 +234,7 @@ Jahresbericht der Liepaja SEZ Behörde 2023
 <div class="category">2022</div>
 <a aria-label="Dokument" href="../../doc/mod/document/161/1716185503_LSEZ_2022_GADA_PARSKATS_plus_kapitalsabiedribas.pdf" target="_blank">
 
-Jahresbericht der Liepaja SEZ Authority 2022
+Jahresbericht der Liepāja SEZ Authority 2022
 
 </a>
 <div class="mt-2"></div>
@@ -246,11 +246,11 @@ Jahresbericht der Liepaja SEZ Authority 2022
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">1. 22. Januar 2022</div>
+<div class="date">1. Januar 2022</div>
 <div class="category">2021</div>
 <a aria-label="Dokument" href="../../doc/mod/document/170/1707311666_liepājas_sez_pārvaldes_2021.gada_pārskats..pdf" target="_blank">
 
-Bericht der Liepaja SEZ Behörde für 2021.
+Bericht der Liepāja SEZ Behörde für 2021.
 
 </a>
 <div class="mt-2"></div>
@@ -262,11 +262,11 @@ Bericht der Liepaja SEZ Behörde für 2021.
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">31. 8. Dezember 2020</div>
+<div class="date">31. Dezember 2020</div>
 <div class="category">2020</div>
 <a aria-label="Dokument" href="../../doc/mod/document/171/1707311823_liepājas_sez_pārvaldes_2020._gada_pārskats.pdf" target="_blank">
 
-Bericht der Liepaja SEZ Authority 2020.
+Bericht der Liepāja SEZ Authority 2020.
 
 </a>
 <div class="mt-2"></div>
@@ -320,7 +320,7 @@ Bericht der Liepaja SEZ Authority 2020.
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/atskaites-par-darbibu/index.php"><img alt="Nach oben" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

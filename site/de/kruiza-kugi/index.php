@@ -40,7 +40,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../investe-liepaja/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/investe-liepaja/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Investieren in Liepāja
@@ -56,7 +56,7 @@ Hafen
 </a>
 <div class="sidebar-nested ps-md-4">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../par-ostu/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/par-ostu/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Über den Hafen
@@ -64,7 +64,7 @@ Hafen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../pramju-satiksme/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/pramju-satiksme/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Fährverkehr
@@ -72,7 +72,7 @@ Fährverkehr
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/kruiza-kugi/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Kreuzfahrtschiffe
@@ -80,7 +80,7 @@ Kreuzfahrtschiffe
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../jahtu-osta/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/jahtu-osta/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Yachthafen
@@ -88,7 +88,7 @@ Yachthafen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../oskara-kalpaka-tilts/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/oskara-kalpaka-tilts/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Oskars-Kalpaks-Brücke
@@ -98,7 +98,7 @@ Oskars-Kalpaks-Brücke
 </div>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../kapitalsabiedribas/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/kapitalsabiedribas/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Unternehmen
@@ -106,7 +106,7 @@ Unternehmen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../attistibas-projekti/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/attistibas-projekti/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Entwicklungsprojekte
@@ -114,7 +114,7 @@ Entwicklungsprojekte
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../darbs-liepaja/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/darbs-liepaja/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Stellenangebote in Liepāja
@@ -122,7 +122,7 @@ Stellenangebote in Liepāja
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../teritoriju-karte/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/teritoriju-karte/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Gebietskarte
@@ -152,7 +152,7 @@ Gebietskarte
 <div class="row">
 <div class="col-12 col-md-3 column-content">
 <img alt="Symbol" class="icon" src="../../img/block/columns/168/1725616669_kruizu-kugjis.svg"/>
-<p>Der Hafen von Liepaja ist als ein erfolgreiches regionales Frachtumschlagszentrum anerkannt worden, aber das Interesse der Kreuzfahrtindustrie in Liepāja hat sich auch in letzter Zeit erhöht. In der Vergangenheit kamen Tausende von Touristen auf einer Fähre von Traveminde, Deutschland, nach Liepaja. Jetzt ist es gemeint, dass Besucher auch auf Kreuzfahrtschiffen ankommen können.</p>
+<p>Der Hafen von Liepāja ist als ein erfolgreiches regionales Frachtumschlagszentrum anerkannt worden, aber das Interesse der Kreuzfahrtindustrie in Liepāja hat sich auch in letzter Zeit erhöht. In der Vergangenheit kamen Tausende von Touristen auf einer Fähre von Traveminde, Deutschland, nach Liepāja. Jetzt ist es gemeint, dass Besucher auch auf Kreuzfahrtschiffen ankommen können.</p>
 </div>
 <div class="col-12 col-md-3 column-content">
 <img alt="Symbol" class="icon" src="../../img/block/columns/169/1725616901_enkurs.svg"/>
@@ -164,11 +164,11 @@ Gebietskarte
 </div>
 <div class="col-12 col-md-3 column-content">
 <img alt="Symbol" class="icon" src="../../img/block/columns/171/1725617099_baltijas-karte.svg"/>
-<p>Gäste der Stadt, die sich für den militärischen Kulturerbetourismus entscheiden, können das größte historische Militärgebiet in den baltischen Staaten, Karosta genannt, 19 besuchen. im 18. Jahrhundert für militärische Zwecke. Es ist einzigartig im historischen und architektonischen Kontext nicht nur in Lettland, sondern auch weltweit.</p>
+<p>Gäste der Stadt, die militärisches Erbe Tourismus wählen können das größte historische Militärgebiet in den Baltischen besuchen, genannt Karosta, gebaut 19. im . Jahrhundert für militärische Zwecke. Es ist einzigartig im historischen und architektonischen Kontext nicht nur in Lettland, sondern auch weltweit.</p>
 </div>
 </div>
 </div>
-<div class="accordion my-5"><h1 class="block-title mb-5">Kreuzfahrtschiffe im Hafen von Liepaja<span></span></h1>
+<div class="accordion my-5"><h1 class="block-title mb-5">Kreuzfahrtschiffe im Hafen von Liepāja<span></span></h1>
 <div class="row">
 <div id="accordion">
 <div class="card">
@@ -183,7 +183,7 @@ Stern-Legende
 </div>
 <div aria-labelledby="heading6230" class="collapse" data-parent="#accordion" id="collapse6230">
 <div class="card-body">
-<p>"Star Legend" 2026. 19. Mai 293 Passagiere wurden im Juli nach Liepaja gebracht.</p><p>Mehr dazu <a href="https://flickr.com/photos/liepajasez/albums/72177720334777746/"><strong>Fotografische (ausgenommen kinematografische) Vergrößerer und Reduzierer</strong></a>.</p><br/>
+<p>159 "Star Legend" Länge von Metern 19. Juli 2026 nach Liepāja gebracht 293 Passagiere.</p><p>Mehr dazu <a href="https://flickr.com/photos/liepajasez/albums/72177720334777746/"><strong>Fotografische (ausgenommen kinematografische) Vergrößerer und Reduzierer</strong></a>.</p><br/>
 <img alt="" src="../../img/block/accordion/161/1785916881_55408774766_86e0dcf8a5_o.webp"/>
 </div>
 </div>
@@ -200,7 +200,7 @@ Silberne Morgenröte
 </div>
 <div aria-labelledby="heading6231" class="collapse" data-parent="#accordion" id="collapse6231">
 <div class="card-body">
-<p>212 Meter Länge Die Silver Dawn, mit 561 Passagieren, kam am Hafen von Liepaja 2026 an. 2006 im Juli.</p><p>Mehr dazu <a href="https://flickr.com/photos/liepajasez/albums/72177720334541082/"><strong>Fotografische (ausgenommen kinematografische) Vergrößerer und Reduzierer</strong></a>.</p><br/>
+<p>212 die Länge der m-silbernen Dawn, mit 561 Passagiere im Hafen von Liepāja eingetroffen 4. Juli 2026.</p><p>Mehr dazu <a href="https://flickr.com/photos/liepajasez/albums/72177720334541082/"><strong>Fotografische (ausgenommen kinematografische) Vergrößerer und Reduzierer</strong></a>.</p><br/>
 <img alt="" src="../../img/block/accordion/160/1785916716_55377134466_8da56d1f53_o.webp"/>
 </div>
 </div>
@@ -217,7 +217,7 @@ Silberner Geist
 </div>
 <div aria-labelledby="heading6232" class="collapse" data-parent="#accordion" id="collapse6232">
 <div class="card-body">
-<p>Der 211 Meter lange Silbergeist kam in den Hafen 2026. im Monat vom 22. Dezember 2001, Juni, bringt fast 600 Passagiere nach Liepaja. </p><p>Mehr dazu <a href="https://flickr.com/photos/liepajasez/albums/72177720334373480/"><strong>Fotografische (ausgenommen kinematografische) Vergrößerer und Reduzierer</strong></a>.</p><p> </p><br/>
+<p>211 die Länge der Meter "Silbergeist" kam in den Hafen 22. Juni 2026, fast nach Liepāja bringen 600 Passagiere. </p><p>Mehr dazu <a href="https://flickr.com/photos/liepajasez/albums/72177720334373480/"><strong>Fotografische (ausgenommen kinematografische) Vergrößerer und Reduzierer</strong></a>.</p><p> </p><br/>
 <img alt="" src="../../img/block/accordion/159/1785916380_55356244754_4918a2f74e_o.webp"/>
 </div>
 </div>
@@ -234,7 +234,7 @@ Weltreisende
 </div>
 <div aria-labelledby="heading6233" class="collapse" data-parent="#accordion" id="collapse6233">
 <div class="card-body">
-<p>Ein 126 Meter langes Kreuzfahrtschiff, der Weltreisende, betrat den Hafen 2025. Im August 2001 wurden 170 Passagiere nach Liepaja gebracht. <br/><br/>Mehr dazu <a href="https://flickr.com/photos/liepajasez/albums/72177720328823256/"><strong>Fotografische (ausgenommen kinematografische) Vergrößerer und Reduzierer</strong></a>.</p><br/>
+<p>126 Ein Meter langes Kreuzfahrtschiff im Hafen der Welt Reisender. August 2025, nach Liepāja bringen 170 Passagiere. <br/><br/>Mehr dazu <a href="https://flickr.com/photos/liepajasez/albums/72177720328823256/"><strong>Fotografische (ausgenommen kinematografische) Vergrößerer und Reduzierer</strong></a>.</p><br/>
 <img alt="" src="../../img/block/accordion/158/1768998652_527980205_1142139954605647_3339596269375943414_n.webp"/>
 </div>
 </div>
@@ -251,7 +251,7 @@ Nordstjernen
 </div>
 <div aria-labelledby="heading6234" class="collapse" data-parent="#accordion" id="collapse6234">
 <div class="card-body">
-<p>Historisches Schiff Nordtjernen 2025. 1931 kam der Hafen zweimal an. Juli 1956. Während im September bereits 127 Gäste an Bord waren, darunter auch die Singenden von Texas.</p><p>Die 80 Meter lange Nordstjernen ist ein Spezialschiff für die norwegische Post. Später wird es erneuert und für Kreuzfahrten angepasst, so dass sein ursprüngliches Aussehen. Aus diesem Grund wurde Nordstjernen in die norwegische Liste der geschützten Kulturgüter aufgenommen. Die Größe des Schiffes erlaubte es, den kommerziellen Kanal zu betreten und zu neu zurückhaltenden Liegeplätzen anzulegen.</p><p>Mehr dazu <a href="https://flickr.com/photos/liepajasez/albums/72177720329226889/"><strong>Fotografische (ausgenommen kinematografische) Vergrößerer und Reduzierer</strong></a>.</p><br/>
+<p>Historisches Schiff Nordstjernen 2025. kam der Hafen zweimal an. Im Juli 1956. Liepāja wurde von dem Schiff im Jahre gebaut besucht 70 Passagiere aus Deutschland, Österreich und der Schweiz, während im September bereits 127 Gäste, einschließlich der Singenden Männer von Texas.</p><p>Die 80 Meter lange Nordstjernen ist ein Spezialschiff für die norwegische Post. Später wird es erneuert und für Kreuzfahrten angepasst, so dass sein ursprüngliches Aussehen. Aus diesem Grund wurde Nordstjernen in die norwegische Liste der geschützten Kulturgüter aufgenommen. Die Größe des Schiffes erlaubte es, den kommerziellen Kanal zu betreten und zu neu zurückhaltenden Liegeplätzen anzulegen.</p><p>Mehr dazu <a href="https://flickr.com/photos/liepajasez/albums/72177720329226889/"><strong>Fotografische (ausgenommen kinematografische) Vergrößerer und Reduzierer</strong></a>.</p><br/>
 <img alt="" src="../../img/block/accordion/157/1768998343_54804839253_42107736a4_k.webp"/>
 </div>
 </div>
@@ -268,7 +268,7 @@ Sirena
 </div>
 <div aria-labelledby="heading6235" class="collapse" data-parent="#accordion" id="collapse6235">
 <div class="card-body">
-<p>Das 180 Meter lange Kreuzfahrtschiff Sirena ist die zweite Kreuzfahrtlinie von Oceania Cruises, die am 5. September 2024 in den Hafen von Liepaja eintrat und 633 Passagiere brachte.</p><p>Mehr dazu <a href="https://www.flickr.com/photos/liepajasez/albums/72177720320252058">Fotografische (ausgenommen kinematografische) Vergrößerer und Reduzierer</a>.</p><br/>
+<p>Das 180 Meter lange Kreuzfahrtschiff Sirena ist die zweite Kreuzfahrtlinie von Oceania Cruises, die am 5. September 2024 in den Hafen von Liepāja eintrat und 633 Passagiere brachte.</p><p>Mehr dazu <a href="https://www.flickr.com/photos/liepajasez/albums/72177720320252058">Fotografische (ausgenommen kinematografische) Vergrößerer und Reduzierer</a>.</p><br/>
 <img alt="" src="../../img/block/accordion/145/1725961896_53972971023_84b4e4e871_k.webp"/>
 </div>
 </div>
@@ -285,7 +285,7 @@ Insignia
 </div>
 <div aria-labelledby="heading6236" class="collapse" data-parent="#accordion" id="collapse6236">
 <div class="card-body">
-<p>Kreuzfahrtschiff "Insignia" mit 639 Passagieren in den Hafen von Liepaja am 7. August 2024. Das 180 Meter lange Schiff war das erste Kreuzfahrtschiff, das Liepaja 2024 besuchte.</p><p>Mehr dazu <a href="https://www.flickr.com/photos/liepajasez/albums/72177720319556169/">Fotografische (ausgenommen kinematografische) Vergrößerer und Reduzierer</a>.</p><br/>
+<p>Kreuzfahrtschiff "Insignia" mit 639 Passagieren in den Hafen von Liepāja am 7. August 2024. Das 180 Meter lange Schiff war das erste Kreuzfahrtschiff, das Liepāja 2024 besuchte.</p><p>Mehr dazu <a href="https://www.flickr.com/photos/liepajasez/albums/72177720319556169/">Fotografische (ausgenommen kinematografische) Vergrößerer und Reduzierer</a>.</p><br/>
 <img alt="" src="../../img/block/accordion/146/1725962111_53908015949_0502533d6d_k.webp"/>
 </div>
 </div>
@@ -302,7 +302,7 @@ Bolette
 </div>
 <div aria-labelledby="heading6237" class="collapse" data-parent="#accordion" id="collapse6237">
 <div class="card-body">
-<p>Im Jahr 2023 betrat nur ein Kreuzfahrtschiff den Hafen von Liepaja. Am 9. Mai brachte ein 238 Meter langes Kreuzfahrtschiff "Bolette" 995 Passagiere und 629 Besatzungsmitglieder nach Liepaja. Das Schiff begann seine Reise in Antwerpen, Belgien, gefolgt von der Straße nach Newcastle (Vereinigtes Königreich) und dann nach Visby (Schweden), Tallinn (Estland) und Riga. </p><p>"Bolette" war das längste Kreuzfahrtschiff im Hafen von Liepaja.</p><p>Mehr dazu <a href="https://www.flickr.com/photos/liepajasez/albums/72177720311210347/">Fotografische (ausgenommen kinematografische) Vergrößerer und Reduzierer</a>.</p><br/>
+<p>Im Jahr 2023 betrat nur ein Kreuzfahrtschiff den Hafen von Liepāja. Am 9. Mai brachte ein 238 Meter langes Kreuzfahrtschiff "Bolette" 995 Passagiere und 629 Besatzungsmitglieder nach Liepāja. Das Schiff begann seine Reise in Antwerpen, Belgien, gefolgt von der Straße nach Newcastle (Vereinigtes Königreich) und dann nach Visby (Schweden), Tallinn (Estland) und Riga. </p><p>"Bolette" war das längste Kreuzfahrtschiff im Hafen von Liepāja.</p><p>Mehr dazu <a href="https://www.flickr.com/photos/liepajasez/albums/72177720311210347/">Fotografische (ausgenommen kinematografische) Vergrößerer und Reduzierer</a>.</p><br/>
 <img alt="" src="../../img/block/accordion/147/1725962334_52883548645_dc5b20caf7_k.webp"/>
 </div>
 </div>
@@ -319,7 +319,7 @@ Sieben Seas Splendor
 </div>
 <div aria-labelledby="heading6238" class="collapse" data-parent="#accordion" id="collapse6238">
 <div class="card-body">
-<p>Das Kreuzfahrtschiff "Seven Seas Splendor" betrat 2022 zweimal den Hafen von Liepaja - am 8. Juni brachte es 278 Passagiere, die meisten davon aus Großbritannien, während am 21. Juli 690 Passagiere aus den USA.</p><p>Ein 224 Meter langes Kreuzfahrtschiff besuchte Schweden, Dänemark, Estland und Lettland.</p><p>Mehr dazu in Fotoberichten - Ankunft des Schiffes <a href="https://flickr.com/photos/liepajasez/albums/72177720320239782/">Am 21. Juli</a> und <a href="https://www.flickr.com/photos/liepajasez/albums/72177720320257174/">8. Juni</a>.</p><br/>
+<p>Das Kreuzfahrtschiff "Seven Seas Splendor" betrat 2022 zweimal den Hafen von Liepāja - am 8. Juni brachte es 278 Passagiere, die meisten davon aus Großbritannien, während am 21. Juli 690 Passagiere aus den USA.</p><p>Ein 224 Meter langes Kreuzfahrtschiff besuchte Schweden, Dänemark, Estland und Lettland.</p><p>Mehr dazu in Fotoberichten - Ankunft des Schiffes <a href="https://flickr.com/photos/liepajasez/albums/72177720320239782/">Am 21. Juli</a> und <a href="https://www.flickr.com/photos/liepajasez/albums/72177720320257174/">8. Juni</a>.</p><br/>
 <img alt="" src="../../img/block/accordion/148/1725962670_52231393160_452b80a43a_k.webp"/>
 </div>
 </div>
@@ -336,7 +336,7 @@ Balmoral
 </div>
 <div aria-labelledby="heading6239" class="collapse" data-parent="#accordion" id="collapse6239">
 <div class="card-body">
-<p>Am 19. Juli 2022 betrat eine Tour durch Fred Olsens Balmoral Kreuzfahrtschiff den Hafen von Liepaja. "Balmoral mit 667 Passagieren war das dritte Kreuzfahrtschiff, das Liepaja im Sommer 2022 besuchte.</p><p>Das bulgarische Schiff begann eine Kreuzfahrt in Edinburgh. Obwohl die meisten Passagiere Briten waren, wurde Liepaja auch für Reisende aus Japan, Australien und anderen Ländern eingeführt. </p><p>Mehr dazu <a href="https://www.flickr.com/photos/liepajasez/albums/72177720320240957">Fotografische (ausgenommen kinematografische) Vergrößerer und Reduzierer</a>.</p><br/>
+<p>Am 19. Juli 2022 betrat eine Tour durch Fred Olsens Balmoral Kreuzfahrtschiff den Hafen von Liepāja. "Balmoral mit 667 Passagieren war das dritte Kreuzfahrtschiff, das Liepāja im Sommer 2022 besuchte.</p><p>Das bulgarische Schiff begann eine Kreuzfahrt in Edinburgh. Obwohl die meisten Passagiere Briten waren, wurde Liepāja auch für Reisende aus Japan, Australien und anderen Ländern eingeführt. </p><p>Mehr dazu <a href="https://www.flickr.com/photos/liepajasez/albums/72177720320240957">Fotografische (ausgenommen kinematografische) Vergrößerer und Reduzierer</a>.</p><br/>
 <img alt="" src="../../img/block/accordion/149/1725962903_52228798153_7a798fa382_k.webp"/>
 </div>
 </div>
@@ -353,7 +353,7 @@ Vasco Da Gama
 </div>
 <div aria-labelledby="heading62310" class="collapse" data-parent="#accordion" id="collapse62310">
 <div class="card-body">
-<p>Das 219 Meter lange Kreuzfahrtschiff "Vasco Da Gama" betrat den Hafen von Liepaja 2022. vom 6. Juni 2008 im Juli. Vorher besuchte sie die Häfen Norwegens, Schwedens, Deutschlands und Dänemarks; weiter auf dem Weg nach Riga.</p><p>Unter der Flagge Portugals brachte der schiffbare Riese fast tausend Passagiere nach Liepaja.</p><p>Kreuzfahrtschiff Liepaja besuchte auch 2026. im Monat vom 22. Dezember 2001, Juli, mit 1027 Passagieren.</p><p>Mehr dazu <a href="https://www.flickr.com/photos/liepajasez/albums/72177720320237150">Fotografische (ausgenommen kinematografische) Vergrößerer und Reduzierer</a>.</p><br/>
+<p>219 Kreuzfahrtschiff "Vasco Da Gama" im Hafen von Liepāja, Länge von Metern 6. Juli 2022. Vorher besuchte sie die Häfen Norwegens, Schwedens, Deutschlands und Dänemarks; weiter auf dem Weg nach Riga.</p><p>Unter der Flagge Portugals brachte der schiffbare Riese fast tausend Passagiere nach Liepāja.</p><p>Kreuzfahrtschiff Liepāja auch besucht 22. Juli 2026, bei Ankunft 1027 Passagiere.</p><p>Mehr dazu <a href="https://www.flickr.com/photos/liepajasez/albums/72177720320237150">Fotografische (ausgenommen kinematografische) Vergrößerer und Reduzierer</a>.</p><br/>
 <img alt="" src="../../img/block/accordion/150/1725963161_52196379412_e6c37df563_k.webp"/>
 </div>
 </div>
@@ -370,7 +370,7 @@ Saga Saphir
 </div>
 <div aria-labelledby="heading62311" class="collapse" data-parent="#accordion" id="collapse62311">
 <div class="card-body">
-<p>Nach mehr als zehn Jahren Pause betrat das Kreuzfahrtschiff 2018 den Hafen von Liepaja. Am 17. August brachte das Schiff "Saga Sapphire" 600 Passagiere mit. </p><p>Das 200 Meter lange Schiff begann seine Reise durch die Ostsee in Duvre (Großbritannien), während Liepaja einer der 6 Häfen der Ostsee war, wo das Schiff aufhörte.</p><p>Mehr dazu <a href="https://www.flickr.com/photos/liepajasez/albums/72177720320254253">Fotografische (ausgenommen kinematografische) Vergrößerer und Reduzierer</a>.</p><br/>
+<p>Nach mehr als zehn Jahren Pause betrat das Kreuzfahrtschiff 2018 den Hafen von Liepāja. Am 17. August brachte das Schiff "Saga Sapphire" 600 Passagiere mit. </p><p>Das 200 Meter lange Schiff begann seine Reise durch die Ostsee in Duvre (Großbritannien), während Liepāja einer der 6 Häfen der Ostsee war, wo das Schiff aufhörte.</p><p>Mehr dazu <a href="https://www.flickr.com/photos/liepajasez/albums/72177720320254253">Fotografische (ausgenommen kinematografische) Vergrößerer und Reduzierer</a>.</p><br/>
 <img alt="" src="../../img/block/accordion/151/1725963413_44086518501_388c38ad62_k.webp"/>
 </div>
 </div>
@@ -415,7 +415,7 @@ Saga Saphir
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/kruiza-kugi/index.php"><img alt="Nach oben" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

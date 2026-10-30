@@ -40,7 +40,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../../parvaldiba/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/parvaldiba/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Unternehmensführung
@@ -48,7 +48,7 @@ Unternehmensführung
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/korporativa-parvaldiba/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Corporate Governance
@@ -56,7 +56,7 @@ Corporate Governance
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../../iepirkumi-un-izsoles/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/iepirkumi-un-izsoles/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Ausschreibungen und Versteigerungen
@@ -72,7 +72,7 @@ Geschäftsberichte
 </a>
 <div class="sidebar-nested ps-md-4">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../../valdes-sedes-lemumi/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes-lemumi/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Vorstandsbeschlüsse
@@ -80,7 +80,7 @@ Vorstandsbeschlüsse
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../../atskaites-par-darbibu/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/atskaites-par-darbibu/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Tätigkeitsberichte
@@ -88,7 +88,7 @@ Tätigkeitsberichte
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../../ostas-statistika/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/ostas-statistika/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Hafenstatistik
@@ -160,7 +160,7 @@ Hafenstatistik
 </div>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><h6>Liepaja SEZ Corporate Governance wird umgesetzt<strong> Liepaja SEZ Behörde</strong>Sicherstellung der Durchführung von Tageseinsätzen, Entwicklungsstrategien und Investitionen und <strong>Vorstand der Liepaja SEZ</strong>, die strategische Entscheidungen trifft und die Einhaltung der Vorschriften durch die Förderung eines wirksamen Zonenmanagements und einer nachhaltigen Entwicklung gewährleistet.</h6><h6> </h6><h6>Gründung der Behörde Liepaja SEZ nach Grundsätzen der verantwortungsvollen Staatsführung:</h6></div>
+<div class="col"><div class="col-12 output"><h6>Liepāja SEZ Corporate Governance wird umgesetzt<strong> Liepāja SEZ Behörde</strong>Sicherstellung der Durchführung von Tageseinsätzen, Entwicklungsstrategien und Investitionen und <strong>Vorstand der Liepāja SEZ</strong>, die strategische Entscheidungen trifft und die Einhaltung der Vorschriften durch die Förderung eines wirksamen Zonenmanagements und einer nachhaltigen Entwicklung gewährleistet.</h6><h6> </h6><h6>Gründung der Behörde Liepāja SEZ nach Grundsätzen der verantwortungsvollen Staatsführung:</h6></div>
 </div>
 </div>
 </div>
@@ -189,7 +189,7 @@ Hafenstatistik
 <div class="col-12 col-lg-3 mt-5 sidebar-nav ps-0">
 <div class="row document-categories">
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Corporate Governance" class="d-flex align-items-center dc sidebar-nav-icon" data-value="60" href="index.php">
+<a aria-label="Corporate Governance" class="d-flex align-items-center dc sidebar-nav-icon" data-value="60" href="/site/de/korporativa-parvaldiba/60/index.php">
 <img alt="Corporate Governance" src="../../../img/round-right-blue.svg"/>
 
 Corporate Governance
@@ -222,7 +222,7 @@ Qualitätspolitik und ISO 9001:2015 Zertifikat
 <div class="category">Corporate Governance</div>
 <a aria-label="Dokument" href="../../../doc/mod/document/344/1770721733_Kvalitātes politika_mājas lapai.pdf" target="_blank">
 
-Qualitätspolitik und ISO 9001:2015 Zertifikat 
+Qualitätspolitik und ISO 9001:2015 Zertifikat
 
 </a>
 <div class="mt-2"></div>
@@ -250,7 +250,7 @@ Verhaltenskodex
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">21. 8. August 2020</div>
+<div class="date">21. August 2020</div>
 <div class="category">Corporate Governance</div>
 <a aria-label="Dokument" href="../../../doc/mod/document/225/1718115346_trauksmes-celsana.pdf" target="_blank">
 
@@ -266,7 +266,7 @@ Interne Warnvorschriften
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">14. 22. November 2019</div>
+<div class="date">14. November 2019</div>
 <div class="category">Corporate Governance</div>
 <a aria-label="Dokument" href="../../../doc/mod/document/223/1718103304_interesu-noversanas-politika.pdf" target="_blank">
 
@@ -282,7 +282,7 @@ Zur Politik zur Verhütung von Interessenkonflikten
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">16. 8. Oktober 2019</div>
+<div class="date">16. Oktober 2019</div>
 <div class="category">Corporate Governance</div>
 <a aria-label="Dokument" href="../../../doc/mod/document/222/1718103075_pretkorupcijas_politika.pdf" target="_blank">
 
@@ -298,7 +298,7 @@ Antikorruptionspolitik
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">23. 8. August 2019</div>
+<div class="date">23. August 2019</div>
 <div class="category">Corporate Governance</div>
 <a aria-label="Dokument" href="../../../doc/mod/document/221/1718103016_atalgojums.pdf" target="_blank">
 
@@ -314,7 +314,7 @@ Vergütung
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">13. 8. Januar 2015</div>
+<div class="date">13. Januar 2015</div>
 <div class="category">Corporate Governance</div>
 <a aria-label="Dokument" href="../../../doc/mod/document/335/1764858280_14_MARKETINGA_UN_KOMUNIKACIJU_PLANS(4).pdf" target="_blank">
 
@@ -374,7 +374,7 @@ Marketing- und Kommunikationsplan
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/korporativa-parvaldiba/60/index.php"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

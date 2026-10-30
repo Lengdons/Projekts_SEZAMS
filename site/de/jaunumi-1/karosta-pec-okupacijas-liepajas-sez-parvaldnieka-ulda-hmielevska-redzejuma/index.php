@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/medijiem/karosta-pec-okupacijas-liepajas-sez-parvaldnieka-ulda-hmielevska-redzejuma" property="og:url"/>
-<meta content="Karosta nach der Besetzung in der Vision von Liepaja SEZ Manager Uldis Hmielevskis" property="og:title"/>
+<meta content="Karosta nach der Besetzung in der Vision von Liepāja SEZ Manager Uldis Hmielevskis" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Karosta nach der Besetzung in der Vision von Liepaja SEZ Manager Uldis Hmielevskis</title>
+<title>Karosta nach der Besetzung in der Vision von Liepāja SEZ Manager Uldis Hmielevskis</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
@@ -48,17 +48,17 @@ html.classList.add(localStorage['contrast']);
 </div>
 <div class="col-12 col-md-9 mt-md-5">
 <span class="date d-block mt-md-5">10. Mai 2024</span>
-<h1 class="article-title">Karosta nach der Besetzung in der Vision von Liepaja SEZ Manager Uldis Hmielevskis</h1>
+<h1 class="article-title">Karosta nach der Besetzung in der Vision von Liepāja SEZ Manager Uldis Hmielevskis</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Freitag, 17. Mai um 12 Uhr. 15:00 Schuljugend und andere interessierte Personen sind nach der Besetzung der UdSSR zur Geschichte von Liepaja SEZ Manager Uldis Hmieļevska über Karosta eingeladen. Die Veranstaltung findet im Liepaja Occupation Museum, K.Ukstiņa iela 7/9, Liepāja, im Rahmen der Ausstellung "Das sowjetische Besatzungserbe in Karosta" statt.</p><p>Liepāja Occupation Museum bis 29 Uhr. Die Ausstellung "The Soviet Occupancy Heritage of Karosta" wird im September zu sehen sein, während der der Karosta Stories Cycle stattfindet. Über den Karost bis zur sowjetischen Besatzung bereits 25. Im April erzählte er dem Geschichtsforscher Juris Ra Shweis.</p><p>Karosta ist Teil von Liepaja, und gleichzeitig wurde es als autonome Stadt in der Stadt gebaut und diente als militärische Basis. Liepaja Retrieve die Karosta Mitte der 1990er Jahre, als es nicht klar war, sowohl dem Staat und der Stadt, was mit dem degradierten Gebiet des sowjetischen Militärs zu tun. Gründung der Sonderwirtschaftszone Liepaja 1997. Karosta als Militärbasis wurde wieder Teil von Liepaja und es war wichtig, sie in die zivile Umwelt zu integrieren, das kulturelle Erbe zu bewahren und nach neuen Entwicklungsrichtungen zu suchen.</p><p>Wenn die beiden Weltkriege die Verwüstung nach Karosta gebracht haben, dann sind sie nicht mit dem vergleichbar, was während der sowjetischen Besatzung geschehen ist und es wird immer noch gespürt. Der Vergleich von Karosta in den 1990er Jahren und heute ist es zwei verschiedene Orte und nicht mehr ähnlich. Seit 30 Jahren ist Karosta kein geschlossenes militärisches Gebiet mehr, sondern ein attraktiver Teil von Liepaja mit seinem bleibenden Charme. Wie spät war Karostas Zeit? Dies ist in der Geschichte von Uldis Hmielevska, Liepaja SEZ Manager.</p><p> </p><p><strong>Par Karostu</strong></p><p>Der Beginn von Carosta könnte die Periode von 1890 genannt werden. Als Russland beschloss, eine neue Marinebasis in Liepaja zu bauen. In sehr kurzer Zeit entstand in weniger als 17 Jahren fast eine neue autonome Stadt. Damals war es einer der modernsten Komplexe dieser Art in Europa. Als herausragende Leistung demonstrierte Russland es in verschiedenen Ausstellungen und 1900. Bei der Internationalen Ausstellung in Paris 2003 wurde das Projekt sehr geschätzt.</p><p>Alles, was wir jetzt die Karosta nennen, war ursprünglich zwei relativ getrennte Teile. Die Militärstadt Karosta selbst war die Basis von Karaflote mit seinen wichtigsten und passenden hydrotechnischen Strukturen, Kanälen, Brücken, Schiffsreparatur Fabriken, Marine Crew Kasernen, Kathedrale und Offiziere Wohnungen, unter der Aufsicht des Ministeriums für Maritime Krieg. Im Gegenzug die Libava Seefestung, Festungskanal (derzeit bekannt als Blackupite) und andere Verteidigungsstrukturen, einschließlich des Ministeriums für Krieg in der Mitte und südlich von Liepaja. Als 1908. Die Festung wurde 1918 abgeschafft und die Basis von Karaflot hatte ihren Status als Hauptbasis verloren, beide Teile allmählich zu einem vereinten Umfeld, das heute als Karosta bekannt ist.</p><p>Bis 1994. Im Jahr 1947 hatte Karosta eine geschlossene militärische Basis und diente den Bedürfnissen der UdSSR Navy.</p></div>
+<div class="col"><div class="col-12 output"><p>Freitag, 17. Mai um Uhr. 15:00 Schuljugend und andere Interessierte werden nach der Besetzung der UdSSR zur Geschichte von Liepāja SEZ Manager Uldis Hmieļevska über Karosta eingeladen. Die Veranstaltung findet im Liepāja Occupation Museum, K.Ukstiņa Street statt 7/9, in Liepāja, im Rahmen der Ausstellung "Das sowjetische Besatzungserbe in Karosta."</p><p>Liepāja Occupation Museum bis 29 Uhr. Die Ausstellung "The Soviet Occupancy Heritage of Karosta" wird im September zu sehen sein, während der der Karosta Stories Cycle stattfindet. Über den Karost bis zur sowjetischen Besatzung bereits 25. Im April erzählte er dem Geschichtsforscher Juris Ra Shweis.</p><p>Karosta ist Teil von Liepāja, und gleichzeitig wurde es als autonome Stadt in der Stadt gebaut und diente als militärische Basis. Liepāja Carosta hat das letzte Jahrhundert wieder aufgenommen 90in der Mitte der Jahre, als es nicht klar war, sowohl dem Staat als auch der Stadt, was mit dem vom sowjetischen Militär zurückgelassenen Gebiet zu tun hat. Einrichtung einer besonderen Wirtschaftszone in Liepāja 1997. Karosta als Militärbasis wurde wieder Teil von Liepāja und es war wichtig, sie in die zivile Umwelt zu integrieren, das kulturelle Erbe zu bewahren und nach neuen Entwicklungsrichtungen zu suchen.</p><p>Wenn die beiden Weltkriege die Verwüstung nach Karosta gebracht haben, dann sind sie nicht mit dem vergleichbar, was während der sowjetischen Besatzung geschehen ist und es wird immer noch gespürt. Allerdings, Vergleich der Carosta des letzten Jahrhunderts 90in diesen Jahren und heute sind sie zwei verschiedene Orte und sind nicht mehr ähnlich. Jetzt 30 Seit Jahren ist Karosta kein geschlossenes militärisches Gebiet mehr, sondern ein attraktiver Teil von Liepāja mit seinem bleibenden Charme. Wie spät war Karostas Zeit? Dies ist in der Geschichte von Uldis Hmielevska, Liepāja SEZ Manager.</p><p> </p><p><strong>Par Karostu</strong></p><p>Der Beginn von Carosta könnte man die Periode der 1890. Als Russland beschloss, eine neue Marinebasis in Liepāja zu bauen. In sehr kurzer Zeit, unvollständig 17 In den Jahren wurde eine praktisch neue autonome Stadt geschaffen. Damals war es einer der modernsten Komplexe dieser Art in Europa. Russland zeigte dies als herausragende Leistung in verschiedenen Ausstellungen und Ausstellungen. 1900. Bei der Internationalen Ausstellung in Paris wurde das Projekt sehr geschätzt.</p><p>Alles, was wir jetzt die Karosta nennen, war ursprünglich zwei relativ getrennte Teile. Die Militärstadt Karosta selbst war die Basis von Karaflote mit seinen wichtigsten und passenden hydrotechnischen Strukturen, Kanälen, Brücken, Schiffsreparatur Fabriken, Marine Crew Kasernen, Kathedrale und Offiziere Wohnungen, unter der Aufsicht des Ministeriums für Maritime Krieg. Im Gegenzug die Libava Seefestung, Festungskanal (derzeit bekannt als Blackupite) und andere Verteidigungsstrukturen, einschließlich des Ministeriums für Krieg in der Mitte und südlich von Liepāja. Wann 1908. Die Festung wurde abgeschafft und die Basis von Karaflot hatte ihren Status als Hauptbasis verloren, beide Teile allmählich zu einem vereinten Umfeld, das heute als Karosta bekannt ist.</p><p>Bis 1994. Im Jahr hatte Karosta eine geschlossene militärische Basis und diente den Bedürfnissen der UdSSR Navy.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/129/870_1715351716_19_05.10.2024._karosta_okupacijas_muzejs_uzaicinājums.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/129/original_1715351716_19_05.10.2024._karosta_okupacijas_muzejs_uzaicinājums.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/129/original_1715351716_19_05.10.2024._karosta_okupacijas_muzejs_uzaicinājums.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

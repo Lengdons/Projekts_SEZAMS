@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/jaunumi-1/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -49,7 +49,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Fotos
@@ -57,7 +57,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -71,18 +71,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Premierminister: Liepaja ist auf dem Weg zur Entwicklung</h2>
+<h2>Premierminister: Liepāja ist auf dem Weg zur Entwicklung</h2>
 <span class="mb-3">05.04.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../ministru-prezidente-liepaja-ir-nostajusies-uz-attistibas-cela/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/ministru-prezidente-liepaja-ir-nostajusies-uz-attistibas-cela/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Liepaja ist auf einen stabilen Entwicklungspfad gekommen, der durch die Unterstützung von Investorenprojekten, die Reduzierung bürokratischer Anforderungen, die Stärkung der wettbewerbsfähigen Ausbildung und die Unterstützung der Nationalen Streitkräfte (NBS) fortgesetzt werden muss, um militärische Häfen in Liepaja Karosta zu entwickeln. Er betont den Premierminister Eviks Siliņa, der am Freitag, 5. Im April besuchte ein regionaler Besuch Liepaja.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../ministru-prezidente-liepaja-ir-nostajusies-uz-attistibas-cela/index.php">Weiterlesen</a>
+<p>Liepāja ist auf einen stabilen Entwicklungspfad gekommen, der durch die Unterstützung von Investorenprojekten, die Reduzierung bürokratischer Anforderungen, die Stärkung der wettbewerbsfähigen Ausbildung und die Unterstützung der Nationalen Streitkräfte (NBS) fortgesetzt werden muss, um militärische Häfen in Liepāja Karosta zu entwickeln. Er betont den Premierminister Eviks Siliņa, der am Freitag, 5. Im April besuchte ein regionaler Besuch Liepāja.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/ministru-prezidente-liepaja-ir-nostajusies-uz-attistibas-cela/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/124/1712343740__R1A4469.webp)">
-<a aria-label="Weiterlesen" href="../ministru-prezidente-liepaja-ir-nostajusies-uz-attistibas-cela/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/ministru-prezidente-liepaja-ir-nostajusies-uz-attistibas-cela/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/124/1712343740__R1A4469.webp"/>
 </a>
 </div>
@@ -91,18 +91,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Liepaja SEZ Authority wird Vollmitglied von WindEurope</h2>
+<h2>Liepāja SEZ Authority wird Vollmitglied von WindEurope</h2>
 <span class="mb-3">21.03.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-parvalde-klust-par-pilntiesigu-windeurope-biedru/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepajas-sez-parvalde-klust-par-pilntiesigu-windeurope-biedru/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Liepaja Special Economic Zone Authority von 20. von 1 bis 22 Teilnahme an der jährlichen Offshore-Windenergiekonferenz und -Messe WindEurope in Bilbao, Spanien, mit besonderem Fokus auf die Arbeitsgruppe WindEurope Häfen. Liepaja hat sich als die führende Offshore-Windunterstützungsbasis im Ostseeraum beworben, was durch das mit Van Ord im Hafen von Liepaja unterzeichnete Reservierungsabkommen mit einer Fläche von 55 ha bestätigt wird. Liepaja SEZ Vorstand 18. Am März wurde die Entscheidung über die Teilnahme an WindEurope getroffen, und derzeit ist Liepaja SEZ-Behörde ein vollwertiges Mitglied, um aktiv mit mehr als 500 europäischen Fachleuten der Windindustrie zusammenzuarbeiten.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-parvalde-klust-par-pilntiesigu-windeurope-biedru/index.php">Weiterlesen</a>
+<p>Liepāja Special Economic Zone Authority von 20. bis 22. Teilnahme an der jährlichen Offshore-Windenergiekonferenz und -Messe WindEurope in Bilbao, Spanien, mit besonderem Fokus auf die Arbeitsgruppe WindEurope Häfen. Liepāja hat sich als die führende Offshore-Windunterstützungsbasis im Ostseeraum beantragt, was durch das mit Van Ord unterzeichnete Gebiet Reservierungsabkommen im Hafen von Liepāja bestätigt wird 55 in einer Fläche von ha. Vorstand der Liepāja SEZ 18. Im März wurde eine Entscheidung über die Teilnahme an WindEurope angenommen, und derzeit ist Liepāja SEZ ein vollwertiges Mitglied, um aktiv mit mehr als 500 Europäische Fachleute für die Windindustrie.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepajas-sez-parvalde-klust-par-pilntiesigu-windeurope-biedru/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/121/1711024521_mission-latvia-5.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-parvalde-klust-par-pilntiesigu-windeurope-biedru/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepajas-sez-parvalde-klust-par-pilntiesigu-windeurope-biedru/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/121/1711024521_mission-latvia-5.webp"/>
 </a>
 </div>
@@ -111,18 +111,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>"Van Oord" unterzeichnet Abkommen mit Liepaja SEZ Authority auf dem Bau von Offshore-Windpark Unterstützung Basis und Massenladung Terminal in Hafen von Liepaja</h2>
+<h2>"Van Oord" unterzeichnet Abkommen mit Liepāja SEZ Authority auf dem Bau von Offshore-Windpark Unterstützung Basis und Massenladung Terminal in Hafen von Liepāja</h2>
 <span class="mb-3">20.03.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../paraksta-ligumu-ar-liepajas-sez-parvaldi-par-atkrastes-veja-parku-atbalsta-bazes-buvniecibu/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/paraksta-ligumu-ar-liepajas-sez-parvaldi-par-atkrastes-veja-parku-atbalsta-bazes-buvniecibu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Um Offshore-Windenergie in der Ostsee zu fördern, ist eines der führenden Unternehmen in der Industrie Van Ord Dredging und Marine Contractors B.V. (Van Oord) plant die Schaffung eines erstklassigen Offshore-Windparks Unterstützung Basis und Schüttgut Terminal im Hafen von Liepaja. Es ist durch die Reservierungsvereinbarung zwischen Van Oord und Liepaja Special Economic Zone (Liepaja SEZ) Verwaltung festgelegt.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../paraksta-ligumu-ar-liepajas-sez-parvaldi-par-atkrastes-veja-parku-atbalsta-bazes-buvniecibu/index.php">Weiterlesen</a>
+<p>Um Offshore-Windenergie in der Ostsee zu fördern, ist eines der führenden Unternehmen in der Industrie Van Ord Dredging und Marine Contractors B.V. (Van Oord) plant die Schaffung eines erstklassigen Offshore-Windparks Unterstützung Basis und Schüttgut Terminal im Hafen von Liepāja. Es ist durch die Reservierungsvereinbarung zwischen Van Oord und Liepāja Special Economic Zone (Liepāja SEZ) Verwaltung festgelegt.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/paraksta-ligumu-ar-liepajas-sez-parvaldi-par-atkrastes-veja-parku-atbalsta-bazes-buvniecibu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/118/1710415632_11_03.14.2024._Van_Oord_atkraste_ligums__.webp)">
-<a aria-label="Weiterlesen" href="../paraksta-ligumu-ar-liepajas-sez-parvaldi-par-atkrastes-veja-parku-atbalsta-bazes-buvniecibu/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/paraksta-ligumu-ar-liepajas-sez-parvaldi-par-atkrastes-veja-parku-atbalsta-bazes-buvniecibu/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/118/1710415632_11_03.14.2024._Van_Oord_atkraste_ligums__.webp"/>
 </a>
 </div>
@@ -131,18 +131,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Beschlüsse des Vorstands der Liepaja SEZ am 18. März</h2>
+<h2>Beschlüsse des Vorstands der Liepāja SEZ am 18. März</h2>
 <span class="mb-3">18.03.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-valdes-18marta-pienemtie-lemumi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepajas-sez-valdes-18marta-pienemtie-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Auflage. im 18. Jahrhundert Am März hielt der Vorstand der Special Economic Zone Liepaja (Liepāja SEZ) seine regelmäßige Sitzung ab, in der er die Gewährung des Status von Liepaja SEZ Commercial Company an die SIA "AE Partner" Ltd., drei Investitionsprojekte von Liepaya SEZ-Unternehmen für einen Gesamtbetrag von 5.41 Mio. EUR, überprüft und unterstützte. In EUR wurden Entscheidungen über Immobilien-Vorauslösungsrechte getroffen und der langfristige Leasingvertrag geklärt. Auch der Vorstand von Liepaja SEZ hat beschlossen, dem Verband WindEurope beizutreten.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-valdes-18marta-pienemtie-lemumi/index.php">Weiterlesen</a>
+<p>18. März 2024 die Vorstandssitzung der Special Economic Zone Liepāja (Liepāja SEZ) fand statt, in der sie die Gewährung des Status von Liepāja SEZ Company an SIA √AE Partner, drei Investitionsprojekte von Liepāja SEZ Unternehmen für den Gesamtbetrag überprüft und unterstützt. 5,41 Mio. In EUR wurden Entscheidungen über Immobilien-Vorauslösungsrechte getroffen und der langfristige Leasingvertrag geklärt. Auch der Vorstand von Liepāja SEZ hat beschlossen, dem Verband WindEurope beizutreten.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepajas-sez-valdes-18marta-pienemtie-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/120/1710940561_12_03.20.2024._valde.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-valdes-18marta-pienemtie-lemumi/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepajas-sez-valdes-18marta-pienemtie-lemumi/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/120/1710940561_12_03.20.2024._valde.webp"/>
 </a>
 </div>
@@ -154,15 +154,15 @@ Vorstandssitzungen
 <h2>Die Saeima billigt Änderungen des Gesetzes über die Anwendung von Steuern in freien Häfen und besonderen Wirtschaftszonen.</h2>
 <span class="mb-3">29.02.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../saeima-apstiprina-grozijumus-likuma-par-nodoklu-piemerosanu-brivostas-un-sez/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/saeima-apstiprina-grozijumus-likuma-par-nodoklu-piemerosanu-brivostas-un-sez/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Auflage. 29. Mai 2004 Im Februar genehmigte die Saeima Änderungen des Gesetzes über die Anwendung von Steuern in freien Häfen und Sonderwirtschaftszonen, das die Weiterentwicklung und Investitionen von Liepaja SEZ-Kapitalgesellschaften fördern wird. Die genehmigten Änderungen treten am Tag nach ihrer Bekanntgabe in Kraft.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../saeima-apstiprina-grozijumus-likuma-par-nodoklu-piemerosanu-brivostas-un-sez/index.php">Weiterlesen</a>
+<p>29. Februar 2024 Die Saeima hat Änderungen des Gesetzes über die Anwendung von Steuern in freien Häfen und besonderen Wirtschaftszonen genehmigt, die weitere Entwicklung und Investitionen der Kapitalgesellschaften von Liepāja SEZ fördern werden. Die genehmigten Änderungen treten am Tag nach ihrer Bekanntgabe in Kraft.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/saeima-apstiprina-grozijumus-likuma-par-nodoklu-piemerosanu-brivostas-un-sez/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/115/1709218160_10_02.29.2024._Yokohama_TWS.webp)">
-<a aria-label="Weiterlesen" href="../saeima-apstiprina-grozijumus-likuma-par-nodoklu-piemerosanu-brivostas-un-sez/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/saeima-apstiprina-grozijumus-likuma-par-nodoklu-piemerosanu-brivostas-un-sez/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/115/1709218160_10_02.29.2024._Yokohama_TWS.webp"/>
 </a>
 </div>
@@ -171,18 +171,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Der Generalsekretär der Baltischen Hafenorganisation Bogdan Oldakovskis besucht Liepaja</h2>
+<h2>Der Generalsekretär der Baltischen Hafenorganisation Bogdan Oldakovskis besucht Liepāja</h2>
 <span class="mb-3">19.02.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepaju-apmekle-baltijas-ostu-organizacijas-generalsekretars-bogdans-oldakovskis/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepaju-apmekle-baltijas-ostu-organizacijas-generalsekretars-bogdans-oldakovskis/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Am 19. Februar wurde Liepaja vom Generalsekretär der Baltischen Hafenorganisation (BPO), Bogdan Ołdakowski, besucht, um sich mit Hafeninfrastruktur, Terminals und Entwicklungsplänen vertraut zu machen. Nach einem Treffen mit Liepaja SEZ Behörde Verwaltungsrat Generalsekretär von BPO besucht den Hafen auch persönlich</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepaju-apmekle-baltijas-ostu-organizacijas-generalsekretars-bogdans-oldakovskis/index.php">Weiterlesen</a>
+<p>Am 19. Februar wurde Liepāja vom Generalsekretär der Baltischen Hafenorganisation (BPO), Bogdan Ołdakowski, besucht, um sich mit Hafeninfrastruktur, Terminals und Entwicklungsplänen vertraut zu machen. Nach einem Treffen mit Liepāja SEZ Behörde Verwaltungsrat Generalsekretär von BPO besucht den Hafen auch persönlich</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepaju-apmekle-baltijas-ostu-organizacijas-generalsekretars-bogdans-oldakovskis/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/109/1708349192__R1A1842.webp)">
-<a aria-label="Weiterlesen" href="../liepaju-apmekle-baltijas-ostu-organizacijas-generalsekretars-bogdans-oldakovskis/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepaju-apmekle-baltijas-ostu-organizacijas-generalsekretars-bogdans-oldakovskis/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/109/1708349192__R1A1842.webp"/>
 </a>
 </div>
@@ -191,7 +191,7 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev" data-block="2" data-page="20" data-per-page="6" data-topic="14" href="../20/index.php">
+<a class="news-list-pagination prev" data-block="2" data-page="20" data-per-page="6" data-topic="14" href="/site/de/jaunumi-1/20/index.php">
 <img alt="Zurück" src="../../../img/round-right.svg"/>
 
 Zurück
@@ -199,7 +199,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="2" data-page="22" data-per-page="6" data-topic="14" href="../22/index.php">
+<a class="news-list-pagination next" data-block="2" data-page="22" data-per-page="6" data-topic="14" href="/site/de/jaunumi-1/22/index.php">
 
 Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 </a>
@@ -244,7 +244,7 @@ Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

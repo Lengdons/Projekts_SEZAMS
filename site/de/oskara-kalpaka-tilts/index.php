@@ -40,7 +40,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../investe-liepaja/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/investe-liepaja/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Investieren in Liepāja
@@ -56,7 +56,7 @@ Hafen
 </a>
 <div class="sidebar-nested ps-md-4">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../par-ostu/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/par-ostu/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Über den Hafen
@@ -64,7 +64,7 @@ Hafen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../pramju-satiksme/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/pramju-satiksme/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Fährverkehr
@@ -72,7 +72,7 @@ Fährverkehr
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../kruiza-kugi/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/kruiza-kugi/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Kreuzfahrtschiffe
@@ -80,7 +80,7 @@ Kreuzfahrtschiffe
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../jahtu-osta/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/jahtu-osta/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Yachthafen
@@ -88,7 +88,7 @@ Yachthafen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/oskara-kalpaka-tilts/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Oskars-Kalpaks-Brücke
@@ -98,7 +98,7 @@ Oskars-Kalpaks-Brücke
 </div>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../kapitalsabiedribas/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/kapitalsabiedribas/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Unternehmen
@@ -106,7 +106,7 @@ Unternehmen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../attistibas-projekti/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/attistibas-projekti/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Entwicklungsprojekte
@@ -114,7 +114,7 @@ Entwicklungsprojekte
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../darbs-liepaja/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/darbs-liepaja/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Stellenangebote in Liepāja
@@ -122,7 +122,7 @@ Stellenangebote in Liepāja
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../teritoriju-karte/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/teritoriju-karte/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Gebietskarte
@@ -169,7 +169,7 @@ Brückengeschichte
 </div>
 <div aria-labelledby="heading4720" class="collapse" data-parent="#accordion" id="collapse4720">
 <div class="card-body">
-<p>Bis Anfang des 20. Jahrhunderts hatte Karosta keine direkte Verbindung zum Rest der Stadt Liepaja, da die Straße durch einen breiten Hafeneingangskanal unterbrochen wurde. Der Verkehr über den Kanal wurde mit einer großen Dampffähre gepflegt. Um Liepaja mit dem damaligen Hafen von Alexander III zu verbinden, wurden 1903 Entwürfe für die Schneidbrücke gestartet, aber 1904 baute ein deutscher Ingenieur Harald Hall die Brücke über den Kanal. Brücke Metallkonstruktionen wurden in Bryansk, Russland, während Schneidmechanismen und ein Elektromotor in Belgien.</p><p> </p><h5>Es wurde am 19. August 1906 eröffnet und ist eine der ältesten Metallkonstruktionen in Lettland, ein Ingenieurdenkmal.</h5><p> </p><p>Im Jahr 1908 hat das Fachzeitschrift √Zeitschrift des Vereinigten deutschen Ingenieure eine Publikation mit dem Titel "Drehbrücke über den großen Hafenkanal in Libau" veröffentlicht, die die einzige authentische Quelle für Brückenbau, Berechnung von Lasten und Schneidmechanismen ist.</p><p>Während 117 Jahren der Existenz überlebte die Brücke zwei Kriege und verschiedene Vermieter, die ihre Operation beeinflussten. 1. Während des Weltkrieges wurde die Brücke gesprengt, aber nach dem Krieg wurde sie restauriert, aber schon 1926 wurde sie durch den Dampfer "Narne" wieder beschädigt. Die Brücke wurde wieder restauriert, aber sie litt auch während des Zweiten Weltkrieges, als die angreifende Armee den Hafen von Liepaja feuerte.</p><p> </p><h5>Die Brücke wiegt 300 Tonnen und besteht aus zwei Teilen (Nord- und Südseiten) bestehend aus zwei identischen Konsolen. Die Breite der Brücke beträgt 7,3 Meter, deren Deck aus Holzbrettern besteht. Die Länge der Küstenkonsole beträgt 27.55 Meter und der Kanal 38,95 Meter. Die Gesamtlänge der Brücke beträgt 133 Meter mit einer Spannweite von 27,55 Metern + 77,9 Metern + 27.55 Metern. Die Höhe der Brücke über dem Wasserstand beträgt 8,32 Meter.</h5><p> </p><p>Der deutsche Ingenieur Harald Halls entwarf die Brücke so, dass sie sicher ist und in einem stärkeren Wind betrieben werden konnte. Jeder Abschnitt der Brücke basiert auf einem Stützpunkt - dem Bett und genau die Ferse, die durch Betongewichte bereitgestellt wird.</p><p>Da die Oskars Kalpaka-Brücke ein Gebäude mit kulturellem und historischem Erbe ist, sollte sie in der gleichen Form erhalten werden wie der Hafen von Liepaja heute bei allen Reparaturen.</p><br/>
+<p>Bis Anfang des 20. Jahrhunderts hatte Karosta keine direkte Verbindung zum Rest der Stadt Liepāja, da die Straße durch einen breiten Hafeneingangskanal unterbrochen wurde. Der Verkehr über den Kanal wurde mit einer großen Dampffähre gepflegt. Um Liepāja mit dem damaligen Hafen von Alexander III zu verbinden, wurden 1903 Entwürfe für die Schneidbrücke gestartet, aber 1904 baute ein deutscher Ingenieur Harald Hall die Brücke über den Kanal. Brücke Metallkonstruktionen wurden in Bryansk, Russland, während Schneidmechanismen und ein Elektromotor in Belgien.</p><p> </p><h5>Es wurde am 19. August 1906 eröffnet und ist eine der ältesten Metallkonstruktionen in Lettland, ein Ingenieurdenkmal.</h5><p> </p><p>Im Jahr 1908 hat das Fachzeitschrift √Zeitschrift des Vereinigten deutschen Ingenieure eine Publikation mit dem Titel "Drehbrücke über den großen Hafenkanal in Libau" veröffentlicht, die die einzige authentische Quelle für Brückenbau, Berechnung von Lasten und Schneidmechanismen ist.</p><p>Während 117 Jahren der Existenz überlebte die Brücke zwei Kriege und verschiedene Vermieter, die ihre Operation beeinflussten. 1. Während des Weltkrieges wurde die Brücke gesprengt, aber nach dem Krieg wurde sie restauriert, aber schon 1926 wurde sie durch den Dampfer "Narne" wieder beschädigt. Die Brücke wurde wieder restauriert, aber sie litt auch während des Zweiten Weltkrieges, als die angreifende Armee den Hafen von Liepāja feuerte.</p><p> </p><h5>Die Brücke wiegt 300 Tonnen und besteht aus zwei Teilen (Nord- und Südseiten) bestehend aus zwei identischen Konsolen. Die Breite der Brücke beträgt 7,3 Meter, deren Deck aus Holzbrettern besteht. Die Länge der Küstenkonsole beträgt 27.55 Meter und der Kanal 38,95 Meter. Die Gesamtlänge der Brücke beträgt 133 Meter mit einer Spannweite von 27,55 Metern + 77,9 Metern + 27.55 Metern. Die Höhe der Brücke über dem Wasserstand beträgt 8,32 Meter.</h5><p> </p><p>Der deutsche Ingenieur Harald Halls entwarf die Brücke so, dass sie sicher ist und in einem stärkeren Wind betrieben werden konnte. Jeder Abschnitt der Brücke basiert auf einem Stützpunkt - dem Bett und genau die Ferse, die durch Betongewichte bereitgestellt wird.</p><p>Da die Oskars Kalpaka-Brücke ein Gebäude mit kulturellem und historischem Erbe ist, sollte sie in der gleichen Form erhalten werden wie der Hafen von Liepāja heute bei allen Reparaturen.</p><br/>
 </div>
 </div>
 </div>
@@ -222,7 +222,7 @@ Brückengeschichte
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/oskara-kalpaka-tilts/index.php"><img alt="Nach oben" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

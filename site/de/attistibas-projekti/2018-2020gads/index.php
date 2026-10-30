@@ -39,18 +39,18 @@ html.classList.add(localStorage['contrast']);
 <div class="container article-full pt-5 my-5">
 <div class="row">
 <div class="col-12 col-md-9 offset-md-3 mt-md-5">
-<span class="date d-block mt-md-5">Veranschlagt sind Mittel zur Deckung der Verpflichtungen, die im Rahmen des Pilotprojekts aus den Vorjahren noch nicht abgewickelt werden. 8. März 2020</span>
+<span class="date d-block mt-md-5">06. März 2020</span>
 <h1 class="article-title">2018 - 2020</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p><strong>Geplante Projektdurchführungszeit:</strong></p><p>2018 16., 1996 15. Februar 2020</p><p><strong>Projektimplementator:</strong></p><p>Verwaltung der Sonderwirtschaftszone Liepāja</p><p><strong>Förderfähige Gesamtkosten des Projekts:</strong></p><p>3 000 000 EUR, davon 2 550 000 EUR aus dem Kohäsionsfonds der EU und 450 000 EUR aus Mitteln der Liepaja SEZ-Behörde</p><p> </p><p>Die Voraussetzungen für eine erfolgreiche Entwicklung des Hafens von Liepaja und seine Vorteile sind günstige geografische Lage. Liepaja ist einer von nur drei nicht fressenden Häfen an der Ostküste der Ostsee, die in den Wintermonaten bei der Wartung von Kurzstrecken- und Linienschiffen besonders wichtig sind.</p><p>Der Hafen von Liepaja wurde ohne natürliche Formationen gebaut - Flussdelta, Bucht, Lagune, die den Hafen vor Wind- und Welleneffekten schützen, daher wird er durch ein komplexes System hydrotechnischer Schutzstrukturen geschützt, wo es drei Tore gibt, die das Aquatorium des Hafens mit dem offenen Meer verbinden. Als Liepaja als militärischer Stützpunkt der Streitkräfte der UdSSR geschlossen war, wurde die Hafeninfrastruktur auf unzureichendem Niveau und Volumen aufrechterhalten, so dass gegenwärtig ein Teil des Hafens hydrotechnische Strukturen in unbefriedigendem oder sogar Notfallzustand ist, sowie von drei Hafentoren für regelmäßige Schiffsbewegungen nur zwei genutzt werden: Verringerung der Sicherheit im Seeverkehr bei Ein- oder Ausfahrt sowie beim Umzug innerhalb des Hafenaquators. Dadurch sind die hydrotechnischen Konstruktionen des Hafens von Liepaja und deren Zustand zu problematischen Punkten geworden, die den effizienten Betrieb der transeuropäischen Verkehrsnetzinfrastruktur einschränken.</p><p>Ziel des Projekts ist es, das Sicherheitsniveau der Kurzstreckenseefahrt zu verbessern und durch die Durchführung von Sanierungs- und Wiederaufbaumaßnahmen für hydrotechnische Strukturen im Hafen von Liepaja Beschränkungen der transeuropäischen Verkehrsnetzinfrastruktur zu verhindern.</p><p> </p><p>Im Rahmen des Projekts werden folgende Aktivitäten durchgeführt:</p><p>Sanierung der hydrotechnischen Schutzstrukturen von Karosta;</p><p>Die Öffnung des nördlichen Tores für Schiffsbewegungen.</p><p> </p><p>Als Ergebnis der Durchführung des Projekts werden hydrotechnische Konstruktionen des Hafens wiederhergestellt oder wieder aufgebaut, einschließlich: Zwei Abfahrten wurden rekonstruiert, was zu einem erneuerten hydrotechnischen Gebäude und der Öffnung des Nordtors für Schiffsbewegungen führte, wodurch die Sicherheit im Seeverkehr erheblich verbessert wird, wodurch potenzielle Verluste für Seeverkehrsteilnehmer verringert werden, einschließlich wetterbedingter Ausfallzeiten, Umweltverschmutzungskosten und Einfuhrländer. wirtschaftliche Verluste im Zusammenhang mit der rechtzeitigen Ankunft von Fracht.</p><p>Projekt 61.10.17/I/004 Die Wiederherstellung hydrotechnischer Strukturen des Karosta-Kanals und Nordtores erfolgt im Rahmen des operationellen Programms "Wachstum und Beschäftigung" von 6.1.1. Spezifische Unterstützung zur Erhöhung des Sicherheitsniveaus großer Häfen und zur Verbesserung der Mobilität des Verkehrsnetzes.</p></div>
+<div class="col"><div class="col-12 output"><p><strong>Geplante Projektdurchführungszeit:</strong></p><p>16. Februar 2018 – 15. August 2020</p><p><strong>Projektimplementator:</strong></p><p>Verwaltung der Sonderwirtschaftszone Liepāja</p><p><strong>Förderfähige Gesamtkosten des Projekts:</strong></p><p>3 000 000 EUR, davon 2 550 000 EUR aus dem Kohäsionsfonds der EU und 450 000 EUR aus Mitteln der Liepāja SEZ-Behörde</p><p> </p><p>Die Voraussetzungen für eine erfolgreiche Entwicklung des Hafens von Liepāja und seine Vorteile sind günstige geografische Lage. Liepāja ist einer von nur drei nicht fressenden Häfen an der Ostküste der Ostsee, die in den Wintermonaten bei der Wartung von Kurzstrecken- und Linienschiffen besonders wichtig sind.</p><p>Der Hafen von Liepāja wurde ohne natürliche Formationen gebaut - Flussdelta, Bucht, Lagune, die den Hafen vor Wind- und Welleneffekten schützen, daher wird er durch ein komplexes System hydrotechnischer Schutzstrukturen geschützt, wo es drei Tore gibt, die das Aquatorium des Hafens mit dem offenen Meer verbinden. Als Liepāja als militärischer Stützpunkt der Streitkräfte der UdSSR geschlossen war, wurde die Hafeninfrastruktur auf unzureichendem Niveau und Volumen aufrechterhalten, so dass gegenwärtig ein Teil des Hafens hydrotechnische Strukturen in unbefriedigendem oder sogar Notfallzustand ist, sowie von drei Hafentoren für regelmäßige Schiffsbewegungen nur zwei genutzt werden: Verringerung der Sicherheit im Seeverkehr bei Ein- oder Ausfahrt sowie beim Umzug innerhalb des Hafenaquators. Dadurch sind die hydrotechnischen Konstruktionen des Hafens von Liepāja und deren Zustand zu problematischen Punkten geworden, die den effizienten Betrieb der transeuropäischen Verkehrsnetzinfrastruktur einschränken.</p><p>Ziel des Projekts ist es, das Sicherheitsniveau der Kurzstreckenseefahrt zu verbessern und durch die Durchführung von Sanierungs- und Wiederaufbaumaßnahmen für hydrotechnische Strukturen im Hafen von Liepāja Beschränkungen der transeuropäischen Verkehrsnetzinfrastruktur zu verhindern.</p><p> </p><p>Im Rahmen des Projekts werden folgende Aktivitäten durchgeführt:</p><p>Sanierung der hydrotechnischen Schutzstrukturen von Karosta;</p><p>Die Öffnung des nördlichen Tores für Schiffsbewegungen.</p><p> </p><p>Als Ergebnis der Durchführung des Projekts werden hydrotechnische Konstruktionen des Hafens wiederhergestellt oder wieder aufgebaut, einschließlich: Zwei Abfahrten wurden rekonstruiert, was zu einem erneuerten hydrotechnischen Gebäude und der Öffnung des Nordtors für Schiffsbewegungen führte, wodurch die Sicherheit im Seeverkehr erheblich verbessert wird, wodurch potenzielle Verluste für Seeverkehrsteilnehmer verringert werden, einschließlich wetterbedingter Ausfallzeiten, Umweltverschmutzungskosten und Einfuhrländer. wirtschaftliche Verluste im Zusammenhang mit der rechtzeitigen Ankunft von Fracht.</p><p>Projekt Nr.6.1.1.0/17/I/004 Die Wiederherstellung der hydrotechnischen Strukturen des Karosta-Kanals und Nordtores wird im Rahmen des operationellen Programms "Wachstum und Beschäftigung" durchgeführt. 6.1.1Spezifische Unterstützung zur Erhöhung der Sicherheit großer Häfen und zur Verbesserung der Mobilität des Verkehrsnetzes.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="../../../img/mod/news/91/870_" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="../../../img/mod/news/91/original_/index.php">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="../../../img/mod/news/91/original_/index.php">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -71,11 +71,11 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">25.08.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Das gemeinsame Digitalisierungsprojekt der lettischen Häfen wurde abgeschlossen, eine einzige digitale Plattform für effizientere Hafenoperationen wurde eingerichtet.</h4>
-<a class="d-none d-md-block my-4" href="../nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
+<a class="d-none d-md-block my-4" href="/site/de/attistibas-projekti/nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">Das gemeinsame Digitalisierungsprojekt der größten Häfen Lettlands hat abgeschlossen, bei dem für die Häfen Riga, Ventspils und Liepaja eine einzige digitale Plattform für den Hafenbetrieb und den Kundenservice eingerichtet wurde. Das Projekt hat zu gemeinsamen digitalen Lösungen geführt, die die Zusammenarbeit zwischen Häfen und ihren Kunden verbessern, den Informationsaustausch beschleunigen, die manuelle Datenverarbeitung verringern und eine gemeinsame technologische Basis für die Weiterentwicklung der lettischen Häfen schaffen.</div>
+<div class="col-12 col-md-8 col-lg-9">Das gemeinsame Digitalisierungsprojekt der größten Häfen Lettlands hat abgeschlossen, bei dem für die Häfen Riga, Ventspils und Liepāja eine einzige digitale Plattform für den Hafenbetrieb und den Kundenservice eingerichtet wurde. Das Projekt hat zu gemeinsamen digitalen Lösungen geführt, die die Zusammenarbeit zwischen Häfen und ihren Kunden verbessern, den Informationsaustausch beschleunigen, die manuelle Datenverarbeitung verringern und eine gemeinsame technologische Basis für die Weiterentwicklung der lettischen Häfen schaffen.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/attistibas-projekti/nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -86,11 +86,11 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">03.03.2025.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Digitale Transformation des Hafenmanagements durch verbesserte Transport- und Logistikdatenverarbeitung und -analyse</h4>
-<a class="d-none d-md-block my-4" href="../ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
+<a class="d-none d-md-block my-4" href="/site/de/attistibas-projekti/ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Ziel des Projekts ist es, die digitale Transformation des lettischen Hafenmanagements durch Verbesserung der Datenverarbeitung und -analyse im Transport- und Logistikbereich zu fördern und eine integrierte, gemeinsame und anpassungsfähige Plattform umzusetzen.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/attistibas-projekti/ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -100,7 +100,7 @@ html.classList.add(localStorage['contrast']);
 <div class="prev">
 </div>
 <div class="next">
-<a aria-label="Weiter" class="next related-pagination" data-page="2" href="index.php">
+<a aria-label="Weiter" class="next related-pagination" data-page="2" href="/site/de/attistibas-projekti/2018-2020gads/index.php">
 
 Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 </a>
@@ -132,7 +132,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/attistibas-projekti/2018-2020gads/index.php"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

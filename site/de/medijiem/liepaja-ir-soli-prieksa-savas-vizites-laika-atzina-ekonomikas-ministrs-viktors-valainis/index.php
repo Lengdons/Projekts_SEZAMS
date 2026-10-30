@@ -51,14 +51,14 @@ html.classList.add(localStorage['contrast']);
 <h1 class="article-title">Ein Schritt vor den Aussätzigen, Viktors Valaninis, Minister für Wirtschaft bei seinem Besuch zugelassen</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Heute, 17. Am Mai wurde ein Tag Arbeitsbesuch in Liepaja vom Wirtschaftsminister Viktors Valaninis besucht. Entwicklung des Energiesektors, der verarbeitenden Industrie, gut bezahlte, qualifizierte Arbeitsplätze, Investitionen in Frachttransport und Exportentwicklung, Wohnen und eine Reihe wichtiger wirtschaftlicher Entwicklungsthemen wurden mit Liepaja City und Liepaja Special Economic Zone Management diskutiert.</p><p>"Liepaja ist ein Schritt nach vorn und ist entschlossen, die wirtschaftlichen Entwicklungsziele des Landes zu erreichen, indem es innerhalb von 10 Jahren die Wirtschaft verdoppelt, einen neuen Ansatz für den Energiesektor schafft, Offshore-Windparks und Wasserstoffproduktion entwickelt, Produktivität und eine hohe Wertschöpfung fördert." Minister Viktors Valaninis.</p><p>Während seines Arbeitsaufenthalts in Liepaja lernte der Wirtschaftsminister Industrieunternehmen, Industrieparks, Wasserexportterminal und Entwicklungsprojekte im Bereich Energie kennen. Der Minister betonte, dass Energiesektorprojekte eine schnellere wirtschaftliche Entwicklung des Landes gewährleisten könnten, basierend auf modernen Technologien und Liepaja hat eine klare Vision, wie sowohl Offshore-Windenergiebasis zu entwickeln als auch Schritt für Schritt, um Wasserstoff und wasserstoffbetriebene Flugzeuge herzustellen.</p><p>Der Wirtschaftsminister begrüßte auch das Management von Liepaja SEZ, das Investitionsattraktion, den Bau neuer Fabriken und die Schaffung neuer qualifizierter Arbeitsplätze gefördert hat. Heute, wenn wir über die Reform des Hafen-und Transitgeschäfts Management diskutieren, sehen wir, dass Liepaja Modell funktioniert. Entrepreneurs sitzen mit der lokalen Regierung und dem Staat an einem Tisch und planen, wie man ein Wirtschaftsgebiet besser entwickelt, wie man Investitionen anzieht. Andere Häfen könnten auch ein solches Managementmodell verfolgen. Ich freue mich, heute in Liepaja über die Ambitionen der Unternehmer, das Produktionsvolumen zu verdoppeln, etwa viele Dutzend Millionen von Entwicklungsprojekten, die initiiert wurden, zu sehen. Wir werden alles tun, um Unternehmer zu unterstützen.</p></div>
+<div class="col"><div class="col-12 output"><p>Heute, 17. Am Mai wurde ein Tag Arbeitsbesuch in Liepāja vom Wirtschaftsminister Viktors Valaninis besucht. Entwicklung des Energiesektors, der verarbeitenden Industrie, gut bezahlte, qualifizierte Arbeitsplätze, Investitionen in Frachttransport und Exportentwicklung, Wohnen und eine Reihe wichtiger wirtschaftlicher Entwicklungsthemen wurden mit Liepāja City und Liepāja Special Economic Zone Management diskutiert.</p><p>"Liepāja ist ein Schritt nach vorn und ist entschlossen, die wirtschaftlichen Entwicklungsziele des Landes zu erreichen, indem es innerhalb von 10 Jahren die Wirtschaft verdoppelt, einen neuen Ansatz für den Energiesektor schafft, Offshore-Windparks und Wasserstoffproduktion entwickelt, Produktivität und eine hohe Wertschöpfung fördert." Minister Viktors Valaninis.</p><p>Während seines Arbeitsaufenthalts in Liepāja lernte der Wirtschaftsminister Industrieunternehmen, Industrieparks, Wasserexportterminal und Entwicklungsprojekte im Bereich Energie kennen. Der Minister betonte, dass Energiesektorprojekte eine schnellere wirtschaftliche Entwicklung des Landes gewährleisten könnten, basierend auf modernen Technologien und Liepāja hat eine klare Vision, wie sowohl Offshore-Windenergiebasis zu entwickeln als auch Schritt für Schritt, um Wasserstoff und wasserstoffbetriebene Flugzeuge herzustellen.</p><p>Der Wirtschaftsminister begrüßte auch das Management von Liepāja SEZ, das Investitionsattraktion, den Bau neuer Fabriken und die Schaffung neuer qualifizierter Arbeitsplätze gefördert hat. Heute, wenn wir über die Reform des Hafen-und Transitgeschäfts Management diskutieren, sehen wir, dass Liepāja Modell funktioniert. Entrepreneurs sitzen mit der lokalen Regierung und dem Staat an einem Tisch und planen, wie man ein Wirtschaftsgebiet besser entwickelt, wie man Investitionen anzieht. Andere Häfen könnten auch ein solches Managementmodell verfolgen. Ich freue mich, heute in Liepāja über die Ambitionen der Unternehmer, das Produktionsvolumen zu verdoppeln, etwa viele Dutzend Millionen von Entwicklungsprojekten, die initiiert wurden, zu sehen. Wir werden alles tun, um Unternehmer zu unterstützen.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/132/870_1715970776__R1A7206.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/132/original_1715970776__R1A7206.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/132/original_1715970776__R1A7206.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

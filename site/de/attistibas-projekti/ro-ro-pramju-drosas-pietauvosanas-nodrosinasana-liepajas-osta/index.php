@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="https://liepaja-sez.lv//img/mod/news/195/1734610548_es-logo.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/attistibas-projekti/ro-ro-pramju-drosas-pietauvosanas-nodrosinasana-liepajas-osta" property="og:url"/>
-<meta content="Sicheres Anlegen von Ro-Ro-Fähren im Hafen von Liepaja" property="og:title"/>
+<meta content="Sicheres Anlegen von Ro-Ro-Fähren im Hafen von Liepāja" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Sicheres Anlegen von Ro-Ro Fähren im Hafen von Liepaja</title>
+<title>Sicheres Anlegen von Ro-Ro Fähren im Hafen von Liepāja</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="../../../css/main__40614cace7.css" rel="stylesheet"/>
@@ -49,17 +49,17 @@ html.classList.add(localStorage['contrast']);
 </div>
 <div class="col-12 col-md-9 mt-md-5">
 <span class="date d-block mt-md-5">19. Dezember 2024</span>
-<h1 class="article-title">Sicheres Anlegen von Ro-Ro-Fähren im Hafen von Liepaja</h1>
+<h1 class="article-title">Sicheres Anlegen von Ro-Ro-Fähren im Hafen von Liepāja</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Die Bereitstellung regelmäßiger und kontinuierlicher Fährdienste hängt direkt von dem technischen Zustand der Hafeninfrastruktur ab, die für den Betrieb genutzt wird. Hafen von Liepaja No. 46 wurden in der Zeit von 1972 gebaut. bis 1975. den Parkplatz und die Wartung von Schiffen und U-Booten in der sowjetischen Marine zu gewährleisten. Unter modernen Bedingungen unterliegen Liegeplätze, die zum Betrieb regelmäßiger Fährdienste genutzt werden, einer erhöhten Belastung durch Anlege- und Anlegeschiffe vom Kai mit leistungsstarken Schiffsmotoren, d.h. Last über den Lasten eines Kais, der 1970 von Schiffen erzeugt wurde. Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. Jahre.</p><p>Ziel des Projekts ist es, eine sichere Anlegemöglichkeit von RO-RO-Fähren im Hafen von Liepaja zu gewährleisten und dadurch die Kapazität der TEN-T-Infrastruktur zu stärken sowie den Zugang zu internen und externen Märkten durch verbesserte Seeverkehrsverbindungen zu verbessern.</p><p>Die Umsetzung des Projekts umfasst die Installation zusätzlicher Anlegepfähle, den Wiederaufbau von Kaistrukturen und die Erhöhung der Wassertiefe von 10.5 auf 12.0 m und wird eine sichere Wartung der RO-RO/ RO-PAX Fähre mit einer maximalen Länge bis zu 240,0 Metern und einem Tiefgang von bis zu 11.0 Metern ermöglichen. </p><p>Die Gesamtkosten für die Durchführung des Projekts belaufen sich auf 23 090 050 EUR. </p><p>Das Projekt gewährleistet eine sichere Anlegemöglichkeit von Ro-Ro-Fähren im Hafen von Liepaja (Projekt Akronym 22-LV-TG-LPXRORO) wird zum Teil im Rahmen des CEF2027 Programms finanziert (Theic ID - CEF-T-2022-COMPGEN-MARP-WORKS , Projekt Nr. 101122785). Die Fazilität "Connecting Europe" deckt 30% der förderfähigen Projektkosten von 6 927 015 EUR ab.</p></div>
+<div class="col"><div class="col-12 output"><p>Die Bereitstellung regelmäßiger und kontinuierlicher Fährdienste hängt direkt von dem technischen Zustand der Hafeninfrastruktur ab, die für den Betrieb genutzt wird. Hafen von Liepāja No. 46 wird während des Zeitraums von 1972. bis 1975. den Parkplatz und die Wartung von Schiffen und U-Booten in der sowjetischen Marine zu gewährleisten. Unter modernen Bedingungen unterliegen Liegeplätze, die zum Betrieb regelmäßiger Fährdienste genutzt werden, einer erhöhten Belastung durch Anlege- und Anlegeschiffe vom Kai mit leistungsstarken Schiffsmotoren, d.h. Ladung, die die Lasten eines Kais überschreitet, das von Schiffen erzeugt wird 1970. und 1980. Jahre.</p><p>Ziel des Projekts ist es, eine sichere Anlegemöglichkeit von RO-RO-Fähren im Hafen von Liepāja zu gewährleisten und dadurch die Kapazität der TEN-T-Infrastruktur zu stärken sowie den Zugang zu internen und externen Märkten durch verbesserte Seeverkehrsverbindungen zu verbessern.</p><p>Die Umsetzung des Projekts umfasst die Installation zusätzlicher Anlegepfähle, den Wiederaufbau von Kaistrukturen und die Erhöhung der Wassertiefe von 10.5 auf 12.0 m und wird eine sichere Wartung der RO-RO/ RO-PAX Fähre mit einer maximalen Länge bis zu 240,0 Metern und einem Tiefgang von bis zu 11.0 Metern ermöglichen. </p><p>Die Gesamtkosten für die Durchführung des Projekts belaufen sich auf 23 090 050 EUR. </p><p>Das Projekt gewährleistet eine sichere Anlegemöglichkeit von Ro-Ro-Fähren im Hafen von Liepāja (Projekt Akronym 22-LV-TG-LPXRORO) wird zum Teil im Rahmen des CEF2027 Programms finanziert (Theic ID - CEF-T-2022-COMPGEN-MARP-WORKS , Projekt Nr. 101122785). Die Fazilität "Connecting Europe" deckt 30% der förderfähigen Projektkosten von 6 927 015 EUR ab.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="../../../img/mod/news/195/870_1760339858_870-eu.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="../../../img/mod/news/195/original_1760339858_870-eu.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="../../../img/mod/news/195/original_1760339858_870-eu.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -80,11 +80,11 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">25.08.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Das gemeinsame Digitalisierungsprojekt der lettischen Häfen wurde abgeschlossen, eine einzige digitale Plattform für effizientere Hafenoperationen wurde eingerichtet.</h4>
-<a class="d-none d-md-block my-4" href="../nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
+<a class="d-none d-md-block my-4" href="/site/de/attistibas-projekti/nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">Das gemeinsame Digitalisierungsprojekt der größten Häfen Lettlands hat abgeschlossen, bei dem für die Häfen Riga, Ventspils und Liepaja eine einzige digitale Plattform für den Hafenbetrieb und den Kundenservice eingerichtet wurde. Das Projekt hat zu gemeinsamen digitalen Lösungen geführt, die die Zusammenarbeit zwischen Häfen und ihren Kunden verbessern, den Informationsaustausch beschleunigen, die manuelle Datenverarbeitung verringern und eine gemeinsame technologische Basis für die Weiterentwicklung der lettischen Häfen schaffen.</div>
+<div class="col-12 col-md-8 col-lg-9">Das gemeinsame Digitalisierungsprojekt der größten Häfen Lettlands hat abgeschlossen, bei dem für die Häfen Riga, Ventspils und Liepāja eine einzige digitale Plattform für den Hafenbetrieb und den Kundenservice eingerichtet wurde. Das Projekt hat zu gemeinsamen digitalen Lösungen geführt, die die Zusammenarbeit zwischen Häfen und ihren Kunden verbessern, den Informationsaustausch beschleunigen, die manuelle Datenverarbeitung verringern und eine gemeinsame technologische Basis für die Weiterentwicklung der lettischen Häfen schaffen.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/attistibas-projekti/nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -95,11 +95,11 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">03.03.2025.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Digitale Transformation des Hafenmanagements durch verbesserte Transport- und Logistikdatenverarbeitung und -analyse</h4>
-<a class="d-none d-md-block my-4" href="../ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
+<a class="d-none d-md-block my-4" href="/site/de/attistibas-projekti/ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Ziel des Projekts ist es, die digitale Transformation des lettischen Hafenmanagements durch Verbesserung der Datenverarbeitung und -analyse im Transport- und Logistikbereich zu fördern und eine integrierte, gemeinsame und anpassungsfähige Plattform umzusetzen.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/attistibas-projekti/ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -109,7 +109,7 @@ html.classList.add(localStorage['contrast']);
 <div class="prev">
 </div>
 <div class="next">
-<a aria-label="Weiter" class="next related-pagination" data-page="2" href="index.php">
+<a aria-label="Weiter" class="next related-pagination" data-page="2" href="/site/de/attistibas-projekti/ro-ro-pramju-drosas-pietauvosanas-nodrosinasana-liepajas-osta/index.php">
 
 Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 </a>
@@ -141,7 +141,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/attistibas-projekti/ro-ro-pramju-drosas-pietauvosanas-nodrosinasana-liepajas-osta/index.php"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

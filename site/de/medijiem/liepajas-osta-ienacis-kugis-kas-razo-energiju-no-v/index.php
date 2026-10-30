@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="https://liepaja-sez.lv//img/mod/news/226/1751015556__R1A6685.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/medijiem/liepajas-osta-ienacis-kugis-kas-razo-energiju-no-v" property="og:url"/>
-<meta content="Ein Schiff, das Energie mit Windkraftanlagen produziert hat in den Hafen von Liepaja" property="og:title"/>
+<meta content="Ein Schiff, das Energie mit Windkraftanlagen produziert hat in den Hafen von Liepāja" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Ein Schiff, das Energie mit Windkraftanlagen produziert, ist in den Hafen von Liepaja eingedrungen.</title>
+<title>Ein Schiff, das Energie mit Windkraftanlagen produziert, ist in den Hafen von Liepāja eingedrungen.</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
@@ -38,18 +38,18 @@ html.classList.add(localStorage['contrast']);
 <div class="container article-full pt-5 my-5">
 <div class="row">
 <div class="col-12 col-md-9 offset-md-3 mt-md-5">
-<span class="date d-block mt-md-5">25. 8. Juni 2025</span>
-<h1 class="article-title">Ein Schiff, das Energie mit Windkraftanlagen produziert hat in den Hafen von Liepaja</h1>
+<span class="date d-block mt-md-5">25. Juni 2025</span>
+<h1 class="article-title">Ein Schiff, das Energie mit Windkraftanlagen produziert hat in den Hafen von Liepāja</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>25. Im Juni kam ein besonderes Schiff in den Hafen von Liepaja. Ein Teil der für seine Bewegung benötigten Energie kommt aus Windenergie. Vertikale Masten an der Vorderseite des Schiffes sind Windkraftanlagen, die helfen, CO2 von Motoren zu reduzieren und Kraftstoff zu sparen.</p><p>Die Länge von 88 Metern "Walvliet" wurde erst im September gebaut. Mechanische Anlagen für Windenergie basieren auf Luftfahrttechnologien, die sich in den schwierigsten marinen Bedingungen als langlebig erweisen.</p><p>Unter der Flagge der Niederlande brachte Waallvliet Sojafracht nach Liepaja, bevor er den Hafen in Rotterdam verließ.</p><p>Weitere Informationen zu dieser Technologie finden Sie hier: <a href="https://econowind.nl/how-does-it-work/?fbclid=IwY2xjawLLQL1leHRuA2FlbQIxMABicmlkETBEVmlnSnluZFlORTVheTFKAR69-J9WJ4BHPPwgMc_zKUqB_3cgTx6ox4oqV9aGoEo6XQm2zb1gn2nOajX7uw_aem__bAzyw7Oi0lV7yPlXIVF3g">Durchführungsverordnung (EU) Nr. 540/2011 der Kommission vom 25. Mai 2011 zur Durchführung der Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates hinsichtlich der Liste zugelassener Wirkstoffe (ABl.</a></p></div>
+<div class="col"><div class="col-12 output"><p>25. Im Juni kam ein besonderes Schiff in den Hafen von Liepāja. Ein Teil der für seine Bewegung benötigten Energie kommt aus Windenergie. Vertikale Masten an der Vorderseite des Schiffes sind Windkraftanlagen, die helfen, von Motoren zu reduzieren und Kraftstoff zu sparen.</p><p>Die Länge von 88 Metern "Walvliet" wurde erst im September gebaut. Mechanische Anlagen für Windenergie basieren auf Luftfahrttechnologien, die sich in den schwierigsten marinen Bedingungen als langlebig erweisen.</p><p>Unter der Flagge der Niederlande brachte Waallvliet Sojafracht nach Liepāja, bevor er den Hafen in Rotterdam verließ.</p><p>Weitere Informationen zu dieser Technologie finden Sie hier: <a href="https://econowind.nl/how-does-it-work/?fbclid=IwY2xjawLLQL1leHRuA2FlbQIxMABicmlkETBEVmlnSnluZFlORTVheTFKAR69-J9WJ4BHPPwgMc_zKUqB_3cgTx6ox4oqV9aGoEo6XQm2zb1gn2nOajX7uw_aem__bAzyw7Oi0lV7yPlXIVF3g">http://ecumwind.nl/how-does-it-work/?fbclid=IwY2xjawLLQL1leHRuA2FlbQIxMABicmlkETBEVmlnSnluZFlORTVheTFKAR69-J9WJ4BHPPwgMc_zKUqB_3cgTx6ox4oqV9aGoEo6XQm2zb1gn2nOajX7Uw_aem____bAzyw7Oi0lV7yPlXIVF3g</a></p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/226/870_1751015556__R1A6685.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/226/original_1751015556__R1A6685.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/226/original_1751015556__R1A6685.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -69,12 +69,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -84,12 +84,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -131,7 +131,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

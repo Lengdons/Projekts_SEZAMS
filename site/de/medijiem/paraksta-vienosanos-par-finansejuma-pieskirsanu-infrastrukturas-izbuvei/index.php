@@ -47,18 +47,18 @@ html.classList.add(localStorage['contrast']);
 <span>E-Mail: <a href="mailto:liga.ratniece-kadege@lsez.lv" target="_blank">liga.ratniece-kadege@lsez.lv</a></span>
 </div>
 <div class="col-12 col-md-9 mt-md-5">
-<span class="date d-block mt-md-5">11. 8. Januar 2024</span>
+<span class="date d-block mt-md-5">11. Januar 2024</span>
 <h1 class="article-title">Unterzeichnung einer Vereinbarung über die Finanzierung des Infrastrukturbaus im Industriepark Liepājas</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Die Fortsetzung der Transformation der ehemaligen Fabrik begann 2018, Liepaja Metalurgs in einen modernen grünen Industriepark und zieht öffentliche Mittel an, ist eine logische Folgemaßnahme zu dem, was getan wurde. Uldis Hmielevskis, Liepaja SEZ Manager, verheimlichte nicht die Zufriedenheit, dass es erlauben würde, den Bau der notwendigen Infrastruktur für das Geschäft auf dem Gebiet der ehemaligen Fabrik Liepaja Metalurgs zu beginnen. Die Förderung des Infrastrukturbaus ist ein sehr wichtiger Schritt, um mit der Schaffung des Industrieparks Liepaja zu beginnen und in den nächsten Jahren teilweise das Gebiet an Bewohner, Investoren zurückzugeben und ein nachhaltiges und modernes Geschäftsumfeld zu schaffen, das neue, gut bezahlte Arbeitsplätze schafft. Wir sehen den Industriepark Liepaja als einen modernen, grünen Industriepark mit Unternehmen, die nachhaltige Aktivitäten sicherstellen können.</p><p>Die geplanten Bauarbeiten der Infrastrukturentwicklung des Industrieparks Liepaja 1. Stufe müssen bis zum 31. Dezember 2025 abgeschlossen sein. Das Gebiet des Industrieparks Liepaja soll zu einem modernen Geschäftsumfeld ausgebaut werden, dessen Aktivitäten sich auf die Anziehungskraft technologisch fortgeschrittener innovativer Unternehmen konzentrieren werden, die die Entwicklung von Produkten mit hohem Mehrwert fördern und den europäischen Grünkursvoraussetzungen für eine umweltfreundliche Kreislaufwirtschaft entsprechen. Entwicklung einer prinzipienfördernden Industrialisierung.</p><p>Bei der Umsetzung des Gesamtplans des Industrieparks Liepaja ist geplant, mehr als 275 Millionen private Investitionen gemäß der genehmigten Strategie zu gewinnen. EUR und schaffen mindestens 1 500 Arbeitsplätze.</p><p>Liepaja Industrial Park wird von der Liepaja SEZ Authority und der ehemaligen Fabrik von Liepaja City, auf dem Gebiet zwischen Brivibas Street, Meldru Street, Esermalas Street, Parka Street und Zemnieku Street, Liepāja entwickelt. Es grenzt an den Liepaja-See, der ein besonders geschütztes Naturgebiet NATURA 2000 ist.</p><p> </p><p><strong>Bezug:</strong></p><p>- 2018. Im Jahr 2007 zwischen dem Ministerium für Wirtschaft, der Investitions- und Entwicklungsbehörde Lettlands, SIA FeLM, Liepaja City Council und Liepaja Special Economic Zone Authority ein Memorandum über die Absicht zur Entwicklung des Territoriums der ehemaligen Fabrik Liepaja Metalurgs abgeschlossen.</p><p>• 2021 Das Gebiet Entwicklungsprogramm der ehemaligen Fabrik Liepaja metallurgs und ein Inter-Resort-Abkommen mit dem Stadtrat von Liepaja über seine Umsetzung wurde 2006 genehmigt.</p><p>2022. Die lokale Planung des Gebiets der ehemaligen Fabrik in Liepaja wurde 2006 genehmigt.</p><p>2022. 2006 wurde ein Rehabilitationsprogramm auf dem Gebiet der ehemaligen Fabrik in Liepaja entwickelt.</p><p>2023. Eine Strategie für die Entwicklung des Industrieparks Liepāja (LIP) im Jahr 2023 wurde genehmigt. -2028.</p><p>2023. Im Laufe des Jahres wurden mehrere Bauvorhaben zur Durchführung von Infrastrukturmaßnahmen auf dem Gebiet entwickelt.</p><p>2023. Die ersten Straßenbauarbeiten auf dem Gebiet der LIP wurden 2007 vorbereitet und vorgelegt, und es wurde eine Stellungnahme über die Gewährung von Fördermitteln für diese Arbeiten erhalten.</p><p>2023. Der Mietvertrag mit SIA Liepajas Steela wurde im Jahr 2025 abgeschlossen. 31. Dezember 2007 Dezember über die Demontage und Entfernung des elektrischen Stahlschmelzofens.</p></div>
+<div class="col"><div class="col-12 output"><p>Die Fortsetzung der Transformation der ehemaligen Fabrik begann 2018, Liepāja Metalurgs in einen modernen grünen Industriepark und zieht öffentliche Mittel an, ist eine logische Folgemaßnahme zu dem, was getan wurde. Uldis Hmielevskis, Liepāja SEZ Manager, verheimlichte nicht die Zufriedenheit, dass es erlauben würde, den Bau der notwendigen Infrastruktur für das Geschäft auf dem Gebiet der ehemaligen Fabrik Liepāja Metalurgs zu beginnen. Die Förderung des Infrastrukturbaus ist ein sehr wichtiger Schritt, um mit der Schaffung des Industrieparks Liepāja zu beginnen und in den nächsten Jahren teilweise das Gebiet an Bewohner, Investoren zurückzugeben und ein nachhaltiges und modernes Geschäftsumfeld zu schaffen, das neue, gut bezahlte Arbeitsplätze schafft. Wir sehen den Industriepark Liepāja als einen modernen, grünen Industriepark mit Unternehmen, die nachhaltige Aktivitäten sicherstellen können.</p><p>Die geplanten Bauarbeiten der Infrastrukturentwicklung des Industrieparks Liepāja 1. Stufe müssen bis zum 31. Dezember 2025 abgeschlossen sein. Das Gebiet des Industrieparks Liepāja soll zu einem modernen Geschäftsumfeld ausgebaut werden, dessen Aktivitäten sich auf die Anziehungskraft technologisch fortgeschrittener innovativer Unternehmen konzentrieren werden, die die Entwicklung von Produkten mit hohem Mehrwert fördern und den europäischen Grünkursvoraussetzungen für eine umweltfreundliche Kreislaufwirtschaft entsprechen. Entwicklung einer prinzipienfördernden Industrialisierung.</p><p>Bei der Umsetzung des Gesamtplans für den Industriepark Liepāja ist es gemäß der genehmigten Strategie geplant, mehr private Investitionen anzulocken als 275 Mio. In EUR und um zumindest zu beginnen 1500 Arbeitsplätze.</p><p>Liepāja Industrial Park wird von der Liepāja SEZ Authority und der ehemaligen Fabrik von Liepāja City, auf dem Gebiet zwischen Brivibas Street, Meldru Street, Esermalas Street, Parka Street und Zemnieku Street, Liepāja entwickelt. Es grenzt an den Liepāja-See, der ein besonders geschütztes Naturgebiet NATURA 2000 ist.</p><p> </p><p><strong>Zur Information:</strong></p><p>• 2018. Im Jahr zwischen dem Ministerium für Wirtschaft, der Investitions- und Entwicklungsbehörde Lettlands, SIA FeLM, Liepāja City Council und Liepāja Special Economic Zone Authority ein Memorandum über die Absicht zur Entwicklung des Territoriums der ehemaligen Fabrik Liepāja Metalurgs abgeschlossen.</p><p>• 2021. Das Gebiet Entwicklungsprogramm der ehemaligen Fabrik Liepāja metallurgs und ein Inter-Resort-Abkommen mit dem Stadtrat von Liepāja über seine Umsetzung wurde genehmigt.</p><p>• 2022. Die lokale Planung des Gebiets der ehemaligen Fabrik in Liepāja wurde genehmigt.</p><p>• 2022. wurde ein Rehabilitationsprogramm auf dem Gebiet der ehemaligen Fabrik in Liepāja entwickelt.</p><p>2023. Eine Strategie für die Entwicklung des Industrieparks Liepāja (LIP) im Jahr 2023 wurde genehmigt. -2028.</p><p>2023. Im Laufe des Jahres wurden mehrere Bauvorhaben zur Durchführung von Infrastrukturmaßnahmen auf dem Gebiet entwickelt.</p><p>• 2023. Die ersten Straßenbauarbeiten auf dem Gebiet der LIP wurden vorbereitet und vorgelegt, und es wurde eine Stellungnahme über die Gewährung von Fördermitteln für diese Arbeiten erhalten.</p><p>• 2023. Im Jahr geschlossen Mietvertrag mit SIA "Liepājas Steela" 31. Dezember 2025 bei der Demontage und Entfernung des elektrischen Stahlschmelzofens.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/73/870_1704958761_lm.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/73/original_1704958761_lm.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/73/original_1704958761_lm.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

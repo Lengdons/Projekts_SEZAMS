@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/jaunumi-1/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -49,7 +49,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Fotos
@@ -57,7 +57,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -71,18 +71,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Hafen von Liepaja Terminals beginnen Korn zu erhalten</h2>
+<h2>Hafen von Liepāja Terminals beginnen Korn zu erhalten</h2>
 <span class="mb-3">23.07.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-ostas-terminali-uzsak-graudu-pienemsanu/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepajas-ostas-terminali-uzsak-graudu-pienemsanu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>22. Am Juli nahm die LSEZ Ltd. - Dan Storea Termināls das erste Weizenkorn an, das in Lettland angebaut und angebaut wurde. Das ist der Beweis, dass die neue Getreidesaison begonnen hat. Insgesamt sind im Hafen von Liepaja fünf Trockengutterminals mit einer Gesamtspeicherkapazität von ~ 400mila m3 aktiv.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-ostas-terminali-uzsak-graudu-pienemsanu/index.php">Weiterlesen</a>
+<p>22. Am Juli nahm die LSEZ Ltd. - Dan Storea Termināls das erste Weizenkorn an, das in Lettland angebaut und angebaut wurde. Das ist der Beweis, dass die neue Getreidesaison begonnen hat. Insgesamt sind im Hafen von Liepāja fünf Trockengutterminals mit einer Gesamtspeicherkapazität von ~ 400mila m3 aktiv.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepajas-ostas-terminali-uzsak-graudu-pienemsanu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/147/1721712612__R1A3386.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-ostas-terminali-uzsak-graudu-pienemsanu/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepajas-ostas-terminali-uzsak-graudu-pienemsanu/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/147/1721712612__R1A3386.webp"/>
 </a>
 </div>
@@ -91,18 +91,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Zwei Hafenstädte von Liepaja und Lübeck unterzeichneten ein Memorandum der Zusammenarbeit</h2>
+<h2>Zwei Hafenstädte von Liepāja und Lübeck unterzeichneten ein Memorandum der Zusammenarbeit</h2>
 <span class="mb-3">11.07.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../divas-ostas-pilsetas-liepaja-un-libeka-paraksta-sadarbibas-memorandu/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/divas-ostas-pilsetas-liepaja-un-libeka-paraksta-sadarbibas-memorandu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>11. Am Juli unterzeichneten Liepaja und Lübeck ein vierseitiges Memorandum der Zusammenarbeit im Rahmen der deutschen lettischen Hafentage. Das Memorandum wurde von Liepaja und den Managern der Gemeinden Lübeck und Liepaja SEZ unterzeichnet.  </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../divas-ostas-pilsetas-liepaja-un-libeka-paraksta-sadarbibas-memorandu/index.php">Weiterlesen</a>
+<p>11. Am Juli unterzeichneten Liepāja und Lübeck ein vierseitiges Memorandum der Zusammenarbeit im Rahmen der deutschen lettischen Hafentage. Das Memorandum wurde von Liepāja und den Managern der Gemeinden Lübeck und Liepāja SEZ unterzeichnet.  </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/divas-ostas-pilsetas-liepaja-un-libeka-paraksta-sadarbibas-memorandu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/146/1720721822_34_07.11.2024._memorands_paraksta.webp)">
-<a aria-label="Weiterlesen" href="../divas-ostas-pilsetas-liepaja-un-libeka-paraksta-sadarbibas-memorandu/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/divas-ostas-pilsetas-liepaja-un-libeka-paraksta-sadarbibas-memorandu/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/146/1720721822_34_07.11.2024._memorands_paraksta.webp"/>
 </a>
 </div>
@@ -114,15 +114,15 @@ Vorstandssitzungen
 <h2>Formal investiert in die Gründung der neuen LSEZ AS Norplast Pimare Fabrik</h2>
 <span class="mb-3">26.06.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../svinigi-iegulda-laika-kapsulu-jaunas-norplast-piemare-razotnes-pamatos/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/svinigi-iegulda-laika-kapsulu-jaunas-norplast-piemare-razotnes-pamatos/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>Am Mittwoch, den 26. Juni wurde die neue Produktionseinheit von LSEZ JSC "Norplast Pimare" in der Gründung einer Zeitkapsel mit einer Botschaft für zukünftige Generationen gebaut.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../svinigi-iegulda-laika-kapsulu-jaunas-norplast-piemare-razotnes-pamatos/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/svinigi-iegulda-laika-kapsulu-jaunas-norplast-piemare-razotnes-pamatos/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/144/1719406355_33_06.26.2024._Norplast_Piemare_LSEZ_Uldis Hmielevskis.webp)">
-<a aria-label="Weiterlesen" href="../svinigi-iegulda-laika-kapsulu-jaunas-norplast-piemare-razotnes-pamatos/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/svinigi-iegulda-laika-kapsulu-jaunas-norplast-piemare-razotnes-pamatos/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/144/1719406355_33_06.26.2024._Norplast_Piemare_LSEZ_Uldis Hmielevskis.webp"/>
 </a>
 </div>
@@ -131,18 +131,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Beschlüsse des Vorstands der Liepaja SEZ am 18. Juni</h2>
+<h2>Beschlüsse des Vorstands der Liepāja SEZ am 18. Juni</h2>
 <span class="mb-3">20.06.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-valdes-18junija-pienemtie-lemumi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepajas-sez-valdes-18junija-pienemtie-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Auflage. im 18. Jahrhundert Am Juni hielt der Vorstand der Sonderwirtschaftszone Liepaja (Liepāja SEZ) seine regelmäßige Sitzung ab, in der 8 Tagesordnungspunkte geprüft wurden, sechs Entscheidungen getroffen wurden sowie Informationsberichte über die Aktivitäten von Liepaja SEZ und geplante Entwicklungsprojekte.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-valdes-18junija-pienemtie-lemumi/index.php">Weiterlesen</a>
+<p>18. Juni 2024 Der Verwaltungsrat der Sonderwirtschaftszone Liepāja (Liepāja SEZ) hielt seine regelmäßige Sitzung ab, in der er Folgendes prüfte: 8 Es wurden sechs Entscheidungen getroffen, sowie die Informationsberichte über Liepāja SEZ-Aktivitäten und geplante Entwicklungsprojekte.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepajas-sez-valdes-18junija-pienemtie-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/142/1718867944_30_06.18.2024._KIP.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-valdes-18junija-pienemtie-lemumi/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepajas-sez-valdes-18junija-pienemtie-lemumi/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/142/1718867944_30_06.18.2024._KIP.webp"/>
 </a>
 </div>
@@ -154,15 +154,15 @@ Vorstandssitzungen
 <h2>Karosta Industrial Park eröffnet eine neue Proteinproduktionsanlage</h2>
 <span class="mb-3">19.06.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../karostas-industrialaja-parka-atklaj-jaunu-proteina-razosanas-rupnicu/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/karostas-industrialaja-parka-atklaj-jaunu-proteina-razosanas-rupnicu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>19. Die Proteinpflanze Golden Field Factory LV wurde im Juni eingeweiht. Mit der Gründung der Produktionseinheit Golden Fields Factory LV ist die Verarbeitung landwirtschaftlicher Produkte nach Liepaja zurückgekehrt und die ersten Investitionen in Vereinigte Arabische Emirate und USA sind getätigt worden.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../karostas-industrialaja-parka-atklaj-jaunu-proteina-razosanas-rupnicu/index.php">Weiterlesen</a>
+<p>19. Die Proteinpflanze Golden Field Factory LV wurde im Juni eingeweiht. Mit der Gründung der Produktionseinheit Golden Fields Factory LV ist die Verarbeitung landwirtschaftlicher Produkte nach Liepāja zurückgekehrt und die ersten Investitionen in Vereinigte Arabische Emirate und USA sind getätigt worden.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/karostas-industrialaja-parka-atklaj-jaunu-proteina-razosanas-rupnicu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/141/1718805821__R1A0592.webp)">
-<a aria-label="Weiterlesen" href="../karostas-industrialaja-parka-atklaj-jaunu-proteina-razosanas-rupnicu/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/karostas-industrialaja-parka-atklaj-jaunu-proteina-razosanas-rupnicu/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/141/1718805821__R1A0592.webp"/>
 </a>
 </div>
@@ -171,18 +171,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Der Hafen von Liepaja beendet erfolgreich die Tests von Robotern auf dem Wasser</h2>
+<h2>Der Hafen von Liepāja beendet erfolgreich die Tests von Robotern auf dem Wasser</h2>
 <span class="mb-3">14.06.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-osta-veiksmigi-nosledzas-aerones-robotu-testi-uz-udens/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepajas-osta-veiksmigi-nosledzas-aerones-robotu-testi-uz-udens/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Mit Unterstützung von Liepaja SEZ Authority und Port Master's Service 12. 13 und 13. Im Juni hat das lettische Unternehmen "Aerone" seine Arbeit erfolgreich durchgeführt, um ein spezielles Robotergerät zu testen, das die Erdung von Windgeneratoren auf dem Wasser steuern soll, bevor es in der Nordsee arbeitet. Uldis Hmielevskis, Leiterin von Liepaja SEZ, weist darauf hin, dass dies ein großartiges Beispiel dafür ist, dass die Windenergieindustrie den lettischen Wissenschaftlern, Herstellern und Dienstleistern Möglichkeiten bietet, neue Technologien, Dienstleistungen zu entwickeln, sowohl beim Bau von Windparks als auch bei der Wartung neue Arbeitsplätze zu schaffen. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-osta-veiksmigi-nosledzas-aerones-robotu-testi-uz-udens/index.php">Weiterlesen</a>
+<p>Mit Unterstützung von Liepāja SEZ Authority und Port Captain 12. und 13. Im Juni hat das lettische Unternehmen "Aerone" seine Arbeit erfolgreich durchgeführt, um ein spezielles Robotergerät zu testen, das die Erdung von Windgeneratoren auf dem Wasser steuern soll, bevor es in der Nordsee arbeitet. Uldis Hmielevskis, Leiterin von Liepāja SEZ, weist darauf hin, dass dies ein großartiges Beispiel dafür ist, dass die Windenergieindustrie den lettischen Wissenschaftlern, Herstellern und Dienstleistern Möglichkeiten bietet, neue Technologien, Dienstleistungen zu entwickeln, sowohl beim Bau von Windparks als auch bei der Wartung neue Arbeitsplätze zu schaffen. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepajas-osta-veiksmigi-nosledzas-aerones-robotu-testi-uz-udens/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/138/1718355817__R1A0099.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-osta-veiksmigi-nosledzas-aerones-robotu-testi-uz-udens/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepajas-osta-veiksmigi-nosledzas-aerones-robotu-testi-uz-udens/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/138/1718355817__R1A0099.webp"/>
 </a>
 </div>
@@ -191,7 +191,7 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev" data-block="2" data-page="17" data-per-page="6" data-topic="14" href="../17/index.php">
+<a class="news-list-pagination prev" data-block="2" data-page="17" data-per-page="6" data-topic="14" href="/site/de/jaunumi-1/17/index.php">
 <img alt="Zurück" src="../../../img/round-right.svg"/>
 
 Zurück
@@ -199,7 +199,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="2" data-page="19" data-per-page="6" data-topic="14" href="../19/index.php">
+<a class="news-list-pagination next" data-block="2" data-page="19" data-per-page="6" data-topic="14" href="/site/de/jaunumi-1/19/index.php">
 
 Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 </a>
@@ -244,7 +244,7 @@ Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

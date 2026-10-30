@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="https://liepaja-sez.lv//img/mod/news/136/1717402070__R1A9458.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/medijiem/ari-2024gada-sezona-liepajas-sez-parvaldes-jahtu-osta-plivos-zilais-karogs" property="og:url"/>
-<meta content="Auch in der Saison 2024 flattern die Blaue Flagge am Yachthafen von Liepaja SEZ Authority" property="og:title"/>
+<meta content="Auch in der Saison 2024 flattern die Blaue Flagge am Yachthafen von Liepāja SEZ Authority" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Auch in der Saison 2024 wird die Blaue Flagge Flunder im Yachthafen von Liepaja SEZ Authority von der SEZ überflutet</title>
+<title>Auch in der Saison 2024 wird die Blaue Flagge Flunder im Yachthafen von Liepāja SEZ Authority von der SEZ überflutet</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
@@ -48,17 +48,17 @@ html.classList.add(localStorage['contrast']);
 </div>
 <div class="col-12 col-md-9 mt-md-5">
 <span class="date d-block mt-md-5">31. Mai 2024</span>
-<h1 class="article-title">Auch in der Saison 2024 flattern die Blaue Flagge am Yachthafen von Liepaja SEZ Authority</h1>
+<h1 class="article-title">Auch in der Saison 2024 flattern die Blaue Flagge am Yachthafen von Liepāja SEZ Authority</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Auch in der Segel- und Wassertourismussaison 2024 flattert die Blaue Flagge am Yachthafen von Liepaja SEZ Authority. Am 31. Mai wurde die Flagge des Pilotschiffes "Ausma" feierlich in den Mast gelegt.</p><p>Die Blaue Flagge ist ein weltweit anerkanntes internationales Umweltzeichen für Umweltqualität, das die Qualität von Dienstleistungen und Umwelt für mehr als dreißig Kriterien bestätigt. Yachthafen <a href="https://www.facebook.com/hashtag/liep%C4%81j%C4%81?__eep__=6&amp;__cft__[0]=AZUZ1o83q5heIGE_n3hfggoRkytRdVEiyf8cwqKcH-iTSRLX-FHzXMSE3Y35-kXzdQIlhmobOmsJ368u0RfiQpce3KpOllMHl5KeR0etHM30l7lGd06yLvVk7V4hqG5OkVwbSdCtGlNXgfVJ83lSozR6g3bmTfP9y0Ql_1zifGbb5cPMohnY3rMvlmI4KFh5HWCDunuykg30m80FW1vn0Ucj&amp;__tn__=*NK-R">#In Liepaja</a> ist die einzige <a href="https://www.facebook.com/hashtag/latvij%C4%81?__eep__=6&amp;__cft__[0]=AZUZ1o83q5heIGE_n3hfggoRkytRdVEiyf8cwqKcH-iTSRLX-FHzXMSE3Y35-kXzdQIlhmobOmsJ368u0RfiQpce3KpOllMHl5KeR0etHM30l7lGd06yLvVk7V4hqG5OkVwbSdCtGlNXgfVJ83lSozR6g3bmTfP9y0Ql_1zifGbb5cPMohnY3rMvlmI4KFh5HWCDunuykg30m80FW1vn0Ucj&amp;__tn__=*NK-R">#in Lettland</a>die die Blaue Flagge erhielt.</p><p>Die Eröffnung der Yachtsaison wird von der ersten Yacht informell belegt, dieses Jahr kam die erste Yacht am 26. März an - unter der norwegischen Flagge Segelyacht 'Ada'.</p><p> </p><p>Bezug:</p><p>Liepaja SEZ Authority übernahm im Mai 2015 den Yachthafen in seiner Verwaltung</p><p>In der Saison 2023 wurde der Yachthafen von 228 Gästeyachten untergebracht</p><p>Der Yachthafen hat seit 2008 das Symbol für Umwelt- und Servicequalität erhalten - Blaue Flagge</p><p>Die Nachfrage nach Yachtkojen ist auch von lokalen Wassermann, die Freizeitausflüge zu Touristen zur Verfügung gestellt.</p></div>
+<div class="col"><div class="col-12 output"><p>Auch in der Segel- und Wassertourismussaison 2024 flattert die Blaue Flagge am Yachthafen von Liepāja SEZ Authority. Am 31. Mai wurde die Flagge des Pilotschiffes "Ausma" feierlich in den Mast gelegt.</p><p>Die Blaue Flagge ist ein weltweit anerkanntes internationales Umweltzeichen für Umweltqualität, das die Qualität von Dienstleistungen und Umwelt für mehr als dreißig Kriterien bestätigt. Yachthafen <a href="https://www.facebook.com/hashtag/liep%C4%81j%C4%81?__eep__=6&amp;__cft__[0]=AZUZ1o83q5heIGE_n3hfggoRkytRdVEiyf8cwqKcH-iTSRLX-FHzXMSE3Y35-kXzdQIlhmobOmsJ368u0RfiQpce3KpOllMHl5KeR0etHM30l7lGd06yLvVk7V4hqG5OkVwbSdCtGlNXgfVJ83lSozR6g3bmTfP9y0Ql_1zifGbb5cPMohnY3rMvlmI4KFh5HWCDunuykg30m80FW1vn0Ucj&amp;__tn__=*NK-R">#In Liepāja</a> ist die einzige <a href="https://www.facebook.com/hashtag/latvij%C4%81?__eep__=6&amp;__cft__[0]=AZUZ1o83q5heIGE_n3hfggoRkytRdVEiyf8cwqKcH-iTSRLX-FHzXMSE3Y35-kXzdQIlhmobOmsJ368u0RfiQpce3KpOllMHl5KeR0etHM30l7lGd06yLvVk7V4hqG5OkVwbSdCtGlNXgfVJ83lSozR6g3bmTfP9y0Ql_1zifGbb5cPMohnY3rMvlmI4KFh5HWCDunuykg30m80FW1vn0Ucj&amp;__tn__=*NK-R">#in Lettland</a>die die Blaue Flagge erhielt.</p><p>Die Eröffnung der Yachtsaison wird von der ersten Yacht informell belegt, dieses Jahr kam die erste Yacht am 26. März an - unter der norwegischen Flagge Segelyacht 'Ada'.</p><p> </p><p>Zur Information:</p><p>Liepāja SEZ Authority übernahm im Mai 2015 den Yachthafen in seiner Verwaltung</p><p>In der Saison 2023 wurde der Yachthafen von 228 Gästeyachten untergebracht</p><p>Der Yachthafen hat seit 2008 das Symbol für Umwelt- und Servicequalität erhalten - Blaue Flagge</p><p>Die Nachfrage nach Yachtkojen ist auch von lokalen Wassermann, die Freizeitausflüge zu Touristen zur Verfügung gestellt.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/136/870_1717402192__R1A9453 - kopija.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/136/original_1717402192__R1A9453 - kopija.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/136/original_1717402192__R1A9453 - kopija.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

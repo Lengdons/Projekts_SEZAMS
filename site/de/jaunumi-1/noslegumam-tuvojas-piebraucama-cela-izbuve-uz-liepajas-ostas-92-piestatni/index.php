@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="https://liepaja-sez.lv//img/mod/news/307/1787222739_56_08.20.2026._LAD_pievadcels_zvejnieki_2.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/medijiem/noslegumam-tuvojas-piebraucama-cela-izbuve-uz-liepajas-ostas-92-piestatni" property="og:url"/>
-<meta content="Der Bau einer Einfahrt zum Hafen von Liepaja nähert sich. Liegeplätze" property="og:title"/>
+<meta content="Der Bau der Zufahrtsstraße zum Hafen von Liepāja nähert sich 92. Liegeplätze" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Der Bau einer Einfahrt zum Hafen von Liepaja nähert sich. Wharf</title>
+<title>Der Bau der Zufahrtsstraße zum Hafen von Liepāja nähert sich 92. Wharf</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
@@ -47,18 +47,18 @@ html.classList.add(localStorage['contrast']);
 <span>E-Mail: <a href="mailto:liga.ratniece-kadege@lsez.lv" target="_blank">liga.ratniece-kadege@lsez.lv</a></span>
 </div>
 <div class="col-12 col-md-9 mt-md-5">
-<span class="date d-block mt-md-5">20. 8. August 2026</span>
-<h1 class="article-title">Der Bau einer Einfahrt zum Hafen von Liepaja nähert sich. Liegeplätze</h1>
+<span class="date d-block mt-md-5">20. August 2026</span>
+<h1 class="article-title">Der Bau der Zufahrtsstraße zum Hafen von Liepāja nähert sich 92. Liegeplätze</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Die Liepaja SEZ-Behörde verbessert weiterhin die für Fischer notwendige Infrastruktur durch den Bau der Zugangsstraße zum Hafen 92. Der Kai. Das Projekt wird aus dem operationellen Programm des Europäischen Meeres-, Fischerei- und Aquakulturfonds für die Entwicklung der Fischerei 2021-2027 finanziert. 1907. Im Rahmen des Projekts wird eine öffentliche Zufahrtsstraße von 364 Metern sowie ein intelligentes Beleuchtungs- und Regenwasserentwässerungssystem errichtet. Nach den Ergebnissen der Beschaffung werden die Arbeiten von SIA "CTB" durchgeführt, die für 303 617,32 EUR die wirtschaftlich günstigste Lösung anbietet. Die Arbeiten sollen bis Ende August abgeschlossen sein.</p><p>Bis jetzt Zugang zum Hafen von Liepaja 92. Der Kai war sehr begrenzt, so dass er praktisch nicht von Fischern genutzt werden konnte. Um die Situation zu ändern, hat Liepaja SEZ eine Vereinbarung mit dem Fischverarbeitungsunternehmen "Syfud" über Änderungen des Pachtvertrags geschlossen, Mittel aus dem Europäischen Meeres-, Fischerei- und Aquakulturfonds angezogen und im Frühjahr dieses Jahres den Bau einer Zufahrtsstraße begonnen.</p><p>Laut Uldis Hmielevskis, Liepaja SEZ Manager, sind die endgültigen Bauarbeiten derzeit im Gange, um die notwendige Infrastruktur für Fischer in naher Zukunft in Betrieb zu nehmen. Die gebaute Einfahrt wird nicht nur den Betrieb der Fischereiindustrie verbessern, sondern auch den Zugang zu anderen Hafeninfrastruktur, einschließlich Liepaja Leuchtturm.</p><p>Parallel zur Zusammenarbeit von Liepaja SEZ Authority und Liepaja City Municipality entsteht im Leuchtturm eine multilayerische Multimedia-Ausstellung. Es wird Projektion, Klang, Licht und animierte Geschichten auf fünf Etagen kombinieren, so dass die Besucher die Entwicklung des Hafens von Liepaja von seinen Anfängen bis zu unserem Tag erkunden können.</p><p>Ltd. - Bau öffentlich zugänglicher Infrastruktur, einschließlich Straßenbedeckung, Regenwasserentwässerungsnetz und Beleuchtung. Dadurch wird eine moderne, sichere und effiziente Verkehrsanbindung zwischen der Stadtinfrastruktur und dem Hafen von Liepaja gewährleistet und gleichzeitig die Entwicklung des Fischereisektors und Exportmöglichkeiten gefördert.</p><p>Ziel des Projekts ist es, den Zugang zu Liegeplätzen im Hafen von Liepaja durch die Entwicklung einer nachhaltigen blauen Wirtschaft und die Förderung des Wachstums der Fischerei- und Aquakulturgemeinschaften zu verbessern. Die neue Zugangsroute wird den Zugang zu der Fischlandungsstelle ermöglichen, die von Küstenfischern genutzt wird, sowie die Zugänglichkeit für andere Küstenorte verbessern.</p><p>Hauptnutzen des Projekts:</p><ul><li>364 Meter lange Einfahrt gebaut;</li><li>Es wurde ein Kanalisationssystem für Regenwasser eingerichtet;</li><li>energieeffiziente intelligente Beleuchtung installiert;</li><li>Verbesserung des Zugangs 92. Kai und Landeplatz;</li><li>Förderung der Entwicklung des Fischereisektors und der Exportmöglichkeiten;</li><li>Komfortabler Zugang zu Liepaja Leuchtturm und anderen Küstenobjekten.</li></ul><p> </p><p>Zum Projekt</p><ul><li>Die Projektfinanzierung erfolgt durch die operationellen Programme des Europäischen Meeres-, Fischerei- und Aquakulturfonds für die Entwicklung der Fischerei 2021-2027. Für das Jahr 2009 ist die Maßnahme U31421.2 "Stärkung der Entwicklung der Hafeninfrastruktur" Teilmaßnahme U31421,201 "Aktion 1."</li><li>Auflage. vom 8. Dezember 1997 Am November erhielt die Liepaja SEZ Behörde eine Entscheidung des Unterstützungsdienstes für den ländlichen Raum zur Genehmigung des Antrags auf Projekt "Bau des Hafens von Liepaja Accessible Road."</li><li>Ziel des Projekts ist der Liepaja Special Economic Zone Development Plan 2023-2035. Für das strategische Ziel SM2, das die Wettbewerbsfähigkeit des Hafens von Liepaja erhalten soll, und Entwicklung, einschließlich Wartung und Verbesserung der Hafeninfrastruktur zur Unterstützung der Tätigkeiten von Fischereiunternehmen.</li><li>Das Projekt steht im Einklang mit der von der Gemeinde geleiteten lokalen Entwicklungsstrategie 2023-2027 der "Liepaja District Partnership." für das Jahr 2007 und sein strategisches Ziel M4 für die Aktion R1 "Stärkung der Entwicklung der Hafeninfrastruktur" als Beitrag zu den Zielen des Aktionsprogramms.</li></ul></div>
+<div class="col"><div class="col-12 output"><p>Liepāja SEZ-Behörde verbessert weiterhin die erforderliche Infrastruktur für Fischer durch den Bau der Zugangsstraße zum Hafen 92. Der Kai. Das Projekt wird durch das operationelle Programm des Europäischen Meeres-, Fischerei- und Aquakulturfonds für die Entwicklung der Fischerei finanziert. 2021.-2027. . Im Rahmen des Projekts wird eine öffentliche Zufahrtsstraße gebaut 364 die Länge der Meter, sowie intelligente Beleuchtung und Regenwasserentwässerung. Nach den Ergebnissen der Beschaffung werden die Arbeiten von dem Unternehmen "TCTB" durchgeführt, das die wirtschaftlich günstigste Lösung für: 303 617,32 Euro. Die Arbeiten sollen bis Ende August abgeschlossen sein.</p><p>Bis jetzt Zugang zum Hafen von Liepāja 92. Der Kai war sehr begrenzt, so dass er praktisch nicht von Fischern genutzt werden konnte. Um die Situation zu ändern, hat Liepāja SEZ eine Vereinbarung mit dem Fischverarbeitungsunternehmen "Syfud" über Änderungen des Pachtvertrags geschlossen, Mittel aus dem Europäischen Meeres-, Fischerei- und Aquakulturfonds angezogen und im Frühjahr dieses Jahres den Bau einer Zufahrtsstraße begonnen.</p><p>Laut Uldis Hmielevskis, Liepāja SEZ Manager, sind die endgültigen Bauarbeiten derzeit im Gange, um die notwendige Infrastruktur für Fischer in naher Zukunft in Betrieb zu nehmen. Die gebaute Einfahrt wird nicht nur den Betrieb der Fischereiindustrie verbessern, sondern auch den Zugang zu anderen Hafeninfrastruktur, einschließlich Liepāja Leuchtturm.</p><p>Parallel zur Zusammenarbeit von Liepāja SEZ Authority und Liepāja City Municipality entsteht im Leuchtturm eine multilayerische Multimedia-Ausstellung. Es wird Projektion, Klang, Licht und animierte Geschichten auf fünf Etagen kombinieren, so dass die Besucher die Entwicklung des Hafens von Liepāja von seinen Anfängen bis zu unserem Tag erkunden können.</p><p>Ltd. - Bau öffentlich zugänglicher Infrastruktur, einschließlich Straßenbedeckung, Regenwasserentwässerungsnetz und Beleuchtung. Dadurch wird eine moderne, sichere und effiziente Verkehrsanbindung zwischen der Stadtinfrastruktur und dem Hafen von Liepāja gewährleistet und gleichzeitig die Entwicklung des Fischereisektors und Exportmöglichkeiten gefördert.</p><p>Ziel des Projekts ist es, den Zugang zu Liegeplätzen im Hafen von Liepāja durch die Entwicklung einer nachhaltigen blauen Wirtschaft und die Förderung des Wachstums der Fischerei- und Aquakulturgemeinschaften zu verbessern. Die neue Zugangsroute wird den Zugang zu der Fischlandungsstelle ermöglichen, die von Küstenfischern genutzt wird, sowie die Zugänglichkeit für andere Küstenorte verbessern.</p><p>Hauptnutzen des Projekts:</p><ul><li>364 Meter lange Einfahrt gebaut;</li><li>Es wurde ein Kanalisationssystem für Regenwasser eingerichtet;</li><li>energieeffiziente intelligente Beleuchtung installiert;</li><li>Verbesserung des Zugangs 92. Kai und Landeplatz;</li><li>Förderung der Entwicklung des Fischereisektors und der Exportmöglichkeiten;</li><li>Komfortabler Zugang zu Liepāja Leuchtturm und anderen Küstenobjekten.</li></ul><p> </p><p>Zum Projekt</p><ul><li>Die Projektfinanzierung erfolgt durch die operationellen Programme für die Entwicklung der Fischerei im Rahmen des Europäischen Meeres-, Fischerei- und Aquakulturfonds 2021.-2027. der U31421.2 Untermaßnahme "Stärkung der Entwicklung der Hafeninfrastruktur" U31421.2.01 "Aktion 1" innerhalb des Rahmens.</li><li>8. November 2024 Liepāja SEZ Behörde erhielt eine Entscheidung des Ländlichen Unterstützungsdienstes über die Genehmigung des Antrags für das Projekt "Bau des Hafens von Liepāja Accessible Road."</li><li>Ziel des Projekts ist der Liepāja Special Economic Zone Development Plan 2023-2035. Für das strategische Ziel SM2, das die Wettbewerbsfähigkeit des Hafens von Liepāja erhalten soll, und Entwicklung, einschließlich Wartung und Verbesserung der Hafeninfrastruktur zur Unterstützung der Tätigkeiten von Fischereiunternehmen.</li><li>Das Projekt steht im Einklang mit der von der Gemeinde geleiteten lokalen Entwicklungsstrategie der "Liepāja Bezirkspartnerschaft" 2023.-2027. und sein strategisches Ziel M4 für Maßnahmen R1 Ausbau der Hafeninfrastruktur und Beitrag zu den Zielen des Aktionsprogramms.</li></ul></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/307/870_1787222739_56_08.20.2026._LAD_pievadcels_zvejnieki_2.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/307/original_1787222739_56_08.20.2026._LAD_pievadcels_zvejnieki_2.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/307/original_1787222739_56_08.20.2026._LAD_pievadcels_zvejnieki_2.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

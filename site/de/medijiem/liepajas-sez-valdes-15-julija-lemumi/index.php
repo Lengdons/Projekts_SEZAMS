@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/medijiem/liepajas-sez-valdes-15-julija-lemumi" property="og:url"/>
-<meta content="Boards of Liepaja SEZ 15. Beschlüsse vom Juli" property="og:title"/>
+<meta content="Boards of Liepāja SEZ 15. Beschlüsse vom Juli" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Boards of Liepaja SEZ 15. Beschlüsse vom Juli √ SEZ</title>
+<title>Boards of Liepāja SEZ 15. Beschlüsse vom Juli √ SEZ</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
@@ -38,18 +38,18 @@ html.classList.add(localStorage['contrast']);
 <div class="container article-full pt-5 my-5">
 <div class="row">
 <div class="col-12 col-md-9 offset-md-3 mt-md-5">
-<span class="date d-block mt-md-5">16. 8. Juli 2026</span>
-<h1 class="article-title">Boards of Liepaja SEZ 15. Beschlüsse vom Juli</h1>
+<span class="date d-block mt-md-5">16. Juli 2026</span>
+<h1 class="article-title">Boards of Liepāja SEZ 15. Beschlüsse vom Juli</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>15. im Juli fand die ordentliche Sitzung des Vorstands der Liepaja SEZ statt, der die Liepaja-SEZ-Behörde 2025 genehmigte. den Jahresbericht, zusammen mit Entscheidungen über die Nichtnutzung von Vor-Empfangsrechten, den Abschluss eines neuen Schiffsagentursvertrags und mehrerer Aufträge.</p><p><strong>Über Liepaja SEZ Authority 2025. zur Genehmigung des Jahresberichts</strong></p><p>Liepaja SEZ Board hat die Behörde für besondere Wirtschaftszonen von Liepaja 2025 genehmigt. den Jahresbericht. Der Umsatz der Liepaja SEZ Behörde betrug im Jahr 17,14 Millionen. 1,72 Mio. EUR Mehr als ein Jahr im Voraus und das Jahr ist mit einem Gewinn von 1,01 Millionen geschlossen. EUR. Die größte Umsatzlinie besteht aus Einnahmen aus Hafengebühren. </p><p>Der Hafen von Liepaja arbeitet seit zehn Jahren als multifunktionaler Hafen mit einem stabilen Frachtumschlag von durchschnittlich 7 Millionen. Tonnen pro Jahr, die auch im Jahr 2025 blieben. im Jahr, in dem insgesamt 6,9 mln umgerüstet wurden. Tonnen Fracht, wobei ein lokaler Frachtanteil von mehr als 52% beibehalten wird. Das Segment flüssige Fracht schaffte es, neue Ladungen von Lebensmittel Ursprung aus Zentralasien anzuziehen. Insgesamt wurden 1154 Schiffe und 99 942 Passagiere im Hafen befördert.</p><p><strong>Über die Rechte der Vorenthebung</strong></p><p>Der Vorstand der Liepaja SEZ hat beschlossen, das Recht auf Vorentzug nicht zu einem Lagerhaus zu nutzen, das Teil des Grundstücks an der Brivibas Street 103C, Liepaja ist und sich im Gebiet von Liepaja Special Economic Zone befindet. Die Transaktion sieht einen Kauf zwischen SIA √2 G projektaň und SIA RĀDAL Verordnung für den Betrag von 45 000,00 EUR ohne Mehrwertsteuer vor. Nach der Bewertung der Notwendigkeit von Immobilien wurde der Schluss gezogen, dass es nicht notwendig ist, Funktionen der Liepaja SEZ Authority auszuführen.</p><p><strong>Zum Abschluss eines Schiffsagenten-Dienstleistungsabkommens</strong></p><p>Der Verwaltungsrat von Liepaja SEZ überprüft und beschließt, eine Vereinbarung mit Brenners Shippinga Ltd. über die Erbringung von Schiffsagenturen im Hafen von Liepaja zu schließen. Der Dienst des Kapitäns, nach der Bewertung der eingereichten Dokumente, kam zu dem Schluss, dass das Unternehmen den Anforderungen im Verfahren des Abschlusses von Schiffsagenturen entspricht, so wird es in der Lage sein, eine Agentur im Hafen von Liepaja zu erbringen.</p><p><strong>Für Mehrzweck-Schiffsvermietung</strong></p><p>Der Vorstand von Liepaja SEZ hat beschlossen, einen Vertrag mit der Limited Liability Company "LVR Fleet" für die Vermietung eines Mehrzweckschiffs abzuschließen. Das Schiff, das aufgrund der Beschaffung ausgewählt wurde, wird den Navigationsschildern und Hafeninfrastruktur, dem Eisbruch und dem Austausch des Pilotschiffes dienen. </p><p><strong>Für den Kauf eines Mehrray-Echotes-Systems</strong></p><p>Der Vorstand der Liepaja SEZ beschloss, mit dem Unternehmen einen Vertrag über die Lieferung und Installation eines Mehrsterne-Echootensystems für die Bedürfnisse der Liepuja SEZ Authority zu schließen. Das im Rahmen der Beschaffung gekaufte System wird im Managementboot "Pērkone" installiert und gewährleistet die Messung der Tiefen des Hafenaquatoriums, um den sicheren Schiffsverkehr zu gewährleisten. Der Vertragspreis beträgt 158 500,00 EUR ohne Mehrwertsteuer.</p></div>
+<div class="col"><div class="col-12 output"><p>15. im Juli fand die ordentliche Sitzung des Vorstands der Liepāja SEZ statt, der die Liepāja-SEZ-Behörde 2025 genehmigte. den Jahresbericht, zusammen mit Entscheidungen über die Nichtnutzung von Vor-Empfangsrechten, den Abschluss eines neuen Schiffsagentursvertrags und mehrerer Aufträge.</p><p><strong>Über Liepāja SEZ Authority 2025. zur Genehmigung des Jahresberichts</strong></p><p>Liepāja SEZ Board hat die Behörde für besondere Wirtschaftszonen von Liepāja 2025 genehmigt. den Jahresbericht. Der Umsatz der Liepāja SEZ Behörde betrug im Jahr 17,14 Millionen. 1,72 Mio. EUR Mehr als ein Jahr im Voraus und das Jahr ist mit einem Gewinn von 1,01 Millionen geschlossen. EUR. Die größte Umsatzlinie besteht aus Einnahmen aus Hafengebühren. </p><p>Der Hafen von Liepāja arbeitet seit zehn Jahren als multifunktionaler Hafen mit einem stabilen Frachtumschlag von durchschnittlich 7 Millionen. Tonnen pro Jahr, die auch im Jahr 2025 blieben. im Jahr, in dem insgesamt 6,9 mln umgerüstet wurden. Tonnen Fracht, wobei ein lokaler Frachtanteil von mehr als 52% beibehalten wird. Das Segment flüssige Fracht schaffte es, neue Ladungen von Lebensmittel Ursprung aus Zentralasien anzuziehen. Insgesamt wurden 1154 Schiffe und 99 942 Passagiere im Hafen befördert.</p><p><strong>Über die Rechte der Vorenthebung</strong></p><p>Der Vorstand der Liepāja SEZ hat beschlossen, das Recht auf Vorentzug nicht zu einem Lagerhaus zu nutzen, das Teil des Grundstücks an der Brivibas Street 103C, Liepāja ist und sich im Gebiet von Liepāja Special Economic Zone befindet. Die Transaktion sieht einen Kauf zwischen SIA √2 G projektaň und SIA RĀDAL Verordnung für den Betrag von 45 000,00 EUR ohne Mehrwertsteuer vor. Nach der Bewertung der Notwendigkeit von Immobilien wurde der Schluss gezogen, dass es nicht notwendig ist, Funktionen der Liepāja SEZ Authority auszuführen.</p><p><strong>Zum Abschluss eines Schiffsagenten-Dienstleistungsabkommens</strong></p><p>Der Verwaltungsrat von Liepāja SEZ überprüft und beschließt, eine Vereinbarung mit Brenners Shippinga Ltd. über die Erbringung von Schiffsagenturen im Hafen von Liepāja zu schließen. Der Dienst des Kapitäns, nach der Bewertung der eingereichten Dokumente, kam zu dem Schluss, dass das Unternehmen den Anforderungen im Verfahren des Abschlusses von Schiffsagenturen entspricht, so wird es in der Lage sein, eine Agentur im Hafen von Liepāja zu erbringen.</p><p><strong>Für Mehrzweck-Schiffsvermietung</strong></p><p>Der Vorstand von Liepāja SEZ hat beschlossen, einen Vertrag mit der Limited Liability Company "LVR Fleet" für die Vermietung eines Mehrzweckschiffs abzuschließen. Das Schiff, das aufgrund der Beschaffung ausgewählt wurde, wird den Navigationsschildern und Hafeninfrastruktur, dem Eisbruch und dem Austausch des Pilotschiffes dienen. </p><p><strong>Für den Kauf eines Mehrray-Echotes-Systems</strong></p><p>Der Vorstand der Liepāja SEZ beschloss, mit dem Unternehmen einen Vertrag über die Lieferung und Installation eines Mehrsterne-Echootensystems für die Bedürfnisse der Liepuja SEZ Authority zu schließen. Das im Rahmen der Beschaffung gekaufte System wird im Managementboot "Pērkone" installiert und gewährleistet die Messung der Tiefen des Hafenaquatoriums, um den sicheren Schiffsverkehr zu gewährleisten. Der Vertragspreis beträgt 158 500,00 EUR ohne Mehrwertsteuer.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/300/870_1784632239_WhatsApp Image 2026-04-16 at 16.11.18.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/300/original_1784632239_WhatsApp Image 2026-04-16 at 16.11.18.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/300/original_1784632239_WhatsApp Image 2026-04-16 at 16.11.18.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -69,12 +69,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -84,12 +84,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -131,7 +131,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

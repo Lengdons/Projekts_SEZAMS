@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="https://liepaja-sez.lv//img/mod/news/167/1728457925_462486737_539966758729959_9066749114438313485_n.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/medijiem/nodod-ekspluatacija-udens-terminalu-liepajas-sez-teritorija" property="og:url"/>
-<meta content="In Betrieb genommen Wasser Terminal in Liepaja SEZ Gebiet" property="og:title"/>
+<meta content="In Betrieb genommen Wasser Terminal in Liepāja SEZ Gebiet" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Inbetriebnahme Wasserterminal in Liepaja SEZ Gebiet √ SEZ</title>
+<title>Inbetriebnahme Wasserterminal in Liepāja SEZ Gebiet √ SEZ</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
@@ -47,18 +47,18 @@ html.classList.add(localStorage['contrast']);
 <span>E-Mail: <a href="mailto:liga.ratniece-kadege@lsez.lv" target="_blank">liga.ratniece-kadege@lsez.lv</a></span>
 </div>
 <div class="col-12 col-md-9 mt-md-5">
-<span class="date d-block mt-md-5">09. 22. Oktober 2024</span>
-<h1 class="article-title">In Betrieb genommen Wasser Terminal in Liepaja SEZ Gebiet</h1>
+<span class="date d-block mt-md-5">09. Oktober 2024</span>
+<h1 class="article-title">In Betrieb genommen Wasser Terminal in Liepāja SEZ Gebiet</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Am 7. Oktober nahm Liepaja Construction Board das Objekt "Waterfilling Terminal in Oskara Kalpaka Street 117" an.</p><p>Befürworter des Klemmenbaus SIA "EiPU," aber Konstrukteur SIA "UPTK." Gesamtfläche von dem Terminal 18 Tausend. m2. Der Bauprozess ist abgeschlossen und die Zertifizierung des Trinkwasserterminals wird begonnen.</p><p>Das neu gebaute Terminal ist umwelt- und menschenfreundlich, das zusammen mit allen erforderlichen Genehmigungen und Zertifikaten Trinkwasser in Länder exportieren will, in denen es unzureichend ist. Der geplante Terminalumsatz beträgt bis zu 3 Millionen. Tonnen pro Jahr.</p><p>Im Jahr 2020 hat die SIA "EiPU" mit der Liepaja SEZ Authority einen Grundmietvertrag über Immobilien in der Oskara Kalpaka Street 117 abgeschlossen, um das Projekt Waterfilling Terminal umzusetzen. Nach gründlicher Forschung und Entwicklung des Bauvorhabens wurde 2022 das Terminal gebaut.</p></div>
+<div class="col"><div class="col-12 output"><p>Am 7. Oktober nahm Liepāja Construction Board das Objekt "Waterfilling Terminal in Oskara Kalpaka Street 117" an.</p><p>Befürworter des Klemmenbaus SIA "EiPU," aber Konstrukteur SIA "UPTK." Gesamtfläche des Terminals 18 Tausend . Der Bauprozess ist abgeschlossen und die Zertifizierung des Trinkwasserterminals wird begonnen.</p><p>Das neu gebaute Terminal ist umwelt- und menschenfreundlich, das zusammen mit allen erforderlichen Genehmigungen und Zertifikaten Trinkwasser in Länder exportieren will, in denen es unzureichend ist. Der geplante Terminalumsatz beträgt bis zu 3 Millionen. Tonnen pro Jahr.</p><p>Im Jahr 2020 hat die SIA "EiPU" mit der Liepāja SEZ Authority einen Grundmietvertrag über Immobilien in der Oskara Kalpaka Street 117 abgeschlossen, um das Projekt Waterfilling Terminal umzusetzen. Nach gründlicher Forschung und Entwicklung des Bauvorhabens wurde 2022 das Terminal gebaut.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/167/870_1728457925_462486737_539966758729959_9066749114438313485_n.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/167/original_1728457925_462486737_539966758729959_9066749114438313485_n.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/167/original_1728457925_462486737_539966758729959_9066749114438313485_n.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../investe-liepaja/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/investe-liepaja/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Investieren in Liepāja
@@ -57,7 +57,7 @@ Hafen
 </a>
 <div class="sidebar-nested ps-md-4">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../par-ostu/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/par-ostu/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Über den Hafen
@@ -65,7 +65,7 @@ Hafen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../pramju-satiksme/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/pramju-satiksme/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Fährverkehr
@@ -73,7 +73,7 @@ Fährverkehr
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../kruiza-kugi/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/kruiza-kugi/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Kreuzfahrtschiffe
@@ -81,7 +81,7 @@ Kreuzfahrtschiffe
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../jahtu-osta/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/jahtu-osta/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Yachthafen
@@ -89,7 +89,7 @@ Yachthafen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../oskara-kalpaka-tilts/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/oskara-kalpaka-tilts/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Oskars-Kalpaks-Brücke
@@ -99,7 +99,7 @@ Oskars-Kalpaks-Brücke
 </div>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../kapitalsabiedribas/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/kapitalsabiedribas/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Unternehmen
@@ -107,7 +107,7 @@ Unternehmen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/attistibas-projekti/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Entwicklungsprojekte
@@ -115,7 +115,7 @@ Entwicklungsprojekte
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../darbs-liepaja/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/darbs-liepaja/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Stellenangebote in Liepāja
@@ -123,7 +123,7 @@ Stellenangebote in Liepāja
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../teritoriju-karte/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/teritoriju-karte/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Gebietskarte
@@ -140,15 +140,15 @@ Gebietskarte
 <h2>Das gemeinsame Digitalisierungsprojekt der lettischen Häfen wurde abgeschlossen, eine einzige digitale Plattform für effizientere Hafenoperationen wurde eingerichtet.</h2>
 <span class="mb-3">25.08.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/attistibas-projekti/nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Das gemeinsame Digitalisierungsprojekt der größten Häfen Lettlands hat abgeschlossen, bei dem für die Häfen Riga, Ventspils und Liepaja eine einzige digitale Plattform für den Hafenbetrieb und den Kundenservice eingerichtet wurde. Das Projekt hat zu gemeinsamen digitalen Lösungen geführt, die die Zusammenarbeit zwischen Häfen und ihren Kunden verbessern, den Informationsaustausch beschleunigen, die manuelle Datenverarbeitung verringern und eine gemeinsame technologische Basis für die Weiterentwicklung der lettischen Häfen schaffen.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
+<p>Das gemeinsame Digitalisierungsprojekt der größten Häfen Lettlands hat abgeschlossen, bei dem für die Häfen Riga, Ventspils und Liepāja eine einzige digitale Plattform für den Hafenbetrieb und den Kundenservice eingerichtet wurde. Das Projekt hat zu gemeinsamen digitalen Lösungen geführt, die die Zusammenarbeit zwischen Häfen und ihren Kunden verbessern, den Informationsaustausch beschleunigen, die manuelle Datenverarbeitung verringern und eine gemeinsame technologische Basis für die Weiterentwicklung der lettischen Häfen schaffen.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/attistibas-projekti/nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/310/1787664097_S9209229.webp)">
-<a aria-label="Weiterlesen" href="nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">
+<a aria-label="Weiterlesen" href="/site/de/attistibas-projekti/nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/310/1787664097_S9209229.webp"/>
 </a>
 </div>
@@ -160,15 +160,15 @@ Gebietskarte
 <h2>Digitale Transformation des Hafenmanagements durch verbesserte Transport- und Logistikdatenverarbeitung und -analyse</h2>
 <span class="mb-3">03.03.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/attistibas-projekti/ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>Ziel des Projekts ist es, die digitale Transformation des lettischen Hafenmanagements durch Verbesserung der Datenverarbeitung und -analyse im Transport- und Logistikbereich zu fördern und eine integrierte, gemeinsame und anpassungsfähige Plattform umzusetzen.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/attistibas-projekti/ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/259/1761654441_logo-4.webp)">
-<a aria-label="Weiterlesen" href="ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">
+<a aria-label="Weiterlesen" href="/site/de/attistibas-projekti/ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/259/1761654441_logo-4.webp"/>
 </a>
 </div>
@@ -177,18 +177,18 @@ Gebietskarte
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Sicheres Anlegen von Ro-Ro-Fähren im Hafen von Liepaja</h2>
+<h2>Sicheres Anlegen von Ro-Ro-Fähren im Hafen von Liepāja</h2>
 <span class="mb-3">19.12.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="ro-ro-pramju-drosas-pietauvosanas-nodrosinasana-liepajas-osta/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/attistibas-projekti/ro-ro-pramju-drosas-pietauvosanas-nodrosinasana-liepajas-osta/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>Die Bereitstellung regelmäßiger und kontinuierlicher Fährdienste hängt direkt von dem technischen Zustand der Hafeninfrastruktur ab, die für den Betrieb genutzt wird.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="ro-ro-pramju-drosas-pietauvosanas-nodrosinasana-liepajas-osta/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/attistibas-projekti/ro-ro-pramju-drosas-pietauvosanas-nodrosinasana-liepajas-osta/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/195/1760339858_870-eu.webp)">
-<a aria-label="Weiterlesen" href="ro-ro-pramju-drosas-pietauvosanas-nodrosinasana-liepajas-osta/index.php">
+<a aria-label="Weiterlesen" href="/site/de/attistibas-projekti/ro-ro-pramju-drosas-pietauvosanas-nodrosinasana-liepajas-osta/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/195/1760339858_870-eu.webp"/>
 </a>
 </div>
@@ -197,18 +197,18 @@ Gebietskarte
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Technische - wirtschaftliche Bewertung Entwicklung der Lagerstätte des Karosta Kanals von Liepaja Hafen</h2>
+<h2>Technische - wirtschaftliche Bewertung Entwicklung der Lagerstätte des Karosta Kanals von Liepāja Hafen</h2>
 <span class="mb-3">26.11.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="liepajas-ostas-karostas-kanala-vesturiski-piesarnoto-nogulumu-deponesanas-vietas-attistiba/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/attistibas-projekti/liepajas-ostas-karostas-kanala-vesturiski-piesarnoto-nogulumu-deponesanas-vietas-attistiba/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Ab 2024 Am 1. August bis 31. Oktober hat die Liepaja Special Economic Zone Authority den norwegischen Finanzierungsmechanismus 2014 umgesetzt.-2021. Entwicklung einer technischen - wirtschaftlichen Bewertung der Erschließung des Standortes für die Ablagerung historisch kontaminierter Lagerstätten im Hafen von Liepaja, Karasta-Kanal (im Folgenden "die Initiative"). </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="liepajas-ostas-karostas-kanala-vesturiski-piesarnoto-nogulumu-deponesanas-vietas-attistiba/index.php">Weiterlesen</a>
+<p>Ab 2024 Am 1. August bis 31. Oktober hat die Liepāja Special Economic Zone Authority den norwegischen Finanzierungsmechanismus 2014 umgesetzt.-2021. Entwicklung einer technischen - wirtschaftlichen Bewertung der Erschließung des Standortes für die Ablagerung historisch kontaminierter Lagerstätten im Hafen von Liepāja, Karasta-Kanal (im Folgenden "die Initiative"). </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/attistibas-projekti/liepajas-ostas-karostas-kanala-vesturiski-piesarnoto-nogulumu-deponesanas-vietas-attistiba/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/189/)">
-<a aria-label="Weiterlesen" href="liepajas-ostas-karostas-kanala-vesturiski-piesarnoto-nogulumu-deponesanas-vietas-attistiba/index.php">
+<a aria-label="Weiterlesen" href="/site/de/attistibas-projekti/liepajas-ostas-karostas-kanala-vesturiski-piesarnoto-nogulumu-deponesanas-vietas-attistiba/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/189/"/>
 </a>
 </div>
@@ -217,18 +217,18 @@ Gebietskarte
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Auflage. 2030</h2>
+<h2>2023. - 2030Jahr</h2>
 <span class="mb-3">09.02.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="2023-2030gads/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/attistibas-projekti/2023-2030gads/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Die Entwicklungsgebiete des Hafens von Liepaja eignen sich für die Entwicklung der Offshore-Windenergieindustrie, für den Bau von Windparkstützpunkten sowie für die Produktion bestimmter Teile und Komponenten.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="2023-2030gads/index.php">Weiterlesen</a>
+<p>Die Entwicklungsgebiete des Hafens von Liepāja eignen sich für die Entwicklung der Offshore-Windenergieindustrie, für den Bau von Windparkstützpunkten sowie für die Produktion bestimmter Teile und Komponenten.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/attistibas-projekti/2023-2030gads/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/116/1710336421_a63d-643c08f89699d.webp)">
-<a aria-label="Weiterlesen" href="2023-2030gads/index.php">
+<a aria-label="Weiterlesen" href="/site/de/attistibas-projekti/2023-2030gads/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/116/1710336421_a63d-643c08f89699d.webp"/>
 </a>
 </div>
@@ -237,18 +237,18 @@ Gebietskarte
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Historisch kontaminierte Standorte Sanierungsarbeiten des Karosta-Kanals im Hafen von Liepaja</h2>
+<h2>Historisch kontaminierte Standorte Sanierungsarbeiten des Karosta-Kanals im Hafen von Liepāja</h2>
 <span class="mb-3">07.02.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="vesturiski-piesarnotas-vietas-liepajas-ostas-karostas-kanala-sanacijas-darbi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/attistibas-projekti/vesturiski-piesarnotas-vietas-liepajas-ostas-karostas-kanala-sanacijas-darbi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Historisch kontaminierte Standorte Restaurierungsarbeiten des Karosta-Kanals im Hafen von Liepaja.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="vesturiski-piesarnotas-vietas-liepajas-ostas-karostas-kanala-sanacijas-darbi/index.php">Weiterlesen</a>
+<p>Historisch kontaminierte Standorte Restaurierungsarbeiten des Karosta-Kanals im Hafen von Liepāja.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/attistibas-projekti/vesturiski-piesarnotas-vietas-liepajas-ostas-karostas-kanala-sanacijas-darbi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/90/1735816804_nor-grants.webp)">
-<a aria-label="Weiterlesen" href="vesturiski-piesarnotas-vietas-liepajas-ostas-karostas-kanala-sanacijas-darbi/index.php">
+<a aria-label="Weiterlesen" href="/site/de/attistibas-projekti/vesturiski-piesarnotas-vietas-liepajas-ostas-karostas-kanala-sanacijas-darbi/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/90/1735816804_nor-grants.webp"/>
 </a>
 </div>
@@ -257,18 +257,18 @@ Gebietskarte
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2> Am 8. Januar 2024 unterzeichnete Liepaja Special Economic Zone Authority Bauverträge für das Projekt Entwicklung des Industrieparks Liepaja 1. Stufe</h2>
+<h2> Am 8. Januar 2024 unterzeichnete Liepāja Special Economic Zone Authority Bauverträge für das Projekt Entwicklung des Industrieparks Liepāja 1. Stufe</h2>
 <span class="mb-3">08.01.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="liepajas-specialas-ekonomiskas-zonas-parvalde-2024gada-8janvari-parakstijusi-ligumus/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/attistibas-projekti/liepajas-specialas-ekonomiskas-zonas-parvalde-2024gada-8janvari-parakstijusi-ligumus/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Im Rahmen des Projekts werden ehemalige Fabriken wieder aufgebaut.Liepājas metalurgs Das Gebiet Liepaja zwischen Brivibas Street, Meldru Street, Liepāja Lake, Esermalas Street, Parka Street und Zemnieku Street mit angrenzenden Gebieten an den Liepaja Lake, Bau öffentlicher Straßeninfrastruktur mit Ingenieurnetzwerken, Unternehmertum Bereitstellung einer grundlegenden Infrastruktur durch Schaffung eines Betriebsparks von nationaler Bedeutung, um die Funktionalität des entwickelten Gebiets gemäß der genehmigten Strategie für langfristige Entwicklung des Industrieparks Liepaja 2023-2038 zu gewährleisten.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="liepajas-specialas-ekonomiskas-zonas-parvalde-2024gada-8janvari-parakstijusi-ligumus/index.php">Weiterlesen</a>
+<p>Im Rahmen des Projekts werden ehemalige Fabriken wieder aufgebaut.Liepājas metalurgs Das Gebiet Liepāja zwischen Brivibas Street, Meldru Street, Liepāja Lake, Esermalas Street, Parka Street und Zemnieku Street mit angrenzenden Gebieten an den Liepāja Lake, Bau öffentlicher Straßeninfrastruktur mit Ingenieurnetzwerken, Unternehmertum Bereitstellung einer grundlegenden Infrastruktur durch Schaffung eines Betriebsparks von nationaler Bedeutung, um die Funktionalität des entwickelten Gebiets gemäß der genehmigten Strategie für langfristige Entwicklung des Industrieparks Liepāja 2023-2038 zu gewährleisten.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/attistibas-projekti/liepajas-specialas-ekonomiskas-zonas-parvalde-2024gada-8janvari-parakstijusi-ligumus/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/153/1723460186_logo-870.webp)">
-<a aria-label="Weiterlesen" href="liepajas-specialas-ekonomiskas-zonas-parvalde-2024gada-8janvari-parakstijusi-ligumus/index.php">
+<a aria-label="Weiterlesen" href="/site/de/attistibas-projekti/liepajas-specialas-ekonomiskas-zonas-parvalde-2024gada-8janvari-parakstijusi-ligumus/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/153/1723460186_logo-870.webp"/>
 </a>
 </div>
@@ -280,15 +280,15 @@ Gebietskarte
 <h2>2018-2022</h2>
 <span class="mb-3">10.11.2022.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="2018-2022gads/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/attistibas-projekti/2018-2022gads/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Verbesserung der Hafeninfrastruktur von Liepaja</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="2018-2022gads/index.php">Weiterlesen</a>
+<p>Verbesserung der Hafeninfrastruktur von Liepāja</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/attistibas-projekti/2018-2022gads/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/92/1708685058_wallpaper2you_121359.webp)">
-<a aria-label="Weiterlesen" href="2018-2022gads/index.php">
+<a aria-label="Weiterlesen" href="/site/de/attistibas-projekti/2018-2022gads/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/92/1708685058_wallpaper2you_121359.webp"/>
 </a>
 </div>
@@ -300,15 +300,15 @@ Gebietskarte
 <h2>2018 - 2020</h2>
 <span class="mb-3">06.03.2020.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="2018-2020gads/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/attistibas-projekti/2018-2020gads/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>Restaurierung von hydrotechnischen Strukturen im Karosta-Kanal und Nordtore</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="2018-2020gads/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/attistibas-projekti/2018-2020gads/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/91/)">
-<a aria-label="Weiterlesen" href="2018-2020gads/index.php">
+<a aria-label="Weiterlesen" href="/site/de/attistibas-projekti/2018-2020gads/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/91/"/>
 </a>
 </div>
@@ -320,15 +320,15 @@ Gebietskarte
 <h2>Jahr 2017-2020</h2>
 <span class="mb-3">01.01.2020.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="2017-2020gads/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/attistibas-projekti/2017-2020gads/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>Verbesserte Hafeninfrastruktur und Entwicklung des Hafennetzes in Estland und Lettland</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="2017-2020gads/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/attistibas-projekti/2017-2020gads/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/94/)">
-<a aria-label="Weiterlesen" href="2017-2020gads/index.php">
+<a aria-label="Weiterlesen" href="/site/de/attistibas-projekti/2017-2020gads/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/94/"/>
 </a>
 </div>
@@ -337,7 +337,7 @@ Gebietskarte
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev d-none" data-block="13" data-page="" data-per-page="10" data-topic="21" href="0/index.php">
+<a class="news-list-pagination prev d-none" data-block="13" data-page="" data-per-page="10" data-topic="21" href="/site/de/attistibas-projekti/0/index.php">
 <img alt="Zurück" src="../../img/round-right.svg"/>
 
 Zurück
@@ -345,7 +345,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="13" data-page="2" data-per-page="10" data-topic="21" href="2/index.php">
+<a class="news-list-pagination next" data-block="13" data-page="2" data-per-page="10" data-topic="21" href="/site/de/attistibas-projekti/2/index.php">
 
 Weiter <img alt="Zurück" src="../../img/round-right.svg"/>
 </a>
@@ -390,7 +390,7 @@ Weiter <img alt="Zurück" src="../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/attistibas-projekti/index.php"><img alt="Nach oben" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

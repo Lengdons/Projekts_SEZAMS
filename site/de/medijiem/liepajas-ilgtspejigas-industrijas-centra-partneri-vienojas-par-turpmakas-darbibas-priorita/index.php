@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="https://liepaja-sez.lv//img/mod/news/192/1733407394_58_12.05.2024._pirmā_tiksanās_HUB_2.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/medijiem/liepajas-ilgtspejigas-industrijas-centra-partneri-vienojas-par-turpmakas-darbibas-priorita" property="og:url"/>
-<meta content="Partner des Liepaja Sustainable Industry Centre vereinbaren Prioritäten für künftige Aktivitäten" property="og:title"/>
+<meta content="Partner des Liepāja Sustainable Industry Centre vereinbaren Prioritäten für künftige Aktivitäten" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Partner des Liepaja Sustainable Industry Centre vereinbaren Prioritäten für künftige Aktivitäten</title>
+<title>Partner des Liepāja Sustainable Industry Centre vereinbaren Prioritäten für künftige Aktivitäten</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
@@ -47,18 +47,18 @@ html.classList.add(localStorage['contrast']);
 <span>E-Mail: <a href="mailto:liga.ratniece-kadege@lsez.lv" target="_blank">liga.ratniece-kadege@lsez.lv</a></span>
 </div>
 <div class="col-12 col-md-9 mt-md-5">
-<span class="date d-block mt-md-5">Veranschlagt sind Mittel zur Deckung der Verpflichtungen, die im Rahmen des Pilotprojekts aus den Vorjahren noch nicht abgewickelt werden. Dezember 2024</span>
-<h1 class="article-title">Partner des Liepaja Sustainable Industry Centre vereinbaren Prioritäten für künftige Aktivitäten</h1>
+<span class="date d-block mt-md-5">05. Dezember 2024</span>
+<h1 class="article-title">Partner des Liepāja Sustainable Industry Centre vereinbaren Prioritäten für künftige Aktivitäten</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p><strong>Partner des Liepaja Sustainable Industry Centre 2024. 2006 Im Dezember versammelten wir uns für das erste gemeinsame Arbeitstreffen, um konkrete Schritte in Zusammenarbeit, Kommunikation und Entwicklung zu vereinbaren sowie einen Aktionsplan für den nächsten Zeitraum auszuarbeiten, damit Liepaja, Lettland, Ostseeregion Energieunabhängigkeit und wirtschaftliche Entwicklung erlangen und gleichzeitig die Klimaneutralität und Nachhaltigkeitsziele der EU gewährleisten wird. Ziele zu erreichen. Das erste Treffen fand in den Räumlichkeiten der RTU statt, einem wichtigen Kooperationspartner sowohl bei der wissenschaftlichen Forschung und Entwicklung innovativer neuer Technologien als auch bei der Entwicklung von Studienprogrammen zur Vorbereitung von Spezialisten für grüne Energie, intelligente Fertigungsindustrien, die sich entwickeln sollen. </strong></p><p>Abschluss einer gemeinsamen Erklärung zur Umsetzung strategisch wichtiger privater Investitionsprojekte in Liepaja im Bereich der grünen Energie, intelligente Produktion 2024. im Jahr 2012 Im November einigten sich alle Teilnehmer auf die Einrichtung des Liepaja Sustainable Industry Centre im Gebiet der Spezialwirtschaftszone Liepaja.</p><p>Das Liepaja Sustainable Industry Centre will im Bereich der grünen Energie und innovativen Technologien ein zentraler Akteur in der Ostseeregion werden. Es vereint Unternehmen Van Oord, Euroports, Smulders, CIS Liepaja, GI Terminal, Fokker Next Gen Lettland sowie Liepaja Special Economic Zone Authority, Liepaja City Council, Investment and Development Agency of Latvia (LIAA) und Riga Technical University.</p><p> </p><p><strong>Geplante Projekte</strong></p><ol><li><strong>Offshore-Windunterstützungsbasis und Frachtterminal für Schüttgut</strong> Im Hafen von Liepaja, die Schaffung einer Infrastruktur für den Bau von Windparks in der Ostsee und großräumige Baustellen in der Nähe der Hafenpiers. Die Unternehmen Van Oord, Euroports und Smulder sind aktiv.</li><li><strong>Wasserstoffanlage und -terminal</strong> Erzeugung von Wasserstoff aus erneuerbaren Quellen. Die Firma CIS Liepaja.</li><li><strong>Anlage "Nachhaltiger Luftverkehr" (SAF)</strong> Die Produktion von SAF-Brennstoffen, die den Übergang des Luftverkehrs zu umweltfreundlicheren Energiequellen erleichtern wird. Die Firma GI Terminal.</li><li><strong>Herstellung von wasserstoffbetriebenen Flugzeugen</strong> Produktion von Passagierflugzeugen im Gebiet des Flughafens Liepaja, die zur Dekarbonisierung der Luftfahrtindustrie beitragen werden. Die Firma Fokker Next Gen Lettland ist aktiv.</li><li><strong>CO2-Exportterminal</strong> Lagerung und Transport von Kohlendioxid, das von Industrie und Energie abgegeben und gesammelt wird. Die Firma GI Terminal.</li></ol><p>Ziel der Gemeinsamen Mitteilung ist es, Entwicklungsprojekten die höchste Priorität auf der Regierungsagenda zu geben, indem sie sowohl in Form vereinfachter Verfahren als auch durch Harmonisierung die erforderlichen staatlichen Beihilfen bereitstellen und Zugang zu den notwendigen Finanzierungsinstrumenten und Investitionen in Infrastruktur erhalten. <strong>Diese Projekte werden zur Nachhaltigkeit der lettischen Wirtschaft beitragen, neue Hightech-Industrien schaffen, das BIP-Wachstum und die industrielle Entwicklung des Landes fördern.</strong></p><p><i><strong> </strong></i></p><p><strong>Über Liepaja Special Economic Zone Authority:</strong></p><p>Liepaja Special Economic Zone Authority bietet ein hochwertiges und attraktives Geschäftsumfeld und fördert die Entwicklung des Gebiets von Liepaja SEZ im gemeinsamen Management mit verständlichen Bedingungen, die Investoren anziehen, die in intelligenten, nachhaltigen, hohen Wertschöpfungssektoren arbeiten, insbesondere in der Herstellung, grüne Energie und auf dem Gebiet der Technologie die Schaffung neuer, qualifizierter Arbeitsplätze mit wettbewerbsfähigen Löhnen.</p></div>
+<div class="col"><div class="col-12 output"><p><strong>Partner des Liepāja Sustainable Industry Centre 4. Dezember 2024 für das erste gemeinsame Arbeitstreffen zusammenkommen, um konkrete Schritte in der Zusammenarbeit, Kommunikation und Entwicklung eines Aktionsplans für die nächste Zeit zu vereinbaren, um die Energieunabhängigkeit und wirtschaftliche Entwicklung des Ostseeraums zu erreichen und gleichzeitig die Klimaneutralität und Nachhaltigkeitsziele der EU sicherzustellen. Ziele zu erreichen. Das erste Treffen fand in den Räumlichkeiten der RTU statt, einem wichtigen Kooperationspartner sowohl bei der wissenschaftlichen Forschung und Entwicklung innovativer neuer Technologien als auch bei der Entwicklung von Studienprogrammen zur Vorbereitung von Spezialisten für grüne Energie, intelligente Fertigungsindustrien, die sich entwickeln sollen. </strong></p><p>Abschluss einer gemeinsamen Erklärung zur Umsetzung strategisch wichtiger privater Investitionsprojekte in Liepāja im Bereich der grünen Energie, intelligente Produktion 12. November 2024Alle Teilnehmer vereinbarten die Einrichtung eines Zentrums für nachhaltige Industrie Liepāja auf dem Gebiet der Sonderwirtschaftszone Liepāja.</p><p>Das Liepāja Sustainable Industry Centre will im Bereich der grünen Energie und innovativen Technologien ein zentraler Akteur in der Ostseeregion werden. Es vereint Unternehmen Van Oord, Euroports, Smulders, CIS Liepāja, GI Terminal, Fokker Next Gen Lettland sowie Liepāja Special Economic Zone Authority, Liepāja City Council, Investment and Development Agency of Latvia (LIAA) und Riga Technical University.</p><p> </p><p><strong>Geplante Projekte</strong></p><ol><li><strong>Offshore-Windunterstützungsbasis und Frachtterminal für Schüttgut</strong> Im Hafen von Liepāja, die Schaffung einer Infrastruktur für den Bau von Windparks in der Ostsee und großräumige Baustellen in der Nähe der Hafenpiers. Die Unternehmen Van Oord, Euroports und Smulder sind aktiv.</li><li><strong>Wasserstoffanlage und -terminal</strong> Erzeugung von Wasserstoff aus erneuerbaren Quellen. Die Firma CIS Liepāja.</li><li><strong>Anlage "Nachhaltiger Luftverkehr" (SAF)</strong> Die Produktion von SAF-Brennstoffen, die den Übergang des Luftverkehrs zu umweltfreundlicheren Energiequellen erleichtern wird. Die Firma GI Terminal.</li><li><strong>Herstellung von wasserstoffbetriebenen Flugzeugen</strong> Produktion von Passagierflugzeugen im Gebiet des Flughafens Liepāja, die zur Dekarbonisierung der Luftfahrtindustrie beitragen werden. Die Firma Fokker Next Gen Lettland ist aktiv.</li><li><strong>CO2-Exportterminal</strong> Lagerung und Transport von Kohlendioxid, das von Industrie und Energie abgegeben und gesammelt wird. Die Firma GI Terminal.</li></ol><p>Ziel der Gemeinsamen Mitteilung ist es, Entwicklungsprojekten die höchste Priorität auf der Regierungsagenda zu geben, indem sie sowohl in Form vereinfachter Verfahren als auch durch Harmonisierung die erforderlichen staatlichen Beihilfen bereitstellen und Zugang zu den notwendigen Finanzierungsinstrumenten und Investitionen in Infrastruktur erhalten. <strong>Diese Projekte werden zur Nachhaltigkeit der lettischen Wirtschaft beitragen, neue Hightech-Industrien schaffen, das BIP-Wachstum und die industrielle Entwicklung des Landes fördern.</strong></p><p><i><strong> </strong></i></p><p><strong>Über Liepāja Special Economic Zone Authority:</strong></p><p>Liepāja Special Economic Zone Authority bietet ein hochwertiges und attraktives Geschäftsumfeld und fördert die Entwicklung des Gebiets von Liepāja SEZ im gemeinsamen Management mit verständlichen Bedingungen, die Investoren anziehen, die in intelligenten, nachhaltigen, hohen Wertschöpfungssektoren arbeiten, insbesondere in der Herstellung, grüne Energie und auf dem Gebiet der Technologie die Schaffung neuer, qualifizierter Arbeitsplätze mit wettbewerbsfähigen Löhnen.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/192/870_1733407394_58_12.05.2024._pirmā_tiksanās_HUB_2.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/192/original_1733407394_58_12.05.2024._pirmā_tiksanās_HUB_2.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/192/original_1733407394_58_12.05.2024._pirmā_tiksanās_HUB_2.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

@@ -10,12 +10,12 @@
 
 <meta name="robots" content="follow, index"><meta property="og:image" content="https://lsez.it-lideris.lv//img/mod/news/81/1705048236_Foto_2.webp" /><meta property="og:type" content="article" />
 <meta property="og:url" content="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-specialas-ekonomiskas-zonas-parvalde-organize-transportlidzekla-vw-multivan-izsol/" />
-<meta property="og:title" content="Liepaja Special Economic Zone Authority organisiert Fahrzeug VW Multivan (2015). (Ausgabejahr) Veräußerungen in einer elektronischen Auktion mit aufsteigender Stufe" />
+<meta property="og:title" content="Liepāja Special Economic Zone Authority organisiert Fahrzeug VW Multivan (2015). (Ausgabejahr) Veräußerungen in einer elektronischen Auktion mit aufsteigender Stufe" />
 <meta property="og:site_name" content="Sonderwirtschaftszone Liepāja" />
 <meta name="twitter:site" content="@liepajaSEZ" />
 <meta name="twitter:creator" content="@liepajaSEZ" />
 
-<title>Liepaja Special Economic Zone Authority organisiert Fahrzeug VW Multivan (2015). (Ausgabejahr) Veräußerungen in Form einer elektronischen Auktion mit einem Ausbauschritt im SEZ</title>			
+<title>Liepāja Special Economic Zone Authority organisiert Fahrzeug VW Multivan (2015). (Ausgabejahr) Veräußerungen in Form einer elektronischen Auktion mit einem Ausbauschritt im SEZ</title>
 
 <link rel="stylesheet" href="https://liepaja-sez.lv/css/jarallax.min.css">
 <link rel="stylesheet" href="https://liepaja-sez.lv/css/bootstrap.min.css">
@@ -48,31 +48,31 @@ html.classList.add(localStorage['contrast']);
 <p class="job">Leiter der Abteilung Unternehmensentwicklung</p>
 <br>
 <span>Tel.: <a href="tel:(+371) 29294267" target="_blank">(+371) 29294267</a></span>
-<span>E-Mail: <a href="mailto:raivo.spaks@lsez.lv" target="_blank">raivo.spaks@lsez.lv</a></span>								
-</div>					
+<span>E-Mail: <a href="mailto:raivo.spaks@lsez.lv" target="_blank">raivo.spaks@lsez.lv</a></span>
+</div>
 <div class="col-12 col-md-9 mt-md-5">
-<span class="date d-block mt-md-5">25. 22. Oktober 2023</span>
-<h1 class="article-title">Liepaja Special Economic Zone Authority organisiert Fahrzeug VW Multivan (2015). (Ausgabejahr) Veräußerungen in einer elektronischen Auktion mit aufsteigender Stufe</h1>
+<span class="date d-block mt-md-5">25. Oktober 2023</span>
+<h1 class="article-title">Liepāja Special Economic Zone Authority organisiert Fahrzeug VW Multivan (2015). (Ausgabejahr) Veräußerungen in einer elektronischen Auktion mit aufsteigender Stufe</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Auktion erfolgt auf der elektronischen Auktionswebseite <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv</a></p><p>Die Auktion beginnt auf der elektronischen Auktionsseite <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv</a> Auflage. im 26. Jahrhundert Oktober um 12 Uhr. 13:00 Uhr und schließt 2023. 27. November 2005 um 15.00 Uhr 13.00 Uhr</p><p>Die Registrierung der Antragsteller erfolgt ab 2023. im 26. Jahrhundert Oktober um 12 Uhr. 13:00 bis 2023 im Jahr 15 Januar 2007 November um 15.00 Uhr 23:59 Website der elektronischen Auktion <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv</a></p><p>Das Auktionsfahrzeug kann bis 2023 konsultiert werden. im Jahr 15 Januar 2007 November, telefonisch 29426284 (Ainars) im Voraus.</p><p>Auktionsregeln auf der Website verfügbar <a href="https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi%20">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi&nbsp;</a></p></div>
+<div class="col"><div class="col-12 output"><p>Auktion erfolgt auf der elektronischen Auktionswebseite <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv</a></p><p>Die Auktion beginnt auf der elektronischen Auktionsseite <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv</a> 26. Oktober 2023 Uhr 13:00 und schließen 27. November 2023 Uhr 13:00.</p><p>Die Registrierung der Antragsteller erfolgt ab: 26. Oktober 2023 Uhr 13:00 bis 15. November 2023 Uhr 23:59 Website der elektronischen Auktion <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv</a></p><p>Das Auktionsfahrzeug kann konsultiert werden durch: 15. November 2023per Telefon im Voraus 29426284 (Ainars).</p><p>Auktionsregeln auf der Website verfügbar <a href="/site/de/iepirkumi-un-izsoles/index.php">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi&nbsp;</a></p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/81/870_1705048236_Foto_2.webp"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/81/original_1705048236_Foto_2.webp" aria-label="Download" download>
-<img class="download-icon" alt="Download" src="https://liepaja-sez.lv/img/dl.svg"/>	
-</a>															
+<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/81/original_1705048236_Foto_2.webp" aria-label="Herunterladen" download>
+<img class="download-icon" alt="Herunterladen" src="https://liepaja-sez.lv/img/dl.svg"/>
+</a>
 </div>
-</div>						
+</div>
 </div>
 </div>
 <div class="container my-4">
 <div class="row">
 <div id="useful-p" class="col-12 useful">
 <span class="me-2">War diese Information hilfreich?</span>
-<button data-value="1" data-table-name="mod_news" data-table-id="81" class="useful-btn">Ja </button> 
+<button data-value="1" data-table-name="mod_news" data-table-id="81" class="useful-btn">Ja </button>
 <button data-value="0" data-table-name="mod_news" data-table-id="81" class="useful-btn">Nein </button>
 </div>
 </div>
@@ -80,14 +80,14 @@ html.classList.add(localStorage['contrast']);
 <div class="row related-article">
 <div class="col-12 col-lg-9 offset-lg-3 sizer first">
 <div class="row">
-<div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>						
+<div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Liepaja SEZ Authority organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in Eksporta Straße 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Weiterlesen</a>
+<h4>Die Verwaltung der Sonderwirtschaftszone Liepāja veranstaltet eine elektronische Versteigerung mit aufsteigenden Geboten für eine neu zu bildende Immobilie in der Eksporta iela 3</h4>
+<a class="d-none d-md-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">Liepaja Special Economic Zone Authority, Unified Registrierung No.LV90000329402, organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in Eksporta iela 3, Liepāja, die aus einer Grundeinheit mit einer Gesamtfläche von 51521 m2 und 12 Gebäuden bestehen wird.</div>
+<div class="col-12 col-md-8 col-lg-9">Die Verwaltung der Sonderwirtschaftszone Liepāja, einheitliche Registrierungsnummer LV90000329402, veranstaltet eine elektronische Versteigerung mit aufsteigenden Geboten für eine neu zu bildende Immobilie in der Eksporta iela 3 in Liepāja. Diese wird aus einem Grundstück mit einer Gesamtfläche von 51521 m2 und 12 Bauwerken bestehen.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -95,34 +95,34 @@ html.classList.add(localStorage['contrast']);
 <div class="row related-article">
 <div class="col-12 col-lg-9 offset-lg-3 sizer ">
 <div class="row">
-<div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>						
+<div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Hafen von Liepaja No. 46 Rekonstruktion Bauprojektentwicklung, Bauarbeiten und Autorüberwachung</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Weiterlesen</a>
+<h4>Planung, Bauarbeiten und Bauüberwachung durch den Planer beim Umbau des Liegeplatzes Nr. 46 im Hafen Liepāja</h4>
+<a class="d-none d-md-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">Gegenstand der Beschaffung: Hafen von Liepaja No. 46 Rekonstruktionsbau Projektentwicklung, Bau und Autorüberwachung ANZAHL LSEZ 2026/12 Der Haupt-CPV-Code: 45241500-3 (Ship Liegeplatzbau). 
+<div class="col-12 col-md-8 col-lg-9">Auftragsgegenstand: Planung, Bauarbeiten und Bauüberwachung durch den Planer beim Umbau des Liegeplatzes Nr. 46 im Hafen Liepāja. VERGABENUMMER LSEZ 2026/12. Haupt-CPV-Code: 45241500-3 (Bauarbeiten für Schiffsanlegestellen).
 </div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
-</div>	
+</div>
 <div class="row">
 <div class="col-12 col-lg-9 offset-lg-3 paginator mt-5">
 
-<div class="prev">	
+<div class="prev">
 </div>
 <div class="next">
 <a data-page="2" class="next related-pagination" href="#" aria-label="Weiter">
-Weiter <img src="https://liepaja-sez.lv/img/round-right.svg" alt="Weiter"> 
+Weiter <img src="https://liepaja-sez.lv/img/round-right.svg" alt="Weiter">
 </a>
-</div>		
 </div>
-</div></div>				
+</div>
+</div></div>
 <img class="background" src="https://liepaja-sez.lv/img/bg2.svg" alt="Hintergrundbild"/>
 </main>
-<footer class="footer">				
+<footer class="footer">
 <div class="container py-5">
 <div class="row">
 <div class="col-12 col-md-4 col-lg-2 footer-logo">
@@ -142,15 +142,15 @@ Weiter <img src="https://liepaja-sez.lv/img/round-right.svg" alt="Weiter">
 </div>
 </div>
 </div>
-<div class="col-12 col-md-8 col-lg-1">							
+<div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a href="#" aria-label="Nach oben"><img src="https://liepaja-sez.lv/img/round-right.svg" alt="scroll-up" class="img-fluid"></a>
+<a href="#" aria-label="Nach oben"><img src="https://liepaja-sez.lv/img/round-right.svg" alt="Nach oben" class="img-fluid"></a>
 </div>
 </div>
 </div>
 </div>
-</div>	
+</div>
 
 <div id="sticky-cookie" style="align-items: center; justify-content: center;">
 <img width="24" src="https://liepaja-sez.lv/img/cc.svg?=v5" alt="Cookie" />
@@ -167,11 +167,11 @@ gtag('config', 'G-6QTXK76SH0');
 </script>
 
 
-</script>				
+</script>
 <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous">
 <script src="https://code.jquery.com/color/jquery.color.plus-names-2.1.2.min.js"></script>
 
-<script src="https://liepaja-sez.lv/js/jarallax.min.js?v=3"></script>				
+<script src="https://liepaja-sez.lv/js/jarallax.min.js?v=3"></script>
 <script src="https://liepaja-sez.lv/js/bootstrap.bundle.min.js"></script>
 <script src="https://liepaja-sez.lv/js/main.js?v=9"></script>
 <script src="https://liepaja-sez.lv/js/mod/menu/main.js?v=1"></script><script src="https://liepaja-sez.lv/js/block/useful/main.js?v=1"></script>				<script defer src="https://liepaja-sez.lv/cc/src/cookieconsent.js"></script>

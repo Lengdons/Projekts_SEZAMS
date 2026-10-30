@@ -8,7 +8,7 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="https://liepaja-sez.lv//img/mod/news/319/1790069221_66_09.21.2026._LIP.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/sakums/liepajas-industrialais-parks-ieklauts-pasaules-top-10-investicijam-pievilcigako-industrial" property="og:url"/>
-<meta content="Der Industriepark Liepāja gehört zu den attraktivsten Industrie- und Logistikprojekten der Welt TOP 10" property="og:title"/>
+<meta content="Industriepark Liepāja zählt weltweit zu den TOP 10 der attraktivsten Industrie- und Logistikprojekte für Investitionen" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
@@ -48,17 +48,17 @@ html.classList.add(localStorage['contrast']);
 </div>
 <div class="col-12 col-md-9 mt-md-5">
 <span class="date d-block mt-md-5">21. September 2026</span>
-<h1 class="article-title">Der Industriepark Liepāja gehört zu den attraktivsten Industrie- und Logistikprojekten der Welt TOP 10</h1>
+<h1 class="article-title">Industriepark Liepāja zählt weltweit zu den TOP 10 der attraktivsten Industrie- und Logistikprojekte für Investitionen</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Die neueste Ausgabe der ständigen Veröffentlichungsreihe Real Dl, die die attraktivsten Investitionsprojekte in verschiedenen Regionen und Sektoren hervorhebt, zeigt 2026. TOP 10 2008 Im heutigen Wettbewerb sind Orte attraktiver für Investitionen, die nicht nur Land, sondern auch moderne Infrastruktur, Energiesicherheit, Logistikverbindungen und ein Ökosystem bieten können, das sich für die moderne Produktion eignet. TOP10 als eines der vielversprechendsten europäischen Projekte wird auf den Industriepark Liepaja hingewiesen.</p><p>Die von den Real Dl ausgewählten Projekte spiegeln die Vielfalt und das Ausmaß dieser Investitionsmöglichkeiten wider. Sie umfassen sowohl wichtige freie Häfen als auch bereits etablierte Industriegebiete sowie Revitalisierungsprojekte für degradierte Gebiete und flughafenbezogene Logistikzentren. Nach den Real Dl zeigen diese Projekte im Allgemeinen, wie Konnektivität, Infrastruktur, verfügbare Flächen und zunehmend entwickelte industrielle Ökosysteme Orte sind, um Investitionen der nächsten Generation anzuziehen. Die Länder konkurrieren nicht mehr nur um Investitionen, sondern auch um die Fähigkeit, die von Investoren benötigte industrielle Infrastruktur bereitzustellen. </p><p>Das Magazin Real Dl hat 10 vielversprechende Industrie- und Logistikinvestitionsprojekte in der Welt hervorgehoben. Die Projekte sind in verschiedenen Ländern angesiedelt und zeigen verschiedene Entwicklungsmodelle: von großen Industriezentren in Deutschland und Spanien bis hin zu neuen Logistikzentren in Island, Rumänien, Lettland, Großbritannien und Mexiko. </p><p>Der Industriepark Liepaja, in dem nachhaltiges Denken in den genetischen Code aufgenommen wird, definiert klar die Grundprinzipien Bildung, Innovation und Kreislaufwirtschaft. Das Gebiet der ehemaligen Fabrik, die Metallurgie von Liepāja, wird allmählich in die Stadt zurückgebracht, wodurch sie öffentlich zugänglich und für Investoren attraktiv ist. </p><p>Liepaja Industrial Park wird von der Liepaja SEZ Authority und Liepaja State City Municipality auf dem Gebiet der ehemaligen Fabrik "Liepājas metalurgs" zwischen Brīvības Street, Meldru Street, Esermalas Street, Parka Street und Zemnieku Street entwickelt. Es grenzt an den Liepajasee, der ein besonders geschütztes Naturgebiet ist. Nach der genehmigten Entwicklungsstrategie ist geplant, mehr als 275 Millionen private Investitionen anzuziehen. EUR und schaffen mindestens 1500 neue Arbeitsplätze. </p></div>
+<div class="col"><div class="col-12 output"><p>Die jüngste Ausgabe der ständigen Reihe von Veröffentlichungen der Real Dl zeigt die attraktivsten Investitionsprojekte in verschiedenen Regionen und Sektoren auf: 2026. TOP 10. Im heutigen Wettbewerb sind Orte attraktiver für Investitionen, die nicht nur Land, sondern auch moderne Infrastruktur, Energiesicherheit, Logistikverbindungen und ein Ökosystem bieten können, das sich für die moderne Produktion eignet. TOP10 Der Industriepark Liepāja wird als eines der vielversprechendsten europäischen Projekte hervorgehoben.</p><p>Die von den Real Dl ausgewählten Projekte spiegeln die Vielfalt und das Ausmaß dieser Investitionsmöglichkeiten wider. Sie umfassen sowohl wichtige freie Häfen als auch bereits etablierte Industriegebiete sowie Revitalisierungsprojekte für degradierte Gebiete und flughafenbezogene Logistikzentren. Nach den Real Dl zeigen diese Projekte im Allgemeinen, wie Konnektivität, Infrastruktur, verfügbare Flächen und zunehmend entwickelte industrielle Ökosysteme Orte sind, um Investitionen der nächsten Generation anzuziehen. Die Länder konkurrieren nicht mehr nur um Investitionen, sondern auch um die Fähigkeit, die von Investoren benötigte industrielle Infrastruktur bereitzustellen. </p><p>Das Magazin Real Dl hat 10 vielversprechende Industrie- und Logistikinvestitionsprojekte in der Welt hervorgehoben. Die Projekte sind in verschiedenen Ländern angesiedelt und zeigen verschiedene Entwicklungsmodelle: von großen Industriezentren in Deutschland und Spanien bis hin zu neuen Logistikzentren in Island, Rumänien, Lettland, Großbritannien und Mexiko. </p><p>Der Industriepark Liepāja, in dem nachhaltiges Denken in den genetischen Code aufgenommen wird, definiert klar die Grundprinzipien Bildung, Innovation und Kreislaufwirtschaft. Das Gebiet der ehemaligen Fabrik, die Metallurgie von Liepāja, wird allmählich in die Stadt zurückgebracht, wodurch sie öffentlich zugänglich und für Investoren attraktiv ist. </p><p>Liepāja Industrial Park wird von der Liepāja SEZ Authority und Liepāja State City Municipality auf dem Gebiet der ehemaligen Fabrik "Liepājas metalurgs" zwischen Brīvības Street, Meldru Street, Esermalas Street, Parka Street und Zemnieku Street entwickelt. Es grenzt an den Liepajasee, der ein besonders geschütztes Naturgebiet ist. 2000√. Nach der genehmigten Entwicklungsstrategie ist geplant, mehr private Investitionen anzuziehen als 275 Mio. EUR und schaffen mindestens 1500 Ein neuer Job. </p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="../../../img/mod/news/319/870_1790069221_66_09.21.2026._LIP.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="../../../img/mod/news/319/original_1790069221_66_09.21.2026._LIP.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="../../../img/mod/news/319/original_1790069221_66_09.21.2026._LIP.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="../tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/sakums/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/sakums/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="../izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/sakums/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/sakums/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -108,7 +108,7 @@ html.classList.add(localStorage['contrast']);
 <div class="prev">
 </div>
 <div class="next">
-<a aria-label="Weiter" class="next related-pagination" data-page="2" href="index.php">
+<a aria-label="Weiter" class="next related-pagination" data-page="2" href="/site/de/sakums/liepajas-industrialais-parks-ieklauts-pasaules-top-10-investicijam-pievilcigako-industrial/index.php">
 
 Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 </a>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/sakums/liepajas-industrialais-parks-ieklauts-pasaules-top-10-investicijam-pievilcigako-industrial/index.php"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

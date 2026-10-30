@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="https://liepaja-sez.lv//img/mod/news/118/1710415046_11_03.14.2024._Van_Oord_atkraste_ligums__.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/medijiem/paraksta-ligumu-ar-liepajas-sez-parvaldi-par-atkrastes-veja-parku-atbalsta-bazes-buvniecibu" property="og:url"/>
-<meta content='&quot;Van Oord&quot; unterzeichnet Abkommen mit Liepaja SEZ Authority auf dem Bau von Offshore-Windpark Unterstützung Basis und Massenladung Terminal in Hafen von Liepaja' property="og:title"/>
+<meta content='&quot;Van Oord&quot; unterzeichnet Abkommen mit Liepāja SEZ Authority auf dem Bau von Offshore-Windpark Unterstützung Basis und Massenladung Terminal in Hafen von Liepāja' property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>"Van Oord" unterzeichnet ein Abkommen mit Liepaja SEZ Authority auf dem Bau von Offshore-Windpark Unterstützung Basis und großformatige Fracht Terminal im Hafen von Liepaja</title>
+<title>"Van Oord" unterzeichnet ein Abkommen mit Liepāja SEZ Authority auf dem Bau von Offshore-Windpark Unterstützung Basis und großformatige Fracht Terminal im Hafen von Liepāja</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
@@ -47,18 +47,18 @@ html.classList.add(localStorage['contrast']);
 <span>E-Mail: <a href="mailto:liga.ratniece-kadege@lsez.lv" target="_blank">liga.ratniece-kadege@lsez.lv</a></span>
 </div>
 <div class="col-12 col-md-9 mt-md-5">
-<span class="date d-block mt-md-5">20. 8. März 2024</span>
-<h1 class="article-title">"Van Oord" unterzeichnet Abkommen mit Liepaja SEZ Authority auf dem Bau von Offshore-Windpark Unterstützung Basis und Massenladung Terminal in Hafen von Liepaja</h1>
+<span class="date d-block mt-md-5">20. März 2024</span>
+<h1 class="article-title">"Van Oord" unterzeichnet Abkommen mit Liepāja SEZ Authority auf dem Bau von Offshore-Windpark Unterstützung Basis und Massenladung Terminal in Hafen von Liepāja</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Um Offshore-Windenergie in der Ostsee zu fördern, ist eines der führenden Unternehmen in der Industrie Van Ord Dredging und Marine Contractors B.V. (Van Oord) plant die Schaffung eines erstklassigen Offshore-Windparks Unterstützung Basis und Schüttgut Terminal im Hafen von Liepaja. Es ist durch die Reservierungsvereinbarung zwischen Van Oord und Liepaja Special Economic Zone (Liepaja SEZ) Verwaltung festgelegt.</p><p>Während der zweijährigen Buchungsvereinbarung wird Van Oord vorbereitende Arbeiten mit Forschung, Entwicklung eines Geschäftsplans, Design und Anziehungskraft von Partnern durchführen, die in diesem Sektor tätig sind. Es ist geplant, dass Offshore-Windunterstützung Basisbau im Hafen von Liepaja wird von der niederländischen Firma 2026 gestartet werden. in 2019 bis 2027. Sie würde Mitte 2002 in Betrieb genommen werden.</p><p>Das neue Terminal wird sich mit dem Mangel an Hafeninfrastrukturkapazitäten für den Bau von Windparks in der Ostsee befassen. Darüber hinaus ist geplant, andere Schüttgüter zu bedienen und zu entwickeln. Das 55 Hektar große Gebiet wird durch das Abwaschen neuer Flächen entstehen, wodurch eine neue Mehrzweck-Transportinfrastruktur geschaffen und auch die Errichtung neuer Produktions- und/oder Montageanlagen ermöglicht wird. Der Van Oord-Projektleiter Mark Bots: "Van Oords Ambitionen sollen der Initiator sein, die Transformation des Energiesektors zu beschleunigen. Dieses Projekt ist ein leistungsstarkes Beispiel dafür, wie Van Oord diese Rolle übernehmen kann, um eine gute Veränderung für künftige Generationen zu gewährleisten."</p><p>Indem Van Ord die Rolle des Entwicklers in der Hafeninfrastruktur im Zusammenhang mit der Entwicklung von Offshore-Windenergieprojekten in der Ostsee übernimmt, fördert er aktiv den Übergang zur Erzeugung erneuerbarer Energien. Van Ords Engagement für den Bau dringend benötigter Hafeninfrastruktur für Offshore-Windenergieprojekte basiert auf dem Ziel des Unternehmens, eine bessere Welt für künftige Generationen zu schaffen.</p><p>Uldis Hmieļevskis, Liepaja SEZ General Manager, zeigte sich erfreut darüber, dass einer der schwersten Teilnehmer der Windenergieindustrie Van Ord sich für die Schaffung eines Zentrums für Windkraft in der Ostsee entschieden hat. Die Offshore-Windenergieunterstützungsbasis im Hafen von Liepaja wird die wirtschaftliche Entwicklung fördern und bedeutende ausländische Investitionen in nachhaltige Wirtschaft und grüne Energieproduktion anziehen. Nur eines der Projekte von Liepaja wird die Energieunabhängigkeit Lettlands und Europas stärken."</p><p>Die unterzeichnete Reservierungsvereinbarung zwischen Van Ord und Liepaja SEZ Authority sieht vor, dass Van Ord als Entwickler und Investor des Gebiets Offshore-Windunterstützungsbasis und Massenfrachtterminal im Hafen von Liepaja mit Ausnahme von 55 ha von dem gesamten 560 ha Gebiet entwerfen und bauen wird. Die Prep ist ein einzigartiges Gebiet im Hafen von Liepaja, das auf Wellenbrecher beschränkt ist, mit drei Hafentoren ausgestattet und bietet eine breite Palette von Möglichkeiten für Offshore-Wind- und grüne Energieprojekte.</p></div>
+<div class="col"><div class="col-12 output"><p>Um Offshore-Windenergie in der Ostsee zu fördern, ist eines der führenden Unternehmen in der Industrie Van Ord Dredging und Marine Contractors B.V. (Van Oord) plant die Schaffung eines erstklassigen Offshore-Windparks Unterstützung Basis und Schüttgut Terminal im Hafen von Liepāja. Es ist durch die Reservierungsvereinbarung zwischen Van Oord und Liepāja Special Economic Zone (Liepāja SEZ) Verwaltung festgelegt.</p><p>Während der zweijährigen Buchungsvereinbarung wird Van Oord vorbereitende Arbeiten mit Forschung, Entwicklung eines Geschäftsplans, Design und Anziehungskraft von Partnern durchführen, die in diesem Sektor tätig sind. Es ist geplant, dass Offshore-Windunterstützung Basisbau im Hafen von Liepāja wird beginnen 2026. im Jahr , bis 2027. Sie würde Mitte in Betrieb genommen werden.</p><p>Das neue Terminal wird sich mit dem Mangel an Hafeninfrastrukturkapazitäten für den Bau von Windparks in der Ostsee befassen. Darüber hinaus ist geplant, andere Schüttgüter zu bedienen und zu entwickeln. Das 55 Hektar große Gebiet wird durch das Abwaschen neuer Flächen entstehen, wodurch eine neue Mehrzweck-Transportinfrastruktur geschaffen und auch die Errichtung neuer Produktions- und/oder Montageanlagen ermöglicht wird. Der Van Oord-Projektleiter Mark Bots: "Van Oords Ambitionen sollen der Initiator sein, die Transformation des Energiesektors zu beschleunigen. Dieses Projekt ist ein leistungsstarkes Beispiel dafür, wie Van Oord diese Rolle übernehmen kann, um eine gute Veränderung für künftige Generationen zu gewährleisten."</p><p>Indem Van Ord die Rolle des Entwicklers in der Hafeninfrastruktur im Zusammenhang mit der Entwicklung von Offshore-Windenergieprojekten in der Ostsee übernimmt, fördert er aktiv den Übergang zur Erzeugung erneuerbarer Energien. Van Ords Engagement für den Bau dringend benötigter Hafeninfrastruktur für Offshore-Windenergieprojekte basiert auf dem Ziel des Unternehmens, eine bessere Welt für künftige Generationen zu schaffen.</p><p>Uldis Hmieļevskis, Liepāja SEZ General Manager, zeigte sich erfreut darüber, dass einer der schwersten Teilnehmer der Windenergieindustrie Van Ord sich für die Schaffung eines Zentrums für Windkraft in der Ostsee entschieden hat. Die Offshore-Windenergieunterstützungsbasis im Hafen von Liepāja wird die wirtschaftliche Entwicklung fördern und bedeutende ausländische Investitionen in nachhaltige Wirtschaft und grüne Energieproduktion anziehen. Nur eines der Projekte von Liepāja wird die Energieunabhängigkeit Lettlands und Europas stärken."</p><p>Die unterzeichnete Reservierungsvereinbarung zwischen Van Ord und Liepāja SEZ Authority sieht vor, dass Van Ord als Entwickler und Investor des Gebiets Offshore-Windunterstützungsbasis und Massenfrachtterminal im Hafen von Liepāja mit Ausnahme von 55 ha von dem gesamten 560 ha Gebiet entwerfen und bauen wird. Die Prep ist ein einzigartiges Gebiet im Hafen von Liepāja, das auf Wellenbrecher beschränkt ist, mit drei Hafentoren ausgestattet und bietet eine breite Palette von Möglichkeiten für Offshore-Wind- und grüne Energieprojekte.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/118/870_1710415632_11_03.14.2024._Van_Oord_atkraste_ligums__.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/118/original_1710415632_11_03.14.2024._Van_Oord_atkraste_ligums__.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/118/original_1710415632_11_03.14.2024._Van_Oord_atkraste_ligums__.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

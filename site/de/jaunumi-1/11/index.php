@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/jaunumi-1/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -49,7 +49,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Fotos
@@ -57,7 +57,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -71,18 +71,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Zusammenfassung der Vorschläge über neue Straßennamen des Industrieparks Liepaja</h2>
+<h2>Zusammenfassung der Vorschläge über neue Straßennamen des Industrieparks Liepāja</h2>
 <span class="mb-3">27.05.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../apkopoti-priekslikumi-par-liepajas-industriala-parka-jauno-ielu-nosaukumiem/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/apkopoti-priekslikumi-par-liepajas-industriala-parka-jauno-ielu-nosaukumiem/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Zu Beginn dieses Jahres hat die Liepaja SEZ Authority Lieutenants eingeladen, sich an einem historischen Ereignis zu beteiligen.Das Büro von Liepaja hat Namen für acht neue Straßen vorgeschlagen, die im Gebiet der ehemaligen Fabrik Liepaja Metalurgs gebaut werden. 26. Im Mai fand auf dem Gebiet des Industrieparks Liepaja eine symbolische Zusammenfassung der Ergebnisse der Ausstellung und Karten der Gebiete statt, in denen die neuen Straßen Martena, Drei Schornsteine, Engineering, Export, Skugun, Naglu, Dūma und Iron Cutting in Zukunft liegen konnten. Die zusammengefassten Vorschläge werden der Stadt Liepaja vorgelegt, die eine endgültige Entscheidung über Straßennamen treffen wird.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../apkopoti-priekslikumi-par-liepajas-industriala-parka-jauno-ielu-nosaukumiem/index.php">Weiterlesen</a>
+<p>Zu Beginn dieses Jahres hat die Liepāja SEZ Authority Lieutenants eingeladen, sich an einem historischen Ereignis zu beteiligen.Das Büro von Liepāja hat Namen für acht neue Straßen vorgeschlagen, die im Gebiet der ehemaligen Fabrik Liepāja Metalurgs gebaut werden. 26. Im Mai fand auf dem Gebiet des Industrieparks Liepāja eine symbolische Zusammenfassung der Ergebnisse der Ausstellung und Karten der Gebiete statt, in denen die neuen Straßen Martena, Drei Schornsteine, Engineering, Export, Skugun, Naglu, Dūma und Iron Cutting in Zukunft liegen konnten. Die zusammengefassten Vorschläge werden der Stadt Liepāja vorgelegt, die eine endgültige Entscheidung über Straßennamen treffen wird.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/apkopoti-priekslikumi-par-liepajas-industriala-parka-jauno-ielu-nosaukumiem/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/221/1748337869__R1A4452.webp)">
-<a aria-label="Weiterlesen" href="../apkopoti-priekslikumi-par-liepajas-industriala-parka-jauno-ielu-nosaukumiem/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/apkopoti-priekslikumi-par-liepajas-industriala-parka-jauno-ielu-nosaukumiem/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/221/1748337869__R1A4452.webp"/>
 </a>
 </div>
@@ -91,18 +91,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Klärung der veröffentlichten Bekanntmachung über die schriftliche Versteigerung des Rechts auf Miete von Immobilienhafenreinigungsanlagen im Besitz der Liepaja SEZ Authority</h2>
+<h2>Klärung der veröffentlichten Bekanntmachung über die schriftliche Versteigerung des Rechts auf Miete von Immobilienhafenreinigungsanlagen im Besitz der Liepāja SEZ Authority</h2>
 <span class="mb-3">07.05.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../precizejums-par-publiceto-pazinojumu-par-liepajas-sez-parvaldes-valdijuma-esosa-nekustama--1/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/precizejums-par-publiceto-pazinojumu-par-liepajas-sez-parvaldes-valdijuma-esosa-nekustama--1/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Die Registrierung der Auktionsteilnehmer erfolgt ab 2025. 3. März 2005 um 9.00 Uhr 08:00 bis 2025 16.30 Uhr am 13. Juni 2005 Der Auktionsteilnehmer muss das Angebot persönlich oder über eine befugte Person der Verwaltungsbehörde, Feniksa Street 4, Liepaja, innerhalb der in der Ausschreibung angegebenen Frist (innerhalb der Arbeitszeiten der Verwaltung von 8:00-12.00 und 12:30-16:30) bis zum 13. Juni 2025 einreichen. Die Angebote werden am 16. Juni 2025 um 21.00 Uhr eröffnet. 13.00 Uhr</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../precizejums-par-publiceto-pazinojumu-par-liepajas-sez-parvaldes-valdijuma-esosa-nekustama--1/index.php">Weiterlesen</a>
+<p>Die Auktionsteilnehmer werden registriert von: 3. März 2025 Uhr 08:00 bis 13. Juni 2025 Uhr16.30. Der Auktionsteilnehmer muss das Angebot persönlich oder über eine befugte Person der Verwaltung, Feniksa Street, vorlegen. 4, in Liepāja, innerhalb der in der Mitteilung der Auktionsteilnehmer angegebenen Frist (während der Arbeit der Verwaltung ab Uhr.8:00-12.00 und ab Uhr12:30-16:30), bis 13. Juni 2025. Die Angebote werden eröffnet 16. Juni 2025 Uhr 13:00.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/precizejums-par-publiceto-pazinojumu-par-liepajas-sez-parvaldes-valdijuma-esosa-nekustama--1/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/220/1746620912_original_1744188343_LSEZ_aero (234).webp)">
-<a aria-label="Weiterlesen" href="../precizejums-par-publiceto-pazinojumu-par-liepajas-sez-parvaldes-valdijuma-esosa-nekustama--1/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/precizejums-par-publiceto-pazinojumu-par-liepajas-sez-parvaldes-valdijuma-esosa-nekustama--1/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/220/1746620912_original_1744188343_LSEZ_aero (234).webp"/>
 </a>
 </div>
@@ -114,15 +114,15 @@ Vorstandssitzungen
 <h2>Nicht-Bau der Ammoniakfabrik, Wasserstoff wird auf See weiter produziert</h2>
 <span class="mb-3">30.04.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../nebuves-amonjaka-rupnicu-udenradi-razos-talak-jura/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/nebuves-amonjaka-rupnicu-udenradi-razos-talak-jura/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Tor Arne Pedersens, Leiterin der CIS Liepaja, erklärte während des Arbeitstreffens, dass im Einvernehmen mit dem Stadtrat von Liepaja und dem Management der Liepaja SEZ der mögliche Standort der geplanten Wasserstoffproduktionsanlage geändert worden sei. Entwicklung. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../nebuves-amonjaka-rupnicu-udenradi-razos-talak-jura/index.php">Weiterlesen</a>
+<p>Tor Arne Pedersens, Leiterin der CIS Liepāja, erklärte während des Arbeitstreffens, dass im Einvernehmen mit dem Stadtrat von Liepāja und dem Management der Liepāja SEZ der mögliche Standort der geplanten Wasserstoffproduktionsanlage geändert worden sei. Entwicklung. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/nebuves-amonjaka-rupnicu-udenradi-razos-talak-jura/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/219/1745996892__R1A0888.webp)">
-<a aria-label="Weiterlesen" href="../nebuves-amonjaka-rupnicu-udenradi-razos-talak-jura/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/nebuves-amonjaka-rupnicu-udenradi-razos-talak-jura/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/219/1745996892__R1A0888.webp"/>
 </a>
 </div>
@@ -134,15 +134,15 @@ Vorstandssitzungen
 <h2>Wie kann ein Mehrwert für erneuerbare Windenergie geschaffen werden? </h2>
 <span class="mb-3">25.04.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../ka-radit-lielaku-pievienoto-vertibu-atjaunigai-veja-energijai/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/ka-radit-lielaku-pievienoto-vertibu-atjaunigai-veja-energijai/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Mit intensiven Diskussionen über die Entwicklung der Offshore-Windenergieindustrie in der Region und wie erneuerbare Energien genutzt werden können, um einen größeren Mehrwert für Wirtschaft und Wirtschaft des Landes zu schaffen, kam die führende Ostsee-Windkraftkonferenz Wind Works 2025 zum Abschluss. April fand in Riga statt. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../ka-radit-lielaku-pievienoto-vertibu-atjaunigai-veja-energijai/index.php">Weiterlesen</a>
+<p>Mit intensiven Diskussionen über die Entwicklung der Offshore-Windenergieindustrie in der Region und wie erneuerbare Energien genutzt werden können, um einen Mehrwert für die Wirtschaft des Landes zu schaffen, haben wir die Baltikum führende Windenergiekonferenz "Wind Works" abgeschlossen. 2025", die 24. April fand in Riga statt. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/ka-radit-lielaku-pievienoto-vertibu-atjaunigai-veja-energijai/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/217/1745835850_windworks-133.webp)">
-<a aria-label="Weiterlesen" href="../ka-radit-lielaku-pievienoto-vertibu-atjaunigai-veja-energijai/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/ka-radit-lielaku-pievienoto-vertibu-atjaunigai-veja-energijai/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/217/1745835850_windworks-133.webp"/>
 </a>
 </div>
@@ -154,15 +154,15 @@ Vorstandssitzungen
 <h2>Meister der lettischen Häfen diskutieren aktuelle Veranstaltungen der Branche</h2>
 <span class="mb-3">11.04.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../latvijas-ostu-kapteini-parruna-nozares-aktualitates/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/latvijas-ostu-kapteini-parruna-nozares-aktualitates/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>10. Die lettischen Hafenkapitänen und die Verwaltung der maritimen Verwaltung versammelten sich am April in Liepaja, um zusammen zu arbeiten, unter Beteiligung von Vertretern der NAF Naval Forces. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../latvijas-ostu-kapteini-parruna-nozares-aktualitates/index.php">Weiterlesen</a>
+<p>10. Die lettischen Hafenkapitänen und die Verwaltung der maritimen Verwaltung versammelten sich am April in Liepāja, um zusammen zu arbeiten, unter Beteiligung von Vertretern der NAF Naval Forces. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/latvijas-ostu-kapteini-parruna-nozares-aktualitates/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/216/1744352948__R1A0211.webp)">
-<a aria-label="Weiterlesen" href="../latvijas-ostu-kapteini-parruna-nozares-aktualitates/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/latvijas-ostu-kapteini-parruna-nozares-aktualitates/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/216/1744352948__R1A0211.webp"/>
 </a>
 </div>
@@ -171,18 +171,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Liepaja SEZ Authority nimmt an der größten Messe für Windenergie teil</h2>
+<h2>Liepāja SEZ Authority nimmt an der größten Messe für Windenergie teil</h2>
 <span class="mb-3">09.04.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-parvalde-piedalas-lielakaja-veja-energijas-nozares-izstade/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepajas-sez-parvalde-piedalas-lielakaja-veja-energijas-nozares-izstade/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Uldis Hmielevskis, Liepaja SEZ General Manager und Jānis Lapiņš von 8. Der Kommission wird die Befugnis übertragen, delegierte Rechtsakte gemäß Artikel 23 zur Ergänzung dieser Verordnung durch Durchführungsbestimmungen zu dieser Verordnung zu erlassen. Im April wird an der größten jährlichen Windenergiemesse "WindEurope Annual Event 2025" in Kopenhagen, Dänemark, teilnehmen.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-parvalde-piedalas-lielakaja-veja-energijas-nozares-izstade/index.php">Weiterlesen</a>
+<p>Uldis Hmielevskis, Liepāja SEZ Manager und Jānis Lapiņš von Liepāja SEZ Manager für Erneuerbare Energien Projekte 8. bis 10. Teilnahme an der größten Jahresausstellung der Windenergieindustrie "WindEurope Annual event 2025" Kopenhagen, Dänemark.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepajas-sez-parvalde-piedalas-lielakaja-veja-energijas-nozares-izstade/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/215/1744214973_21_04.09.2025_wind_europa_1.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-parvalde-piedalas-lielakaja-veja-energijas-nozares-izstade/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepajas-sez-parvalde-piedalas-lielakaja-veja-energijas-nozares-izstade/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/215/1744214973_21_04.09.2025_wind_europa_1.webp"/>
 </a>
 </div>
@@ -191,7 +191,7 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev" data-block="2" data-page="10" data-per-page="6" data-topic="14" href="../10/index.php">
+<a class="news-list-pagination prev" data-block="2" data-page="10" data-per-page="6" data-topic="14" href="/site/de/jaunumi-1/10/index.php">
 <img alt="Zurück" src="../../../img/round-right.svg"/>
 
 Zurück
@@ -199,7 +199,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="2" data-page="12" data-per-page="6" data-topic="14" href="../12/index.php">
+<a class="news-list-pagination next" data-block="2" data-page="12" data-per-page="6" data-topic="14" href="/site/de/jaunumi-1/12/index.php">
 
 Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 </a>
@@ -244,7 +244,7 @@ Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

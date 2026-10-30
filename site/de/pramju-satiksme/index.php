@@ -40,7 +40,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../investe-liepaja/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/investe-liepaja/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Investieren in Liepāja
@@ -56,7 +56,7 @@ Hafen
 </a>
 <div class="sidebar-nested ps-md-4">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../par-ostu/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/par-ostu/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Über den Hafen
@@ -64,7 +64,7 @@ Hafen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/pramju-satiksme/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Fährverkehr
@@ -72,7 +72,7 @@ Fährverkehr
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../kruiza-kugi/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/kruiza-kugi/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Kreuzfahrtschiffe
@@ -80,7 +80,7 @@ Kreuzfahrtschiffe
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../jahtu-osta/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/jahtu-osta/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Yachthafen
@@ -88,7 +88,7 @@ Yachthafen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../oskara-kalpaka-tilts/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/oskara-kalpaka-tilts/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Oskars-Kalpaks-Brücke
@@ -98,7 +98,7 @@ Oskars-Kalpaks-Brücke
 </div>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../kapitalsabiedribas/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/kapitalsabiedribas/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Unternehmen
@@ -106,7 +106,7 @@ Unternehmen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../attistibas-projekti/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/attistibas-projekti/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Entwicklungsprojekte
@@ -114,7 +114,7 @@ Entwicklungsprojekte
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../darbs-liepaja/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/darbs-liepaja/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Stellenangebote in Liepāja
@@ -122,7 +122,7 @@ Stellenangebote in Liepāja
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../teritoriju-karte/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/teritoriju-karte/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Gebietskarte
@@ -201,7 +201,7 @@ Fluggastregistrierung und Ticketinformationen
 </div>
 <div aria-labelledby="heading4052" class="collapse" data-parent="#accordion" id="collapse4052">
 <div class="card-body">
-<p><strong>Telefon: </strong>(+371) 63622999</p><p><strong>E-Mail: </strong><a href="mailto:info.lv@stenaline.com"><strong>info.lv@stenaline.com</strong></a></p><p><a href="index.php"><strong>www.stenaline.lv</strong></a></p><br/>
+<p><strong>Telefon: </strong>(+371) 63622999</p><p><strong>E-Mail: </strong><a href="mailto:info.lv@stenaline.com"><strong>info.lv@stenaline.com</strong></a></p><p><a href="/site/de/pramju-satiksme/index.php"><strong>www.stenaline.lv</strong></a></p><br/>
 </div>
 </div>
 </div>
@@ -210,7 +210,7 @@ Fluggastregistrierung und Ticketinformationen
 </div>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Der Fährverkehr wird von Stena Line Ports Liepaja SEZ Ltd. bereitgestellt, einem spezialisierten Fährterminal, in dem bis zu 20 Fährbesuche pro Woche serviert werden können. </p><p>Dies ist das erste lettische Unternehmen, das Fährdienste zwischen Europa und den baltischen Staaten organisiert und seit mehr als 20 Jahren erfolgreich regelmäßige Seeverkehrsdienste betreibt.</p></div>
+<div class="col"><div class="col-12 output"><p>Der Fährverkehr wird von Stena Line Ports Liepāja SEZ Ltd. bereitgestellt, einem spezialisierten Fährterminal, in dem bis zu 20 Fährbesuche pro Woche serviert werden können. </p><p>Dies ist das erste lettische Unternehmen, das Fährdienste zwischen Europa und den baltischen Staaten organisiert und seit mehr als 20 Jahren erfolgreich regelmäßige Seeverkehrsdienste betreibt.</p></div>
 </div>
 </div>
 </div>
@@ -227,14 +227,14 @@ Fluggastregistrierung und Ticketinformationen
 </div>
 <div class="col-12 mb-3">
 
-Anschrift: Freeports 14A, LV-3405, Liepaja, Lettland. Telefonnummer (+371) 634 25756
+Anschrift: Freeports 14A, LV-3405, Liepāja, Lettland. Telefonnummer (+371) 634 25756
 
 </div>
 <div class="col-12 mt-3">
 <div class="session-submit d-none"></div> <script async="" defer="" src="https://www.google.com/recaptcha/api.js"></script>
 <script>
 
-$(document).ready(function(){							
+$(document).ready(function(){
 
 if($('.session-submit').text()=="success"){
 
@@ -250,7 +250,7 @@ confirmButtonText: 'OK'
 
 });
 
-}		
+}
 
 if($('.session-submit').text()=="fail"){
 
@@ -333,7 +333,7 @@ confirmButtonText: 'OK'
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/pramju-satiksme/index.php"><img alt="Nach oben" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

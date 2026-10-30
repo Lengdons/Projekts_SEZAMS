@@ -40,7 +40,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../investe-liepaja/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/investe-liepaja/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Investieren in Liepāja
@@ -56,7 +56,7 @@ Hafen
 </a>
 <div class="sidebar-nested ps-md-4">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../par-ostu/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/par-ostu/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Über den Hafen
@@ -64,7 +64,7 @@ Hafen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../pramju-satiksme/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/pramju-satiksme/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Fährverkehr
@@ -72,7 +72,7 @@ Fährverkehr
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../kruiza-kugi/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/kruiza-kugi/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Kreuzfahrtschiffe
@@ -80,7 +80,7 @@ Kreuzfahrtschiffe
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../jahtu-osta/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/jahtu-osta/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Yachthafen
@@ -88,7 +88,7 @@ Yachthafen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../oskara-kalpaka-tilts/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/oskara-kalpaka-tilts/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Oskars-Kalpaks-Brücke
@@ -98,7 +98,7 @@ Oskars-Kalpaks-Brücke
 </div>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../kapitalsabiedribas/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/kapitalsabiedribas/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Unternehmen
@@ -106,7 +106,7 @@ Unternehmen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../attistibas-projekti/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/attistibas-projekti/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Entwicklungsprojekte
@@ -114,7 +114,7 @@ Entwicklungsprojekte
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../darbs-liepaja/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/darbs-liepaja/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Stellenangebote in Liepāja
@@ -122,7 +122,7 @@ Stellenangebote in Liepāja
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/teritoriju-karte/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Gebietskarte
@@ -135,11 +135,11 @@ Gebietskarte
 <div class="map">
 <div class="row">
 <div class="col-12 map-title">
-<h1 class="mb-5"><a href="map/liepajas-sez-teritorija/index.php">Gebiet der Sonderwirtschaftszone Liepāja</a></h1>
+<h1 class="mb-5"><a href="/site/de/teritoriju-karte/map/liepajas-sez-teritorija/index.php">Gebiet der Sonderwirtschaftszone Liepāja</a></h1>
 </div>
 <div class="col-12 mb-5">
 <span class="nocontrast" id="map-block">
-<a href="map/liepajas-sez-teritorija/index.php">
+<a href="/site/de/teritoriju-karte/map/liepajas-sez-teritorija/index.php">
 <img id="img" src="../../img/mod/map/17/1707388365_Kartes_1920x1320_Karte_titula.webp"/>
 </a><span class="map-popover" data-bs-target="#modal63" data-bs-toggle="modal" style="left:79.91304347826087%;top:43.23640960809102%;">
 <img src="../../img/mod/map/icons/4.svg"/>
@@ -164,11 +164,11 @@ Gebietskarte
 <div class="modal-dialog modal-dialog-centered modal-lg">
 <div class="modal-content pins-modal">
 <div class="modal-header">
-<h1 class="modal-title fs-5" id="modalLabel64">Geschäftszentrum Liepaja</h1>
+<h1 class="modal-title fs-5" id="modalLabel64">Geschäftszentrum Liepāja</h1>
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Eigentümer des Business Center Liepaja ist Pumac Liepaja, der seine Verwaltung, Wartung und Entwicklung von Infrastruktur, Zusammenarbeit mit Mietern gewährleistet.</p><p><strong>Adresse: </strong>Kapsēdes iela 2, Liepaja, LV-3414, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 28308642</p><p><strong>E-Mail: </strong><a href="mailto:llivars@liepajabc.lv">livars@liepajabc.lv</a></p><p><strong>Website: </strong><a href="http://www.liepajabc.lv/" target="_blank">www.liepajabc.lv</a></p>
+<p>Eigentümer des Business Center Liepāja ist Pumac Liepāja, der seine Verwaltung, Wartung und Entwicklung von Infrastruktur, Zusammenarbeit mit Mietern gewährleistet.</p><p><strong>Adresse: </strong>Kapsēdes iela 2, Liepāja, LV-3414, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 28308642</p><p><strong>E-Mail: </strong><a href="mailto:llivars@liepajabc.lv">livars@liepajabc.lv</a></p><p><strong>Website: </strong><a href="http://www.liepajabc.lv/" target="_blank">www.liepajabc.lv</a></p>
 </div>
 </div>
 </div>
@@ -183,7 +183,7 @@ Gebietskarte
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Der alte Ostmala Business Park ist Eigentümer, Entwickler und Manager eines Industrie-Geschäftsparks in Liepaja, der lokalen und ausländischen Investoren die notwendigen Räumlichkeiten für den Start oder Ausbau ihres Unternehmens bietet.</p><p><strong>Adresse: </strong>Old Ostmala 10, Liepaja, LV-3401, Lettland</p><p><strong>Website:</strong> <a href="">www.vobp.lv</a></p><p><strong>Telefonnummer: </strong>(+371) 25666472</p>
+<p>Der alte Ostmala Business Park ist Eigentümer, Entwickler und Manager eines Industrie-Geschäftsparks in Liepāja, der lokalen und ausländischen Investoren die notwendigen Räumlichkeiten für den Start oder Ausbau ihres Unternehmens bietet.</p><p><strong>Adresse: </strong>Old Ostmala 10, Liepāja, LV-3401, Lettland</p><p><strong>Website:</strong> <a href="">www.vobp.lv</a></p><p><strong>Telefonnummer: </strong>(+371) 25666472</p>
 </div>
 </div>
 </div>
@@ -198,8 +198,8 @@ Gebietskarte
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Das Parkgebiet besteht aus 28 separaten Parzellen, die mit der notwendigen technischen Kommunikation mit Unterstützung des Stadtrats von Liepaja und des Europäischen Fonds für regionale Entwicklung ausgestattet sind.</p><p><strong>Telefon:</strong> (+371) 29294267 </p><p><strong>E-Mail: </strong><a href="mailto:raivo.spaks@lsez.lv">raivo.spaks@lsez.lv</a></p><p> </p><p> </p>
-<a class="map-btn mt-5 d-block" href="map/liepajas-sez-teritorija/index.php" target="_blank">Gebiet anzeigen</a>
+<p>Das Parkgebiet besteht aus 28 separaten Parzellen, die mit der notwendigen technischen Kommunikation mit Unterstützung des Stadtrats von Liepāja und des Europäischen Fonds für regionale Entwicklung ausgestattet sind.</p><p><strong>Telefon:</strong> (+371) 29294267 </p><p><strong>E-Mail: </strong><a href="mailto:raivo.spaks@lsez.lv">raivo.spaks@lsez.lv</a></p><p> </p><p> </p>
+<a class="map-btn mt-5 d-block" href="/site/de/teritoriju-karte/map/liepajas-sez-teritorija/index.php" target="_blank">Gebiet anzeigen</a>
 </div>
 </div>
 </div>
@@ -214,8 +214,8 @@ Gebietskarte
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>LSEZ Ltd. ist Eigentümer, Entwickler und Manager eines Industrieparks in Liepaja. Gesamtfläche 10 ha, 31 Gebäude mit Produktions-, Lager- und Serviceräumen 37 Tausend m2. </p><p><strong>Adresse:</strong> Flotes iela 16, Liepaja, LV-3405, Lettland</p><p><strong>Website:</strong> <a href="">www.nsbp.lv</a></p><p><strong>Telefonnummer: </strong>(+371) 20240811</p>
-<a class="map-btn mt-5 d-block" href="map/northside-business-park/index.php" target="">Gebiet anzeigen</a>
+<p>LSEZ Ltd. ist Eigentümer, Entwickler und Manager eines Industrieparks in Liepāja. Gesamtfläche 10 ha 31 Gebäude mit Herstellung, Lager, Serviceräume 37 eine Fläche von tausenden . </p><p><strong>Adresse:</strong> Flotes iela 16, Liepāja, LV-3405, Lettland</p><p><strong>Website:</strong> <a href="">www.nsbp.lv</a></p><p><strong>Telefonnummer: </strong>(+371) 20240811</p>
+<a class="map-btn mt-5 d-block" href="/site/de/teritoriju-karte/map/northside-business-park/index.php" target="">Gebiet anzeigen</a>
 </div>
 </div>
 </div>
@@ -230,7 +230,7 @@ Gebietskarte
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Die Entwicklung des Industrieparks Liepaja ist eines der bedeutendsten industriellen Entwicklungsprojekte in Liepaja, die von der Special Economic Zone Authority von Liepaja durchgeführt werden.</p><p>Ziel des Projekts ist es, das Gebiet der ehemaligen Fabrik Liepaja Metalurgs (Liepāja Metalurgrs) in einen modernen und nachhaltigen Industriepark zu verwandeln, der in Sektoren tätig ist, die von der Smart Spezialisierungsstrategie (RIS3) definiert werden, indem sie das Beschäftigungswachstum fördert und damit einen hohen Mehrwert für die Stadt Liepaja und die lettische Wirtschaft insgesamt schafft.</p><p><strong>Telefon:</strong> (+371) 20501905</p><p><strong>E-Mail:</strong> <a href="mailto:laura.adamovica@lsez.lv">laura.adamovica@lsez.lv</a></p>
+<p>Die Entwicklung des Industrieparks Liepāja ist eines der bedeutendsten industriellen Entwicklungsprojekte in Liepāja, die von der Special Economic Zone Authority von Liepāja durchgeführt werden.</p><p>Ziel des Projekts ist es, das Gebiet der ehemaligen Fabrik Liepāja Metalurgs (Liepāja Metalurgrs) in einen modernen und nachhaltigen Industriepark zu verwandeln, der in Sektoren tätig ist, die von der Smart Spezialisierungsstrategie (RIS3) definiert werden, indem sie das Beschäftigungswachstum fördert und damit einen hohen Mehrwert für die Stadt Liepāja und die lettische Wirtschaft insgesamt schafft.</p><p><strong>Telefon:</strong> (+371) 20501905</p><p><strong>E-Mail:</strong> <a href="mailto:laura.adamovica@lsez.lv">laura.adamovica@lsez.lv</a></p>
 </div>
 </div>
 </div>
@@ -245,7 +245,7 @@ Gebietskarte
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>LSEZ "Lauma Fabrics" Ltd. ist ein auf die Textilproduktion spezialisiertes Unternehmen. Der größte Vorteil des Unternehmens ist die Fähigkeit, komplette Materialien in einem einzigen Farbbereich herzustellen. </p><p><strong>Adresse: </strong>Ziemeļu iela 19, Liepaja, LV-3405, Lettland</p><p><strong>Telefon: </strong>(+371) 63447302</p><p><strong>Zimmermiete: </strong>(+371) 25458807</p><p><strong>E-Mail: </strong><a href="mailto:fabrics@laumafabrics.com">fabrics@laumafabrics.com</a></p><p><strong>Website: </strong><a href="http://www.laumafabrics.com/" target="_blank">www.laumafabrics.com</a></p>
+<p>LSEZ "Lauma Fabrics" Ltd. ist ein auf die Textilproduktion spezialisiertes Unternehmen. Der größte Vorteil des Unternehmens ist die Fähigkeit, komplette Materialien in einem einzigen Farbbereich herzustellen. </p><p><strong>Adresse: </strong>Ziemeļu iela 19, Liepāja, LV-3405, Lettland</p><p><strong>Telefon: </strong>(+371) 63447302</p><p><strong>Zimmermiete: </strong>(+371) 25458807</p><p><strong>E-Mail: </strong><a href="mailto:fabrics@laumafabrics.com">fabrics@laumafabrics.com</a></p><p><strong>Website: </strong><a href="http://www.laumafabrics.com/" target="_blank">www.laumafabrics.com</a></p>
 </div>
 </div>
 </div>
@@ -260,65 +260,65 @@ Gebietskarte
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Das Entwicklungsgebiet der Meldru Straße ist eine Alternative zu den Industriegebieten in der Stadt. Das Gebiet befindet sich in unmittelbarer Nähe der Brivibas Straße und bietet somit bequemen Zugang zu den Autobahnen A9 und Liepaja Hafen für Unternehmen, die auf dem Territorium ohne Überquerung von Wohngebieten arbeiten.</p><p>Das Gebiet besteht aus drei getrennten Parzellen, die mit Unterstützung des Stadtrats von Liepaja und des Europäischen Fonds für regionale Entwicklung mit für den Bau notwendigen technischen Kommunikationsmitteln ausgestattet sind.</p><p><strong>Telefon: </strong>(+371) 29294267 </p><p><strong>E-Mail: </strong><a href="mailto:raivo.spaks@lsez.lv" target="_blank">raivo.spaks@lsez.lv</a></p>
+<p>Das Entwicklungsgebiet der Meldru Straße ist eine Alternative zu den Industriegebieten in der Stadt. Das Gebiet befindet sich in unmittelbarer Nähe der Brivibas Straße und bietet somit bequemen Zugang zu den Autobahnen A9 und Liepāja Hafen für Unternehmen, die auf dem Territorium ohne Überquerung von Wohngebieten arbeiten.</p><p>Das Gebiet besteht aus drei getrennten Parzellen, die mit Unterstützung des Stadtrats von Liepāja und des Europäischen Fonds für regionale Entwicklung mit für den Bau notwendigen technischen Kommunikationsmitteln ausgestattet sind.</p><p><strong>Telefon: </strong>(+371) 29294267 </p><p><strong>E-Mail: </strong><a href="mailto:raivo.spaks@lsez.lv" target="_blank">raivo.spaks@lsez.lv</a></p>
 </div>
 </div>
 </div>
 </div>
 </span>
 </div><div class="col-12 col-md-6 col-lg-4 map-single mb-5">
-<div><a href="map/karostas-industrialais-parks/index.php"><img class="img-fluid" src="../../img/mod/map/19/1709029359_Kartes_1920x1320_4_karostas_ind_parks.webp"/></a>
+<div><a href="/site/de/teritoriju-karte/map/karostas-industrialais-parks/index.php"><img class="img-fluid" src="../../img/mod/map/19/1709029359_Kartes_1920x1320_4_karostas_ind_parks.webp"/></a>
 <span class="mt-2 d-block">Gebiet der Sonderwirtschaftszone Liepāja</span>
-<h3 class="mb-3"><a href="map/karostas-industrialais-parks/index.php">Industriepark Karosta</a></h3>
+<h3 class="mb-3"><a href="/site/de/teritoriju-karte/map/karostas-industrialais-parks/index.php">Industriepark Karosta</a></h3>
 </div>
-<a class="link" href="map/karostas-industrialais-parks/index.php">Mehr erfahren</a>
+<a class="link" href="/site/de/teritoriju-karte/map/karostas-industrialais-parks/index.php">Mehr erfahren</a>
 </div><div class="col-12 col-md-6 col-lg-4 map-single mb-5">
-<div><a href="map/liepajas-biznesa-centrs/index.php"><img class="img-fluid" src="../../img/mod/map/21/1709027980_Kartes_1920x1320_6_liep_biznesa_centrs.webp"/></a>
+<div><a href="/site/de/teritoriju-karte/map/liepajas-biznesa-centrs/index.php"><img class="img-fluid" src="../../img/mod/map/21/1709027980_Kartes_1920x1320_6_liep_biznesa_centrs.webp"/></a>
 <span class="mt-2 d-block">Gebiet der Sonderwirtschaftszone Liepāja</span>
-<h3 class="mb-3"><a href="map/liepajas-biznesa-centrs/index.php">Geschäftszentrum Liepaja</a></h3>
+<h3 class="mb-3"><a href="/site/de/teritoriju-karte/map/liepajas-biznesa-centrs/index.php">Geschäftszentrum Liepāja</a></h3>
 </div>
-<a class="link" href="map/liepajas-biznesa-centrs/index.php">Mehr erfahren</a>
+<a class="link" href="/site/de/teritoriju-karte/map/liepajas-biznesa-centrs/index.php">Mehr erfahren</a>
 </div><div class="col-12 col-md-6 col-lg-4 map-single mb-5">
-<div><a href="map/northside-business-park/index.php"><img class="img-fluid" src="../../img/mod/map/22/1709029655_Kartes_1920x1320_8_mashinbuves_ruupn.webp"/></a>
+<div><a href="/site/de/teritoriju-karte/map/northside-business-park/index.php"><img class="img-fluid" src="../../img/mod/map/22/1709029655_Kartes_1920x1320_8_mashinbuves_ruupn.webp"/></a>
 <span class="mt-2 d-block">Gebiet der Sonderwirtschaftszone Liepāja</span>
-<h3 class="mb-3"><a href="map/northside-business-park/index.php">Northside Business Park</a></h3>
+<h3 class="mb-3"><a href="/site/de/teritoriju-karte/map/northside-business-park/index.php">Northside Business Park</a></h3>
 </div>
-<a class="link" href="map/northside-business-park/index.php">Mehr erfahren</a>
+<a class="link" href="/site/de/teritoriju-karte/map/northside-business-park/index.php">Mehr erfahren</a>
 </div><div class="col-12 col-md-6 col-lg-4 map-single mb-5">
-<div><a href="map/vecas-ostmalas-biznesa-parks/index.php"><img class="img-fluid" src="../../img/mod/map/20/1709029340_Kartes_1920x1320_9_vecas_ostmals_biznesa_parks.webp"/></a>
+<div><a href="/site/de/teritoriju-karte/map/vecas-ostmalas-biznesa-parks/index.php"><img class="img-fluid" src="../../img/mod/map/20/1709029340_Kartes_1920x1320_9_vecas_ostmals_biznesa_parks.webp"/></a>
 <span class="mt-2 d-block">Gebiet der Sonderwirtschaftszone Liepāja</span>
-<h3 class="mb-3"><a href="map/vecas-ostmalas-biznesa-parks/index.php">Business Park des Alten Ostmals</a></h3>
+<h3 class="mb-3"><a href="/site/de/teritoriju-karte/map/vecas-ostmalas-biznesa-parks/index.php">Business Park des Alten Ostmals</a></h3>
 </div>
-<a class="link" href="map/vecas-ostmalas-biznesa-parks/index.php">Mehr erfahren</a>
+<a class="link" href="/site/de/teritoriju-karte/map/vecas-ostmalas-biznesa-parks/index.php">Mehr erfahren</a>
 </div><div class="col-12 col-md-6 col-lg-4 map-single mb-5">
-<div><a href="map/lauma-fabrics/index.php"><img class="img-fluid" src="../../img/mod/map/24/1709713840_Kartes_1920x1320_5_laumas_ind_parks.webp"/></a>
+<div><a href="/site/de/teritoriju-karte/map/lauma-fabrics/index.php"><img class="img-fluid" src="../../img/mod/map/24/1709713840_Kartes_1920x1320_5_laumas_ind_parks.webp"/></a>
 <span class="mt-2 d-block">Gebiet der Sonderwirtschaftszone Liepāja</span>
-<h3 class="mb-3"><a href="map/lauma-fabrics/index.php">Lauma Fabrics</a></h3>
+<h3 class="mb-3"><a href="/site/de/teritoriju-karte/map/lauma-fabrics/index.php">Lauma Fabrics</a></h3>
 </div>
-<a class="link" href="map/lauma-fabrics/index.php">Mehr erfahren</a>
+<a class="link" href="/site/de/teritoriju-karte/map/lauma-fabrics/index.php">Mehr erfahren</a>
 </div><div class="col-12 col-md-6 col-lg-4 map-single mb-5">
-<div><a href="map/liepajas-industrialais-parks/index.php"><img class="img-fluid" src="../../img/mod/map/18/1707388527_Kartes_1920x1320_7_liep_biznesa_parks.webp"/></a>
+<div><a href="/site/de/teritoriju-karte/map/liepajas-industrialais-parks/index.php"><img class="img-fluid" src="../../img/mod/map/18/1707388527_Kartes_1920x1320_7_liep_biznesa_parks.webp"/></a>
 <span class="mt-2 d-block">Gebiet der Sonderwirtschaftszone Liepāja</span>
-<h3 class="mb-3"><a href="map/liepajas-industrialais-parks/index.php">Industriepark Liepaja</a></h3>
+<h3 class="mb-3"><a href="/site/de/teritoriju-karte/map/liepajas-industrialais-parks/index.php">Industriepark Liepāja</a></h3>
 </div>
-<a class="link" href="map/liepajas-industrialais-parks/index.php">Mehr erfahren</a>
+<a class="link" href="/site/de/teritoriju-karte/map/liepajas-industrialais-parks/index.php">Mehr erfahren</a>
 </div>
 </div>
 </div>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p><a href="http://80.232.164.134/">Liepaja Stadt Raumplanung Browser in Karten der Lettischen Georäumlichen Informationsagentur.</a> Nach der Aktivierung des ländlichen Raums wird die Sonderwirtschaftszone bequem Informationen über das Gebiet von Liepaja SEZ erhalten.</p></div>
+<div class="col"><div class="col-12 output"><p><a href="http://80.232.164.134/">Liepāja Stadt Raumplanung Browser in Karten der Lettischen Georäumlichen Informationsagentur.</a> Nach der Aktivierung des ländlichen Raums wird die Sonderwirtschaftszone bequem Informationen über das Gebiet von Liepāja SEZ erhalten.</p></div>
 </div>
 </div>
 </div>
 <div class="map">
 <div class="row">
 <div class="col-12 map-title">
-<h1 class="mb-5"><a href="map/liepajas-osta/index.php">Hafen von Liepaja</a></h1>
+<h1 class="mb-5"><a href="/site/de/teritoriju-karte/map/liepajas-osta/index.php">Hafen von Liepāja</a></h1>
 </div>
 <div class="col-12 mb-5">
 <span class="nocontrast" id="map-block">
-<a href="map/liepajas-osta/index.php">
+<a href="/site/de/teritoriju-karte/map/liepajas-osta/index.php">
 <img id="img" src="../../img/mod/map/14/1707387987_Kartes_1920x1320_Karte_titula.webp"/>
 </a><span class="map-popover" data-bs-target="#modal79" data-bs-toggle="modal" style="left:45.77368469043494%;top:45.868032632586456%;">
 <img src="../../img/mod/map/icons/1.svg"/>
@@ -332,7 +332,7 @@ Gebietskarte
 </div>
 <div class="modal-body">
 <p>Die Länge des Karosta Kanals beträgt 3,5 Kilometer, die Breite bis 250 Meter und die durchschnittliche Tiefe 9 Meter. Die Grabung des Kanals fand von 1894 bis 1901 statt.</p>
-<a class="map-btn mt-5 d-block" href="../ostas-karte/map/karostas-kanals/index.php" target="">Gebiet anzeigen</a>
+<a class="map-btn mt-5 d-block" href="/site/de/ostas-karte/map/karostas-kanals/index.php" target="">Gebiet anzeigen</a>
 </div>
 </div>
 </div>
@@ -347,7 +347,7 @@ Gebietskarte
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<a class="map-btn mt-5 d-block" href="../ostas-karte/map/ziemas-osta/index.php" target="">Gebiet anzeigen</a>
+<a class="map-btn mt-5 d-block" href="/site/de/ostas-karte/map/ziemas-osta/index.php" target="">Gebiet anzeigen</a>
 </div>
 </div>
 </div>
@@ -362,7 +362,7 @@ Gebietskarte
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<a class="map-btn mt-5 d-block" href="../ostas-karte/map/brivosta/index.php" target="">Gebiet anzeigen</a>
+<a class="map-btn mt-5 d-block" href="/site/de/ostas-karte/map/brivosta/index.php" target="">Gebiet anzeigen</a>
 </div>
 </div>
 </div>
@@ -378,30 +378,30 @@ Gebietskarte
 </div>
 <div class="modal-body">
 <p>Die Brücke wurde am 19. August 1906 eröffnet und ist eine der ältesten Metallkonstruktionen in Lettland, ein Ingenieurdenkmal. Die Brücke wiegt 300 Tonnen und besteht aus zwei Teilen (Nord- und Südseiten) bestehend aus zwei identischen Konsolen.</p>
-<a class="map-btn mt-5 d-block" href="../oskara-kalpaka-tilts/index.php" target="">Gebiet anzeigen</a>
+<a class="map-btn mt-5 d-block" href="/site/de/oskara-kalpaka-tilts/index.php" target="">Gebiet anzeigen</a>
 </div>
 </div>
 </div>
 </div>
 </span>
 </div><div class="col-12 col-md-6 col-lg-4 map-single mb-5">
-<div><a href="map/karostas-kanals/index.php"><img class="img-fluid" src="../../img/mod/map/15/1707388022_Kartes_1920x1320_2_karsta_kanals.webp"/></a>
+<div><a href="/site/de/teritoriju-karte/map/karostas-kanals/index.php"><img class="img-fluid" src="../../img/mod/map/15/1707388022_Kartes_1920x1320_2_karsta_kanals.webp"/></a>
 <span class="mt-2 d-block">Gebiet der Sonderwirtschaftszone Liepāja</span>
-<h3 class="mb-3"><a href="map/karostas-kanals/index.php">Karosta-Kanal</a></h3>
+<h3 class="mb-3"><a href="/site/de/teritoriju-karte/map/karostas-kanals/index.php">Karosta-Kanal</a></h3>
 </div>
-<a class="link" href="map/karostas-kanals/index.php">Mehr erfahren</a>
+<a class="link" href="/site/de/teritoriju-karte/map/karostas-kanals/index.php">Mehr erfahren</a>
 </div><div class="col-12 col-md-6 col-lg-4 map-single mb-5">
-<div><a href="map/brivosta/index.php"><img class="img-fluid" src="../../img/mod/map/13/1709030803_Kartes_1920x1320_1_brivosta.webp"/></a>
+<div><a href="/site/de/teritoriju-karte/map/brivosta/index.php"><img class="img-fluid" src="../../img/mod/map/13/1709030803_Kartes_1920x1320_1_brivosta.webp"/></a>
 <span class="mt-2 d-block">Gebiet der Sonderwirtschaftszone Liepāja</span>
-<h3 class="mb-3"><a href="map/brivosta/index.php">Freihafen</a></h3>
+<h3 class="mb-3"><a href="/site/de/teritoriju-karte/map/brivosta/index.php">Freihafen</a></h3>
 </div>
-<a class="link" href="map/brivosta/index.php">Mehr erfahren</a>
+<a class="link" href="/site/de/teritoriju-karte/map/brivosta/index.php">Mehr erfahren</a>
 </div><div class="col-12 col-md-6 col-lg-4 map-single mb-5">
-<div><a href="map/ziemas-osta/index.php"><img class="img-fluid" src="../../img/mod/map/16/1707388062_Kartes_1920x1320_3_ziemasosta.webp"/></a>
+<div><a href="/site/de/teritoriju-karte/map/ziemas-osta/index.php"><img class="img-fluid" src="../../img/mod/map/16/1707388062_Kartes_1920x1320_3_ziemasosta.webp"/></a>
 <span class="mt-2 d-block">Gebiet der Sonderwirtschaftszone Liepāja</span>
-<h3 class="mb-3"><a href="map/ziemas-osta/index.php">Winterhafen</a></h3>
+<h3 class="mb-3"><a href="/site/de/teritoriju-karte/map/ziemas-osta/index.php">Winterhafen</a></h3>
 </div>
-<a class="link" href="map/ziemas-osta/index.php">Mehr erfahren</a>
+<a class="link" href="/site/de/teritoriju-karte/map/ziemas-osta/index.php">Mehr erfahren</a>
 </div>
 </div>
 </div>
@@ -442,7 +442,7 @@ Gebietskarte
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/teritoriju-karte/index.php"><img alt="Nach oben" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

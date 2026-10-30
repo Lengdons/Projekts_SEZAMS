@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <h2 class="map-title mb-5">Industriepark Karosta</h2>
 </div>
 <div class="col-12 nocontrast">
-<span id="map-block"><img id="img" src="../../../../img/mod/map/19/1709029359_Kartes_1920x1320_4_karostas_ind_parks.webp"/><a class="map-popover" data-bs-target="#modal70" data-bs-toggle="modal" href="index.php" style="left:27.304347826086957%;top:42.825537294563844%;">
+<span id="map-block"><img id="img" src="../../../../img/mod/map/19/1709029359_Kartes_1920x1320_4_karostas_ind_parks.webp"/><a class="map-popover" data-bs-target="#modal70" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/karostas-industrialais-parks/index.php" style="left:27.304347826086957%;top:42.825537294563844%;">
 <img src="../../../../img/mod/map/icons/3.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel70" class="modal fade" id="modal70" tabindex="-1">
@@ -52,11 +52,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Hersteller von Atemgeräten.</p><p><strong>Adresse:</strong> General Baloža 20/22, Liepaja, LV-3414, Lettland</p><p><strong>Website:</strong> www.interspiro.com</p><p><strong>Telefon:</strong> (+371) 63483860</p>
+<p>Hersteller von Atemgeräten.</p><p><strong>Adresse:</strong> General Baloža 20/22, Liepāja, LV-3414, Lettland</p><p><strong>Website:</strong> www.interspiro.com</p><p><strong>Telefon:</strong> (+371) 63483860</p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal71" data-bs-toggle="modal" href="index.php" style="left:49.51217288228321%;top:45.73546606428418%;">
+</div><a class="map-popover" data-bs-target="#modal71" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/karostas-industrialais-parks/index.php" style="left:49.51217288228321%;top:45.73546606428418%;">
 <img src="../../../../img/mod/map/icons/3.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel71" class="modal fade" id="modal71" tabindex="-1">
@@ -67,11 +67,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>"Jensen Metal" ist ein Vollradhersteller von hochwertigen Teilen aus schwarzem Metall, Edelstahl und Aluminium, Geräten und Systemen.</p><p><strong>Adresse:</strong> General Guardes Street 11, Liepaja, LV-3414, Lettland</p><p><strong>Website:</strong> www.jensenmetal.lv</p><p><strong>Telefon: </strong>(+371) 6348 9370</p>
+<p>"Jensen Metal" ist ein Vollradhersteller von hochwertigen Teilen aus schwarzem Metall, Edelstahl und Aluminium, Geräten und Systemen.</p><p><strong>Adresse:</strong> General Guardes Street 11, Liepāja, LV-3414, Lettland</p><p><strong>Website:</strong> www.jensenmetal.lv</p><p><strong>Telefon: </strong>(+371) 6348 9370</p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal72" data-bs-toggle="modal" href="index.php" style="left:41.21455274915656%;top:34.99757403180007%;">
+</div><a class="map-popover" data-bs-target="#modal72" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/karostas-industrialais-parks/index.php" style="left:41.21455274915656%;top:34.99757403180007%;">
 <img src="../../../../img/mod/map/icons/3.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel72" class="modal fade" id="modal72" tabindex="-1">
@@ -82,11 +82,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>"Jensen Metal" ist ein Vollradhersteller von hochwertigen Teilen aus schwarzem Metall, Edelstahl und Aluminium, Geräten und Systemen.</p><p><strong>Adresse:</strong> General Baloza Street 34, Liepaja, LV-3414, Lettland</p><p><strong>Website:</strong> www.jensenmetal.lv</p><p><strong>Telefon: </strong>(+371) 63489370</p>
+<p>"Jensen Metal" ist ein Vollradhersteller von hochwertigen Teilen aus schwarzem Metall, Edelstahl und Aluminium, Geräten und Systemen.</p><p><strong>Adresse:</strong> General Baloza Street 34, Liepāja, LV-3414, Lettland</p><p><strong>Website:</strong> www.jensenmetal.lv</p><p><strong>Telefon: </strong>(+371) 63489370</p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal78" data-bs-toggle="modal" href="index.php" style="left:58.35688884836326%;top:44.1446672446569%;">
+</div><a class="map-popover" data-bs-target="#modal78" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/karostas-industrialais-parks/index.php" style="left:58.35688884836326%;top:44.1446672446569%;">
 <img src="../../../../img/mod/map/icons/3.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel78" class="modal fade" id="modal78" tabindex="-1">
@@ -97,11 +97,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Hersteller von Proteinproduktion.</p><p><strong>Adresse:</strong> Zemgales street 11, Liepaja, LV-3414</p>
+<p>Hersteller von Proteinproduktion.</p><p><strong>Adresse:</strong> Zemgales street 11, Liepāja, LV-3414</p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal91" data-bs-toggle="modal" href="index.php" style="left:62.64247287316495%;top:28.76694532159324%;">
+</div><a class="map-popover" data-bs-target="#modal91" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/karostas-industrialais-parks/index.php" style="left:62.64247287316495%;top:28.76694532159324%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel91" class="modal fade" id="modal91" tabindex="-1">
@@ -112,11 +112,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Liepaja Cement Terminal</p><p><strong>Adresse:</strong> Zemgales 4, Liepāja, LV-3414, Lettland</p>
+<p>Liepāja Cement Terminal</p><p><strong>Adresse:</strong> Zemgales 4, Liepāja, LV-3414, Lettland</p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal92" data-bs-toggle="modal" href="index.php" style="left:69.50396644478892%;top:68.50708828383699%;">
+</div><a class="map-popover" data-bs-target="#modal92" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/karostas-industrialais-parks/index.php" style="left:69.50396644478892%;top:68.50708828383699%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel92" class="modal fade" id="modal92" tabindex="-1">
@@ -127,7 +127,7 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p><strong>Registriernummer: </strong>42103021545</p><p><strong>Hafennummer: </strong>5</p><p><strong>Adresse: </strong>Turaidas iela 24, Liepaja, LV-3414, Lettland</p><p><strong>Telefon: </strong>(+371) 63407414</p>
+<p><strong>Registriernummer: </strong>42103021545</p><p><strong>Hafennummer: </strong>5</p><p><strong>Adresse: </strong>Turaidas iela 24, Liepāja, LV-3414, Lettland</p><p><strong>Telefon: </strong>(+371) 63407414</p>
 </div>
 </div>
 </div>
@@ -145,7 +145,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 paginator mt-5"><div>
 <a aria-label="Zurück" class="back map-pagination" onclick="history.back()">
 
-Rückgabe <img alt="Rückgabe" src="../../../../img/round-right-blue.svg"/>
+Zurück <img alt="Zurück" src="../../../../img/round-right-blue.svg"/>
 </a>
 </div>
 </div>
@@ -176,7 +176,7 @@ Rückgabe <img alt="Rückgabe" src="../../../../img/round-right-blue.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/teritoriju-karte/map/karostas-industrialais-parks/index.php"><img alt="Nach oben" class="img-fluid" src="../../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

@@ -47,18 +47,18 @@ html.classList.add(localStorage['contrast']);
 <span>E-Mail: <a href="mailto:liga.ratniece-kadege@lsez.lv" target="_blank">liga.ratniece-kadege@lsez.lv</a></span>
 </div>
 <div class="col-12 col-md-9 mt-md-5">
-<span class="date d-block mt-md-5">Artikel 01 02 77 - Teilsumme 8. Juli 2026</span>
+<span class="date d-block mt-md-5">03. Juli 2026</span>
 <h1 class="article-title">Mit Ruderrennen von Matrosen, Boots- und Bootsparade laden wir Sie ein, das Sea Festival auf dem Wasser zu feiern</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Bereits zum achten Mal lädt Liepaja SEZ Authority Sea Festival ein, mit einer Veranstaltung in der Breite der Stadt vom See bis zum Meer gebügelt zu werden. Am Juli findet im Yacht Port Trade Channel statt. Die Veranstaltung wird vom Naval Ruderwettbewerb um 20.00 Uhr eröffnet. 16.00 Uhr Um 19:00 20:00 Uhr wird es ein Treffen für die Parade geben, aber um 21:00 Uhr. Um 20:00 Uhr, während die Hörner der Schiffe klingen, werden die Schlepper des Hafens von Liepaja öffnen. Für Zuschauer ab 11:00 Uhr. Um 16:00 Uhr wird es auch auf der Jaunliepaja eine offene Promenade geben.   </p><p>Die Veranstaltung beginnt mit einem Seefahrt-Ruderwettbewerb auf der Seebreite. Neu in diesem Jahr. Um diejenigen nicht zu erschrecken, die sich selbst nicht Segler und Bootsruder nennen, sind nicht ganz üblich, es wird eine Gelegenheit geben, den Geist des Teams in einem Hobby-Klassenzimmer zu spüren, wo eine kürzere und einfachere Distanz geplant ist. Natürlich ist der Wettbewerb auch für Ruderer mit Erfahrung willkommen. Hier können Sie sich für eine Teilnahme bewerben: <a href="https://ej.uz/pieteikumaanketajurasbrauceji" target="_blank">https://ej.uz/pieteikumaanketajurasbrauceji</a></p><p> </p><p>PROGRAMMA:</p><p>16:00 19:00 MARITIME AIRWAYS</p><p>19:00 20:00 VORBEREITUNG FÜR DEBT</p><p>20:00 21:00 VESSEL UND LAVOUR DEBT</p><p> </p><p>FÜR DIE BEVÖLKERUNG</p><p>VERKEHR in Old Oostmal und New Ostmal gegenüber dem Yachthafen.</p><p> </p><p>MITGLIEDER</p><p>MARITIME AIRWAYS      </p><ul><li>Finden Sie Ihre Kollegen, anmelden, trainieren und teilnehmen.</li><li>Das Team muss 7 Teilnehmer (6 Ruderer und 1 Ruderrhythmushalter oder Nenner) haben.</li><li>Bewerbung für Wettbewerbe und Schulungen: <a href="https://ej.uz/pieteikumaanketajurasbrauceji" target="_blank">https://ej.uz/pieteikumaanketajurasbrauceji</a></li></ul><p>VESSEL UND LEAD DEBT</p><p>Um an der Parade teilzunehmen, sagen Sie sich, Ihr Team und Wasserfahrzeug bis zu 9. an der festlichen Parade im Juli teilzunehmen.</p><ul><li>Antrag: <a href="https://forms.isdev.lv/kugu-un-laivu-parade" target="_blank">https://forms.isdev.lv/kugu-un-laivu-parade</a></li><li>Erfüllung der Schulden:</li></ul><p>                - Seeboote im Zollhaus im Handelskanal,</p><p>                - Seeboot im Kanal zwischen Brücken.</p><p> </p><p>Liepaja SEZ Authority lädt ein, aktiv an Ruderwettbewerben, Schiffs- und Bootsparade teilzunehmen sowie zu beobachten, was passiert. Auch in diesem Jahr werden die Besucher das Ufer des Neuen Ostmals öffnen können, das zukünftig als öffentliches Gebiet geplant ist - genau wie im Alten Ostmal, wo der Hafen, Schiffe und Wirtschaftstätigkeit täglich mit der Anwesenheit von Bewohnern und Touristen erfolgreich leben.</p></div>
+<div class="col"><div class="col-12 output"><p>Bereits zum achten Mal lädt Liepāja SEZ Authority Sea Festival ein, mit einer Veranstaltung in der Breite der Stadt von See zu Meer, die 10. Am Juli findet im Yacht Port Trade Channel statt. Die Veranstaltung wird vom Naval Ruderwettbewerb um Uhr eröffnet. 16:00Brüssel, den Uhr 19:00 – 20:00 Um Uhr findet ein Treffen für die Parade statt. 20:00, während Schiffhörner klingen, wird die Show Schlepper im Hafen von Liepāja offenbaren. Für Zuschauer ab Uhr. 16:00 wird auch auf der Jaunliepaja Seite offen sein.   </p><p>Die Veranstaltung beginnt mit einem Seefahrt-Ruderwettbewerb auf der Seebreite. Neu in diesem Jahr. Um diejenigen nicht zu erschrecken, die sich selbst nicht Segler und Bootsruder nennen, sind nicht ganz üblich, es wird eine Gelegenheit geben, den Geist des Teams in einem Hobby-Klassenzimmer zu spüren, wo eine kürzere und einfachere Distanz geplant ist. Natürlich ist der Wettbewerb auch für Ruderer mit Erfahrung willkommen. Hier können Sie sich für eine Teilnahme bewerben: <a href="https://ej.uz/pieteikumaanketajurasbrauceji" target="_blank">https://ej.uz/pieteikumaanketajurasbrauceji</a></p><p> </p><p>PROGRAMMA:</p><p>16:00 19:00 MARITIME AIRWAYS</p><p>19:00 20:00 VORBEREITUNG FÜR DEBT</p><p>20:00 21:00 VESSEL UND LAVOUR DEBT</p><p> </p><p>FÜR DIE BEVÖLKERUNG</p><p>VERKEHR in Old Oostmal und New Ostmal gegenüber dem Yachthafen.</p><p> </p><p>MITGLIEDER</p><p>MARITIME AIRWAYS      </p><ul><li>Finden Sie Ihre Kollegen, anmelden, trainieren und teilnehmen.</li><li>Das Team muss 7 Teilnehmer (6 Ruderer und 1 Ruderrhythmushalter oder Nenner) haben.</li><li>Bewerbung für Wettbewerbe und Schulungen: <a href="https://ej.uz/pieteikumaanketajurasbrauceji" target="_blank">https://ej.uz/pieteikumaanketajurasbrauceji</a></li></ul><p>VESSEL UND LEAD DEBT</p><p>Um an der Parade teilzunehmen, sagen Sie sich, Ihr Team und Wasserfahrzeug bis zu 9. an der festlichen Parade im Juli teilzunehmen.</p><ul><li>Antrag: <a href="https://forms.isdev.lv/kugu-un-laivu-parade" target="_blank">https://forms.isdev.lv/kugu-un-laivu-parade</a></li><li>Erfüllung der Schulden:</li></ul><p>                - Seeboote im Zollhaus im Handelskanal,</p><p>                - Seeboot im Kanal zwischen Brücken.</p><p> </p><p>Liepāja SEZ Authority lädt ein, aktiv an Ruderwettbewerben, Schiffs- und Bootsparade teilzunehmen sowie zu beobachten, was passiert. Auch in diesem Jahr werden die Besucher das Ufer des Neuen Ostmals öffnen können, das zukünftig als öffentliches Gebiet geplant ist - genau wie im Alten Ostmal, wo der Hafen, Schiffe und Wirtschaftstätigkeit täglich mit der Anwesenheit von Bewohnern und Touristen erfolgreich leben.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/299/870_1783331473_47_07.03.2026._Juras svētki_karte.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/299/original_1783331473_47_07.03.2026._Juras svētki_karte.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/299/original_1783331473_47_07.03.2026._Juras svētki_karte.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

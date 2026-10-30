@@ -8,11 +8,11 @@
 <link href="../../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="page" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/teritoriju-karte/map/liepajas-osta/" property="og:url"/>
-<meta content="Hafen von Liepaja" property="og:title"/>
+<meta content="Hafen von Liepāja" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Hafen von Liepaja - SEZ</title>
+<title>Hafen von Liepāja - SEZ</title>
 <link href="../../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="../../../../css/main__40614cace7.css" rel="stylesheet"/>
@@ -38,10 +38,10 @@ html.classList.add(localStorage['contrast']);
 <div class="container mod_map my-5">
 <div class="row">
 <div class="col-12 pt-5">
-<h2 class="map-title mb-5">Hafen von Liepaja</h2>
+<h2 class="map-title mb-5">Hafen von Liepāja</h2>
 </div>
 <div class="col-12 nocontrast">
-<span id="map-block"><img id="img" src="../../../../img/mod/map/14/1707387987_Kartes_1920x1320_Karte_titula.webp"/><a class="map-popover" data-bs-target="#modal79" data-bs-toggle="modal" href="index.php" style="left:45.77368469043494%;top:45.868032632586456%;">
+<span id="map-block"><img id="img" src="../../../../img/mod/map/14/1707387987_Kartes_1920x1320_Karte_titula.webp"/><a class="map-popover" data-bs-target="#modal79" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/liepajas-osta/index.php" style="left:45.77368469043494%;top:45.868032632586456%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel79" class="modal fade" id="modal79" tabindex="-1">
@@ -56,7 +56,7 @@ html.classList.add(localStorage['contrast']);
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal81" data-bs-toggle="modal" href="index.php" style="left:43.61285623235911%;top:69.0989862834541%;">
+</div><a class="map-popover" data-bs-target="#modal81" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/liepajas-osta/index.php" style="left:43.61285623235911%;top:69.0989862834541%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel81" class="modal fade" id="modal81" tabindex="-1">
@@ -70,7 +70,7 @@ html.classList.add(localStorage['contrast']);
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal82" data-bs-toggle="modal" href="index.php" style="left:36.587033828759004%;top:65.6933629237717%;">
+</div><a class="map-popover" data-bs-target="#modal82" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/liepajas-osta/index.php" style="left:36.587033828759004%;top:65.6933629237717%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel82" class="modal fade" id="modal82" tabindex="-1">
@@ -84,7 +84,7 @@ html.classList.add(localStorage['contrast']);
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal83" data-bs-toggle="modal" href="index.php" style="left:32.483815081608455%;top:52.30413952524212%;">
+</div><a class="map-popover" data-bs-target="#modal83" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/liepajas-osta/index.php" style="left:32.483815081608455%;top:52.30413952524212%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel83" class="modal fade" id="modal83" tabindex="-1">
@@ -113,7 +113,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 paginator mt-5"><div>
 <a aria-label="Zurück" class="back map-pagination" onclick="history.back()">
 
-Rückgabe <img alt="Rückgabe" src="../../../../img/round-right-blue.svg"/>
+Zurück <img alt="Zurück" src="../../../../img/round-right-blue.svg"/>
 </a>
 </div>
 </div>
@@ -144,7 +144,7 @@ Rückgabe <img alt="Rückgabe" src="../../../../img/round-right-blue.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/teritoriju-karte/map/liepajas-osta/index.php"><img alt="Nach oben" class="img-fluid" src="../../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

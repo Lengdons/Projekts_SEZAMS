@@ -42,7 +42,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-lg-3 mt-5 sidebar-nav ps-0">
 <div class="row document-categories">
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Hafenordnung Liepāja" class="d-flex align-items-center dc sidebar-nav-icon" data-value="57" href="57/index.php">
+<a aria-label="Hafenordnung Liepāja" class="d-flex align-items-center dc sidebar-nav-icon" data-value="57" href="/site/de/dokumenti/57/index.php">
 <img alt="Hafenordnung Liepāja" src="../../img/round-right-blue.svg"/>
 
 Hafenordnung Liepāja
@@ -50,15 +50,15 @@ Hafenordnung Liepāja
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Hafen von Liepaja Gebühren" class="d-flex align-items-center dc sidebar-nav-icon" data-value="58" href="58/index.php">
-<img alt="Hafen von Liepaja Gebühren" src="../../img/round-right-blue.svg"/>
+<a aria-label="Hafengebühren in Liepāja" class="d-flex align-items-center dc sidebar-nav-icon" data-value="58" href="/site/de/dokumenti/58/index.php">
+<img alt="Hafengebühren in Liepāja" src="../../img/round-right-blue.svg"/>
 
-Hafen von Liepaja Gebühren
+Hafengebühren in Liepāja
 
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Anordnungen des Hafenmeisters" class="d-flex align-items-center dc sidebar-nav-icon" data-value="17" href="17/index.php">
+<a aria-label="Anordnungen des Hafenmeisters" class="d-flex align-items-center dc sidebar-nav-icon" data-value="17" href="/site/de/dokumenti/17/index.php">
 <img alt="Anordnungen des Hafenmeisters" src="../../img/round-right-blue.svg"/>
 
 Anordnungen des Hafenmeisters
@@ -66,15 +66,15 @@ Anordnungen des Hafenmeisters
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Unterlagen zum Abschluss von Geschäftsverträgen" class="d-flex align-items-center dc sidebar-nav-icon" data-value="8" href="8/index.php">
-<img alt="Unterlagen zum Abschluss von Geschäftsverträgen" src="../../img/round-right-blue.svg"/>
+<a aria-label="Unterlagen zum Abschluss eines Betriebsvertrags" class="d-flex align-items-center dc sidebar-nav-icon" data-value="8" href="/site/de/dokumenti/8/index.php">
+<img alt="Unterlagen zum Abschluss eines Betriebsvertrags" src="../../img/round-right-blue.svg"/>
 
-Unterlagen zum Abschluss von Geschäftsverträgen
+Unterlagen zum Abschluss eines Betriebsvertrags
 
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Unterlagen zur Vergabe von Miet- und Erbbaurechten" class="d-flex align-items-center dc sidebar-nav-icon" data-value="51" href="51/index.php">
+<a aria-label="Unterlagen zur Vergabe von Miet- und Erbbaurechten" class="d-flex align-items-center dc sidebar-nav-icon" data-value="51" href="/site/de/dokumenti/51/index.php">
 <img alt="Unterlagen zur Vergabe von Miet- und Erbbaurechten" src="../../img/round-right-blue.svg"/>
 
 Unterlagen zur Vergabe von Miet- und Erbbaurechten
@@ -82,7 +82,7 @@ Unterlagen zur Vergabe von Miet- und Erbbaurechten
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Zugangs- und Sicherheitsordnung des Hafens Liepāja" class="d-flex align-items-center dc sidebar-nav-icon" data-value="32" href="32/index.php">
+<a aria-label="Zugangs- und Sicherheitsordnung des Hafens Liepāja" class="d-flex align-items-center dc sidebar-nav-icon" data-value="32" href="/site/de/dokumenti/32/index.php">
 <img alt="Zugangs- und Sicherheitsordnung des Hafens Liepāja" src="../../img/round-right-blue.svg"/>
 
 Zugangs- und Sicherheitsordnung des Hafens Liepāja
@@ -90,7 +90,7 @@ Zugangs- und Sicherheitsordnung des Hafens Liepāja
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Notfallplan bei unvorhergesehenen Umweltverschmutzungen" class="d-flex align-items-center dc sidebar-nav-icon" data-value="37" href="37/index.php">
+<a aria-label="Notfallplan bei unvorhergesehenen Umweltverschmutzungen" class="d-flex align-items-center dc sidebar-nav-icon" data-value="37" href="/site/de/dokumenti/37/index.php">
 <img alt="Notfallplan bei unvorhergesehenen Umweltverschmutzungen" src="../../img/round-right-blue.svg"/>
 
 Notfallplan bei unvorhergesehenen Umweltverschmutzungen
@@ -104,18 +104,18 @@ Notfallplan bei unvorhergesehenen Umweltverschmutzungen
 <div class="mb-5">
 <label class="form-label" for="document_category84">Erweiterte Suche</label>
 <select aria-label="Dokumentenkategorie" class="document_category form-select" id="document_category84" style="background-image: url(https://liepaja-sez.lv/img/down.svg)">
-<option selected="" value="/site/lv/dokumenti/index.php">Alle Dokumente</option>
-<option disabled="" value="">Dokumente von Liepaja SEZ</option><option value="/site/lv/dokumenti/13/index.php">    Verordnung/Verordnungen</option><option value="/site/lv/dokumenti/14/index.php">    Entwicklungsplan</option><option value="/site/lv/dokumenti/15/index.php">    Dokumente für kurzfristige und Zimmermiete</option><option value="/site/lv/dokumenti/5/index.php">    Dokumente für die langfristige Vermietung</option><option value="/site/lv/dokumenti/8/index.php">    Unterlagen zum Abschluss von Geschäftsverträgen</option><option value="/site/lv/dokumenti/54/index.php">    Dokumente für den Status der Freizone</option><option value="/site/lv/dokumenti/53/index.php">    Unterlagen für Unteraufträge</option><option value="/site/lv/dokumenti/51/index.php">    Unterlagen zur Vergabe von Miet- und Erbbaurechten</option><option value="/site/lv/dokumenti/60/index.php">    Corporate Governance</option><option value="/site/lv/dokumenti/68/index.php">    Preisliste der Gebührendienstleistungen</option><option value="/site/lv/dokumenti/65/index.php">    Protokoll über die Bewertung der Barrierefreiheitsanforderungen</option><option disabled="" value="">Hafendokumente</option><option value="/site/lv/dokumenti/57/index.php">    Hafenordnung Liepāja</option><option value="/site/lv/dokumenti/58/index.php">    Hafen von Liepaja Gebühren</option><option value="/site/lv/dokumenti/17/index.php">    Anordnungen des Hafenmeisters</option><option value="/site/lv/dokumenti/41/index.php">    Formen der Versandanwendung</option><option value="/site/lv/dokumenti/35/index.php">    Unterlagen für den Abschluss eines Schiffsagentenvertrags</option><option value="/site/lv/dokumenti/1/index.php">    Vorschriften für die Erbringung des Schleppdienstes</option><option value="/site/lv/dokumenti/3/index.php">    Vorschriften für die Erbringung von Tug-Diensten</option><option value="/site/lv/dokumenti/32/index.php">    Zugangs- und Sicherheitsordnung des Hafens Liepāja</option><option value="/site/lv/dokumenti/33/index.php">    Hafen von Liepaja Typplan</option><option value="/site/lv/dokumenti/34/index.php">    Betriebsvorschriften für Häfen</option><option value="/site/lv/dokumenti/36/index.php">    Abfallbewirtschaftungsplan</option><option value="/site/lv/dokumenti/37/index.php">    Notfallplan bei unvorhergesehenen Umweltverschmutzungen</option><option value="/site/lv/dokumenti/38/index.php">    Dokumente für die Beschaffung von Dienstleistungen für Schiffe</option><option value="/site/lv/dokumenti/39/index.php">    Dokumente für den Vertrag über die Genehmigung zur Lieferung von Schiffen mit Kraftstoff und Schmierstoffen</option><option value="/site/lv/dokumenti/40/index.php">    Dokumente für Verträge über die Übertragung von ölverschmutzten Gewässern</option>
+<option selected="" value="/site/de/dokumenti/index.php">Alle Dokumente</option>
+<option disabled="" value="">Dokumente der Sonderwirtschaftszone Liepāja</option><option value="/site/de/dokumenti/13/index.php">    Satzung / Bestimmungen</option><option value="/site/de/dokumenti/14/index.php">    Entwicklungsplan</option><option value="/site/de/dokumenti/15/index.php">    Unterlagen für kurzfristige Mietverträge und die Anmietung von Räumen</option><option value="/site/de/dokumenti/5/index.php">    Unterlagen für langfristige Mietverträge</option><option value="/site/de/dokumenti/8/index.php">    Unterlagen zum Abschluss eines Betriebsvertrags</option><option value="/site/de/dokumenti/54/index.php">    Unterlagen zur Erlangung des Freizonenstatus</option><option value="/site/de/dokumenti/53/index.php">    Unterlagen zum Abschluss eines Untermietvertrags</option><option value="/site/de/dokumenti/51/index.php">    Unterlagen zur Vergabe von Miet- und Erbbaurechten</option><option value="/site/de/dokumenti/60/index.php">    Corporate Governance</option><option value="/site/de/dokumenti/68/index.php">    Preisliste für kostenpflichtige Dienstleistungen</option><option value="/site/de/dokumenti/65/index.php">    Prüfprotokoll zur Einhaltung der Barrierefreiheitsanforderungen</option><option disabled="" value="">Hafendokumente</option><option value="/site/de/dokumenti/57/index.php">    Hafenordnung Liepāja</option><option value="/site/de/dokumenti/58/index.php">    Hafengebühren in Liepāja</option><option value="/site/de/dokumenti/17/index.php">    Anordnungen des Hafenmeisters</option><option value="/site/de/dokumenti/41/index.php">    Anmeldeformulare für den Schiffsverkehr</option><option value="/site/de/dokumenti/35/index.php">    Unterlagen zum Abschluss eines Schiffsagenturvertrags</option><option value="/site/de/dokumenti/1/index.php">    Bestimmungen für Festmacherdienste</option><option value="/site/de/dokumenti/3/index.php">    Bestimmungen für Schleppdienste</option><option value="/site/de/dokumenti/32/index.php">    Zugangs- und Sicherheitsordnung des Hafens Liepāja</option><option value="/site/de/dokumenti/33/index.php">    Standardplan des Hafens Liepāja</option><option value="/site/de/dokumenti/34/index.php">    Betriebsvorschriften für Liegeplätze</option><option value="/site/de/dokumenti/36/index.php">    Abfallbewirtschaftungsplan</option><option value="/site/de/dokumenti/37/index.php">    Notfallplan bei unvorhergesehenen Umweltverschmutzungen</option><option value="/site/de/dokumenti/38/index.php">    Unterlagen für Dienstleistungen für Schiffe</option><option value="/site/de/dokumenti/39/index.php">    Vertragsunterlagen für die Genehmigung zur Versorgung von Schiffen mit Kraft- und Schmierstoffen</option><option value="/site/de/dokumenti/40/index.php">    Vertragsunterlagen für die Abgabe ölhaltigen Wassers</option>
 <!-- "https://liepaja-sez.lv/lv/dokumenti/12" -->
-<!-- value="https://liepaja-sez.lv/lv/dokumenti/16" -->
+<!-- value="/site/de/dokumenti/16/index.php" -->
 </select>
 </div>
 </form>
 <div class="documents-list">
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">6. 22. Oktober 2026</div>
-<div class="category">Dokumente für die Beschaffung von Dienstleistungen für Schiffe</div>
+<div class="date">6. Oktober 2026</div>
+<div class="category">Unterlagen für Dienstleistungen für Schiffe</div>
 <a aria-label="Dokument" href="../../doc/mod/document/152/1791360538_Elektrības pieteikums_2026_V.Sproģis.docx" target="_blank">
 
 Antrag auf Elektrizität
@@ -130,8 +130,8 @@ Antrag auf Elektrizität
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">6. 22. Oktober 2026</div>
-<div class="category">Dokumente für die Beschaffung von Dienstleistungen für Schiffe</div>
+<div class="date">6. Oktober 2026</div>
+<div class="category">Unterlagen für Dienstleistungen für Schiffe</div>
 <a aria-label="Dokument" href="../../doc/mod/document/151/1791279044_Udens pieteikums_2026_A.Kudrēvičs.docx" target="_blank">
 
 Anwendung auf Wasser
@@ -147,10 +147,10 @@ Anwendung auf Wasser
 <div class="document-single my-4">
 <div class="document-info">
 <div class="date">25. September 2026</div>
-<div class="category">Preisliste der Gebührendienstleistungen</div>
+<div class="category">Preisliste für kostenpflichtige Dienstleistungen</div>
 <a aria-label="Dokument" href="../../doc/mod/document/395/1790661291_Maksas_pakalpojumu_cenrādis_mājas lapa.pdf" target="_blank">
 
-Preisliste der Gebührendienstleistungen
+Preisliste für kostenpflichtige Dienstleistungen
 
 </a>
 <div class="mt-2"></div>
@@ -166,7 +166,7 @@ Preisliste der Gebührendienstleistungen
 <div class="category">Anordnungen des Hafenmeisters</div>
 <a aria-label="Dokument" href="../../doc/mod/document/210/1789367548_8_4_3_11_09_2026_Par pielaujamiem kugu parametriem.pdf" target="_blank">
 
-Auf zulässigen Parametern von Schiffen im Hafen von Liepaja
+Auf zulässigen Parametern von Schiffen im Hafen von Liepāja
 
 </a>
 <div class="mt-2"></div>
@@ -214,7 +214,7 @@ Qualitätspolitik und ISO 9001:2015 Zertifikat
 <div class="category">Corporate Governance</div>
 <a aria-label="Dokument" href="../../doc/mod/document/344/1770721733_Kvalitātes politika_mājas lapai.pdf" target="_blank">
 
-Qualitätspolitik und ISO 9001:2015 Zertifikat 
+Qualitätspolitik und ISO 9001:2015 Zertifikat
 
 </a>
 <div class="mt-2"></div>
@@ -226,11 +226,11 @@ Qualitätspolitik und ISO 9001:2015 Zertifikat
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">10. 22. September 2025</div>
-<div class="category">Protokoll über die Bewertung der Barrierefreiheitsanforderungen</div>
+<div class="date">10. September 2025</div>
+<div class="category">Prüfprotokoll zur Einhaltung der Barrierefreiheitsanforderungen</div>
 <a aria-label="Dokument" href="../../doc/mod/document/325/1757496874_Piekļūstamības prasību izvērtēšanas protokols.pdf" target="_blank">
 
-Protokoll über die Bewertung der Barrierefreiheitsanforderungen
+Prüfprotokoll zur Einhaltung der Barrierefreiheitsanforderungen
 
 </a>
 <div class="mt-2"></div>
@@ -242,11 +242,11 @@ Protokoll über die Bewertung der Barrierefreiheitsanforderungen
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">17. 8. Juli 2025</div>
+<div class="date">17. Juli 2025</div>
 <div class="category">Unterlagen zur Vergabe von Miet- und Erbbaurechten</div>
 <a aria-label="Dokument" href="../../doc/mod/document/232/1753338747_LSEZ apbūves tiesības rezervēšanas un piešķiršanas kārtība.pdf" target="_blank">
 
-Verfahren für die Gewährung von Reservierungs- und Baurechten für Immobilien im Gebiet der Sonderwirtschaftszone Liepaja
+Verfahren für die Gewährung von Reservierungs- und Baurechten für Immobilien im Gebiet der Sonderwirtschaftszone Liepāja
 
 </a>
 <div class="mt-2"></div>
@@ -258,11 +258,11 @@ Verfahren für die Gewährung von Reservierungs- und Baurechten für Immobilien 
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">7. 8. Juli 2025</div>
-<div class="category">Betriebsvorschriften für Häfen</div>
+<div class="date">7. Juli 2025</div>
+<div class="category">Betriebsvorschriften für Liegeplätze</div>
 <a aria-label="Dokument" href="../../doc/mod/document/145/1751881680_PTEN 2025 _APSTIPRINĀTS_02.07.2025.pdf" target="_blank">
 
-Technische Vorschriften für den Betrieb von Liegeplätzen im Hafen von Liepaja (in Kraft vom 02.07.2025)
+Technische Vorschriften für den Betrieb von Liegeplätzen im Hafen von Liepāja (in Kraft vom 02.07.2025)
 
 </a>
 <div class="mt-2"></div>
@@ -275,10 +275,10 @@ Technische Vorschriften für den Betrieb von Liegeplätzen im Hafen von Liepaja 
 <div class="document-single my-4">
 <div class="document-info">
 <div class="date">30. Dezember 2024</div>
-<div class="category">Hafen von Liepaja Gebühren</div>
+<div class="category">Hafengebühren in Liepāja</div>
 <a aria-label="Dokument" href="../../doc/mod/document/76/1736242178_Liepājas ostas maksas (01.01.2025).pdf" target="_blank">
 
-Hafen von Liepaja Gebühren (in Kraft treten ab 01.01.2025)
+Hafen von Liepāja Gebühren (in Kraft treten ab 01.01.2025)
 
 </a>
 <div class="mt-2"></div>
@@ -306,11 +306,11 @@ Hafenordnung Liepāja
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">26. 8. Juli 2024</div>
+<div class="date">26. Juli 2024</div>
 <div class="category">Unterlagen zur Vergabe von Miet- und Erbbaurechten</div>
 <a aria-label="Dokument" href="../../doc/mod/document/228/1729586930_LIP apbūves tiesības rezervēšanas un piešķiršanas kārtība-1.pdf" target="_blank">
 
-Verfahren für die Gewährung von Reservierungs- und Baurechten von Immobilien im Gebiet des Industrieparks Liepaja
+Verfahren für die Gewährung von Reservierungs- und Baurechten von Immobilien im Gebiet des Industrieparks Liepāja
 
 </a>
 <div class="mt-2"></div>
@@ -322,11 +322,11 @@ Verfahren für die Gewährung von Reservierungs- und Baurechten von Immobilien i
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">26. 8. Juli 2024</div>
+<div class="date">26. Juli 2024</div>
 <div class="category">Unterlagen zur Vergabe von Miet- und Erbbaurechten</div>
 <a aria-label="Dokument" href="../../doc/mod/document/229/1721978231_Īpašie nosacījumi komercdarbības veikšanai Liepājas industriālā parka teritorijā.pdf" target="_blank">
 
-Besondere Bedingungen für kommerzielle Tätigkeiten im Gebiet des Industrieparks Liepaja
+Besondere Bedingungen für kommerzielle Tätigkeiten im Gebiet des Industrieparks Liepāja
 
 </a>
 <div class="mt-2"></div>
@@ -338,11 +338,11 @@ Besondere Bedingungen für kommerzielle Tätigkeiten im Gebiet des Industriepark
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">26. 8. Juli 2024</div>
+<div class="date">26. Juli 2024</div>
 <div class="category">Unterlagen zur Vergabe von Miet- und Erbbaurechten</div>
 <a aria-label="Dokument" href="../../doc/mod/document/233/1731307263_LSEZ iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" target="_blank">
 
-Antrag auf Vereinbarung über die Reservierung von Baurechten oder die Gewährung des Baurechts im Gebiet der Sonderwirtschaftszone Liepaja
+Antrag auf Vereinbarung über die Reservierung von Baurechten oder die Gewährung des Baurechts im Gebiet der Sonderwirtschaftszone Liepāja
 
 </a>
 <div class="mt-2"></div>
@@ -354,11 +354,11 @@ Antrag auf Vereinbarung über die Reservierung von Baurechten oder die Gewährun
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">26. 8. Juli 2024</div>
+<div class="date">26. Juli 2024</div>
 <div class="category">Unterlagen zur Vergabe von Miet- und Erbbaurechten</div>
 <a aria-label="Dokument" href="../../doc/mod/document/231/1721978390_Pielikums_Nr_1.pdf" target="_blank">
 
-Plan für den Industriepark Liepaja
+Plan für den Industriepark Liepāja
 
 </a>
 <div class="mt-2"></div>
@@ -370,11 +370,11 @@ Plan für den Industriepark Liepaja
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">26. 8. Juli 2024</div>
+<div class="date">26. Juli 2024</div>
 <div class="category">Unterlagen zur Vergabe von Miet- und Erbbaurechten</div>
 <a aria-label="Dokument" href="../../doc/mod/document/230/1721978295_LIP iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" target="_blank">
 
-Antrag auf Vereinbarung über die Reservierung von Baurechten oder die Gewährung von Baurechten im Gebiet des Industrieparks Liepaja
+Antrag auf Vereinbarung über die Reservierung von Baurechten oder die Gewährung von Baurechten im Gebiet des Industrieparks Liepāja
 
 </a>
 <div class="mt-2"></div>
@@ -386,11 +386,11 @@ Antrag auf Vereinbarung über die Reservierung von Baurechten oder die Gewährun
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">26. 8. Juli 2024</div>
+<div class="date">26. Juli 2024</div>
 <div class="category">Entwicklungsplan</div>
 <a aria-label="Dokument" href="../../doc/mod/document/197/1724752435_LSEZ_attistibas_plans.pdf" target="_blank">
 
-Liepaja SEZ Entwicklungsplan 2023. - 2035
+Liepāja SEZ Entwicklungsplan 2023. - 2035
 
 </a>
 <div class="mt-2"></div>
@@ -402,7 +402,7 @@ Liepaja SEZ Entwicklungsplan 2023. - 2035
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">4. 8. Juni 2024</div>
+<div class="date">4. Juni 2024</div>
 <div class="category">Notfallplan bei unvorhergesehenen Umweltverschmutzungen</div>
 <a aria-label="Dokument" href="../../doc/mod/document/150/1723464984_LSEZ_drosibas_plans_2024.pdf" target="_blank">
 
@@ -436,7 +436,7 @@ Verhaltenskodex
 <div class="prev">
 </div>
 <div class="next">
-<a aria-label="Weiter" class="next docs-pagination" data-page="2" href="index.php">
+<a aria-label="Weiter" class="next docs-pagination" data-page="2" href="/site/de/dokumenti/index.php">
 
 Weiter <img alt="Weiter" src="../../img/round-right.svg"/>
 </a>
@@ -471,7 +471,7 @@ Weiter <img alt="Weiter" src="../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/dokumenti/index.php"><img alt="Nach oben" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

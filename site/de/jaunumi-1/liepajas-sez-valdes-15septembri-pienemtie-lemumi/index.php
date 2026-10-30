@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="https://liepaja-sez.lv/img/mod/news/32/1702369683_47_09.15.2023._osta.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/medijiem/liepajas-sez-valdes-15septembri-pienemtie-lemumi" property="og:url"/>
-<meta content="Annahme der Beschlüsse durch den Rat &quot;Liepaja SEZ&quot; am 15. September." property="og:title"/>
+<meta content="Annahme der Beschlüsse durch den Rat &quot;Liepāja SEZ&quot; am 15. September." property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Annahme durch den Rat "Liepaja SEZ" am 15. September √ SEZ</title>
+<title>Annahme durch den Rat "Liepāja SEZ" am 15. September √ SEZ</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
@@ -38,18 +38,18 @@ html.classList.add(localStorage['contrast']);
 <div class="container article-full pt-5 my-5">
 <div class="row">
 <div class="col-12 col-md-9 offset-md-3 mt-md-5">
-<span class="date d-block mt-md-5">15. 22. September 2023</span>
-<h1 class="article-title">Annahme der Beschlüsse durch den Rat "Liepaja SEZ" am 15. September.</h1>
+<span class="date d-block mt-md-5">15. September 2023</span>
+<h1 class="article-title">Annahme der Beschlüsse durch den Rat "Liepāja SEZ" am 15. September.</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Auflage. im Jahr 15 Januar 2007 Am September fand die ordentliche Sitzung des Vorstands von Liepaja SEZ statt, in der vier Beschlüsse gefasst wurden. Der Verwaltungsrat von Liepaja SEZ hat das Abkommen über die Wiederaufbauarbeiten von Karosta Canal geändert, beschlossen, die Vereinbarung über die Aufrechterhaltung der Hafenschiffskanäle und aquatorium zu verlängern, den Wiederernennungsvertrag zu schließen und den Abschluss von Investitionsabkommen von LSEZ Ltd. zu unterstützen.</p><p><strong>Vertragsverlängerung</strong></p><p>Der Vorstand der Special Economic Zone von Liepaja hat eine Überprüfung vorgenommen und beschlossen, eine Vereinbarung mit der Limited Liability Company AQUATEX bezüglich Änderungen bis 2022 zu schließen. vom 11. Dezember In der Vereinbarung im Oktober abgeschlossen, die Wartung von Schifffahrtskanälen und aquatorial Tiefen des Hafens von Liepaja mit der Möglichkeit, den Vertrag für bis zu einem Jahr verlängern.</p><p>Liepaja SEZ Board hat die Umsetzung des Karosta Canal Recovery Projekts kennengelernt und Bedingungen beschlossen, den Vertrag um 31 Tage zu verlängern. Auflage. im 18. Jahrhundert Im Juli 1952 wurde das Aquatorium des Karostakanals eröffnet, um kontaminierte Sedimente zu rehabilitieren. Die jährliche Luftfahrtbombe FAB-500, die dazu führte, dass alle Sanierungsarbeiten für mehrere Tage eingestellt wurden. Die Sanierungsarbeiten werden derzeit gemäß den maximalen Sicherheitsmaßnahmen durchgeführt, die die Ausführung der Arbeiten erheblich verlangsamen - die Höhe des vorher geplanten Tags der Entfernung und des Transports zum Lagerort.</p><p><strong>Zur Durchführung des Investitionsvorhabens</strong></p><p>Der Vorstand der Sonderwirtschaftszone Liepaja beschloss, mit LSEZ Terrabaltě SIA eine Vereinbarung über den Kauf eines neuen Terminalfaktors MAFI R 332 für Investitionsvorhaben zu schließen, die zwischen dem 21. September und dem 30. Juni 2025 für einen Gesamtbetrag von 192 000,00 EUR durchgeführt werden soll.</p><p><strong>Wiederaufnahme des Vertrags</strong></p><p>Der Board of Liepaja Special Economic Zone hat beschlossen, einen Mietvertrag zu schließen, nach dem die Verpflichtungsrechte aus dem Jahr 2004 bestehen. 1. Jahr Im April zwischen Liepaja Special Economic Zone Authority und LSEZ Ltd., Liepaja Bulk Terminal LTD. abgeschlossen Einigung über Immobilien Atslēgnieku iela 41, in Liepaja, verwandelt es in neue Verbindlichkeiten so dass SIA LSEZ √Liepaja Bull Terminal Ltd. statt der Firma "Latvijas Brīvības Terminal" Ltd."</p><p>Basis: 2023. vom 11. Dezember April der Kaufverträge, die vorsehen, dass der neue Eigentümer von Immobilien SIA √Baltic System Transport ist, registriert von Kurzeme Bezirksgerichten im Landregister.</p></div>
+<div class="col"><div class="col-12 output"><p>15. September 2023 die regelmäßige Sitzung des Vorstands von Liepāja SEZ, in der angenommen wurde 4 Entscheidungen. Der Verwaltungsrat von Liepāja SEZ hat das Abkommen über die Wiederaufbauarbeiten von Karosta Canal geändert, beschlossen, den Vertrag für die Durchführung der Instandhaltungsarbeiten von Hafenschiff Kanälen und Aquatorium Tiefen zu verlängern, um Wiederernennungsabkommen zu schließen und den Abschluss von Investitionsabkommen von LSEZ Ltd. zu unterstützen.</p><p><strong>Vertragsverlängerung</strong></p><p>Der Vorstand der Special Economic Zone von Liepāja hat eine Überprüfung vorgenommen und beschlossen, eine Vereinbarung mit der Limited Liability Company AQUATEX bezüglich Änderungen bis 2022 zu schließen. vom 11. Dezember In der Vereinbarung im Oktober abgeschlossen, die Wartung von Schifffahrtskanälen und aquatorial Tiefen des Hafens von Liepāja mit der Möglichkeit, den Vertrag für bis zu einem Jahr verlängern.</p><p>Liepāja SEZ Board hat die Fortschritte des Projekts Karosta Canal Rehabilitation kennengelernt und Bedingungen beschlossen, Vertragslaufzeit zu verlängern 31 Kalendertag. 18. Juli 2023Während der Sanierung kontaminierter Sedimente wurde das Karosta-Kanalaquatorium geöffnet. 1952. Jährliche Produkt Luftfahrtbombe FAB-500, was zur Einstellung von Sanierungsarbeiten für mehrere Tage führte. Die Sanierungsarbeiten werden derzeit gemäß den maximalen Sicherheitsmaßnahmen durchgeführt, die die Ausführung der Arbeiten erheblich verlangsamen - die Höhe des vorher geplanten Tags der Entfernung und des Transports zum Lagerort.</p><p><strong>Zur Durchführung des Investitionsvorhabens</strong></p><p>Der Vorstand der Sonderwirtschaftszone Liepāja hat beschlossen, mit LSEZ Terrabaltě SIA eine Vereinbarung über das Investitionsprojekt √ Neuer Terminalfaktor MAFI R zu schließen 332 der Erwerb, der während des Zeitraums von 21. September 2023 bis 30. Juni 2025 über den Gesamtbetrag 192 000,00 EUR</p><p><strong>Wiederaufnahme des Vertrags</strong></p><p>Der Board of Liepāja Special Economic Zone hat beschlossen, einen Mietvertrag zu schließen, nach dem die Verpflichtungsrechte aus dem Jahr 2004 bestehen. 1. Jahr Im April zwischen Liepāja Special Economic Zone Authority und LSEZ Ltd., Liepāja Bulk Terminal LTD. abgeschlossen Einigung über Immobilien Atslēgnieku iela 41, in Liepāja, verwandelt es in neue Verbindlichkeiten so dass SIA LSEZ √Liepāja Bull Terminal Ltd. statt der Firma "Latvijas Brīvības Terminal" Ltd."</p><p>Basis: 2023. vom 11. Dezember April der Kaufverträge, die vorsehen, dass der neue Eigentümer von Immobilien SIA √Baltic System Transport ist, registriert von Kurzeme Bezirksgerichten im Landregister.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/32/870_1702369683_47_09.15.2023._osta.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/32/original_1702369683_47_09.15.2023._osta.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/32/original_1702369683_47_09.15.2023._osta.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -69,12 +69,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -84,12 +84,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -131,7 +131,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

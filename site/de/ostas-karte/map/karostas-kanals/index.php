@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <h2 class="map-title mb-5">Karosta-Kanal</h2>
 </div>
 <div class="col-12 nocontrast">
-<span id="map-block"><img id="img" src="../../../../img/mod/map/15/1707388022_Kartes_1920x1320_2_karsta_kanals.webp"/><a class="map-popover" data-bs-target="#modal39" data-bs-toggle="modal" href="index.php" style="left:26.556943557946568%;top:65.85244280415411%;">
+<span id="map-block"><img id="img" src="../../../../img/mod/map/15/1707388022_Kartes_1920x1320_2_karsta_kanals.webp"/><a class="map-popover" data-bs-target="#modal39" data-bs-toggle="modal" href="/site/de/ostas-karte/map/karostas-kanals/index.php" style="left:26.556943557946568%;top:65.85244280415411%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel39" class="modal fade" id="modal39" tabindex="-1">
@@ -52,11 +52,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p><strong>Registriernummer: </strong>42103021545</p><p><strong>Hafennummer: </strong>5</p><p><strong>Adresse: </strong>Turaidas iela 24, Liepaja, LV-3414, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 63407414</p><p> </p>
+<p><strong>Registriernummer: </strong>42103021545</p><p><strong>Hafennummer: </strong>5</p><p><strong>Adresse: </strong>Turaidas iela 24, Liepāja, LV-3414, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 63407414</p><p> </p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal40" data-bs-toggle="modal" href="index.php" style="left:67.95386158475426%;top:50.209587744485894%;">
+</div><a class="map-popover" data-bs-target="#modal40" data-bs-toggle="modal" href="/site/de/ostas-karte/map/karostas-kanals/index.php" style="left:67.95386158475426%;top:50.209587744485894%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel40" class="modal fade" id="modal40" tabindex="-1">
@@ -67,11 +67,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p><strong>Registriernummer: </strong>40003522112</p><p><strong>Hafennummer: </strong>25</p><p><strong>Adresse: </strong>33 Pulvera Street, Liepaja, LV-3405, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 63424604, (+371) 28006699</p>
+<p><strong>Registriernummer: </strong>40003522112</p><p><strong>Hafennummer: </strong>25</p><p><strong>Adresse: </strong>33 Pulvera Street, Liepāja, LV-3405, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 63424604, (+371) 28006699</p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal41" data-bs-toggle="modal" href="index.php" style="left:55.91775325977933%;top:59.277141218641894%;">
+</div><a class="map-popover" data-bs-target="#modal41" data-bs-toggle="modal" href="/site/de/ostas-karte/map/karostas-kanals/index.php" style="left:55.91775325977933%;top:59.277141218641894%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel41" class="modal fade" id="modal41" tabindex="-1">
@@ -82,11 +82,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p><strong>Registriernummer: </strong>40003401073</p><p><strong>Hafennummer: </strong>26</p><p><strong>Adresse: </strong>31 Pulvera Street, Liepaja, LV-3405, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 29165000</p>
+<p><strong>Registriernummer: </strong>40003401073</p><p><strong>Hafennummer: </strong>26</p><p><strong>Adresse: </strong>31 Pulvera Street, Liepāja, LV-3405, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 29165000</p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal42" data-bs-toggle="modal" href="index.php" style="left:24.09501230965624%;top:75.84796225642603%;">
+</div><a class="map-popover" data-bs-target="#modal42" data-bs-toggle="modal" href="/site/de/ostas-karte/map/karostas-kanals/index.php" style="left:24.09501230965624%;top:75.84796225642603%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel42" class="modal fade" id="modal42" tabindex="-1">
@@ -97,11 +97,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p><strong>Registriernummer: </strong>42103019485</p><p><strong>Hafennummer: </strong>30, 30A</p><p><strong>Adresse: </strong>11, Liepaja, LV-3405, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 29115521</p>
+<p><strong>Registriernummer: </strong>42103019485</p><p><strong>Liegeplatznummern: </strong>30, 30A</p><p><strong>Adresse: </strong>11, Liepāja, LV-3405, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 29115521</p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal43" data-bs-toggle="modal" href="index.php" style="left:51.17625604084982%;top:44.11152560258134%;">
+</div><a class="map-popover" data-bs-target="#modal43" data-bs-toggle="modal" href="/site/de/ostas-karte/map/karostas-kanals/index.php" style="left:51.17625604084982%;top:44.11152560258134%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel43" class="modal fade" id="modal43" tabindex="-1">
@@ -112,11 +112,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p><strong>Registriernummer</strong>: LV42103093384</p><p><strong>Adresse: </strong>General Baloza Street 42/44, Liepaja, LV-3414, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 63401919</p>
+<p><strong>Registriernummer</strong>: LV42103093384</p><p><strong>Adresse: </strong>General Baloza Street 42/44, Liepāja, LV-3414, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 63401919</p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal44" data-bs-toggle="modal" href="index.php" style="left:22.54490744962159%;top:41.72532737314042%;">
+</div><a class="map-popover" data-bs-target="#modal44" data-bs-toggle="modal" href="/site/de/ostas-karte/map/karostas-kanals/index.php" style="left:22.54490744962159%;top:41.72532737314042%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel44" class="modal fade" id="modal44" tabindex="-1">
@@ -127,7 +127,7 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p><strong>Registriernummer: </strong>40003386821</p><p><strong>Adresse:</strong> Zemgales Straße 4, Liepaja, LV-3414, Lettland</p><p><strong>Telefonnummer:</strong> (+371) 67033567</p>
+<p><strong>Registriernummer: </strong>40003386821</p><p><strong>Adresse:</strong> Zemgales Straße 4, Liepāja, LV-3414, Lettland</p><p><strong>Telefonnummer:</strong> (+371) 67033567</p>
 </div>
 </div>
 </div>
@@ -145,7 +145,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 paginator mt-5"><div>
 <a aria-label="Zurück" class="back map-pagination" onclick="history.back()">
 
-Rückgabe <img alt="Rückgabe" src="../../../../img/round-right-blue.svg"/>
+Zurück <img alt="Zurück" src="../../../../img/round-right-blue.svg"/>
 </a>
 </div>
 </div>
@@ -177,7 +177,7 @@ Rückgabe <img alt="Rückgabe" src="../../../../img/round-right-blue.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/ostas-karte/map/karostas-kanals/index.php"><img alt="Nach oben" class="img-fluid" src="../../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

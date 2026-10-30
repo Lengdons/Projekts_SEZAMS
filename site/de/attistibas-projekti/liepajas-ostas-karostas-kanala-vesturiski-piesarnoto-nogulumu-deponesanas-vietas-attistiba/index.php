@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/attistibas-projekti/liepajas-ostas-karostas-kanala-vesturiski-piesarnoto-nogulumu-deponesanas-vietas-attistiba" property="og:url"/>
-<meta content="Technische - wirtschaftliche Bewertung Entwicklung der Lagerstätte des Karosta Kanals von Liepaja Hafen" property="og:title"/>
+<meta content="Technische - wirtschaftliche Bewertung Entwicklung der Lagerstätte des Karosta Kanals von Liepāja Hafen" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Technische - wirtschaftliche Bewertung der Lagerstätte Karosta Canal historisch kontaminierte Lagerstätten im Hafen von Liepaja</title>
+<title>Technische - wirtschaftliche Bewertung der Lagerstätte Karosta Canal historisch kontaminierte Lagerstätten im Hafen von Liepāja</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="../../../css/main__40614cace7.css" rel="stylesheet"/>
@@ -48,18 +48,18 @@ html.classList.add(localStorage['contrast']);
 <span>E-Mail: <a href="mailto:ivo.kolins@lsez.lv" target="_blank">ivo.kolins@lsez.lv</a></span>
 </div>
 <div class="col-12 col-md-9 mt-md-5">
-<span class="date d-block mt-md-5">26. 8. November 2024</span>
-<h1 class="article-title">Technische - wirtschaftliche Bewertung Entwicklung der Lagerstätte des Karosta Kanals von Liepaja Hafen</h1>
+<span class="date d-block mt-md-5">26. November 2024</span>
+<h1 class="article-title">Technische - wirtschaftliche Bewertung Entwicklung der Lagerstätte des Karosta Kanals von Liepāja Hafen</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Ab 2024 Am 1. August bis 31. Oktober hat die Liepaja Special Economic Zone Authority den norwegischen Finanzierungsmechanismus 2014 umgesetzt.-2021. Entwicklung einer technischen - wirtschaftlichen Bewertung der Erschließung des Standortes für die Ablagerung historisch kontaminierter Lagerstätten im Hafen von Liepaja, Karasta-Kanal (im Folgenden "die Initiative"). </p><p>Der Karosta-Kanal des Hafens von Liepaja und seine historische Verschmutzung sind ein einzigartiger verschmutzter Standort, der die Umwelt der Ostsee nicht nur in Lettland, sondern auch im gesamten Ostseeraum degradiert. Liepaja Special Economic Zone Authority seit 1994. 2015 führt gezielte Umwelterholungsmaßnahmen des Karosta-Kanals bis 2015 durch. Verordnung (EU) Nr. 182/2011 des Europäischen Parlaments und des Rates vom 16. Februar 2011 zur Festlegung der allgemeinen Regeln und Grundsätze für die Kontrolle der Durchführungsbefugnisse durch die Mitgliedstaaten durch die Kommission (ABl. 2009 wurden vom Carosta-Kanal erhebliche Sanierungskampagnen durchgeführt, mit Ausnahme von mehr als 200.000 m Kanalumfeld.<sup>3</sup> Kontaminierte Sedimente und abgelagert sie an Stelle der Lagerstätte von historisch kontaminierten Ablagerungen des Karosta-Kanals von Liepaja Hafen. Die Lagerstätte für die historischen kontaminierten Sedimente des Karosta-Kanals ist ein speziell umschlossener Teil des Karostat Canal Aquatoriums, das eine sichere Lagerung von abgelagerten kontaminierten Sedimenten gewährleistet. </p><p>Trotz zahlreicher Studien zur Umweltsituation des Karostakanals und zur Sanierung und Durchführung von Renovierungsarbeiten wurden bisher keine Untersuchungen zur Weiterentwicklung der Lagerstätte für kontaminierte Sedimente durchgeführt, darunter: Begrenzung der weiteren Verbreitung von Schadstoffen, die darin abgelagert werden, und Entwicklung von Alternativen zur Ablagerung von Standortentwicklungs- und Bewertungsszenarien. Im Rahmen der Initiative wurden daher in Zusammenarbeit mit norwegischen Partnern - Norwegian Water Research Institute (NIVA) und Norwegian Geotechnical Institute (NGI), die nicht nur bei der Sanierung historischer Meeresverschmutzungen, sondern auch beim Aufbau und anschließenden Management kontaminierter Sedimente wichtige Erfahrungen haben, entwickelt. Alternativen zur Erschließung der Lagerstätte für historisch kontaminierte Lagerstätten des Karosta-Kanals im Hafen von Liepaja und bestimmte vielversprechende Managementszenarien. </p><p><strong>Wir arbeiten zusammen für ein grünes Europa!</strong></p><p>Das Projekt wird im Rahmen des norwegischen Finanzierungsmechanismus 2014/2021-Programms Klimaschutz, Anpassung und Umwelt finanziert. Die Gesamtkosten des Projekts belaufen sich auf 264 500,00 EUR, wovon 264 500,00 EUR aus dem norwegischen Finanzierungsmechanismus finanziert werden.</p></div>
+<div class="col"><div class="col-12 output"><p>Ab 2024 Am 1. August bis 31. Oktober hat die Liepāja Special Economic Zone Authority den norwegischen Finanzierungsmechanismus 2014 umgesetzt.-2021. Entwicklung einer technischen - wirtschaftlichen Bewertung der Erschließung des Standortes für die Ablagerung historisch kontaminierter Lagerstätten im Hafen von Liepāja, Karasta-Kanal (im Folgenden "die Initiative"). </p><p>Der Karosta-Kanal des Hafens von Liepāja und seine historische Verschmutzung sind ein einzigartiger verschmutzter Ort, der die Umwelt der Ostsee nicht nur in Lettland, sondern auch im gesamten Ostseeraum degradiert. Liepāja Special Economic Zone Authority seit 1994. • die Durchführung gezielter Umweltsanierungsmaßnahmen auf dem Karosta-Kanal; 2015. und 2023. Im Jahr gab es große Sanierungskampagnen für den Carosta-Kanal, mit Ausnahme der Kanalumgebung mehr als 200 Tausend m<sup>3</sup> Kontaminierte Sedimente und abgelagert sie an Stelle der Lagerstätte von historisch kontaminierten Ablagerungen des Karosta-Kanals von Liepāja Hafen. Die Lagerstätte für die historischen kontaminierten Sedimente des Karosta-Kanals ist ein speziell umschlossener Teil des Karostat Canal Aquatoriums, das eine sichere Lagerung von abgelagerten kontaminierten Sedimenten gewährleistet. </p><p>Trotz zahlreicher Studien zur Umweltsituation des Karostakanals und zur Sanierung und Durchführung von Renovierungsarbeiten wurden bisher keine Untersuchungen zur Weiterentwicklung der Lagerstätte für kontaminierte Sedimente durchgeführt, darunter: Begrenzung der weiteren Verbreitung von Schadstoffen, die darin abgelagert werden, und Entwicklung von Alternativen zur Ablagerung von Standortentwicklungs- und Bewertungsszenarien. Im Rahmen der Initiative wurden daher in Zusammenarbeit mit norwegischen Partnern - Norwegian Water Research Institute (NIVA) und Norwegian Geotechnical Institute (NGI), die nicht nur bei der Sanierung historischer Meeresverschmutzungen, sondern auch beim Aufbau und anschließenden Management kontaminierter Sedimente wichtige Erfahrungen haben, entwickelt. Alternativen zur Erschließung der Lagerstätte für historisch kontaminierte Lagerstätten des Karosta-Kanals im Hafen von Liepāja und bestimmte vielversprechende Managementszenarien. </p><p><strong>Wir arbeiten zusammen für ein grünes Europa!</strong></p><p>Das Projekt wird im Rahmen des norwegischen Finanzierungsmechanismus 2014/2021-Programms Klimaschutz, Anpassung und Umwelt finanziert. Die Gesamtkosten des Projekts belaufen sich auf 264 500,00 EUR, wovon 264 500,00 EUR aus dem norwegischen Finanzierungsmechanismus finanziert werden.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="../../../img/mod/news/189/870_" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="../../../img/mod/news/189/original_/index.php">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="../../../img/mod/news/189/original_/index.php">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -80,11 +80,11 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">25.08.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Das gemeinsame Digitalisierungsprojekt der lettischen Häfen wurde abgeschlossen, eine einzige digitale Plattform für effizientere Hafenoperationen wurde eingerichtet.</h4>
-<a class="d-none d-md-block my-4" href="../nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
+<a class="d-none d-md-block my-4" href="/site/de/attistibas-projekti/nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">Das gemeinsame Digitalisierungsprojekt der größten Häfen Lettlands hat abgeschlossen, bei dem für die Häfen Riga, Ventspils und Liepaja eine einzige digitale Plattform für den Hafenbetrieb und den Kundenservice eingerichtet wurde. Das Projekt hat zu gemeinsamen digitalen Lösungen geführt, die die Zusammenarbeit zwischen Häfen und ihren Kunden verbessern, den Informationsaustausch beschleunigen, die manuelle Datenverarbeitung verringern und eine gemeinsame technologische Basis für die Weiterentwicklung der lettischen Häfen schaffen.</div>
+<div class="col-12 col-md-8 col-lg-9">Das gemeinsame Digitalisierungsprojekt der größten Häfen Lettlands hat abgeschlossen, bei dem für die Häfen Riga, Ventspils und Liepāja eine einzige digitale Plattform für den Hafenbetrieb und den Kundenservice eingerichtet wurde. Das Projekt hat zu gemeinsamen digitalen Lösungen geführt, die die Zusammenarbeit zwischen Häfen und ihren Kunden verbessern, den Informationsaustausch beschleunigen, die manuelle Datenverarbeitung verringern und eine gemeinsame technologische Basis für die Weiterentwicklung der lettischen Häfen schaffen.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/attistibas-projekti/nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -95,11 +95,11 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">03.03.2025.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Digitale Transformation des Hafenmanagements durch verbesserte Transport- und Logistikdatenverarbeitung und -analyse</h4>
-<a class="d-none d-md-block my-4" href="../ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
+<a class="d-none d-md-block my-4" href="/site/de/attistibas-projekti/ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Ziel des Projekts ist es, die digitale Transformation des lettischen Hafenmanagements durch Verbesserung der Datenverarbeitung und -analyse im Transport- und Logistikbereich zu fördern und eine integrierte, gemeinsame und anpassungsfähige Plattform umzusetzen.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/attistibas-projekti/ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -109,7 +109,7 @@ html.classList.add(localStorage['contrast']);
 <div class="prev">
 </div>
 <div class="next">
-<a aria-label="Weiter" class="next related-pagination" data-page="2" href="index.php">
+<a aria-label="Weiter" class="next related-pagination" data-page="2" href="/site/de/attistibas-projekti/liepajas-ostas-karostas-kanala-vesturiski-piesarnoto-nogulumu-deponesanas-vietas-attistiba/index.php">
 
 Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 </a>
@@ -141,7 +141,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/attistibas-projekti/liepajas-ostas-karostas-kanala-vesturiski-piesarnoto-nogulumu-deponesanas-vietas-attistiba/index.php"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

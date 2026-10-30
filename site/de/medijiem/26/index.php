@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/medijiem/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -49,7 +49,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Fotos
@@ -57,7 +57,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -71,18 +71,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Liepaja SEZ Authority beginnt die Reinigung des Karosta-Kanals von der historischen Umweltverschmutzung </h2>
+<h2>Liepāja SEZ Authority beginnt die Reinigung des Karosta-Kanals von der historischen Umweltverschmutzung </h2>
 <span class="mb-3">13.04.2023.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-parvalde-uzsak-karostas-kanala-attirisanu-no-vesturiska-vides-piesarnojuma/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-sez-parvalde-uzsak-karostas-kanala-attirisanu-no-vesturiska-vides-piesarnojuma/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Liepaja SEZ Authority setzt das Projekt "Historisch kontaminierte Standorte im Hafen von Liepaja Karosta Canal Recovery Works" fort, um die negativen Umweltauswirkungen, die menschliche Gesundheit und den ökologischen Status der Ostsee zu reduzieren. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-parvalde-uzsak-karostas-kanala-attirisanu-no-vesturiska-vides-piesarnojuma/index.php">Weiterlesen</a>
+<p>Liepāja SEZ Authority setzt das Projekt "Historisch kontaminierte Standorte im Hafen von Liepāja Karosta Canal Recovery Works" fort, um die negativen Umweltauswirkungen, die menschliche Gesundheit und den ökologischen Status der Ostsee zu reduzieren. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-sez-parvalde-uzsak-karostas-kanala-attirisanu-no-vesturiska-vides-piesarnojuma/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/170/1729583178_nor-grants.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-parvalde-uzsak-karostas-kanala-attirisanu-no-vesturiska-vides-piesarnojuma/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-sez-parvalde-uzsak-karostas-kanala-attirisanu-no-vesturiska-vides-piesarnojuma/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/170/1729583178_nor-grants.webp"/>
 </a>
 </div>
@@ -91,18 +91,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Liepaja SEZ Behörde hat ein Abkommen über Wiederaufbauarbeiten von Karosta Kanal abgeschlossen</h2>
+<h2>Liepāja SEZ Behörde hat ein Abkommen über Wiederaufbauarbeiten von Karosta Kanal abgeschlossen</h2>
 <span class="mb-3">03.02.2023.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-parvalde-noslegusi-ligumu-par-karostas-kanala-sanacijas-darbu-veiksanu/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-sez-parvalde-noslegusi-ligumu-par-karostas-kanala-sanacijas-darbu-veiksanu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Liepaja Special Economic Zone Authority hat eine Vereinbarung mit SIA "Eko Osta" über die Wiederaufbauarbeiten des Hafens von Liepaja Karosta Kanal und Entfernung von historisch kontaminierten Sedimenten geschlossen. Nach dem Abkommen sollten nach der Entwicklung und Genehmigung des Sanierungsprogramms für den Karosta-Kanal, spätestens aber 2023, Rehabilitationsarbeiten eingeleitet werden. 1. Jahr April, aber bis 2023 abgeschlossen sein. 30. März 2004 November. Im Rahmen der Vereinbarung ist geplant, ~164 Tausend auszuschöpfen. m3 Gesamtmenge an kontaminiertem Sediment und Vertrag beträgt 3 497 260,00 EUR.  </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-parvalde-noslegusi-ligumu-par-karostas-kanala-sanacijas-darbu-veiksanu/index.php">Weiterlesen</a>
+<p>Liepāja Special Economic Zone Authority hat eine Vereinbarung mit SIA "Eko Osta" über die Wiederaufbauarbeiten des Hafens von Liepāja Karosta Kanal und Entfernung von historisch kontaminierten Sedimenten geschlossen. Nach dem Abkommen müssen nach der Entwicklung und Genehmigung des Sanierungsprogramms für den Karostakanal Rehabilitationsarbeiten eingeleitet werden, spätestens jedoch: 1. April 2023, aber zu ergänzen durch 30. November 2023. Der Vertrag soll erschöpft sein ~164 Tsd. m3 Die Gesamtmenge der kontaminierten Sedimente und Verträge ist: 3 497 260,00 EUR  </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-sez-parvalde-noslegusi-ligumu-par-karostas-kanala-sanacijas-darbu-veiksanu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/169/1729583199_nor-grants.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-parvalde-noslegusi-ligumu-par-karostas-kanala-sanacijas-darbu-veiksanu/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-sez-parvalde-noslegusi-ligumu-par-karostas-kanala-sanacijas-darbu-veiksanu/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/169/1729583199_nor-grants.webp"/>
 </a>
 </div>
@@ -114,15 +114,15 @@ Vorstandssitzungen
 <h2>Seminar wird lokale und breitere Auswirkungen auf die Umwelt und die menschliche Gesundheit von Karosta Canal </h2>
 <span class="mb-3">07.10.2022.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../seminara-diskutes-par-karostas-kanala-piesarnojuma-lokalo-un-plasako-ietekmi-uz-vidi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/seminara-diskutes-par-karostas-kanala-piesarnojuma-lokalo-un-plasako-ietekmi-uz-vidi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>2022 Am 13. Oktober, der Universität Liepaja um 12:00 Uhr. Ein Seminar und eine Diskussion finden um 10.00 Uhr statt.Die Auswirkungen der Umweltverschmutzung auf die menschliche Gesundheit: historische und tägliche Verschmutzung.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../seminara-diskutes-par-karostas-kanala-piesarnojuma-lokalo-un-plasako-ietekmi-uz-vidi/index.php">Weiterlesen</a>
+<p>13. Oktober 2022 Universität Liepāja um Uhr 10.00 Das Seminar und die Diskussion werden stattfinden.Die Auswirkungen der Verschmutzung auf die menschliche Gesundheit und die Umwelt: historische und tägliche Verschmutzung.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/seminara-diskutes-par-karostas-kanala-piesarnojuma-lokalo-un-plasako-ietekmi-uz-vidi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/172/1729583461_nor-grants.webp)">
-<a aria-label="Weiterlesen" href="../seminara-diskutes-par-karostas-kanala-piesarnojuma-lokalo-un-plasako-ietekmi-uz-vidi/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/seminara-diskutes-par-karostas-kanala-piesarnojuma-lokalo-un-plasako-ietekmi-uz-vidi/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/172/1729583461_nor-grants.webp"/>
 </a>
 </div>
@@ -134,15 +134,15 @@ Vorstandssitzungen
 <h2>Norwegens Erfahrung in der nachhaltigen Regeneration kontaminierter Wasserkörperlager nach Sanierungsarbeiten</h2>
 <span class="mb-3">09.06.2022.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../norvegijas-pieredze-ilgtspejiga-piesarnotu-udens-tilpnu-gultnu-atjaunosana-pec-sanacijas-d/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/norvegijas-pieredze-ilgtspejiga-piesarnotu-udens-tilpnu-gultnu-atjaunosana-pec-sanacijas-d/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Am 3. Juni dieses Jahres teilten Vertreter des norwegischen Wasserforschungsinstituts (NIVA) auf dem Erfahrungsaustauschseminar "Dismantling and Prevention of Pollution: Effective Environmental Management Systems on Industrial Waterways" ihre erfolgreiche und weniger erfolgreiche Erfahrung in der natürlichen Regeneration kontaminierter Sedimente in Gewässern nach teilweiser Verschmutzung. Entfernung. Auch Experten des Staatlichen Umweltdienstes, des Stadtrats von Liepaja und der Special Economic Zone Authority (LSEZ) teilten ihre Erfahrungen mit der Verringerung der Umweltverschmutzung. Die Veranstaltung wird im Rahmen des Projekts "Vesturriskisch kontaminierte Orte in Liepaja Hafen Karosta Canal Recovery Works" (im Folgenden "Projekt") organisiert, das von der Liepaja Special Economic Zone Authority in Zusammenarbeit mit dem Norwegian Water Research Institute und der Baltic Coast Society umgesetzt wird. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../norvegijas-pieredze-ilgtspejiga-piesarnotu-udens-tilpnu-gultnu-atjaunosana-pec-sanacijas-d/index.php">Weiterlesen</a>
+<p>Am 3. Juni dieses Jahres teilten Vertreter des norwegischen Wasserforschungsinstituts (NIVA) auf dem Erfahrungsaustauschseminar "Dismantling and Prevention of Pollution: Effective Environmental Management Systems on Industrial Waterways" ihre erfolgreiche und weniger erfolgreiche Erfahrung in der natürlichen Regeneration kontaminierter Sedimente in Gewässern nach teilweiser Verschmutzung. Entfernung. Auch Experten des Staatlichen Umweltdienstes, des Stadtrats von Liepāja und der Special Economic Zone Authority (LSEZ) teilten ihre Erfahrungen mit der Verringerung der Umweltverschmutzung. Die Veranstaltung wird im Rahmen des Projekts "Vesturriskisch kontaminierte Orte in Liepāja Hafen Karosta Canal Recovery Works" (im Folgenden "Projekt") organisiert, das von der Liepāja Special Economic Zone Authority in Zusammenarbeit mit dem Norwegian Water Research Institute und der Baltic Coast Society umgesetzt wird. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/norvegijas-pieredze-ilgtspejiga-piesarnotu-udens-tilpnu-gultnu-atjaunosana-pec-sanacijas-d/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/174/1729583724_nor-grants.webp)">
-<a aria-label="Weiterlesen" href="../norvegijas-pieredze-ilgtspejiga-piesarnotu-udens-tilpnu-gultnu-atjaunosana-pec-sanacijas-d/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/norvegijas-pieredze-ilgtspejiga-piesarnotu-udens-tilpnu-gultnu-atjaunosana-pec-sanacijas-d/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/174/1729583724_nor-grants.webp"/>
 </a>
 </div>
@@ -154,15 +154,15 @@ Vorstandssitzungen
 <h2>Liepāja - Offshore-Windenergiezentrum in der östlichen Ostsee</h2>
 <span class="mb-3">14.04.2022.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepaja-atkrastes-veja-energijas-nozares-centrs-baltijas-juras-austrumu-dala/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepaja-atkrastes-veja-energijas-nozares-centrs-baltijas-juras-austrumu-dala/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>14. Am April fand eine Diskussion in Liepaja statt.Der Hafen Lettlands als Grundlage für die Energieunabhängigkeit wurde von dem Minister für Verkehr Jānis Wittenbergs und dem Wirtschaftsminister Ilze Indriksone geleitet, der sich auf das Potenzial der Ostsee für die Entwicklung des Windparks konzentrierte, und als wichtigster Aspekt der Verhandlungen war die Notwendigkeit, private Häfen Lettlands anzuziehen. Investoren, um diese Entwicklung zu gewährleisten. Während der Diskussion präsentierte Liepaja SEZ Manager Uldis Hmielevskis seinen Plan zur Schaffung einer Offshore-Windenergieunterstützungsbasis im Hafen von Liepaja, die acht von zehn Bedingungen erfüllt und 100 km Radius umfasst alle geplanten Windparks in den Gewässern Lettlands und 250 km Radius alle in den baltischen Staaten geplant Windparks.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepaja-atkrastes-veja-energijas-nozares-centrs-baltijas-juras-austrumu-dala/index.php">Weiterlesen</a>
+<p>14. Am April fand eine Diskussion in Liepāja statt.Der Hafen Lettlands als Grundlage für die Energieunabhängigkeit wurde von dem Minister für Verkehr Jānis Wittenbergs und dem Wirtschaftsminister Ilze Indriksone geleitet, der sich auf das Potenzial der Ostsee für die Entwicklung des Windparks konzentrierte, und als wichtigster Aspekt der Verhandlungen war die Notwendigkeit, private Häfen Lettlands anzuziehen. Investoren, um diese Entwicklung zu gewährleisten. Während der Diskussion präsentierte Liepāja SEZ Manager Uldis Hmielevskis seinen Plan zur Schaffung einer Offshore-Windenergieunterstützungsbasis im Hafen von Liepāja, die acht von zehn Bedingungen erfüllt und 100 km Radius umfasst alle geplanten Windparks in den Gewässern Lettlands und 250 km Radius alle in den baltischen Staaten geplant Windparks.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepaja-atkrastes-veja-energijas-nozares-centrs-baltijas-juras-austrumu-dala/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/117/1710337194_53188826381_0aa1aa6da1_k.webp)">
-<a aria-label="Weiterlesen" href="../liepaja-atkrastes-veja-energijas-nozares-centrs-baltijas-juras-austrumu-dala/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepaja-atkrastes-veja-energijas-nozares-centrs-baltijas-juras-austrumu-dala/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/117/1710337194_53188826381_0aa1aa6da1_k.webp"/>
 </a>
 </div>
@@ -174,15 +174,15 @@ Vorstandssitzungen
 <h2>Das Karosta Canal Recovery Projekt wird fortgesetzt </h2>
 <span class="mb-3">22.02.2022.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../turpina-karostas-kanala-sanacijas-projektu/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/turpina-karostas-kanala-sanacijas-projektu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Bis Ende April dieses Jahres plant die Liepaja SEZ Authority, eine Beschaffung für Sanierungsarbeiten auf dem Karasta-Kanal zu verkünden, um sie von der historischen Verschmutzung zu reinigen und weiterhin das Projekt Purification des Karosta Kanals des Hafens von Liepaja umzusetzen. Runde II mit dem Ziel, den negativen Umwelt-, Gesundheits- und ökologischen Status der Ostseesedimente zu verringern, die historisch durch den Karostakanal kontaminiert sind. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../turpina-karostas-kanala-sanacijas-projektu/index.php">Weiterlesen</a>
+<p>Bis Ende April dieses Jahres plant die Liepāja SEZ Authority, eine Beschaffung für Sanierungsarbeiten auf dem Karasta-Kanal zu verkünden, um sie von der historischen Verschmutzung zu reinigen und weiterhin das Projekt Purification des Karosta Kanals des Hafens von Liepāja umzusetzen. Runde II mit dem Ziel, den negativen Umwelt-, Gesundheits- und ökologischen Status der Ostseesedimente zu verringern, die historisch durch den Karostakanal kontaminiert sind. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/turpina-karostas-kanala-sanacijas-projektu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/175/1729583892_nor-grants.webp)">
-<a aria-label="Weiterlesen" href="../turpina-karostas-kanala-sanacijas-projektu/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/turpina-karostas-kanala-sanacijas-projektu/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/175/1729583892_nor-grants.webp"/>
 </a>
 </div>
@@ -191,7 +191,7 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev" data-block="2" data-page="25" data-per-page="6" data-topic="14" href="../25/index.php">
+<a class="news-list-pagination prev" data-block="2" data-page="25" data-per-page="6" data-topic="14" href="/site/de/medijiem/25/index.php">
 <img alt="Zurück" src="../../../img/round-right.svg"/>
 
 Zurück
@@ -199,7 +199,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="2" data-page="27" data-per-page="6" data-topic="14" href="../27/index.php">
+<a class="news-list-pagination next" data-block="2" data-page="27" data-per-page="6" data-topic="14" href="/site/de/medijiem/27/index.php">
 
 Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 </a>
@@ -244,7 +244,7 @@ Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

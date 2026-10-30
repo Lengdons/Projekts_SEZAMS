@@ -39,18 +39,18 @@ html.classList.add(localStorage['contrast']);
 <div class="container article-full pt-5 my-5">
 <div class="row">
 <div class="col-12 col-md-9 offset-md-3 mt-md-5">
-<span class="date d-block mt-md-5">Artikel 01 02 77 - Teilsumme 8. März 2025</span>
+<span class="date d-block mt-md-5">03. März 2025</span>
 <h1 class="article-title">Digitale Transformation des Hafenmanagements durch verbesserte Transport- und Logistikdatenverarbeitung und -analyse</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Ziel des Projekts ist es, die digitale Transformation des lettischen Hafenmanagements durch Verbesserung der Datenverarbeitung und -analyse im Transport- und Logistikbereich zu fördern und eine integrierte, gemeinsame und anpassungsfähige Plattform einzuführen, die gewährleistet:</p><ul><li>die Umsetzung integrierter Hafenfunktionen und von Prozessen und Dienstleistungen für die Frachtlogistik der Unternehmen in einem digitalen Umfeld;</li><li>die Digitalisierung multimodaler Hafenfrachtdaten;</li><li>Erwerb, Verarbeitung und gemeinsame Nutzung in Echtzeit;</li><li>Verringerung des Verwaltungsaufwands für Plattformteilnehmer, Papierdokumente und Umweltauswirkungen;</li><li>Interoperabilität auf nationaler und grenzüberschreitender Ebene;</li><li>Verbesserung der digitalen Entwicklung, der Fähigkeiten und der internationalen Wettbewerbsfähigkeit von Plattformteilnehmern.</li></ul><p>Das Projekt wird eine modulare Plattform für ein einheitliches digitales Management von Hafentransport- und Land- und Seefrachtlogistik, Datenaustausch und Service Delivery entwickeln, einschließlich Frachtplanung, Tracking und Dokumentenverarbeitung sowie integrierter digitaler Hafentransport-und Logistikdienste.</p><p>Das Port-Informationssystem wird ergänzt und an die Bedürfnisse der Partnerhäfen angepasst.Das Projekt plant, ein Plattformintegrations-Gateway zu entwickeln und Schlüsselsteuerungsdienste und Informationssysteme von Drittanbietern wie SKLOIS, KPS und gemeinsame Lösungen (National Federated Cloud of Latvia, Single Authentifizierung usw.).</p><p>Die Plattform und ihre Dienste werden bei der Freeport of Riga Authority, Ventspils FreePort Authority und Liepaja Special Economic Zone Authority implementiert, die anderen lettischen Häfen, Institutionen und Unternehmen Zugang zur Plattform bietet.</p><p>Die Umsetzung des Projekts wird die Effizienz der Verwaltungsprozesse in Liepaja Special Economic Zone deutlich verbessern und Unternehmern (Schiffsagenten, Betreiber, Terminals usw.) die Möglichkeit bieten, staatliche Formalitäten an einem Ort digital durchzuführen sowie Hafendienste und verbindliche Betriebsinformationen zu erhalten.</p><p>Die Partner des Projekts sind Liepaja Special Economic Zone Authority, Ventspils Freeport Authority, VAS Latvijas dzelzceļš, Ministry of Transport, State Ltd. Lettisch Maritime Administration und State Border Guard. Führender Partner des Projekts √ Freeport der Riga Authority.</p><p>Das Projekt "Digitale Transformation des institutionellen Managements," die Verbesserung der Datenverarbeitung und -analyse in den Bereichen Verkehr und Logistik, wird mit Mitteln aus dem Rettungsfonds der Europäischen Union durchgeführt. Die Gesamtkosten des Projekts belaufen sich auf 3,24 Millionen. 314 035,79 EUR davon 314 035,79 EUR sind Teil der Finanzierung durch die Liepaja Special Economic Zone Authority, bestehend aus Mitteln des Europäischen Fonds für Wiederaufbau in Höhe von 314 035.79 EUR, einschließlich: 48 299,93 EUR Finanzierung des Staatshaushalts. Projektdurchführungszeitraum √ bis 2026. 31. Dezember 2007 May.</p></div>
+<div class="col"><div class="col-12 output"><p>Ziel des Projekts ist es, die digitale Transformation des lettischen Hafenmanagements durch Verbesserung der Datenverarbeitung und -analyse im Transport- und Logistikbereich zu fördern und eine integrierte, gemeinsame und anpassungsfähige Plattform einzuführen, die gewährleistet:</p><ul><li>die Umsetzung integrierter Hafenfunktionen und von Prozessen und Dienstleistungen für die Frachtlogistik der Unternehmen in einem digitalen Umfeld;</li><li>die Digitalisierung multimodaler Hafenfrachtdaten;</li><li>Erwerb, Verarbeitung und gemeinsame Nutzung in Echtzeit;</li><li>Verringerung des Verwaltungsaufwands für Plattformteilnehmer, Papierdokumente und Umweltauswirkungen;</li><li>Interoperabilität auf nationaler und grenzüberschreitender Ebene;</li><li>Verbesserung der digitalen Entwicklung, der Fähigkeiten und der internationalen Wettbewerbsfähigkeit von Plattformteilnehmern.</li></ul><p>Das Projekt wird eine modulare Plattform für ein einheitliches digitales Management von Hafentransport- und Land- und Seefrachtlogistik, Datenaustausch und Service Delivery entwickeln, einschließlich Frachtplanung, Tracking und Dokumentenverarbeitung sowie integrierter digitaler Hafentransport-und Logistikdienste.</p><p>Das Port-Informationssystem wird ergänzt und an die Bedürfnisse der Partnerhäfen angepasst.Das Projekt plant, ein Plattformintegrations-Gateway zu entwickeln und Schlüsselsteuerungsdienste und Informationssysteme von Drittanbietern wie SKLOIS, KPS und gemeinsame Lösungen (National Federated Cloud of Latvia, Single Authentifizierung usw.).</p><p>Die Plattform und ihre Dienste werden bei der Freeport of Riga Authority, Ventspils FreePort Authority und Liepāja Special Economic Zone Authority implementiert, die anderen lettischen Häfen, Institutionen und Unternehmen Zugang zur Plattform bietet.</p><p>Die Umsetzung des Projekts wird die Effizienz der Verwaltungsprozesse in Liepāja Special Economic Zone deutlich verbessern und Unternehmern (Schiffsagenten, Betreiber, Terminals usw.) die Möglichkeit bieten, staatliche Formalitäten an einem Ort digital durchzuführen sowie Hafendienste und verbindliche Betriebsinformationen zu erhalten.</p><p>Die Partner des Projekts sind Liepāja Special Economic Zone Authority, Ventspils Freeport Authority, VAS Latvijas dzelzceļš, Ministry of Transport, State Ltd. Lettisch Maritime Administration und State Border Guard. Führender Partner des Projekts √ Freeport der Riga Authority.</p><p>Das Projekt "Digitale Transformation des institutionellen Managements," die Verbesserung der Datenverarbeitung und -analyse in den Bereichen Verkehr und Logistik, wird mit Mitteln aus dem Rettungsfonds der Europäischen Union durchgeführt. Die Gesamtkosten des Projekts sind: 3,24 Mio. Davon EUR 314 035,79 EUR ist Teil der Finanzierung durch die Liepāja Special Economic Zone Authority, die aus Mitteln des Europäischen Fonds für den Wiederaufbau besteht 314 035,79 Davon EUR 48 299,93 Die Finanzierung des Staatshaushalts. Projektdurchführungszeitraum √ bis 31. Mai 2026.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="../../../img/mod/news/259/870_1761654441_logo-4.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="../../../img/mod/news/259/original_1761654441_logo-4.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="../../../img/mod/news/259/original_1761654441_logo-4.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -71,11 +71,11 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">25.08.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Das gemeinsame Digitalisierungsprojekt der lettischen Häfen wurde abgeschlossen, eine einzige digitale Plattform für effizientere Hafenoperationen wurde eingerichtet.</h4>
-<a class="d-none d-md-block my-4" href="../nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
+<a class="d-none d-md-block my-4" href="/site/de/attistibas-projekti/nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">Das gemeinsame Digitalisierungsprojekt der größten Häfen Lettlands hat abgeschlossen, bei dem für die Häfen Riga, Ventspils und Liepaja eine einzige digitale Plattform für den Hafenbetrieb und den Kundenservice eingerichtet wurde. Das Projekt hat zu gemeinsamen digitalen Lösungen geführt, die die Zusammenarbeit zwischen Häfen und ihren Kunden verbessern, den Informationsaustausch beschleunigen, die manuelle Datenverarbeitung verringern und eine gemeinsame technologische Basis für die Weiterentwicklung der lettischen Häfen schaffen.</div>
+<div class="col-12 col-md-8 col-lg-9">Das gemeinsame Digitalisierungsprojekt der größten Häfen Lettlands hat abgeschlossen, bei dem für die Häfen Riga, Ventspils und Liepāja eine einzige digitale Plattform für den Hafenbetrieb und den Kundenservice eingerichtet wurde. Das Projekt hat zu gemeinsamen digitalen Lösungen geführt, die die Zusammenarbeit zwischen Häfen und ihren Kunden verbessern, den Informationsaustausch beschleunigen, die manuelle Datenverarbeitung verringern und eine gemeinsame technologische Basis für die Weiterentwicklung der lettischen Häfen schaffen.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/attistibas-projekti/nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -85,12 +85,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">19.12.2024.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Sicheres Anlegen von Ro-Ro-Fähren im Hafen von Liepaja</h4>
-<a class="d-none d-md-block my-4" href="../ro-ro-pramju-drosas-pietauvosanas-nodrosinasana-liepajas-osta/index.php">Weiterlesen</a>
+<h4>Sicheres Anlegen von Ro-Ro-Fähren im Hafen von Liepāja</h4>
+<a class="d-none d-md-block my-4" href="/site/de/attistibas-projekti/ro-ro-pramju-drosas-pietauvosanas-nodrosinasana-liepajas-osta/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Die Bereitstellung regelmäßiger und kontinuierlicher Fährdienste hängt direkt von dem technischen Zustand der Hafeninfrastruktur ab, die für den Betrieb genutzt wird.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../ro-ro-pramju-drosas-pietauvosanas-nodrosinasana-liepajas-osta/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/attistibas-projekti/ro-ro-pramju-drosas-pietauvosanas-nodrosinasana-liepajas-osta/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -100,7 +100,7 @@ html.classList.add(localStorage['contrast']);
 <div class="prev">
 </div>
 <div class="next">
-<a aria-label="Weiter" class="next related-pagination" data-page="2" href="index.php">
+<a aria-label="Weiter" class="next related-pagination" data-page="2" href="/site/de/attistibas-projekti/ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">
 
 Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 </a>
@@ -132,7 +132,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/attistibas-projekti/ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

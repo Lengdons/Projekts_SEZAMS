@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/jaunumi-1/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -49,7 +49,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Fotos
@@ -57,7 +57,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -71,18 +71,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Reinigung des Karostakanals: Beitrag zur Verbesserung der Umweltgesundheit der Ostseeökologie und Liepaja </h2>
+<h2>Reinigung des Karostakanals: Beitrag zur Verbesserung der Umweltgesundheit der Ostseeökologie und Liepāja </h2>
 <span class="mb-3">03.10.2021.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../karostas-kanala-attirisana-ieguldijums-baltijas-juras-ekologijas-veseliba/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/karostas-kanala-attirisana-ieguldijums-baltijas-juras-ekologijas-veseliba/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>2021. Am 1. Dezember veranstaltet Liepaja das Eröffnungsseminar des Rehabilitationsprojektes des Karosta-Kanals im Hafen von Liepaja. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../karostas-kanala-attirisana-ieguldijums-baltijas-juras-ekologijas-veseliba/index.php">Weiterlesen</a>
+<p>2021. Am 1. Dezember veranstaltet Liepāja das Eröffnungsseminar des Rehabilitationsprojektes des Karosta-Kanals im Hafen von Liepāja. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/karostas-kanala-attirisana-ieguldijums-baltijas-juras-ekologijas-veseliba/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/177/1729584119_nor-grants.webp)">
-<a aria-label="Weiterlesen" href="../karostas-kanala-attirisana-ieguldijums-baltijas-juras-ekologijas-veseliba/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/karostas-kanala-attirisana-ieguldijums-baltijas-juras-ekologijas-veseliba/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/177/1729584119_nor-grants.webp"/>
 </a>
 </div>
@@ -94,15 +94,15 @@ Vorstandssitzungen
 <h2>Start der Runde II des Karosta Canal Recovery-Projekts </h2>
 <span class="mb-3">14.09.2021.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../uzsak-karostas-kanala-sanacijas-projekta-ii-kartu/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/uzsak-karostas-kanala-sanacijas-projekta-ii-kartu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Liepaja Special Economic Zone Authority beginnt mit der Durchführung des Projekts Purification des Karosta-Kanals des Hafens von Liepaja. Runde II mit dem Ziel, den negativen Umwelt-, Gesundheits- und ökologischen Status der Ostseesedimente zu verringern, die historisch durch den Karostakanal kontaminiert sind. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../uzsak-karostas-kanala-sanacijas-projekta-ii-kartu/index.php">Weiterlesen</a>
+<p>Liepāja Special Economic Zone Authority beginnt mit der Durchführung des Projekts Purification des Karosta-Kanals des Hafens von Liepāja. Runde II mit dem Ziel, den negativen Umwelt-, Gesundheits- und ökologischen Status der Ostseesedimente zu verringern, die historisch durch den Karostakanal kontaminiert sind. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/uzsak-karostas-kanala-sanacijas-projekta-ii-kartu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/176/1729583996_nor-grants.webp)">
-<a aria-label="Weiterlesen" href="../uzsak-karostas-kanala-sanacijas-projekta-ii-kartu/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/uzsak-karostas-kanala-sanacijas-projekta-ii-kartu/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/176/1729583996_nor-grants.webp"/>
 </a>
 </div>
@@ -114,15 +114,15 @@ Vorstandssitzungen
 <h2>Formal investiert in die Gründung der neuen LSEZ AS Norplast Pimare Fabrik</h2>
 <span class="mb-3">00.00.0000.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../svinigi-iegulda-laika-kapsulu-jaunas-lsez-as-norplast-piemare-razotnes-pamatos/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/svinigi-iegulda-laika-kapsulu-jaunas-lsez-as-norplast-piemare-razotnes-pamatos/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>Am Mittwoch, den 26. Juni wurde die neue Produktionseinheit von LSEZ AS Norplast Piemare in die Gründung einer Zeitkapsel mit einer Botschaft für zukünftige Generationen eingebaut. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../svinigi-iegulda-laika-kapsulu-jaunas-lsez-as-norplast-piemare-razotnes-pamatos/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/svinigi-iegulda-laika-kapsulu-jaunas-lsez-as-norplast-piemare-razotnes-pamatos/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/143/1719406245_33_06.26.2024._Norplast_Piemare_LSEZ_Uldis Hmielevskis.webp)">
-<a aria-label="Weiterlesen" href="../svinigi-iegulda-laika-kapsulu-jaunas-lsez-as-norplast-piemare-razotnes-pamatos/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/svinigi-iegulda-laika-kapsulu-jaunas-lsez-as-norplast-piemare-razotnes-pamatos/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/143/1719406245_33_06.26.2024._Norplast_Piemare_LSEZ_Uldis Hmielevskis.webp"/>
 </a>
 </div>
@@ -131,7 +131,7 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev" data-block="2" data-page="26" data-per-page="6" data-topic="14" href="../26/index.php">
+<a class="news-list-pagination prev" data-block="2" data-page="26" data-per-page="6" data-topic="14" href="/site/de/jaunumi-1/26/index.php">
 <img alt="Zurück" src="../../../img/round-right.svg"/>
 
 Zurück
@@ -139,7 +139,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next d-none" data-block="2" data-page="" data-per-page="6" data-topic="14" href="../28/index.php">
+<a class="news-list-pagination next d-none" data-block="2" data-page="" data-per-page="6" data-topic="14" href="/site/de/jaunumi-1/28/index.php">
 
 Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 </a>
@@ -184,7 +184,7 @@ Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

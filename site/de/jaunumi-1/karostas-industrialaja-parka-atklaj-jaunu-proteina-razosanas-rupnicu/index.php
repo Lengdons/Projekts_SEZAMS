@@ -47,18 +47,18 @@ html.classList.add(localStorage['contrast']);
 <span>E-Mail: <a href="mailto:liga.ratniece-kadege@lsez.lv" target="_blank">liga.ratniece-kadege@lsez.lv</a></span>
 </div>
 <div class="col-12 col-md-9 mt-md-5">
-<span class="date d-block mt-md-5">19. 8. Juni 2024</span>
+<span class="date d-block mt-md-5">19. Juni 2024</span>
 <h1 class="article-title">Karosta Industrial Park eröffnet eine neue Proteinproduktionsanlage</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>19. Im Juni wurde die offizielle Einweihung der "Golden Field Factory" im Industriepark Karosta eröffnet. Mit der Errichtung einer Produktionseinheit der Golden Field Factory ist die Verarbeitung landwirtschaftlicher Produkte nach Liepaja zurückgekehrt und die ersten Investitionen aus den Vereinigten Arabischen Emiraten und den USA sind eingegangen.</p><p>Die neue Anlage stellt mehr als 50 neue Arbeitsplätze bereit, investiert 16 Millionen Euro und plant die Herstellung lokal importierter Erbsen und Bohnen für die Lebensmittelindustrie mit Proteinen und Stärke. Die gesamte Produktion soll exportiert werden.</p><p>Es ist bereits die vierte Fabrik im Industriepark Karosta, vierundzwanzigste Liepaja in den letzten sieben Jahren, aber das ist definitiv etwas Besonderes. Zunächst werden hier landwirtschaftliche Produkte verarbeitet: Bohnen und Erbsen, die ein hochwertiges Protein produzieren. Zweitens ist dies die erste Fabrik, in der das historische Gebäude von Karosta erfolgreich erhalten und integriert wurde, Uldis Hmielevskis, Liepaja SEZ Manager.</p><p>Der Bau der Fabrik an der Zemgales Street 11, Liepaja Gemeindebehörde Gebäudevorstand Kommission in Inbetriebnahme 2022 angenommen. 29. Mai 2004 November als Ltd., Büro- und Produktionsgebäude in Karosta Industrial Park, Liepāja mit einer Gesamtfläche von 4802.4 m<sup>2</sup>. Das Produktionsgebäude wurde später an die Golden Field Factory LV Ltd übertragen.</p><p>Die Planung der Anlage begann 2020. März 2005 wurde jedoch 2021 mit dem Bau begonnen. August 2002 Es ist bereits das vierte Werk im Gebiet des Industrieparks Karosta, aber das erste, das historische Gebäude von Karosta wieder herstellt und beinhaltet. Der Architekt Gundars Vīksna hat das historische Gebäude von Karosta in das Bauprojekt seiner neuen Produktionseinheit integriert, die vom Auftragnehmer SIA UPTK durchgeführt wurde. Die Gemeinde und Liepaja SEZ Authority waren sich einig, dass das historische Erscheinungsbild der Zemgales Street erhalten bleiben sollte, was später in die Baubedingungen integriert wurde. So erlebte eines der Häuser der Zemgales Street eine komplette Renaissance, während das andere einen Teil der Fassade hinterließ, die sich mit großen Industrieräumen verbindet. Auch im Rahmen des Projekts Landschaftsumgebung, gebauter Parkplatz.</p><p>Bezug:</p><p>Die Idee, den Industriepark Karosta zu schaffen, wurde bereits 1999 geboren. Um die Schaffung von Arbeitsplätzen zu fördern, erhöhen Sie die Höhe der Steuern, die von den Stadt- und Staatsbudgets erhalten werden, und ermöglichen es, zusätzliche Ressourcen in Bildung, Kultur und Sport und andere Projekte zu kanalisieren. Der Bau neuer Anlagen in Karosta war nicht möglich, die Produktverarbeitung oder Investoren schienen erst 2015 attraktiv. 2009 organisierte die Gemeinde in Zusammenarbeit mit der Liepaja SEZ Authority das Gebiet von Karosta zu geschäftlichen Zwecken in einer Fläche von fast 20 ha. </p></div>
+<div class="col"><div class="col-12 output"><p>19. Im Juni wurde die offizielle Einweihung der "Golden Field Factory" im Industriepark Karosta eröffnet. Mit der Errichtung einer Produktionseinheit der Golden Field Factory ist die Verarbeitung landwirtschaftlicher Produkte nach Liepāja zurückgekehrt und die ersten Investitionen aus den Vereinigten Arabischen Emiraten und den USA sind eingegangen.</p><p>Die neue Anlage stellt mehr als 50 neue Arbeitsplätze bereit, investiert 16 Millionen Euro und plant die Herstellung lokal importierter Erbsen und Bohnen für die Lebensmittelindustrie mit Proteinen und Stärke. Die gesamte Produktion soll exportiert werden.</p><p>Es ist bereits die vierte Fabrik im Industriepark Karosta, vierundzwanzigste Liepāja in den letzten sieben Jahren, aber das ist definitiv etwas Besonderes. Zunächst werden hier landwirtschaftliche Produkte verarbeitet: Bohnen und Erbsen, die ein hochwertiges Protein produzieren. Zweitens ist dies die erste Fabrik, in der das historische Gebäude von Karosta erfolgreich erhalten und integriert wurde, Uldis Hmielevskis, Liepāja SEZ Manager.</p><p>Manufacturing House auf der Zemgales Street 11, Liepāja Municipal Authority Construction Board Kommission in Betrieb genommen 29. November 2022 als SIA √EB Liepāja Büro- und Produktionsgebäude im Industriepark Karosta, Liepāja mit der Gesamtfläche 4802,4 m<sup>2</sup>. Das Produktionsgebäude wurde später an die Golden Field Factory LV Ltd übertragen.</p><p>Produktionsanlagen-Design gestartet März 2020, aber der Bau wurde begonnen August 2021. Es ist bereits das vierte Werk im Gebiet des Industrieparks Karosta, aber das erste, das historische Gebäude von Karosta wieder herstellt und beinhaltet. Der Architekt Gundars Vīksna hat das historische Gebäude von Karosta in das Bauprojekt seiner neuen Produktionseinheit integriert, die vom Auftragnehmer SIA UPTK durchgeführt wurde. Die Gemeinde und Liepāja SEZ Authority waren sich einig, dass das historische Erscheinungsbild der Zemgales Street erhalten bleiben sollte, was später in die Baubedingungen integriert wurde. So erlebte eines der Häuser der Zemgales Street eine komplette Renaissance, während das andere einen Teil der Fassade hinterließ, die sich mit großen Industrieräumen verbindet. Auch im Rahmen des Projekts Landschaftsumgebung, gebauter Parkplatz.</p><p>Zur Information:</p><p>Die Idee, Karosta Industriepark zu schaffen wurde bereits geboren 1999. Um die Schaffung von Arbeitsplätzen zu fördern, erhöhen Sie die Höhe der Steuern, die von den Stadt- und Staatsbudgets erhalten werden, und ermöglichen es, zusätzliche Ressourcen in Bildung, Kultur und Sport und andere Projekte zu kanalisieren. Der Bau neuer Anlagen in Karosta war nicht möglich, die Verarbeitung von Produkten oder Investoren schienen bis zu 2015. , als die lokale Regierung in Zusammenarbeit mit der Liepāja SEZ Authority das Gebiet in Karosta für geschäftliche Bedürfnisse organisierte 20 in einer Fläche von ha. </p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/141/870_1718805821__R1A0592.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/141/original_1718805821__R1A0592.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/141/original_1718805821__R1A0592.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

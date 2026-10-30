@@ -39,18 +39,18 @@ html.classList.add(localStorage['contrast']);
 <div class="container article-full pt-5 my-5">
 <div class="row">
 <div class="col-12 col-md-9 offset-md-3 mt-md-5">
-<span class="date d-block mt-md-5">10. 8. November 2022</span>
+<span class="date d-block mt-md-5">10. November 2022</span>
 <h1 class="article-title">2018-2022</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p><strong>Geplante Projektdurchführungszeit:</strong></p><p>2018 vom 5. Februar 2004 22. März 2022 Januar</p><p><strong>Projektimplementator:</strong></p><p>Verwaltung der Sonderwirtschaftszone Liepāja</p><p><strong>Förderfähige Gesamtkosten des Projekts:</strong></p><p>31 700 000 EUR, davon 22 894 923.38 EUR aus dem EU-Kohäsionsfonds, 1 998 550,00 EUR Leistungsreserve und 6 806 521.47 EUR aus der Liepaja SEZ-Behörde</p><p> </p><p>Der Hafen von Liepaja ist der Hafen des umfassenden TEN-V-Netzes für den EU-Binnenmarkt, wo mit der Durchführung des Kohäsionsfonds (CF) Projekt Deepening des Hafens von Liepāja eine erhebliche Zunahme der Bewegung von Großraumschiffen stattgefunden hat. In bestimmten Fällen, auch aufgrund von Änderungen des Wasserstands, müssen Schiffe Liepaja mit einer reduzierten Sicherheitsmarge (Wassertiefe unter dem Kiel) verlassen, was zu einem erheblichen Anstieg der Wahrscheinlichkeit eines Seeunfalls geführt hat.</p><p>Um die Sicherheit von Schiffen beim Verlassen eines Hafens mit verringerter Sicherheitsmarge nicht zu gefährden, führen Unternehmen im Hafen von Liepaja regelmäßig das endgültige Verladen von Schiffen auf einer externen Fahrt nach dem Versandverfahren durch. In der äußeren See des Hafens sind Schiffe vollständig offenen Meeren ausgesetzt, wodurch Schiffe gefährdet werden, die am Frachtbetrieb beteiligt sind, sowie die Meeresumwelt durch Verschmutzung durch Ladung und Ölprodukte, die durch Umladung in das Meer gelangen.</p><p>Die Herausforderung wäre die Verbesserung der Hafenwasserinfrastruktur, die die Schaffung einer Erweiterung des Fairways - Verankerungspunkt im inneren Flug des Hafens umfasst, was eine endgültige Beladung von Schiffen in einem hafen Aquator ermöglichen wird, wo sie durch ein System von wassertechnischen Schutzstrukturen vor offenem Meer geschützt sind. Auf der anderen Seite wird die Verbesserung des Fairways, das eine Vertiefung, Ausdehnung und Richtung beinhaltet, eine sichere Beförderung von Schiffen gewährleisten, bis sie die hydrotechnische Schutzstruktur des Hafens erreichen - Mollusken und Wilver, geschütztes Aquatorium.</p><p>Projekt "Verbesserung der Liepaja Port Water Infrastructure": Beseitigung der Beschränkungen für die transeuropäischen Verkehrsnetze durch Umsetzung von Maßnahmen zur Verbesserung der Hafenwasserinfrastruktur von Liepaja."</p><p>Im Rahmen des Projekts werden folgende Maßnahmen zur Verbesserung der Wasserinfrastruktur durchgeführt:</p><p>Verbesserung des Fairways, einschließlich der Errichtung einer Verankerungsstelle im Freeport des Hafenhafens;</p><p>Renovierung und Rekonstruktion von hydrotechnischen Gebäuden im Hafen, einschließlich der Installation von Navigationszeichen.</p><p>Infolge der Durchführung des Projekts werden die durchgeführten Tätigkeiten die Sicherheit von Großraumschiffen durch den Besuch des Hafens von Liepaja erheblich verbessern und so potenzielle Verluste von Seeverkehrsteilnehmern, einschließlich Schiffsstillstandszeiten und wirtschaftlichen Verlusten in Importländern im Zusammenhang mit dem unzeitigen Empfang von Fracht, verringern.</p><p>Projekt 61.10.17/I/005 I/005 Die Verbesserung der Wasserinfrastruktur des Hafens von Liepaja wird im Rahmen des operationellen Programms "Wachstum und Beschäftigung" von 6.1.1 durchgeführt.</p></div>
+<div class="col"><div class="col-12 output"><p><strong>Geplante Projektdurchführungszeit:</strong></p><p>5. März 2018 – 4. Januar 2022</p><p><strong>Projektimplementator:</strong></p><p>Verwaltung der Sonderwirtschaftszone Liepāja</p><p><strong>Förderfähige Gesamtkosten des Projekts:</strong></p><p>31 700 000 EUR, davon 22 894 923.38 EUR aus dem EU-Kohäsionsfonds, 1 998 550,00 EUR Leistungsreserve und 6 806 521.47 EUR aus der Liepāja SEZ-Behörde</p><p> </p><p>Der Hafen von Liepāja ist der Hafen des umfassenden TEN-V-Netzes für den EU-Binnenmarkt, wo mit der Durchführung des Kohäsionsfonds (CF) Projekt Deepening des Hafens von Liepāja eine erhebliche Zunahme der Bewegung von Großraumschiffen stattgefunden hat. In bestimmten Fällen, auch aufgrund von Änderungen des Wasserstands, müssen Schiffe Liepāja mit einer reduzierten Sicherheitsmarge (Wassertiefe unter dem Kiel) verlassen, was zu einem erheblichen Anstieg der Wahrscheinlichkeit eines Seeunfalls geführt hat.</p><p>Um die Sicherheit von Schiffen beim Verlassen eines Hafens mit verringerter Sicherheitsmarge nicht zu gefährden, führen Unternehmen im Hafen von Liepāja regelmäßig das endgültige Verladen von Schiffen auf einer externen Fahrt nach dem Versandverfahren durch. In der äußeren See des Hafens sind Schiffe vollständig offenen Meeren ausgesetzt, wodurch Schiffe gefährdet werden, die am Frachtbetrieb beteiligt sind, sowie die Meeresumwelt durch Verschmutzung durch Ladung und Ölprodukte, die durch Umladung in das Meer gelangen.</p><p>Die Herausforderung wäre die Verbesserung der Hafenwasserinfrastruktur, die die Schaffung einer Erweiterung des Fairways - Verankerungspunkt im inneren Flug des Hafens umfasst, was eine endgültige Beladung von Schiffen in einem hafen Aquator ermöglichen wird, wo sie durch ein System von wassertechnischen Schutzstrukturen vor offenem Meer geschützt sind. Auf der anderen Seite wird die Verbesserung des Fairways, das eine Vertiefung, Ausdehnung und Richtung beinhaltet, eine sichere Beförderung von Schiffen gewährleisten, bis sie die hydrotechnische Schutzstruktur des Hafens erreichen - Mollusken und Wilver, geschütztes Aquatorium.</p><p>Projekt "Verbesserung der Liepāja Port Water Infrastructure": Beseitigung der Beschränkungen für die transeuropäischen Verkehrsnetze durch Umsetzung von Maßnahmen zur Verbesserung der Hafenwasserinfrastruktur von Liepāja."</p><p>Im Rahmen des Projekts werden folgende Maßnahmen zur Verbesserung der Wasserinfrastruktur durchgeführt:</p><p>Verbesserung des Fairways, einschließlich der Errichtung einer Verankerungsstelle im Freeport des Hafenhafens;</p><p>Renovierung und Rekonstruktion von hydrotechnischen Gebäuden im Hafen, einschließlich der Installation von Navigationszeichen.</p><p>Infolge der Durchführung des Projekts werden die durchgeführten Tätigkeiten die Sicherheit von Großraumschiffen durch den Besuch des Hafens von Liepāja erheblich verbessern und so potenzielle Verluste von Seeverkehrsteilnehmern, einschließlich Schiffsstillstandszeiten und wirtschaftlichen Verlusten in Importländern im Zusammenhang mit dem unzeitigen Empfang von Fracht, verringern.</p><p>Projekt Nr.6.1.1.0/17/I/005 Verbesserung des Hafens von Liepāja Die Wasserinfrastruktur wird im Rahmen des operationellen Programms "Wachstum und Arbeitsplätze" durchgeführt. 6.1.1Spezifische Unterstützung zur Erhöhung der Sicherheit großer Häfen und zur Verbesserung der Mobilität des Verkehrsnetzes.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="../../../img/mod/news/92/870_1708685058_wallpaper2you_121359.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="../../../img/mod/news/92/original_1708685058_wallpaper2you_121359.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="../../../img/mod/news/92/original_1708685058_wallpaper2you_121359.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -71,11 +71,11 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">25.08.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Das gemeinsame Digitalisierungsprojekt der lettischen Häfen wurde abgeschlossen, eine einzige digitale Plattform für effizientere Hafenoperationen wurde eingerichtet.</h4>
-<a class="d-none d-md-block my-4" href="../nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
+<a class="d-none d-md-block my-4" href="/site/de/attistibas-projekti/nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">Das gemeinsame Digitalisierungsprojekt der größten Häfen Lettlands hat abgeschlossen, bei dem für die Häfen Riga, Ventspils und Liepaja eine einzige digitale Plattform für den Hafenbetrieb und den Kundenservice eingerichtet wurde. Das Projekt hat zu gemeinsamen digitalen Lösungen geführt, die die Zusammenarbeit zwischen Häfen und ihren Kunden verbessern, den Informationsaustausch beschleunigen, die manuelle Datenverarbeitung verringern und eine gemeinsame technologische Basis für die Weiterentwicklung der lettischen Häfen schaffen.</div>
+<div class="col-12 col-md-8 col-lg-9">Das gemeinsame Digitalisierungsprojekt der größten Häfen Lettlands hat abgeschlossen, bei dem für die Häfen Riga, Ventspils und Liepāja eine einzige digitale Plattform für den Hafenbetrieb und den Kundenservice eingerichtet wurde. Das Projekt hat zu gemeinsamen digitalen Lösungen geführt, die die Zusammenarbeit zwischen Häfen und ihren Kunden verbessern, den Informationsaustausch beschleunigen, die manuelle Datenverarbeitung verringern und eine gemeinsame technologische Basis für die Weiterentwicklung der lettischen Häfen schaffen.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/attistibas-projekti/nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -86,11 +86,11 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">03.03.2025.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Digitale Transformation des Hafenmanagements durch verbesserte Transport- und Logistikdatenverarbeitung und -analyse</h4>
-<a class="d-none d-md-block my-4" href="../ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
+<a class="d-none d-md-block my-4" href="/site/de/attistibas-projekti/ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Ziel des Projekts ist es, die digitale Transformation des lettischen Hafenmanagements durch Verbesserung der Datenverarbeitung und -analyse im Transport- und Logistikbereich zu fördern und eine integrierte, gemeinsame und anpassungsfähige Plattform umzusetzen.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/attistibas-projekti/ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -100,7 +100,7 @@ html.classList.add(localStorage['contrast']);
 <div class="prev">
 </div>
 <div class="next">
-<a aria-label="Weiter" class="next related-pagination" data-page="2" href="index.php">
+<a aria-label="Weiter" class="next related-pagination" data-page="2" href="/site/de/attistibas-projekti/2018-2022gads/index.php">
 
 Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 </a>
@@ -132,7 +132,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/attistibas-projekti/2018-2022gads/index.php"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

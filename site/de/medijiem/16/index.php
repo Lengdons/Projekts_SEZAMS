@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/medijiem/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -49,7 +49,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Fotos
@@ -57,7 +57,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -71,18 +71,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>In den neun Monaten von diesem Jahr, stevedore Unternehmen im Hafen von Liepaja arbeitete mit stabilen Frachtumschlag</h2>
+<h2>In den neun Monaten von diesem Jahr, stevedore Unternehmen im Hafen von Liepāja arbeitete mit stabilen Frachtumschlag</h2>
 <span class="mb-3">10.10.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-ostas-stividorkompanijas-sa-gada-devinos-menesos-stradajusas-ar-stabilu-kravu-apg/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-ostas-stividorkompanijas-sa-gada-devinos-menesos-stradajusas-ar-stabilu-kravu-apg/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>stevedore Unternehmen im Hafen von Liepaja 2024. 5 247 263,28 Tonnen Fracht wurden in neun Monaten von 2009 umgetauscht und gewährleisten einen stabilen Ladungsfluss mit einem positiven Saldo (+1,12 Prozent).</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-ostas-stividorkompanijas-sa-gada-devinos-menesos-stradajusas-ar-stabilu-kravu-apg/index.php">Weiterlesen</a>
+<p>stevedore Unternehmen im Hafen von Liepāja 2024. In den neun Monaten wurden sie umgerüstet. 5 247 263,28 Tonnen unterschiedlicher Ladungen, die einen stabilen Frachtfluss mit positiver Balance gewährleisten (+1,12%).</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-ostas-stividorkompanijas-sa-gada-devinos-menesos-stradajusas-ar-stabilu-kravu-apg/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/168/1728630776_45_10.10.2024._Liepajas osta.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-ostas-stividorkompanijas-sa-gada-devinos-menesos-stradajusas-ar-stabilu-kravu-apg/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-ostas-stividorkompanijas-sa-gada-devinos-menesos-stradajusas-ar-stabilu-kravu-apg/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/168/1728630776_45_10.10.2024._Liepajas osta.webp"/>
 </a>
 </div>
@@ -91,18 +91,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>In Betrieb genommen Wasser Terminal in Liepaja SEZ Gebiet</h2>
+<h2>In Betrieb genommen Wasser Terminal in Liepāja SEZ Gebiet</h2>
 <span class="mb-3">09.10.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../nodod-ekspluatacija-udens-terminalu-liepajas-sez-teritorija/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/nodod-ekspluatacija-udens-terminalu-liepajas-sez-teritorija/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Dieses Jahr sind es sieben. Im Oktober hat Liepaja Construction Board das Objekt "Wasserfüllterminal in Oskara Kalpaka Street 117" übernommen.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../nodod-ekspluatacija-udens-terminalu-liepajas-sez-teritorija/index.php">Weiterlesen</a>
+<p>Dieses Jahr 7. im Oktober nahm Liepāja Construction Board das Objekt "Waterfilling Terminal in Oskara Kalpaka Street 117".</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/nodod-ekspluatacija-udens-terminalu-liepajas-sez-teritorija/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/167/1728457925_462486737_539966758729959_9066749114438313485_n.webp)">
-<a aria-label="Weiterlesen" href="../nodod-ekspluatacija-udens-terminalu-liepajas-sez-teritorija/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/nodod-ekspluatacija-udens-terminalu-liepajas-sez-teritorija/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/167/1728457925_462486737_539966758729959_9066749114438313485_n.webp"/>
 </a>
 </div>
@@ -111,18 +111,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Liepaja hat alle Voraussetzungen, um die Anziehung von bedeutenden ausländischen Investitionen fortzusetzen</h2>
+<h2>Liepāja hat alle Voraussetzungen, um die Anziehung von bedeutenden ausländischen Investitionen fortzusetzen</h2>
 <span class="mb-3">08.10.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajai-ir-visi-prieksnoteikumi-lai-turpinatu-nozimigu-arvalstu-investiciju-piesaisti/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajai-ir-visi-prieksnoteikumi-lai-turpinatu-nozimigu-arvalstu-investiciju-piesaisti/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Dieses Jahr sind es vier. Im Oktober besuchten mehr als 40 Mitarbeiter ausländischer Botschaften aus Lettland den Arbeits- und Erfahrungsaustausch in Liepaja, dessen tägliche Aufgabe es ist, die wirtschaftliche Zusammenarbeit zu stärken. Diploma kennengelernt wurden mehrere Produktionseinheiten, die im Gebiet von Liepaja SEZ mit ausländischer Hauptstadt arbeiten, sowie Pläne für die Stadt, in den nächsten 3 bis 5 Jahren Wirtschaftswissenschaften zu entwickeln. Am Ende des Besuchs waren Diplomaten mit dem, was sie sahen, zufrieden und gaben zu, dass Liepaja eine der Erfolgsgeschichten Lettlands sei und wies darauf hin, dass die Stadt sowohl auf den wachsenden Exportmärkten als auch in Zukunft erhebliche ausländische Investitionen anzieht.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajai-ir-visi-prieksnoteikumi-lai-turpinatu-nozimigu-arvalstu-investiciju-piesaisti/index.php">Weiterlesen</a>
+<p>Dieses Jahr 4. im Oktober Liepajas Arbeit und Erfahrungsaustausch besucht mehr als 40 Mitarbeiter ausländischer Botschaften Lettlands, deren tägliche Aufgabe es ist, die wirtschaftliche Zusammenarbeit zu stärken. Diplom in Person kennengelernt mit mehreren Produktionseinheiten im Gebiet von Liepāja SEZ mit ausländischen Hauptstadt, sowie mit den Plänen der Stadt für wirtschaftliche Entwicklung weiter 3 bis 5 über die Jahre hinweg. Am Ende des Besuchs waren Diplomaten mit dem, was sie sahen, zufrieden und gaben zu, dass Liepāja eine der Erfolgsgeschichten Lettlands sei und wies darauf hin, dass die Stadt sowohl auf den wachsenden Exportmärkten als auch in Zukunft erhebliche ausländische Investitionen anzieht.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajai-ir-visi-prieksnoteikumi-lai-turpinatu-nozimigu-arvalstu-investiciju-piesaisti/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/166/1728377454__R1A7816.webp)">
-<a aria-label="Weiterlesen" href="../liepajai-ir-visi-prieksnoteikumi-lai-turpinatu-nozimigu-arvalstu-investiciju-piesaisti/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajai-ir-visi-prieksnoteikumi-lai-turpinatu-nozimigu-arvalstu-investiciju-piesaisti/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/166/1728377454__R1A7816.webp"/>
 </a>
 </div>
@@ -131,18 +131,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Wir arbeiten weiterhin an der Entwicklung einer starken und nachhaltigen Industrie in Liepaja</h2>
+<h2>Wir arbeiten weiterhin an der Entwicklung einer starken und nachhaltigen Industrie in Liepāja</h2>
 <span class="mb-3">27.09.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../turpinam-stradat-lai-liepaja-attistitu-specigu-un-ilgtspejigu-industriju/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/turpinam-stradat-lai-liepaja-attistitu-specigu-un-ilgtspejigu-industriju/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Diese Woche nahm die Liepaja SEZ Authority an der internationalen Konferenz/Ausstellung "WindEnergy Hamburg"2024 teil, mit dem Ziel, nachhaltige und erneuerbare Energieprojekte in der Industrie- und Hafenregion Liepajas SEZ weiterzuentwickeln. Erneuerbare Energien und ihre erfolgreiche Nutzung hängen vor allem von einer wirksamen Kombination aus Industrie-, Energie- und maritimen Kompetenzen ab.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../turpinam-stradat-lai-liepaja-attistitu-specigu-un-ilgtspejigu-industriju/index.php">Weiterlesen</a>
+<p>Diese Woche nahm die Liepāja SEZ Authority an der internationalen Konferenz/Ausstellung "WindEnergy Hamburg"2024 teil, mit dem Ziel, nachhaltige und erneuerbare Energieprojekte in der Industrie- und Hafenregion Liepajas SEZ weiterzuentwickeln. Erneuerbare Energien und ihre erfolgreiche Nutzung hängen vor allem von einer wirksamen Kombination aus Industrie-, Energie- und maritimen Kompetenzen ab.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/turpinam-stradat-lai-liepaja-attistitu-specigu-un-ilgtspejigu-industriju/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/165/1727681788_460924863_531614522898516_8626706100745528929_n.webp)">
-<a aria-label="Weiterlesen" href="../turpinam-stradat-lai-liepaja-attistitu-specigu-un-ilgtspejigu-industriju/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/turpinam-stradat-lai-liepaja-attistitu-specigu-un-ilgtspejigu-industriju/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/165/1727681788_460924863_531614522898516_8626706100745528929_n.webp"/>
 </a>
 </div>
@@ -151,18 +151,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Bau der Infrastruktur des Industrieparks Liepaja</h2>
+<h2>Bau der Infrastruktur des Industrieparks Liepāja</h2>
 <span class="mb-3">23.09.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../uzsak-liepajas-industriala-parka-infrastrukturas-izbuvi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/uzsak-liepajas-industriala-parka-infrastrukturas-izbuvi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Mit dem symbolischen Abbau des Passes der ehemaligen Fabrik, heute, 23. Im September initiierte Liepaja Special Economic Zone (SEZ) Authority feierlich den Bau des Industrieparks Liepaja, um es in einen modernen grünen Industriepark zu verwandeln, der auf Grundprinzipien der Kreislaufwirtschaft basiert. Die Bauarbeiten wurden begonnen, darunter der Bau von Straßen und die technische Kommunikation in 3 Etappen sowie die Schaffung neuer Vertriebsnetze. Dadurch wird es möglich sein, die geschlossene Website teilweise für den öffentlichen Zugang zu öffnen und eine Möglichkeit zu schaffen, erste Investoren anzuziehen. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../uzsak-liepajas-industriala-parka-infrastrukturas-izbuvi/index.php">Weiterlesen</a>
+<p>Mit dem symbolischen Abbau des Passes der ehemaligen Fabrik, heute, 23. Im September initiierte Liepāja Special Economic Zone (SEZ) Authority feierlich den Bau des Industrieparks Liepāja, um es in einen modernen grünen Industriepark zu verwandeln, der auf Grundprinzipien der Kreislaufwirtschaft basiert. Die Bauarbeiten wurden begonnen, darunter der Bau von Straßen und die technische Kommunikation in 3 Etappen sowie die Schaffung neuer Vertriebsnetze. Dadurch wird es möglich sein, die geschlossene Website teilweise für den öffentlichen Zugang zu öffnen und eine Möglichkeit zu schaffen, erste Investoren anzuziehen. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/uzsak-liepajas-industriala-parka-infrastrukturas-izbuvi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/164/1727100271__R1A7119.webp)">
-<a aria-label="Weiterlesen" href="../uzsak-liepajas-industriala-parka-infrastrukturas-izbuvi/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/uzsak-liepajas-industriala-parka-infrastrukturas-izbuvi/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/164/1727100271__R1A7119.webp"/>
 </a>
 </div>
@@ -171,18 +171,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Unterzeichnung eines Memorandums über die Zusammenarbeit bei der Errichtung einer nachhaltigen Kraftstoffproduktionseinheit im Gebiet Liepaja SEZ</h2>
+<h2>Unterzeichnung eines Memorandums über die Zusammenarbeit bei der Errichtung einer nachhaltigen Kraftstoffproduktionseinheit im Gebiet Liepāja SEZ</h2>
 <span class="mb-3">17.09.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../paraksta-sadarbibas-memorandu-par-aviacijas-degvielas-razotnes-izveidi-liepaja/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/paraksta-sadarbibas-memorandu-par-aviacijas-degvielas-razotnes-izveidi-liepaja/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Im Rahmen einer Handelsmission, die vom Ministerium für Wirtschaft und der Investitions- und Entwicklungsbehörde Lettlands in den Vereinigten Staaten von Amerika (USA) organisiert wurde, 16. Im September unterzeichnete das US-amerikanische Unternehmen KBR und Liepaja Special Economic Zone ein Memorandum zur Gründung einer nachhaltigen Kraftstoffproduktionseinheit für den Luftverkehr.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../paraksta-sadarbibas-memorandu-par-aviacijas-degvielas-razotnes-izveidi-liepaja/index.php">Weiterlesen</a>
+<p>Im Rahmen einer Handelsmission, die vom Ministerium für Wirtschaft und der Investitions- und Entwicklungsbehörde Lettlands in den Vereinigten Staaten von Amerika (USA) organisiert wurde, 16. Im September unterzeichnete das US-amerikanische Unternehmen KBR und Liepāja Special Economic Zone ein Memorandum zur Gründung einer nachhaltigen Kraftstoffproduktionseinheit für den Luftverkehr.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/paraksta-sadarbibas-memorandu-par-aviacijas-degvielas-razotnes-izveidi-liepaja/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/163/1726577921_Hjustona_KBR-58.webp)">
-<a aria-label="Weiterlesen" href="../paraksta-sadarbibas-memorandu-par-aviacijas-degvielas-razotnes-izveidi-liepaja/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/paraksta-sadarbibas-memorandu-par-aviacijas-degvielas-razotnes-izveidi-liepaja/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/163/1726577921_Hjustona_KBR-58.webp"/>
 </a>
 </div>
@@ -191,7 +191,7 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev" data-block="2" data-page="15" data-per-page="6" data-topic="14" href="../15/index.php">
+<a class="news-list-pagination prev" data-block="2" data-page="15" data-per-page="6" data-topic="14" href="/site/de/medijiem/15/index.php">
 <img alt="Zurück" src="../../../img/round-right.svg"/>
 
 Zurück
@@ -199,7 +199,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="2" data-page="17" data-per-page="6" data-topic="14" href="../17/index.php">
+<a class="news-list-pagination next" data-block="2" data-page="17" data-per-page="6" data-topic="14" href="/site/de/medijiem/17/index.php">
 
 Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 </a>
@@ -244,7 +244,7 @@ Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

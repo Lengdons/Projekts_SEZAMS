@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/medijiem/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -49,7 +49,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Fotos
@@ -57,7 +57,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -71,18 +71,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Unternehmer, die im Gebiet von Liepaja SEZ arbeiten, bewerten letztes Jahr</h2>
+<h2>Unternehmer, die im Gebiet von Liepāja SEZ arbeiten, bewerten letztes Jahr</h2>
 <span class="mb-3">11.12.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-teritorija-stradajosie-uznemeji-izverte-aizvadito-gadu/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-sez-teritorija-stradajosie-uznemeji-izverte-aizvadito-gadu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>10. dieses Jahres Im Dezember versammelten sich Unternehmer, die auf dem Gebiet der Spezialwirtschaftszone Liepaja arbeiten, zu einer traditionellen Wochenendveranstaltung, um die während des Jahres geleistete Arbeit zu überprüfen, ihre Erfahrungen auszutauschen und im nächsten Jahr über Zusammenarbeit zu diskutieren. Liepaja SEZ Authority organisiert die jährliche Unternehmerwochenendeveranstaltung bereits ab 2013. Ein Jahr.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-teritorija-stradajosie-uznemeji-izverte-aizvadito-gadu/index.php">Weiterlesen</a>
+<p>10. dieses Jahres Im Dezember versammelten sich Unternehmer, die auf dem Gebiet der Spezialwirtschaftszone Liepāja arbeiten, zu einer traditionellen Wochenendveranstaltung, um die während des Jahres geleistete Arbeit zu überprüfen, ihre Erfahrungen auszutauschen und im nächsten Jahr über Zusammenarbeit zu diskutieren. Liepāja SEZ Authority organisiert die jährliche Unternehmerwochenendeveranstaltung bereits ab 2013. Ein Jahr.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-sez-teritorija-stradajosie-uznemeji-izverte-aizvadito-gadu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/193/1733915384__R1A4382.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-teritorija-stradajosie-uznemeji-izverte-aizvadito-gadu/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-sez-teritorija-stradajosie-uznemeji-izverte-aizvadito-gadu/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/193/1733915384__R1A4382.webp"/>
 </a>
 </div>
@@ -91,18 +91,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Partner des Liepaja Sustainable Industry Centre vereinbaren Prioritäten für künftige Aktivitäten</h2>
+<h2>Partner des Liepāja Sustainable Industry Centre vereinbaren Prioritäten für künftige Aktivitäten</h2>
 <span class="mb-3">05.12.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-ilgtspejigas-industrijas-centra-partneri-vienojas-par-turpmakas-darbibas-priorita/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-ilgtspejigas-industrijas-centra-partneri-vienojas-par-turpmakas-darbibas-priorita/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Partner des Liepaja Sustainable Industry Centre 2024. 2006 Im Dezember versammelten wir uns für das erste gemeinsame Arbeitstreffen, um konkrete Schritte in Zusammenarbeit, Kommunikation und Entwicklung zu vereinbaren sowie einen Aktionsplan für den nächsten Zeitraum auszuarbeiten, damit Liepaja, Lettland, Ostseeregion Energieunabhängigkeit und wirtschaftliche Entwicklung erlangen und gleichzeitig die Klimaneutralität und Nachhaltigkeitsziele der EU gewährleisten wird. Ziele zu erreichen. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-ilgtspejigas-industrijas-centra-partneri-vienojas-par-turpmakas-darbibas-priorita/index.php">Weiterlesen</a>
+<p>Partner des Liepāja Sustainable Industry Centre 4. Dezember 2024 für das erste gemeinsame Arbeitstreffen zusammenkommen, um konkrete Schritte in Zusammenarbeit, Kommunikation und Entwicklung eines Aktionsplans für die nächste Zeit zu vereinbaren, um die Energieunabhängigkeit und wirtschaftliche Entwicklung des Ostseeraums zu erreichen und gleichzeitig die Klimaneutralität und Nachhaltigkeitsziele der EU sicherzustellen. Ziele zu erreichen. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-ilgtspejigas-industrijas-centra-partneri-vienojas-par-turpmakas-darbibas-priorita/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/192/1733407394_58_12.05.2024._pirmā_tiksanās_HUB_2.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-ilgtspejigas-industrijas-centra-partneri-vienojas-par-turpmakas-darbibas-priorita/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-ilgtspejigas-industrijas-centra-partneri-vienojas-par-turpmakas-darbibas-priorita/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/192/1733407394_58_12.05.2024._pirmā_tiksanās_HUB_2.webp"/>
 </a>
 </div>
@@ -111,18 +111,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Die RTU wird zusammen mit der Gemeinde Liepaja das industrielle Potenzial der Region erhöhen</h2>
+<h2>Die RTU wird zusammen mit der Gemeinde Liepāja das industrielle Potenzial der Region erhöhen</h2>
 <span class="mb-3">02.12.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../rtu-kopa-ar-liepajas-pasvaldibu-palielinas-regiona-industrialo-potencialu/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/rtu-kopa-ar-liepajas-pasvaldibu-palielinas-regiona-industrialo-potencialu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Die Technische Universität Riga (RTU) ist bereit, ihr Wissen und ihre Erfahrung zu investieren, um das industrielle Potenzial von Liepaja in Partnerschaft mit dem Stadtrat von Liepuja und der SEZ-Behörde von Liepaja zu stärken und leistungsstarke Spezialisten vorzubereiten, die durch die Förderung der Entwicklung von Stadt und Region Innovationen schaffen können. Auf der Sitzung des Rates der RTU, 28, wurden Möglichkeiten für eine Zusammenarbeit erörtert. November fand in Liepaja. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../rtu-kopa-ar-liepajas-pasvaldibu-palielinas-regiona-industrialo-potencialu/index.php">Weiterlesen</a>
+<p>Die Technische Universität Riga (RTU) ist bereit, ihr Wissen und ihre Erfahrung zu investieren, um das industrielle Potenzial von Liepāja in Partnerschaft mit dem Stadtrat von Liepuja und der SEZ-Behörde von Liepāja zu stärken und leistungsstarke Spezialisten vorzubereiten, die durch die Förderung der Entwicklung von Stadt und Region Innovationen schaffen können. Auf der Sitzung des Rates der RTU, 28, wurden Möglichkeiten für eine Zusammenarbeit erörtert. November fand in Liepāja. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/rtu-kopa-ar-liepajas-pasvaldibu-palielinas-regiona-industrialo-potencialu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/191/1733140597__R1A3705.webp)">
-<a aria-label="Weiterlesen" href="../rtu-kopa-ar-liepajas-pasvaldibu-palielinas-regiona-industrialo-potencialu/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/rtu-kopa-ar-liepajas-pasvaldibu-palielinas-regiona-industrialo-potencialu/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/191/1733140597__R1A3705.webp"/>
 </a>
 </div>
@@ -131,18 +131,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Liepaja SEZ Behörde entwickelt weiter Liepaja Sustainable Industry Centre</h2>
+<h2>Liepāja SEZ Behörde entwickelt weiter Liepāja Sustainable Industry Centre</h2>
 <span class="mb-3">22.11.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-parvalde-turpina-attistit-liepajas-ilgtspejigas-industrijas-centru/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-sez-parvalde-turpina-attistit-liepajas-ilgtspejigas-industrijas-centru/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Die Europäische Wasserstoffwoche in Brüssel wurde abgeschlossen, wo Liepaja SEZ General Manager Uldis Hmielevskis an der Erörterung von Entwicklungsprojekten zur Nutzung erneuerbarer Ressourcen in der Wasserstoffproduktion und ihrer weiteren Verwendung in der CO2-Verarbeitung, der nachhaltigen Luftfahrt, beteiligt war. in der Herstellung und Perspektive von Kraftstoff (SAF) die Entwicklung von wasserstoffbetriebenen Flugzeugfabrik, die zu Liepaja Sustainable Industry Centre zusammengeführt wurde.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-parvalde-turpina-attistit-liepajas-ilgtspejigas-industrijas-centru/index.php">Weiterlesen</a>
+<p>Die Europäische Wasserstoffwoche in Brüssel wurde abgeschlossen, wo Liepāja SEZ General Manager Uldis Hmielevskis an der Erörterung von Entwicklungsprojekten zur Nutzung erneuerbarer Ressourcen in der Wasserstoffproduktion und ihrer weiteren Verwendung in der CO2-Verarbeitung, der nachhaltigen Luftfahrt, beteiligt war. in der Herstellung und Perspektive von Kraftstoff (SAF) die Entwicklung von wasserstoffbetriebenen Flugzeugfabrik, die zu Liepāja Sustainable Industry Centre zusammengeführt wurde.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-sez-parvalde-turpina-attistit-liepajas-ilgtspejigas-industrijas-centru/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/186/1732536822_55_11.22.2024_EU-Hydrogen-Week_2.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-parvalde-turpina-attistit-liepajas-ilgtspejigas-industrijas-centru/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-sez-parvalde-turpina-attistit-liepajas-ilgtspejigas-industrijas-centru/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/186/1732536822_55_11.22.2024_EU-Hydrogen-Week_2.webp"/>
 </a>
 </div>
@@ -151,18 +151,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Unterschreiben Sie eine Erklärung zur Einrichtung des Zentrums für nachhaltige Industrie Liepaja</h2>
+<h2>Unterschreiben Sie eine Erklärung zur Einrichtung des Zentrums für nachhaltige Industrie Liepāja</h2>
 <span class="mb-3">19.11.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../paraksta-pazinojumu-par-liepajas-ilgtspejigas-industrijas-centra-izveidi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/paraksta-pazinojumu-par-liepajas-ilgtspejigas-industrijas-centra-izveidi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Ein wichtiges Statement wurde über die Einrichtung des Liepaja Sustainable Industry Centre in Liepaja Special Economic Zone (Liepāja SEZ) unterzeichnet, das mehrere strategisch wichtige private Investitionsprojekte auf der Grundlage von grüner Energie, intelligenter Produktion und Innovation kombiniert.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../paraksta-pazinojumu-par-liepajas-ilgtspejigas-industrijas-centra-izveidi/index.php">Weiterlesen</a>
+<p>Ein wichtiges Statement wurde über die Einrichtung des Liepāja Sustainable Industry Centre in Liepāja Special Economic Zone (Liepāja SEZ) unterzeichnet, das mehrere strategisch wichtige private Investitionsprojekte auf der Grundlage von grüner Energie, intelligenter Produktion und Innovation kombiniert.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/paraksta-pazinojumu-par-liepajas-ilgtspejigas-industrijas-centra-izveidi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/185/1732017766_Joint Statement_SLAIDS_weblapai-2.webp)">
-<a aria-label="Weiterlesen" href="../paraksta-pazinojumu-par-liepajas-ilgtspejigas-industrijas-centra-izveidi/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/paraksta-pazinojumu-par-liepajas-ilgtspejigas-industrijas-centra-izveidi/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/185/1732017766_Joint Statement_SLAIDS_weblapai-2.webp"/>
 </a>
 </div>
@@ -171,18 +171,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Technische - ökonomische Bewertung der Erschließung des Lagerortes von historisch kontaminierten Lagerstätten des Karosta-Kanals des Hafens von Liepaja entwickelt</h2>
+<h2>Technische - ökonomische Bewertung der Erschließung des Lagerortes von historisch kontaminierten Lagerstätten des Karosta-Kanals des Hafens von Liepāja entwickelt</h2>
 <span class="mb-3">11.11.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../karostas-kanala-vesturiski-piesarnoto-nogulumu-deponesanas-vieta/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/karostas-kanala-vesturiski-piesarnoto-nogulumu-deponesanas-vieta/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Ab 2024 1. Jahr vom 1. August bis 31. Dezember Oktober Liepaja Special Economic Zone Authority implementiert Norwegian Financial Mechanism 2014.-2021. Die Entwicklung einer technischen und wirtschaftlichen Bewertung der Lagerstätte für historische kontaminierte Lagerstätten im Hafen von Liepaja, Karasta-Kanal, war eine logische Folge der bisherigen Sanierungsarbeiten.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../karostas-kanala-vesturiski-piesarnoto-nogulumu-deponesanas-vieta/index.php">Weiterlesen</a>
+<p>Von 1. August 2024 bis 31. Oktober Liepāja Special Economic Zone Authority implementiert Norwegian Financial Mechanism 2014.-2021. Die Entwicklung einer technischen und wirtschaftlichen Bewertung der Lagerstätte für historische kontaminierte Lagerstätten im Hafen von Liepāja, Karasta-Kanal, war eine logische Folge der bisherigen Sanierungsarbeiten.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/karostas-kanala-vesturiski-piesarnoto-nogulumu-deponesanas-vieta/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/184/1731317823_53_11.11.2024._Karostas kanals_sanacija.webp)">
-<a aria-label="Weiterlesen" href="../karostas-kanala-vesturiski-piesarnoto-nogulumu-deponesanas-vieta/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/karostas-kanala-vesturiski-piesarnoto-nogulumu-deponesanas-vieta/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/184/1731317823_53_11.11.2024._Karostas kanals_sanacija.webp"/>
 </a>
 </div>
@@ -191,7 +191,7 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev" data-block="2" data-page="13" data-per-page="6" data-topic="14" href="../13/index.php">
+<a class="news-list-pagination prev" data-block="2" data-page="13" data-per-page="6" data-topic="14" href="/site/de/medijiem/13/index.php">
 <img alt="Zurück" src="../../../img/round-right.svg"/>
 
 Zurück
@@ -199,7 +199,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="2" data-page="15" data-per-page="6" data-topic="14" href="../15/index.php">
+<a class="news-list-pagination next" data-block="2" data-page="15" data-per-page="6" data-topic="14" href="/site/de/medijiem/15/index.php">
 
 Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 </a>
@@ -244,7 +244,7 @@ Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

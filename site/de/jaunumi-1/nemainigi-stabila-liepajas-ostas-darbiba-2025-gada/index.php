@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="https://liepaja-sez.lv//img/mod/news/272/1769238045_07_01.23.2026._beramkravas.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/medijiem/nemainigi-stabila-liepajas-ostas-darbiba-2025-gada" property="og:url"/>
-<meta content="Ständig stabiler Betrieb des Hafens von Liepaja 2025. 2009" property="og:title"/>
+<meta content="Ständiger Betrieb des Hafens von Liepāja 2025." property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Ständig stabiler Betrieb des Hafens von Liepaja 2025. Im Jahr 2007 das ICE</title>
+<title>Ständiger Betrieb des Hafens von Liepāja 2025. Im Jahr das ICE</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
@@ -48,17 +48,17 @@ html.classList.add(localStorage['contrast']);
 </div>
 <div class="col-12 col-md-9 mt-md-5">
 <span class="date d-block mt-md-5">24. Januar 2026</span>
-<h1 class="article-title">Ständig stabiler Betrieb des Hafens von Liepaja 2025. 2009</h1>
+<h1 class="article-title">Ständiger Betrieb des Hafens von Liepāja 2025.</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Der Hafen von Liepaja arbeitet seit zehn Jahren als multifunktionaler Hafen mit einem stabilen Frachtumschlag von durchschnittlich 7 Millionen. Tonnen pro Jahr, die auch im Jahr 2025 blieben. im Jahr, in dem insgesamt 6,9 mln umgerüstet wurden. Tonnen Fracht. Das sind 0,19 Millionen. 2,53 % weniger als ein Jahr zuvor, wobei der Anteil der lokalen Fracht bei mehr als 52% bleibt. Uldis Hmielevskis, Liepaja SEZ-Manager, weist darauf hin, dass die Transformation des Hafenbetriebs noch andauert, Logistikrichtungen und Frachttypen sich ändern. In enger Zusammenarbeit mit den Liepaja Port-Unternehmern, der lokalen Regierung und der Regierung haben wir es geschafft, uns flexibel und effizient an die Marktbedingungen anzupassen, eine Art von Fracht mit anderen zu ersetzen, um neue Investitionsprojekte zu entwickeln.</p><p>Traditionell die größte Frachtgruppe im Hafen von Liepaja 2025. jährlich von 4,55 Millionen t Umsatz 2025 1918 gab es trockene Schüttgüter. Die landwirtschaftliche Fracht wird immer noch dominiert, sowohl durch Getreide, das von lokalen Landwirten produziert wird, als auch durch Getreide aus zentralasiatischen Ländern. Im vergangenen Jahr wurden die Einfuhren argentinischer Soja- und brasilianischer Zucker über den Hafen von Liepaja nach Kasachstan und Usbekistan fortgesetzt. Wenn es aufgrund des warmen Winters einen leichten Rückgang im Segment Landwirtschaft und Energie (Holzchips und Pellets) Fracht gibt, aber kalte und regnerische Wetterbedingungen im Sommer, ist der Anstieg in der Gruppe der Baustoffe aus Zement von Brocenos produziert.</p><p>In der allgemeinen Frachtgruppe bestand der größte Frachtumschlag aus Ro-Ro-Ladungen, die von Stan Line auf der regulären Fährlinie Liepaja - Travemunde (Deutschland) befördert werden. Auflage. 2005 stieg die Zahl der beförderten Einheiten um 40%. Das Projekt zur Rekonstruktion der Fähre wurde eingeleitet, die Vorschläge von Baubewerbern sind abgeschlossen. In diesem Jahr ist geplant, den Bau zu starten, der bis 2027 abgeschlossen sein muss. Ende 2009 verbesserte sich sowohl die militärische Mobilität als auch die doppelte Nutzung des Kais. Der jährliche Wert der Fracht, die von der Fähre befördert wird, beträgt ~ 4 Milliarden Euro.</p><p>Auflage. 2007 war es möglich, die Situation im Segment flüssige Fracht auszugleichen und flüssige Ladungen aus Zentralasien von neuem Lebensmittelherkunft anzuziehen und den flüssigen Frachtumsatz auf 0,3 Millionen zu steigern. Tonnen. Im vergangenen Jahr waren 63% aller flüssigen Ladungen aus Nahrungsmittelfracht, Rapsöl und Melasse. Das Volumen der flüssigen Ladungen im Hafen von Liepaja ist relativ gering.</p><p>Auflage. 1999 setzte die Liepaja SEZ Behörde zusammen mit Unternehmern und Investoren ihre Arbeit an Projekten zur nachhaltigen Entwicklung der Industrie im Zusammenhang mit der Erzeugung und Versorgung erneuerbarer Energiequellen fort. Auch im Zusammenhang mit der militärischen Mobilität und Dual-Use-Projekte, die Arbeit fortgesetzt zu bauen NATO-Unterstützungsbasis im Hafen von Liepaja, rekonstruieren Häfen 46. Kai und Modernisierung der operativen Prozesse des Hafens. </p><p>Auflage. Im Jahr 2007 wurden 1154 Schiffe und 99 942 Passagiere im Hafen von Liepaja bedient. Die ungewöhnlichste Fracht des Jahres waren zwei Hafenfrachtentladungsanlagen, die innerhalb von sechs Monaten vollständig in einem Hafen montiert und nach Kanada geliefert wurden. Das Gewicht jedes Schiffes unter war ~ 350 Tonnen.</p><p>Hafen von Liepaja ist immer noch beliebt, Haltestellen für Seeleute und ein neues Ziel für Kreuzfahrtschiffe. Auflage. 193 Yachten wurden 1926 im Yachthafen bedient. Letztes Jahr wurden drei Kreuzfahrtschiffe zugelassen und 2026. Acht sind für das Jahr 2007 geplant.   </p></div>
+<div class="col"><div class="col-12 output"><p>Der Hafen von Liepāja arbeitet seit zehn Jahren als multifunktionaler Hafen mit einem stabilen Frachtumschlag von durchschnittlich 7 Millionen. Tonnen pro Jahr, die auch im Jahr 2025 blieben. im Jahr, in dem insgesamt 6,9 mln umgerüstet wurden. Tonnen Fracht. Das sind 0,19 Millionen. 2,53 % weniger als ein Jahr zuvor, wobei der Anteil der lokalen Fracht bei mehr als 52% bleibt. Uldis Hmielevskis, Liepāja SEZ-Manager, weist darauf hin, dass die Transformation des Hafenbetriebs noch andauert, Logistikrichtungen und Frachttypen sich ändern. In enger Zusammenarbeit mit den Liepāja Port-Unternehmern, der lokalen Regierung und der Regierung haben wir es geschafft, uns flexibel und effizient an die Marktbedingungen anzupassen, eine Art von Fracht mit anderen zu ersetzen, um neue Investitionsprojekte zu entwickeln.</p><p>Traditionell die größte Frachtgruppe im Hafen von Liepāja 2025. im Jahr 4,55 Mio. t Umsatz 2025. gab es trockene Schüttgüter. Die landwirtschaftliche Fracht wird immer noch dominiert, sowohl durch Getreide, das von lokalen Landwirten produziert wird, als auch durch Getreide aus zentralasiatischen Ländern. Im vergangenen Jahr wurden die Einfuhren argentinischer Soja- und brasilianischer Zucker über den Hafen von Liepāja nach Kasachstan und Usbekistan fortgesetzt. Wenn es aufgrund des warmen Winters einen leichten Rückgang im Bereich Landwirtschaft und Energie (Holzchips und Pellets) Ladung, aber kalte und regnerische Wetterbedingungen im Sommer, die Zunahme ist in der Gruppe von Baustoffen aus Zement von Brocenos produziert.</p><p>In der allgemeinen Frachtgruppe bestand der größte Frachtumschlag aus Ro-Ro-Ladungen, die von Stan Line auf der regulären Fährlinie Liepāja - Travemunde (Deutschland) befördert werden. 2025. im Jahr 4 % Zunahme der beförderten Einheiten. Das Projekt zur Rekonstruktion der Fähre wurde eingeleitet, die Vorschläge von Baubewerbern sind abgeschlossen. Dieses Jahr soll mit dem Bau begonnen werden, das 2027. Ende verbesserte sich sowohl die militärische Mobilität als auch die doppelte Nutzung des Kais. Der jährliche Wert der Ladung, die von der Fähre befördert wird, beträgt ~ 4 Mrd. EUR.</p><p>2025. Im Jahr war es möglich, die Situation im Segment flüssiger Ladung auszugleichen und flüssige Ladungen von neuem Lebensmittel Ursprung aus Zentralasien anzuziehen und den flüssigen Frachtumsatz zu erhöhen. 0,3 Mio. Tonnen. Letztes Jahr 63Als Prozentsatz aller flüssigen Ladungen wurden von Lebensmittelladung √ Rapsöl, Melasse abgedeckt. Das Volumen der flüssigen Ladungen im Hafen von Liepāja ist relativ gering.</p><p>2025. setzte die Liepāja SEZ Behörde zusammen mit Unternehmern und Investoren ihre Arbeit an Projekten zur nachhaltigen Entwicklung der Industrie im Zusammenhang mit der Erzeugung und Versorgung erneuerbarer Energiequellen fort. Auch im Zusammenhang mit der militärischen Mobilität und Dual-Use-Projekte, Arbeiten fortgesetzt NATO-Unterstützungsbasis im Hafen von Liepāja bauen, rekonstruieren Häfen 46. Kai und Modernisierung der operativen Prozesse des Hafens. </p><p>2025. diente der Hafen von Liepāja 1154 Schiffe und 99 942 Passagiere. Die ungewöhnlichste Fracht des Jahres waren zwei Hafenfrachtentladungsanlagen, die innerhalb von sechs Monaten vollständig in einem Hafen montiert und nach Kanada geliefert wurden. Jedes Schiff unter dem Gewicht war ~ 350 Tonnen.</p><p>Hafen von Liepāja ist immer noch beliebt, Haltestellen für Seeleute und ein neues Ziel für Kreuzfahrtschiffe. 2025. Im Yachthafen bedient 193 Yachten. Drei Kreuzfahrtschiffe wurden letztes Jahr zugelassen, aber 2026. Acht sind für das Jahr geplant.   </p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/272/870_1769238045_07_01.23.2026._beramkravas.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/272/original_1769238045_07_01.23.2026._beramkravas.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/272/original_1769238045_07_01.23.2026._beramkravas.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

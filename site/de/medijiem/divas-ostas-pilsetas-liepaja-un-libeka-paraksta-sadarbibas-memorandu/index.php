@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/medijiem/divas-ostas-pilsetas-liepaja-un-libeka-paraksta-sadarbibas-memorandu" property="og:url"/>
-<meta content="Zwei Hafenstädte von Liepaja und Lübeck unterzeichneten ein Memorandum der Zusammenarbeit" property="og:title"/>
+<meta content="Zwei Hafenstädte von Liepāja und Lübeck unterzeichneten ein Memorandum der Zusammenarbeit" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Zwei Hafenstädte von Liepaja und Liebeka unterzeichnen ein Memorandum der Zusammenarbeit</title>
+<title>Zwei Hafenstädte von Liepāja und Liebeka unterzeichnen ein Memorandum der Zusammenarbeit</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
@@ -47,18 +47,18 @@ html.classList.add(localStorage['contrast']);
 <span>E-Mail: <a href="mailto:liga.ratniece-kadege@lsez.lv" target="_blank">liga.ratniece-kadege@lsez.lv</a></span>
 </div>
 <div class="col-12 col-md-9 mt-md-5">
-<span class="date d-block mt-md-5">11. 8. Juli 2024</span>
-<h1 class="article-title">Zwei Hafenstädte von Liepaja und Lübeck unterzeichneten ein Memorandum der Zusammenarbeit</h1>
+<span class="date d-block mt-md-5">11. Juli 2024</span>
+<h1 class="article-title">Zwei Hafenstädte von Liepāja und Lübeck unterzeichneten ein Memorandum der Zusammenarbeit</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>11. Am Juli unterzeichneten Liepaja und Lübeck ein vierseitiges Memorandum der Zusammenarbeit im Rahmen der deutschen lettischen Hafentage. Das Memorandum wurde von Liepaja und den Managern der Gemeinden Lübeck und Liepaja SEZ unterzeichnet. Das Memorandum of Cooperation legt zwei Hauptziele für die Verringerung der CO2-Emissionen und den Ausbau der Infrastruktur fest, um die notwendige effiziente Funktionsfähigkeit von Hafenterminals und einen modernen, nachhaltigen Betrieb zu gewährleisten, um die objektive Erhöhung des Frachtflusses und des Personenverkehrs zu unterstützen. Dazu gehören mehr Platzierung von Schiffen, wodurch die CO2-Emissionen pro Ladungseinheit reduziert werden.</p><p>Das Memorandum der Zusammenarbeit mit der Stadt und dem Hafen von Lübeck ist ein weiterer Schritt in Liepaja zu einer immer umweltfreundlicheren, umweltverträglicheren Stadt, die Hand in Hand geht mit dem grünen Kurs in Europa. Die Seeverbindung zwischen Liepaja und Lübeck war historisch ein wichtiger Wasserweg, den wir nun als umweltfreundlicher Schifffahrtskorridor entwickeln wollen, um Versorgungsketten in ganz Europa zu gewährleisten, so Gunārs Ansiņš, Vorsitzender des Stadtrats von Liepaja.</p><p>Als wichtiger Bestandteil des Memorandums ist das Kooperationsabkommen zur Fortsetzung von Liepaja-Port 46. Rekonstruktion des Kais, um sicheren Anlege- und Fährverkehr mit größeren Schiffen zu gewährleisten. Der Wiederaufbau des Liegeplatzes wird die Wettbewerbsfähigkeit von Liepaja - Travelminde Route erhöhen und die Entwicklung zukünftiger Routen unterstützen. </p><p>Uldis Hmielevskis, Liepaja SEZ Manager betont, dass die bisherige und zukünftige Zusammenarbeit mit Lübeck und seinem Vorgänger Traveminde neue Ziele setzen und erreichen kann. Der Seeverkehr ist grüner und umweltfreundlicher und menschenfreundlich. Wir freuen uns, dass die Fährlinie erfolgreich mit positiver Dynamik funktioniert, aber immer noch viele Lastwagen auf der Straße fahren. Dieses Memorandum sieht eine Zusammenarbeit vor, um die Frachtmengen auf der Fähre zu erhöhen und intensivere Schiffe aufzunehmen. Wir arbeiten weiter daran, 46 erfolgreich zu rekonstruieren und zu entwickeln. Hafen von Liepaja Liegeplatz, die Fähre bedient.</p><p>In den letzten Jahren haben die Frachtmengen auf der Fähre deutlich zugenommen. Wenn vor fünf Jahren 2019. Im Jahr 2005 waren es 799 449,77 Tonnen, 49 296 Ro-Ro-Einheiten und 39 987 Passagiere, dann 2023. Im Jahr 2007 wurden zwei Mal so viele Frachten 1 599 037.09 t befördert, während die Anzahl der Ro-Ro-Einheiten 97 419 und Passagiere 93 777 betrug. Auch 2024. In der ersten Jahreshälfte wurde im Hafen von Liepaja die größte Zunahme des Frachtumschlags auf der Fährlinie Liepāja √ Traveminde mit Ro-Ro-Lagern √ 14,16% sichergestellt.</p><p>Der Betrieb des Pram-Terminals ist ein gutes Beispiel dafür, wie Investitionen in die Infrastrukturentwicklung den Frachtumschlag sowohl durch öffentliche als auch private Mittel steigern können. Nicht weniger wichtig ist das rechtzeitige Management von Risiken, die Minimierung ihrer Auswirkungen auf den Frachtfluss, die Anziehungskraft der lokalen Ladungen auf der Grundlage einer engen Interaktion zwischen Hafen- und Fertigungsunternehmen sowie die engste Zusammenarbeit von Unternehmern, Liepaja SEZ Authority, staatlichen und kommunalen Institutionen.<strong> </strong>Uldis Hmielevskis, Liepaja SEZ Manager.    </p></div>
+<div class="col"><div class="col-12 output"><p>11. Am Juli unterzeichneten Liepāja und Lübeck ein vierseitiges Memorandum der Zusammenarbeit im Rahmen der deutschen lettischen Hafentage. Das Memorandum wurde von Liepāja und den Managern der Gemeinden Lübeck und Liepāja SEZ unterzeichnet. Das Memorandum of Cooperation legt zwei Hauptziele für die Verringerung der CO2-Emissionen und den Ausbau der Infrastruktur fest, um die notwendige effiziente Funktionsfähigkeit von Hafenterminals und einen modernen, nachhaltigen Betrieb zu gewährleisten, um die objektive Erhöhung des Frachtflusses und des Personenverkehrs zu unterstützen. Dazu gehören mehr Platzierung von Schiffen, wodurch die CO2-Emissionen pro Ladungseinheit reduziert werden.</p><p>Das Memorandum der Zusammenarbeit mit der Stadt und dem Hafen von Lübeck ist ein weiterer Schritt in Liepāja zu einer immer umweltfreundlicheren, umweltverträglicheren Stadt, die Hand in Hand geht mit dem grünen Kurs in Europa. Die Seeverbindung zwischen Liepāja und Lübeck war historisch ein wichtiger Wasserweg, den wir nun als umweltfreundlicher Schifffahrtskorridor entwickeln wollen, um Versorgungsketten in ganz Europa zu gewährleisten, so Gunārs Ansiņš, Vorsitzender des Stadtrats von Liepāja.</p><p>Als wichtiger Bestandteil des Memorandums ist das Kooperationsabkommen zur Fortsetzung von Liepāja-Port 46. Rekonstruktion des Kais, um sicheren Anlege- und Fährverkehr mit größeren Schiffen zu gewährleisten. Der Wiederaufbau des Liegeplatzes wird die Wettbewerbsfähigkeit von Liepāja - Travelminde Route erhöhen und die Entwicklung zukünftiger Routen unterstützen. </p><p>Uldis Hmielevskis, Liepāja SEZ Manager betont, dass die bisherige und zukünftige Zusammenarbeit mit Lübeck und seinem Vorgänger Traveminde neue Ziele setzen und erreichen kann. Der Seeverkehr ist grüner und umweltfreundlicher und menschenfreundlich. Wir freuen uns, dass die Fährlinie erfolgreich mit positiver Dynamik funktioniert, aber immer noch viele Lastwagen auf der Straße fahren. Dieses Memorandum sieht eine Zusammenarbeit vor, um die Frachtmengen auf der Fähre zu erhöhen und intensivere Schiffe aufzunehmen. Wir arbeiten weiter daran, 46 erfolgreich zu rekonstruieren und zu entwickeln. Hafen von Liepāja Liegeplatz, die Fähre bedient.</p><p>In den letzten Jahren haben die Frachtmengen auf der Fähre deutlich zugenommen. Wenn vor fünf Jahren 2019. Im Jahr waren sie 799 449,67 Tonnen, 49 296 Ro-Ro-Einheiten und 39 987 Passagiere, dann 2023. Zweimal so viele Ladungen wurden transportiert 1 599 037,09 t, aber die Anzahl der Ro-Ro-Einheiten war 97 419 und Fluggäste 93 777. Auch 2024. Im ersten Halbjahr wurde der größte Anstieg des Frachtumschlags durch Ro-Ro-Lager auf der Fähre Liepāja, Traveminde, sichergestellt. 14,16%.</p><p>Der Betrieb des Pram-Terminals ist ein gutes Beispiel dafür, wie Investitionen in die Infrastrukturentwicklung den Frachtumschlag sowohl durch öffentliche als auch private Mittel steigern können. Nicht weniger wichtig ist das rechtzeitige Management von Risiken, die Minimierung ihrer Auswirkungen auf den Frachtfluss, die Anziehungskraft der lokalen Ladungen auf der Grundlage einer engen Interaktion zwischen Hafen- und Fertigungsunternehmen sowie die engste Zusammenarbeit von Unternehmern, Liepāja SEZ Authority, staatlichen und kommunalen Institutionen.<strong> </strong>Uldis Hmielevskis, Liepāja SEZ Manager.    </p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/146/870_1720721822_34_07.11.2024._memorands_paraksta.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/146/original_1720721822_34_07.11.2024._memorands_paraksta.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/146/original_1720721822_34_07.11.2024._memorands_paraksta.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/attistibas-projekti/2023-2030gads" property="og:url"/>
-<meta content="Auflage. 2030" property="og:title"/>
+<meta content="2023. - 2030Jahr" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Auflage. 2030 - SEZ</title>
+<title>2023. - 2030Jahr - SEZ</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="../../../css/main__40614cace7.css" rel="stylesheet"/>
@@ -40,17 +40,17 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 col-md-9 offset-md-3 mt-md-5">
 <span class="date d-block mt-md-5">09. Februar 2024</span>
-<h1 class="article-title">Auflage. 2030</h1>
+<h1 class="article-title">2023. - 2030Jahr</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p><strong>Fläche 86 ha</strong><br/><strong>Projekt 1. Stufe - 39,5 ha</strong><br/><strong>Projektdurchführung - 2023. - 2027</strong></p><p>Da sich die geopolitische Situation, die Marktbedingungen und die Gewohnheiten der Menschen rasch ändern, besteht ein wachsender Bedarf an intelligenten, innovativen und umweltschonenden Lösungen. Eine der aktuellen Aktualitäten ist der Plan, mehrere Offshore-Windparks in der Ostsee zu bauen. Dies wird sowohl durch internationale transnationale Vereinbarungen als auch durch die Raumplanung der Ostsee, die den Standort solcher Parks definiert, sowie durch die Notwendigkeit einer Verbesserung der Energieunabhängigkeit gerechtfertigt. </p><p> </p><h5><strong>Liepaja SEZ entwickelte Hafenentwicklungsplan, der es erlauben würde, 86 ha Territorium im Bereich des geschützten Hafens zu schaffen.</strong></h5><p> </p><p>Ab 2027. Das Jahr ist geplant, eine Reihe von Offshore-Windkraftparks in der Ostsee zu bauen, die großen lettischen Häfen den Weg eröffnet, ihre Infrastruktur durch die Schaffung einer Stützbasis für Windparks zu entwickeln. Der Hafen von Liepaja ist einer der geeignetsten Orte für den Bau solcher Infrastruktur. Im Hafen von Liepaja soll eine Offshore-Windenergieunterstützungsbasis geschaffen werden, die acht von zehn Bedingungen vollständig erfüllt und 100 km Radius alle geplanten Windparks in Lettlands Küstengewässern und 250 km Radius alle vorgesehenen Windparks der baltischen Staaten umfasst.</p><p>Das Konzept der Entwicklung des Hafens von Liepaja, die den Bau der Infrastruktur in der 1. Etappe mit einer Fläche von 39,5 ha vorsieht. Die technische Lösung des Projekts wurde entwickelt, die erforderlichen Investitionen wurden ermittelt, der Fahrplan für die Durchführung des Projekts und der Zeitplan für die Durchführung eines solchen Projektes würde vier Jahre dauern, was im Einklang mit dem geplanten Zeitplan für den Bau von Offshore-Windparks in der Region steht, sogar einige Zeit Reserve.</p><p> </p><h5><strong>Liepaja Hafenerweiterung Projekt umfasst Baggern und Erweiterung der bestehenden Fairway</strong></h5><p> </p><p>Ziel des Projektes ist es, eine wichtige regionale Offshore-Windpark-Bereitstellungsbasis (Installation Port) zu schaffen und gleichzeitig einen Standort für branchenbezogene Produktions- und Wartungs- und Servicebasis (O&amp;M Base) bereitzustellen. Bei der Entwicklung eines technischen Projekts wurden Best Practice-Beispiele aus führenden Dienstleistungshäfen in Dänemark, den Niederlanden und Deutschland berücksichtigt. Die Durchführung des Projekts ist in drei Phasen je nach Marktsituation und Nachfrage geplant. Das Gesamtprojektvolumen beträgt 86 ha.</p></div>
+<div class="col"><div class="col-12 output"><p><strong>Fläche 86 ha</strong><br/><strong>Projekt 1. Stufe - 39,5 ha</strong><br/><strong>Projektdurchführung - 2023. - 2027</strong></p><p>Da sich die geopolitische Situation, die Marktbedingungen und die Gewohnheiten der Menschen rasch ändern, besteht ein wachsender Bedarf an intelligenten, innovativen und umweltschonenden Lösungen. Eine der aktuellen Aktualitäten ist der Plan, mehrere Offshore-Windparks in der Ostsee zu bauen. Dies wird sowohl durch internationale transnationale Vereinbarungen als auch durch die Raumplanung der Ostsee, die den Standort solcher Parks definiert, sowie durch die Notwendigkeit einer Verbesserung der Energieunabhängigkeit gerechtfertigt. </p><p> </p><h5><strong>Liepāja SEZ entwickelte Hafenentwicklungsplan, der es erlauben würde, 86 ha Territorium im Bereich des geschützten Hafens zu schaffen.</strong></h5><p> </p><p>Ab 2027. Das Jahr ist geplant, eine Reihe von Offshore-Windkraftparks in der Ostsee zu bauen, die großen lettischen Häfen den Weg eröffnet, ihre Infrastruktur durch die Schaffung einer Stützbasis für Windparks zu entwickeln. Der Hafen von Liepāja ist einer der geeignetsten Orte für den Bau solcher Infrastruktur. Im Hafen von Liepāja soll eine Offshore-Windenergieunterstützungsbasis geschaffen werden, die acht von zehn Bedingungen vollständig erfüllt und 100 km Radius alle geplanten Windparks in Lettlands Küstengewässern und 250 km Radius alle vorgesehenen Windparks der baltischen Staaten umfasst.</p><p>Das Konzept der Entwicklung des Hafens von Liepāja, die den Bau der Infrastruktur in der 1. Etappe mit einer Fläche von 39,5 ha vorsieht. Die technische Lösung des Projekts wurde entwickelt, die erforderlichen Investitionen wurden ermittelt, der Fahrplan für die Durchführung des Projekts und der Zeitplan für die Durchführung eines solchen Projektes würde vier Jahre dauern, was im Einklang mit dem geplanten Zeitplan für den Bau von Offshore-Windparks in der Region steht, sogar einige Zeit Reserve.</p><p> </p><h5><strong>Liepāja Hafenerweiterung Projekt umfasst Baggern und Erweiterung der bestehenden Fairway</strong></h5><p> </p><p>Ziel des Projektes ist es, eine wichtige regionale Offshore-Windpark-Bereitstellungsbasis (Installation Port) zu schaffen und gleichzeitig einen Standort für branchenbezogene Produktions- und Wartungs- und Servicebasis (O&amp;M Base) bereitzustellen. Bei der Entwicklung eines technischen Projekts wurden Best Practice-Beispiele aus führenden Dienstleistungshäfen in Dänemark, den Niederlanden und Deutschland berücksichtigt. Projektdurchführung geplant 3 Runden, je nach Marktsituation und Nachfrage. Projektvolumen insgesamt ist ein Gebiet mit einer Fläche 86 ha.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="../../../img/mod/news/116/870_1710336421_a63d-643c08f89699d.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="../../../img/mod/news/116/original_1710336421_a63d-643c08f89699d.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="../../../img/mod/news/116/original_1710336421_a63d-643c08f89699d.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -71,11 +71,11 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">25.08.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Das gemeinsame Digitalisierungsprojekt der lettischen Häfen wurde abgeschlossen, eine einzige digitale Plattform für effizientere Hafenoperationen wurde eingerichtet.</h4>
-<a class="d-none d-md-block my-4" href="../nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
+<a class="d-none d-md-block my-4" href="/site/de/attistibas-projekti/nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">Das gemeinsame Digitalisierungsprojekt der größten Häfen Lettlands hat abgeschlossen, bei dem für die Häfen Riga, Ventspils und Liepaja eine einzige digitale Plattform für den Hafenbetrieb und den Kundenservice eingerichtet wurde. Das Projekt hat zu gemeinsamen digitalen Lösungen geführt, die die Zusammenarbeit zwischen Häfen und ihren Kunden verbessern, den Informationsaustausch beschleunigen, die manuelle Datenverarbeitung verringern und eine gemeinsame technologische Basis für die Weiterentwicklung der lettischen Häfen schaffen.</div>
+<div class="col-12 col-md-8 col-lg-9">Das gemeinsame Digitalisierungsprojekt der größten Häfen Lettlands hat abgeschlossen, bei dem für die Häfen Riga, Ventspils und Liepāja eine einzige digitale Plattform für den Hafenbetrieb und den Kundenservice eingerichtet wurde. Das Projekt hat zu gemeinsamen digitalen Lösungen geführt, die die Zusammenarbeit zwischen Häfen und ihren Kunden verbessern, den Informationsaustausch beschleunigen, die manuelle Datenverarbeitung verringern und eine gemeinsame technologische Basis für die Weiterentwicklung der lettischen Häfen schaffen.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/attistibas-projekti/nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -86,11 +86,11 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">03.03.2025.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Digitale Transformation des Hafenmanagements durch verbesserte Transport- und Logistikdatenverarbeitung und -analyse</h4>
-<a class="d-none d-md-block my-4" href="../ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
+<a class="d-none d-md-block my-4" href="/site/de/attistibas-projekti/ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Ziel des Projekts ist es, die digitale Transformation des lettischen Hafenmanagements durch Verbesserung der Datenverarbeitung und -analyse im Transport- und Logistikbereich zu fördern und eine integrierte, gemeinsame und anpassungsfähige Plattform umzusetzen.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/attistibas-projekti/ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -100,7 +100,7 @@ html.classList.add(localStorage['contrast']);
 <div class="prev">
 </div>
 <div class="next">
-<a aria-label="Weiter" class="next related-pagination" data-page="2" href="index.php">
+<a aria-label="Weiter" class="next related-pagination" data-page="2" href="/site/de/attistibas-projekti/2023-2030gads/index.php">
 
 Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 </a>
@@ -132,7 +132,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/attistibas-projekti/2023-2030gads/index.php"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

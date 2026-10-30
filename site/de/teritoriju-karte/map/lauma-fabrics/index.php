@@ -55,7 +55,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 paginator mt-5"><div>
 <a aria-label="Zurück" class="back map-pagination" onclick="history.back()">
 
-Rückgabe <img alt="Rückgabe" src="../../../../img/round-right-blue.svg"/>
+Zurück <img alt="Zurück" src="../../../../img/round-right-blue.svg"/>
 </a>
 </div>
 </div>
@@ -86,7 +86,7 @@ Rückgabe <img alt="Rückgabe" src="../../../../img/round-right-blue.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/teritoriju-karte/map/lauma-fabrics/index.php"><img alt="Nach oben" class="img-fluid" src="../../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

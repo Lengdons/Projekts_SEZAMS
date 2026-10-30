@@ -47,18 +47,18 @@ html.classList.add(localStorage['contrast']);
 <span>E-Mail: <a href="mailto:liga.ratniece-kadege@lsez.lv" target="_blank">liga.ratniece-kadege@lsez.lv</a></span>
 </div>
 <div class="col-12 col-md-9 mt-md-5">
-<span class="date d-block mt-md-5">Die zweckgebundenen Einnahmen gemäß Artikel 21 Absatz 3 der Haushaltsordnung werden auf 3 Mio. EUR veranschlagt. Februar 2024</span>
+<span class="date d-block mt-md-5">02. Februar 2024</span>
 <h1 class="article-title">Suche nach Entwicklern zweier wichtiger städtischer Gebäudeimmobilien im Industriepark Karosta</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Das historische Gebäude der Zemgale Street wurde als städtische und kulturhistorische Bauzustände definiert, in denen festgestellt wird, dass bei der Sanierung von Gebäuden die Konstruktions- und Finishlösung des Gebäudes bestehende Baumengen, ursprüngliche Trennwände von Fenstern, Überdachung mit glattem Zinn, aber maximal zulässige Bauhöhe ist 3 Stopp. Gleichzeitig befindet sich Immobilien auf dem Gebiet des Industrieparks Karosta und hat eine bestimmte gemischte Baufläche mit einer Produktionsfunktion.</p><p> </p><p>Dies ist ein logischer Schritt, um die Entwicklung des Industrieparks Karosta, wie im Jahr 2022 gesehen und bewertet, fortzusetzen. Uldis Hmieļevskis, Managerin der Liepaja SEZ, weist darauf hin, dass es immer einfacher ist, sich zu entwickeln, wenn realistische Beispiele vorliegen. Es ist mir eine große Freude, mich für mehrere andere Unternehmer in ihren Entwicklungsprojekten in der Herstellung von Gebäuden, Logistikzentren etc. zu interessieren. Integration des historischen Gebäudes von Karosta. Auktion ist eine gute Möglichkeit, einen Investor zu identifizieren, um zwei weitere historische Gebäude in den nächsten Jahren an der Zemgales Straße zu arrangieren.</p><p> </p><p>Die Hauptnutzung von Grundstücken und Gebäuden ist die Mehrzwecknutzung, die den Bau von Produktionsanlagen mit geringen Umweltauswirkungen, kommerziellen Einrichtungen, Handels- und Serviceeinrichtungen und der Nutzung von Strukturen ermöglicht. Der Bau öffentlicher Einrichtungen ist im Gebiet erlaubt, aber es ist kein Wohnbau gestattet.</p><p>Um den Wiederaufbau oder die Integration historischer Gebäude in ein neues Gebäude zu erleichtern, sehen die Bedingungen der Auktion vor, dass innerhalb von 24 Monaten ab Inkrafttreten des Kaufvertrages mit dem Auktionsgewinner als Erfüllung der Gestaltungsbedingungen gekennzeichnet werden muss, aber die in einer Auktion und im Kaufvertrag genannten Werke spätestens 25 Monate beginnen. innerhalb einer Frist von 48 Monaten ab Inkrafttreten des Kaufvertrags.</p><p> </p><p>SIA √EB Liepaja hat Liepaja als Industriestadt bewertet, die stets kulturelle und historische Werte respektiert und in ihrem Produktionsgebäude zusammengebracht hat, das historische Gebäude von Karosta mit der modernen Industrie verbindet und Produktionsflächen mit Mehrwert errichtet. Māris Pētersons, ein Mitglied des Vorstandes der SIA "EB Liepaja" wies darauf hin, dass es nicht möglich gewesen wäre, eine moderne Fabrik zu bauen, wenn es keine Einstellung und Beteiligung an der Durchführung des von der Gemeinde und Liepaja SEZ-Behörde unterstützten Projekts gab. Die Bauarbeiten wurden von SIA-Veranstaltungen UPTK durchgeführt.</p><p> </p><p><strong>Bezug:</strong></p><p>Die Idee, den Industriepark Karosta zu schaffen, wurde bereits 1999 geboren. Im Jahr 2006, um der ehemaligen Militärbasis eine neue Form der Ausbeutung zu geben, sie in das städtische Umfeld zu integrieren, die Schaffung von Arbeitsplätzen zu fördern, die Höhe der Steuern im Stadt- und Staatshaushalt zu erhöhen und zusätzliche Mittel für Bildung, Kultur und Sport sowie andere Projekte bereitzustellen. Der Bau neuer Fabriken in Karosta war nicht möglich oder schien für Investoren nicht attraktiv, bis 2015, als die Gemeinde in Zusammenarbeit mit der Liepaja SEZ Authority das Gebiet in Karostata für Geschäftsbedürfnisse innerhalb einer Fläche von 20 ha arrangierte.</p></div>
+<div class="col"><div class="col-12 output"><p>Das historische Gebäude der Zemgale Street wurde als städtische und kulturhistorische Bauzustände definiert, in denen festgestellt wird, dass bei der Sanierung von Gebäuden die Konstruktions- und Finishlösung des Gebäudes bestehende Baumengen, ursprüngliche Trennwände von Fenstern, Überdachung mit glattem Zinn, aber maximal zulässige Bauhöhe ist 3 Stopp. Gleichzeitig befindet sich Immobilien auf dem Gebiet des Industrieparks Karosta und hat eine bestimmte gemischte Baufläche mit einer Produktionsfunktion.</p><p> </p><p>Dies ist ein logischer Schritt, um die Entwicklung des Industrieparks Karosta, wie im Jahr 2022 gesehen und bewertet, fortzusetzen. Uldis Hmieļevskis, Managerin der Liepāja SEZ, weist darauf hin, dass es immer einfacher ist, sich zu entwickeln, wenn realistische Beispiele vorliegen. Es ist mir eine große Freude, mich für mehrere andere Unternehmer in ihren Entwicklungsprojekten in der Herstellung von Gebäuden, Logistikzentren etc. zu interessieren. Integration des historischen Gebäudes von Karosta. Auktion ist eine gute Möglichkeit, einen Investor zu identifizieren, um zwei weitere historische Gebäude in den nächsten Jahren an der Zemgales Straße zu arrangieren.</p><p> </p><p>Die Hauptnutzung von Grundstücken und Gebäuden ist die Mehrzwecknutzung, die den Bau von Produktionsanlagen mit geringen Umweltauswirkungen, kommerziellen Einrichtungen, Handels- und Serviceeinrichtungen und der Nutzung von Strukturen ermöglicht. Der Bau öffentlicher Einrichtungen ist im Gebiet erlaubt, aber es ist kein Wohnbau gestattet.</p><p>Um den Wiederaufbau oder die Integration historischer Gebäude in ein neues Gebäude zu erleichtern, sehen die Bedingungen der Auktion vor, dass innerhalb von 24 Monaten ab Inkrafttreten des Kaufvertrages mit dem Auktionsgewinner als Erfüllung der Gestaltungsbedingungen gekennzeichnet werden muss, aber die in einer Auktion und im Kaufvertrag genannten Werke spätestens 25 Monate beginnen. innerhalb einer Frist von 48 Monaten ab Inkrafttreten des Kaufvertrags.</p><p> </p><p>SIA √EB Liepāja hat Liepāja als Industriestadt bewertet, die stets kulturelle und historische Werte respektiert und in ihrem Produktionsgebäude zusammengebracht hat, das historische Gebäude von Karosta mit der modernen Industrie verbindet und Produktionsflächen mit Mehrwert errichtet. Māris Pētersons, ein Mitglied des Vorstandes der SIA "EB Liepāja" wies darauf hin, dass es nicht möglich gewesen wäre, eine moderne Fabrik zu bauen, wenn es keine Einstellung und Beteiligung an der Durchführung des von der Gemeinde und Liepāja SEZ-Behörde unterstützten Projekts gab. Die Bauarbeiten wurden von SIA-Veranstaltungen UPTK durchgeführt.</p><p> </p><p><strong>Zur Information:</strong></p><p>Die Idee, Karosta Industriepark zu schaffen wurde bereits geboren 1999. Im Jahr , um eine neue Form der Nutzung der ehemaligen Militärbasis zu geben, sie in die städtische Umwelt zu integrieren, die Schaffung von Arbeitsplätzen zu fördern, die Höhe der Steuern im Stadt- und Staatshaushalt zu erhöhen und zusätzliche Mittel für Bildung, Kultur und Sport sowie andere Projekte zu kanalisieren. Der Bau neuer Anlagen in Karosta war nicht möglich oder schien für Investoren erst attraktiv zu sein 2015wenn die Gemeinde in Zusammenarbeit mit der Liepāja SEZ Behörde das Gebiet in Karosta für geschäftliche Bedürfnisse arrangiert 20 in einer Fläche von ha.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/106/870_1707997838__R1A0850.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/106/original_1707997838__R1A0850.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/106/original_1707997838__R1A0850.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

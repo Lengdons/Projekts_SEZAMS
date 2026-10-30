@@ -51,14 +51,14 @@ html.classList.add(localStorage['contrast']);
 <h1 class="article-title">Unternehmer investieren weiterhin in die Entwicklung durch den Bau neuer Produktionsanlagen und Transformator</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>In diesem Jahr wurden die ersten beiden Investitionsverträge mit Liepaja SEZ Unternehmen für einen Gesamtbetrag von 2 078 514,00 EUR abgeschlossen. Beide Projekte wurden vom Vorstand der Liepaja SEZ geprüft und unterstützt, wobei die Beihilfeintensität und das Recht auf direkte Steuererleichterungen für beabsichtigte Investitionen erst dann festgelegt wurden, wenn sie getätigt werden.</p><p>Das Unternehmen plant die Umsetzung des Investitionsprojekts "Rekonstruktion des Produktionsgebäudes in eine elektronische Anlage." Bis 2027 sollen Investitionen getätigt werden. 30. März 2004 Januar für einen Gesamtbetrag von EUR 1 923 200,00. Die zulässige Beihilfeintensität für die beihilfefähigen Kosten dieses Investitionsvorhabens beträgt 40%. </p><p>Ab 2026 vom 9. April 2004 Vom 28. Februar bis zum 28. Februar 2027 ist das Investitionsvorhaben für den Bau einer Umspannstation Kompakts Transformator mit einem Gesamtvolumen von 155 314,00 EUR geplant. Die zulässige Beihilfeintensität für ein Vorhaben beträgt 60% der beihilfefähigen Kosten eines Investitionsvorhabens.</p><p> </p><p><strong>Bezug:</strong> </p><p>Auflage. Es wurden 21 Investitionsverträge für den geplanten Gesamtinvestitionsbetrag in Höhe von 3 709 554,24 EUR abgeschlossen.</p></div>
+<div class="col"><div class="col-12 output"><p>In diesem Jahr wurden die ersten beiden Investitionsverträge mit Liepāja SEZ Unternehmen für einen Gesamtbetrag von 2 078 514,00 EUR abgeschlossen. Beide Projekte wurden vom Vorstand der Liepāja SEZ geprüft und unterstützt, wobei die Beihilfeintensität und das Recht auf direkte Steuererleichterungen für beabsichtigte Investitionen erst dann festgelegt wurden, wenn sie getätigt werden.</p><p>Das Unternehmen plant die Umsetzung des Investitionsprojekts "Rekonstruktion des Produktionsgebäudes in eine elektronische Anlage." Die Investitionen sollen von 30. Januar 2027 über den Gesamtbetrag 1 923 200,00 EUR Die zulässige Beihilfeintensität für die beihilfefähigen Kosten des Investitionsvorhabens beträgt: 40%. </p><p>Von 9. Februar 2026 bis 28. Februar 2027 Das Investitionsprojekt soll den Bau einer Umspannstation für den Kompakts-Transformator für den Gesamtbetrag durchführen 155 314,00 EUR Die zulässige Beihilfeintensität des Vorhabens aus den beihilfefähigen Kosten eines Investitionsvorhabens beträgt: 60%.</p><p> </p><p><strong>Zur Information:</strong> </p><p>2025. Jahr 21 Investitionsvertrag für den Gesamtbetrag der geplanten Investitionen 3 709 554,24 EUR</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/275/870_1771264521_12_02.16.2026._AE partner.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/275/original_1771264521_12_02.16.2026._AE partner.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/275/original_1771264521_12_02.16.2026._AE partner.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

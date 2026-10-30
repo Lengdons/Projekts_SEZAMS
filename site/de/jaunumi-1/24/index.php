@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/jaunumi-1/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -49,7 +49,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Fotos
@@ -57,7 +57,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -71,18 +71,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Im Oktober Liepaja Port Frachtumschlag 739 202,18 Tonnen</h2>
+<h2>Im Oktober Liepāja Port Frachtumschlag 739 202,18 Tonnen</h2>
 <span class="mb-3">21.11.2023.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../oktobri-liepajas-ostas-kravu-apgrozijums-739-20218-tonnas/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/oktobri-liepajas-ostas-kravu-apgrozijums-739-20218-tonnas/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Auflage. Oktober 2007 war aktiv für Stevedore-Unternehmen im Hafen von Liepaja, die 739 202.18 Tonnen verschiedener Ladungen behandelt. Dies ist der größte Frachtumschlag in diesem Jahr innerhalb eines Monats und am produktivsten Oktober während Liepaja Port Betrieb. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../oktobri-liepajas-ostas-kravu-apgrozijums-739-20218-tonnas/index.php">Weiterlesen</a>
+<p>Oktober 2023 hat in den stevedore Gesellschaften von dem Hafen von Liepāja, die umgesiedelt haben aktiv gewesen 739 202,18 Tonnen verschiedener Ladungen. Dies ist der größte Frachtumschlag in diesem Jahr innerhalb eines Monats und am produktivsten Oktober während Liepāja Port Betrieb. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/oktobri-liepajas-ostas-kravu-apgrozijums-739-20218-tonnas/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/25/1702368841_60_11.20.2023._osta.webp)">
-<a aria-label="Weiterlesen" href="../oktobri-liepajas-ostas-kravu-apgrozijums-739-20218-tonnas/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/oktobri-liepajas-ostas-kravu-apgrozijums-739-20218-tonnas/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/25/1702368841_60_11.20.2023._osta.webp"/>
 </a>
 </div>
@@ -94,15 +94,15 @@ Vorstandssitzungen
 <h2>Während der Schulferien gibt es Verkehrsbeschränkungen über O.Kalpaka Bridge</h2>
 <span class="mb-3">19.10.2023.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../skolenu-brivlaika-bus-satiksmes-ierobezojumi-par-okalpaka-tiltu/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/skolenu-brivlaika-bus-satiksmes-ierobezojumi-par-okalpaka-tiltu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>Vom 23. bis 29. im Oktober werden Fußgänger und Straßentransport regelmäßig den Verkehr über die O.Kalpaka-Brücke schließen, die durch Verkehrsschilder über Veränderungen der Verkehrsorganisation informiert wird. Es ist notwendig, Schutzbarrieren auf dem Karosta Kanal an der O.Kalpaka Brücke zu bauen und in Zukunft Unfälle zu vermeiden, die zu einer langfristigen Schließung der Brücke führen können, wie es nach 2006 der Fall war. Ein Unfall im Jahr. Die vier zentralen Stapel können nur unter der Bedingung nach Technik angetrieben werden, dass die in den Karosta-Kanal zu schneidende Brücke offen ist, um eine maximale Betriebsgeschwindigkeit im Normalbetrieb zu gewährleisten. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../skolenu-brivlaika-bus-satiksmes-ierobezojumi-par-okalpaka-tiltu/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/skolenu-brivlaika-bus-satiksmes-ierobezojumi-par-okalpaka-tiltu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/26/1702368994__R1A4606.webp)">
-<a aria-label="Weiterlesen" href="../skolenu-brivlaika-bus-satiksmes-ierobezojumi-par-okalpaka-tiltu/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/skolenu-brivlaika-bus-satiksmes-ierobezojumi-par-okalpaka-tiltu/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/26/1702368994__R1A4606.webp"/>
 </a>
 </div>
@@ -111,18 +111,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Beschlüsse des Vorstands der Liepaja SEZ am 13. Oktober</h2>
+<h2>Beschlüsse des Vorstands der Liepāja SEZ am 13. Oktober</h2>
 <span class="mb-3">16.10.2023.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-valdes-13oktobri-pienemtie-lemumi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepajas-sez-valdes-13oktobri-pienemtie-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Auflage. vom 13. April 2004 Am Oktober fand die regelmäßige Sitzung des Vorstands von Liepaja SEZ statt, in der drei Investitionsprojekte von Liepaja SEZ-Unternehmen für einen Gesamtbetrag von 446 531.76 EUR überprüft und unterstützt wurden und mehrere Fragen zu Immobilien, Vermietung, Vor-Empfangsrechten und Entsorgung erörtert wurden.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-valdes-13oktobri-pienemtie-lemumi/index.php">Weiterlesen</a>
+<p>13. Oktober 2023 die regelmäßige Sitzung des Vorstands von Liepāja SEZ fand statt, in der drei Investitionsprojekte von Liepuja SEZ Unternehmen überprüft und für den Gesamtbetrag unterstützt wurden. 446 531,76 In EUR und überprüfte mehrere Fragen zu Immobilien, Leasing, Vor-Empfangsrechten und Entsorgung.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepajas-sez-valdes-13oktobri-pienemtie-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/27/1702369084__R1A4195.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-valdes-13oktobri-pienemtie-lemumi/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepajas-sez-valdes-13oktobri-pienemtie-lemumi/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/27/1702369084__R1A4195.webp"/>
 </a>
 </div>
@@ -131,18 +131,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Im September Frachtumschlag im Hafen von Liepaja 619 715.2 Tonnen</h2>
+<h2>Im September Frachtumschlag im Hafen von Liepāja 619 715,82 Tonnen</h2>
 <span class="mb-3">12.10.2023.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../septembri-liepajas-ostas-kravu-apgrozijums-619-71582-tonnas/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/septembri-liepajas-ostas-kravu-apgrozijums-619-71582-tonnas/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Im September dieses Jahres wurden 619 715.82 Tonnen verschiedener Ladungen im Hafen von Liepaja angeschlossen und behandelt. Die weiterhin stabile Landwirtschaft, der RO-RO Frachtfluss und, wie im Winter nähert sich, steigt traditionell die Erneuerbare Energiefracht einschließlich: Holzsplitter. Liepaja Special Economic Zone Authority, zusammen mit Unternehmern, arbeitet weiter und zieht neue Frachtgruppen an. aus Zentralasien.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../septembri-liepajas-ostas-kravu-apgrozijums-619-71582-tonnas/index.php">Weiterlesen</a>
+<p>Im September dieses Jahres wurden 619 715.82 Tonnen verschiedener Ladungen im Hafen von Liepāja angeschlossen und behandelt. Die weiterhin stabile Landwirtschaft, der RO-RO Frachtfluss und, wie im Winter nähert sich, steigt traditionell die Erneuerbare Energiefracht einschließlich: Holzsplitter. Liepāja Special Economic Zone Authority, zusammen mit Unternehmern, arbeitet weiter und zieht neue Frachtgruppen an. aus Zentralasien.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/septembri-liepajas-ostas-kravu-apgrozijums-619-71582-tonnas/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/28/1702369194_52_10.12.2023._LBT_2.webp)">
-<a aria-label="Weiterlesen" href="../septembri-liepajas-ostas-kravu-apgrozijums-619-71582-tonnas/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/septembri-liepajas-ostas-kravu-apgrozijums-619-71582-tonnas/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/28/1702369194_52_10.12.2023._LBT_2.webp"/>
 </a>
 </div>
@@ -154,15 +154,15 @@ Vorstandssitzungen
 <h2>Internationale Konferenz "Anthropogene chemische Verschmutzung" Auswirkungen auf die Ostsee und ihre damit verbundenen Ökosysteme"</h2>
 <span class="mb-3">06.10.2023.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../starptautiska-konference-anthropogenic-chemical-pollutions-impact-on-the-baltic-sea-and-it/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/starptautiska-konference-anthropogenic-chemical-pollutions-impact-on-the-baltic-sea-and-it/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Auflage. vom 11. Dezember 11 - 12. im Oktober, Projekt Nr. NFI/AK/02 Historisch kontaminierte Standorte Die Carosta Canal Sanierungsarbeiten des Hafens von Liepaja International Conference 'Anthrogene chemische Verschmutzung'. Jeder ist eingeladen, an der Konferenz live teilzunehmen.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../starptautiska-konference-anthropogenic-chemical-pollutions-impact-on-the-baltic-sea-and-it/index.php">Weiterlesen</a>
+<p>2023. , die 11. - 12. im Oktober, Projekt Nr. NFI/AK/02 Historisch kontaminierte Standorte Restaurierungsarbeiten des Karosta-Kanals im Hafen von Liepāja's International Conference "Anthrogene chemische Verschmutzungen wirken sich auf die Ostsee und ihre damit verbundenen Ökosysteme aus." Jeder ist eingeladen, an der Konferenz live teilzunehmen.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/starptautiska-konference-anthropogenic-chemical-pollutions-impact-on-the-baltic-sea-and-it/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/29/)">
-<a aria-label="Weiterlesen" href="../starptautiska-konference-anthropogenic-chemical-pollutions-impact-on-the-baltic-sea-and-it/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/starptautiska-konference-anthropogenic-chemical-pollutions-impact-on-the-baltic-sea-and-it/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/29/"/>
 </a>
 </div>
@@ -171,18 +171,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Liepaja SEZ Authority setzt Karosta Canal Recovery-Projekt fort</h2>
+<h2>Liepāja SEZ Authority setzt Karosta Canal Recovery-Projekt fort</h2>
 <span class="mb-3">20.09.2023.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-parvalde-turpina-istenot-karostas-kanala-sanacijas-projektu/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepajas-sez-parvalde-turpina-istenot-karostas-kanala-sanacijas-projektu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>19. dieses Jahres. Bei Luftfahrzeugen mit einer Masse von mehr als 250 kg oder weniger stellt der Luftfahrtunternehmer sicher, dass das Luftfahrzeug die Anforderungen des Anhangs II erfüllt. Am September trafen sich Experten der Liepaja Special Economic Zone Authority und des Vereins Baltic Coasts mit Projektpartnern - Norwegian Water Research Institute Vertreter im Rahmen des Erfahrungsaustausches in Oslo. NFI/AK/02.Historisch kontaminierte Standorte im Rahmen von Sanierungsarbeiten des Karosta-Kanals des Hafens Liepaja.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-parvalde-turpina-istenot-karostas-kanala-sanacijas-projektu/index.php">Weiterlesen</a>
+<p>Dieses Jahr 19. und 20. Am September trafen sich Experten der Liepāja Special Economic Zone Authority und des Vereins Baltic Coasts mit Projektpartnern - Norwegian Water Research Institute Vertreter im Rahmen des Erfahrungsaustausches in Oslo. NFI/AK/02 Historisch kontaminierte Standorte im Rahmen der Sanierungsarbeiten des Karosta-Kanals des Hafens von Liepāja.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepajas-sez-parvalde-turpina-istenot-karostas-kanala-sanacijas-projektu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/173/1729583572_nor-grants.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-parvalde-turpina-istenot-karostas-kanala-sanacijas-projektu/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepajas-sez-parvalde-turpina-istenot-karostas-kanala-sanacijas-projektu/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/173/1729583572_nor-grants.webp"/>
 </a>
 </div>
@@ -191,7 +191,7 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev" data-block="2" data-page="23" data-per-page="6" data-topic="14" href="../23/index.php">
+<a class="news-list-pagination prev" data-block="2" data-page="23" data-per-page="6" data-topic="14" href="/site/de/jaunumi-1/23/index.php">
 <img alt="Zurück" src="../../../img/round-right.svg"/>
 
 Zurück
@@ -199,7 +199,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="2" data-page="25" data-per-page="6" data-topic="14" href="../25/index.php">
+<a class="news-list-pagination next" data-block="2" data-page="25" data-per-page="6" data-topic="14" href="/site/de/jaunumi-1/25/index.php">
 
 Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 </a>
@@ -244,7 +244,7 @@ Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/medijiem/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -49,7 +49,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Fotos
@@ -57,7 +57,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -71,18 +71,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>25 Jahre im Hafen von Liepaja erfolgreich funktioniert ♫ Dan Store Latvija</h2>
+<h2>25 Jahre im Hafen von Liepāja erfolgreich funktioniert ♫ Dan Store Latvija</h2>
 <span class="mb-3">12.06.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../jau-25-gadus-liepajas-osta-veiksmigi-strada-dan-store-latvija-terminals/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/jau-25-gadus-liepajas-osta-veiksmigi-strada-dan-store-latvija-terminals/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Das Dan Storea Terminal sorgt für den Export von landwirtschaftlichen Produkten und Futterprodukten. Das Unternehmen bietet seinen Kunden flexible Logistiklösungen durch direkten Zugang zu Bahn, moderner Infrastruktur und von Fachleuten verwalteter Ausrüstung. Auflage. Im Jahr 2007 war das Unternehmen mit 6,7 Mio. EUR Umsatz.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../jau-25-gadus-liepajas-osta-veiksmigi-strada-dan-store-latvija-terminals/index.php">Weiterlesen</a>
+<p>Das Dan Storea Terminal sorgt für den Export von landwirtschaftlichen Produkten und Futterprodukten. Das Unternehmen bietet seinen Kunden flexible Logistiklösungen durch direkten Zugang zu Bahn, moderner Infrastruktur und von Fachleuten verwalteter Ausrüstung. 2023. arbeitete das Unternehmen mit 6,7 Mio. EUR Umsatz.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/jau-25-gadus-liepajas-osta-veiksmigi-strada-dan-store-latvija-terminals/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/140/1718366878__R1A9795.webp)">
-<a aria-label="Weiterlesen" href="../jau-25-gadus-liepajas-osta-veiksmigi-strada-dan-store-latvija-terminals/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/jau-25-gadus-liepajas-osta-veiksmigi-strada-dan-store-latvija-terminals/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/140/1718366878__R1A9795.webp"/>
 </a>
 </div>
@@ -91,18 +91,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Erhöhung der Sicherheit am Karosta-Kanal des Hafens von Liepaja</h2>
+<h2>Erhöhung der Sicherheit am Karosta-Kanal des Hafens von Liepāja</h2>
 <span class="mb-3">06.06.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../palielina-kugosanas-drosibu-liepajas-ostas-karostas-kanala/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/palielina-kugosanas-drosibu-liepajas-ostas-karostas-kanala/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Die Liepaja SEZ-Behörde hat die letzte Komponente des Kohäsionsfondsprojekts der Europäischen Union Nr. 6.1.1.0/17/I/004 Insgesamt restaurierte das Projekt die sichere Navigation am nördlichen Tor des Hafens, restauriert die Maulwürfe des Karosta-Kanals, demontiert 1. Kai und Beleuchtung auf Karosta Kanal gebaut. Das Projekt hat seine Ziele zur Verbesserung der Sicherheit im Seeverkehr auf dem Karasta-Kanal erreicht.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../palielina-kugosanas-drosibu-liepajas-ostas-karostas-kanala/index.php">Weiterlesen</a>
+<p>Die Liepāja SEZ-Behörde hat die letzte Komponente des Kohäsionsfondsprojekts der Europäischen Union Nr. 6.1.1.0/17/I/004 Insgesamt restaurierte das Projekt die sichere Navigation am nördlichen Tor des Hafens, restauriert die Maulwürfe des Karosta-Kanals, demontiert 1. Kai und Beleuchtung auf Karosta Kanal gebaut. Das Projekt hat seine Ziele zur Verbesserung der Sicherheit im Seeverkehr auf dem Karasta-Kanal erreicht.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/palielina-kugosanas-drosibu-liepajas-ostas-karostas-kanala/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/137/1717752375_PSX_20240603_114313.webp)">
-<a aria-label="Weiterlesen" href="../palielina-kugosanas-drosibu-liepajas-ostas-karostas-kanala/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/palielina-kugosanas-drosibu-liepajas-ostas-karostas-kanala/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/137/1717752375_PSX_20240603_114313.webp"/>
 </a>
 </div>
@@ -111,18 +111,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Auch in der Saison 2024 flattern die Blaue Flagge am Yachthafen von Liepaja SEZ Authority</h2>
+<h2>Auch in der Saison 2024 flattern die Blaue Flagge am Yachthafen von Liepāja SEZ Authority</h2>
 <span class="mb-3">31.05.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../ari-2024gada-sezona-liepajas-sez-parvaldes-jahtu-osta-plivos-zilais-karogs/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/ari-2024gada-sezona-liepajas-sez-parvaldes-jahtu-osta-plivos-zilais-karogs/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Auch in der Segel- und Wassertourismussaison 2024 flattert die Blaue Flagge am Yachthafen von Liepaja SEZ Authority. Am 31. Mai wurde die Flagge des Pilotschiffes "Ausma" feierlich in den Mast gelegt.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../ari-2024gada-sezona-liepajas-sez-parvaldes-jahtu-osta-plivos-zilais-karogs/index.php">Weiterlesen</a>
+<p>Auch in der Segel- und Wassertourismussaison 2024 flattert die Blaue Flagge am Yachthafen von Liepāja SEZ Authority. Am 31. Mai wurde die Flagge des Pilotschiffes "Ausma" feierlich in den Mast gelegt.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/ari-2024gada-sezona-liepajas-sez-parvaldes-jahtu-osta-plivos-zilais-karogs/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/136/1717402192__R1A9453 - kopija.webp)">
-<a aria-label="Weiterlesen" href="../ari-2024gada-sezona-liepajas-sez-parvaldes-jahtu-osta-plivos-zilais-karogs/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/ari-2024gada-sezona-liepajas-sez-parvaldes-jahtu-osta-plivos-zilais-karogs/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/136/1717402192__R1A9453 - kopija.webp"/>
 </a>
 </div>
@@ -131,18 +131,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Annahme durch den Rat "Liepaja SEZ" am 27. Mai.</h2>
+<h2>Annahme durch den Rat "Liepāja SEZ" am 27. Mai.</h2>
 <span class="mb-3">29.05.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-valdes-27maija-pienemtie-lemumi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-sez-valdes-27maija-pienemtie-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Auflage. 27. März 2001 Am Mai fand die Vorstandssitzung der Special Economic Zone Liepaja (Liepāja SEZ) statt, in der 11 Tagesordnungspunkte geprüft, vier Beschlüsse gefasst und Informationsberichte über die Aktivitäten von Liepaja SEZ sowie geplante Entwicklungsprojekte getroffen wurden. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-valdes-27maija-pienemtie-lemumi/index.php">Weiterlesen</a>
+<p>27. Mai 2024 Der Verwaltungsrat der Sonderwirtschaftszone Liepāja (Liepāja SEZ) hielt seine regelmäßige Sitzung ab, in der er Folgendes prüfte: 11 Tagesordnungspunkte, vier Entscheidungen sowie die informativen Berichte über Liepāja SEZ-Aktivitäten und geplante Entwicklungsprojekte wurden getroffen. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-sez-valdes-27maija-pienemtie-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/135/1716963724__R1A8112.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-valdes-27maija-pienemtie-lemumi/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-sez-valdes-27maija-pienemtie-lemumi/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/135/1716963724__R1A8112.webp"/>
 </a>
 </div>
@@ -154,15 +154,15 @@ Vorstandssitzungen
 <h2>Ein Schritt vor den Aussätzigen, Viktors Valaninis, Minister für Wirtschaft bei seinem Besuch zugelassen</h2>
 <span class="mb-3">17.05.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepaja-ir-soli-prieksa-savas-vizites-laika-atzina-ekonomikas-ministrs-viktors-valainis/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepaja-ir-soli-prieksa-savas-vizites-laika-atzina-ekonomikas-ministrs-viktors-valainis/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Heute, 17. Am Mai wurde ein Tag Arbeitsbesuch in Liepaja vom Wirtschaftsminister Viktors Valaninis besucht. Entwicklung des Energiesektors, der verarbeitenden Industrie, gut bezahlte, qualifizierte Arbeitsplätze, Investitionen in Frachttransport und Exportentwicklung, Wohnen und eine Reihe wichtiger wirtschaftlicher Entwicklungsthemen wurden mit Liepaja City und Liepaja Special Economic Zone Management diskutiert.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepaja-ir-soli-prieksa-savas-vizites-laika-atzina-ekonomikas-ministrs-viktors-valainis/index.php">Weiterlesen</a>
+<p>Heute, 17. Am Mai wurde ein Tag Arbeitsbesuch in Liepāja vom Wirtschaftsminister Viktors Valaninis besucht. Entwicklung des Energiesektors, der verarbeitenden Industrie, gut bezahlte, qualifizierte Arbeitsplätze, Investitionen in Frachttransport und Exportentwicklung, Wohnen und eine Reihe wichtiger wirtschaftlicher Entwicklungsthemen wurden mit Liepāja City und Liepāja Special Economic Zone Management diskutiert.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepaja-ir-soli-prieksa-savas-vizites-laika-atzina-ekonomikas-ministrs-viktors-valainis/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/132/1715970776__R1A7206.webp)">
-<a aria-label="Weiterlesen" href="../liepaja-ir-soli-prieksa-savas-vizites-laika-atzina-ekonomikas-ministrs-viktors-valainis/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepaja-ir-soli-prieksa-savas-vizites-laika-atzina-ekonomikas-ministrs-viktors-valainis/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/132/1715970776__R1A7206.webp"/>
 </a>
 </div>
@@ -171,18 +171,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Die Stabilität des Hafens von Liepaja wird durch die Vielfalt der Frachttypen gewährleistet</h2>
+<h2>Die Stabilität des Hafens von Liepāja wird durch die Vielfalt der Frachttypen gewährleistet</h2>
 <span class="mb-3">16.05.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-ostas-darbibas-stabilitati-nodrosina-kravu-veidu-dazadiba/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-ostas-darbibas-stabilitati-nodrosina-kravu-veidu-dazadiba/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Hafen von Liepaja stevedore Unternehmen 2024. In den vier Monaten 2000 wurden 2,54 Millionen umgesiedelt. Tonnen unterschiedlicher Ladungen entsprechend 2023. 4 Monate lang. Die Stabilität des Hafenbetriebs wird durch die Vielfalt der Frachttypen und den bereits traditionellen Schwerpunkt auf Waren lokaler Herkunft gewährleistet. In 4 Monaten wurden 479 Schiffe befördert, 24 691 Passagiere wurden befördert, aber die Anzahl der mit Fähre beförderten Ro-Ro-Einheiten betrug 31 945 und Containereinheiten - 1 967.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-ostas-darbibas-stabilitati-nodrosina-kravu-veidu-dazadiba/index.php">Weiterlesen</a>
+<p>stevedore Unternehmen im Hafen von Liepāja 2024. in vier Monaten des Jahres 2,54 Mio. Tonnen unterschiedlicher Ladungsäquivalente 2023. , die 4 Monate. Die Stabilität des Hafenbetriebs wird durch die Vielfalt der Frachttypen und den bereits traditionellen Schwerpunkt auf Waren lokaler Herkunft gewährleistet. Dieses Jahr 4 in den Monaten, die serviert wurden 479 beförderte Schiffe 24 691 Personen, aber die Zahl der mit der Fähre beförderten Ro-Ro-Einheiten 31 945 und Containereinheiten: 1 967.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-ostas-darbibas-stabilitati-nodrosina-kravu-veidu-dazadiba/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/131/1715850424_21_05.16.2024._MolsL.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-ostas-darbibas-stabilitati-nodrosina-kravu-veidu-dazadiba/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-ostas-darbibas-stabilitati-nodrosina-kravu-veidu-dazadiba/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/131/1715850424_21_05.16.2024._MolsL.webp"/>
 </a>
 </div>
@@ -191,7 +191,7 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev" data-block="2" data-page="18" data-per-page="6" data-topic="14" href="../18/index.php">
+<a class="news-list-pagination prev" data-block="2" data-page="18" data-per-page="6" data-topic="14" href="/site/de/medijiem/18/index.php">
 <img alt="Zurück" src="../../../img/round-right.svg"/>
 
 Zurück
@@ -199,7 +199,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="2" data-page="20" data-per-page="6" data-topic="14" href="../20/index.php">
+<a class="news-list-pagination next" data-block="2" data-page="20" data-per-page="6" data-topic="14" href="/site/de/medijiem/20/index.php">
 
 Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 </a>
@@ -244,7 +244,7 @@ Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

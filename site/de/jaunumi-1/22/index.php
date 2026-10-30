@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/jaunumi-1/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -49,7 +49,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Fotos
@@ -57,7 +57,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -71,18 +71,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Beschlüsse des Vorstands von Liepaja SEZ</h2>
+<h2>Beschlüsse des Vorstands von Liepāja SEZ</h2>
 <span class="mb-3">14.02.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-valdes-pienemtie-lemumi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepajas-sez-valdes-pienemtie-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Auflage. vom 14. April 2007 Am Februar fand die regelmäßige Sitzung des Vorstands der Liepaja SEZ statt, in der zwei Investitionsprojekte von Unternehmen der Special Economic Zone Liepaja überprüft und für einen Gesamtbetrag von 1,68 Millionen unterstützt wurden. In EUR und traf Entscheidungen über Immobilien-, Leasing-, Sublease- und Pre-Empfangsrechte.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-valdes-pienemtie-lemumi/index.php">Weiterlesen</a>
+<p>14. Februar 2024 die regelmäßige Sitzung des Vorstands von Liepāja SEZ fand statt, in dem zwei Investitionsvorhaben der Unternehmen der Special Economic Zone Liepāja überprüft und für den Gesamtbetrag unterstützt wurden. 1,68 Mio. In EUR und traf Entscheidungen über Immobilien-, Leasing-, Sublease- und Pre-Empfangsrechte.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepajas-sez-valdes-pienemtie-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/105/1707997671_09_02.15.2024._DG_terminal.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-valdes-pienemtie-lemumi/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepajas-sez-valdes-pienemtie-lemumi/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/105/1707997671_09_02.15.2024._DG_terminal.webp"/>
 </a>
 </div>
@@ -94,15 +94,15 @@ Vorstandssitzungen
 <h2>Suche nach Entwicklern zweier wichtiger städtischer Gebäudeimmobilien im Industriepark Karosta</h2>
 <span class="mb-3">02.02.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../mekle-attistitajus-diviem-nozimigiem-pilsetbuvniecibas-ipasumiem-karostas-industriala-park/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/mekle-attistitajus-diviem-nozimigiem-pilsetbuvniecibas-ipasumiem-karostas-industriala-park/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>2. Am Februar kündigte die Stadt Liepaja eine Auktion für zwei Liegenschaften in Liepāja, im Gebiet des Industrieparks Karosta, der 7 Zemgales Straße und der 17 Zemgales Straße an. Die Auktion findet ab 2024 auf der elektronischen Auktionsseite https://izsoles.ta.gov.lv statt. 2. Jahr Februar um 15.00 Uhr 13.00 bis 2024 2006 März um 11 Uhr. 13.00 Uhr Die Bieter können ihre Teilnahme gemäß den Bedingungen der Auktion innerhalb von 20 Tagen bis 2024 beantragen. 22. Februar 1991.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../mekle-attistitajus-diviem-nozimigiem-pilsetbuvniecibas-ipasumiem-karostas-industriala-park/index.php">Weiterlesen</a>
+<p>2. Im Februar kündigte Liepāja City eine Auktion für zwei Immobilien in Liepāja, Gebiet des Industrieparks Karosta an. 7 und Zemgale Street 17. Die Auktion erfolgt auf der elektronischen Auktionsseite https://izsoles.ta.gov.lv no 2. Februar 2024 Uhr 13.00 bis 4. März 2024 Uhr 13.00. Die Bieter können innerhalb von Tagen bis zu folgenden Bedingungen ihre Teilnahme im Rahmen der Auktion beantragen: 22. Februar 2024.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/mekle-attistitajus-diviem-nozimigiem-pilsetbuvniecibas-ipasumiem-karostas-industriala-park/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/106/1707997838__R1A0850.webp)">
-<a aria-label="Weiterlesen" href="../mekle-attistitajus-diviem-nozimigiem-pilsetbuvniecibas-ipasumiem-karostas-industriala-park/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/mekle-attistitajus-diviem-nozimigiem-pilsetbuvniecibas-ipasumiem-karostas-industriala-park/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/106/1707997838__R1A0850.webp"/>
 </a>
 </div>
@@ -114,15 +114,15 @@ Vorstandssitzungen
 <h2>"iCotton" beginnt mit dem Handel von Anleihen an der Börse</h2>
 <span class="mb-3">23.01.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../icotton-uzsak-obligaciju-tirdzniecibu-birza/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/icotton-uzsak-obligaciju-tirdzniecibu-birza/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Mit lauter Glocke klingt 19. im Januar den Beginn des Handels mit Obigationen der Firma, die auf dem Territorium von Liepaja Sonderwirtschaftszone an der Börse "Nasdaq Riga" arbeitet. Ltd., iCotton, ist das erste Unternehmen von Liepaja, um Anleihen an der Börse in Nasdaq Riga zu vermarkten.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../icotton-uzsak-obligaciju-tirdzniecibu-birza/index.php">Weiterlesen</a>
+<p>Mit lauter Glocke klingt 19. im Januar den Beginn des Handels mit Obigationen der Firma, die auf dem Territorium von Liepāja Sonderwirtschaftszone an der Börse "Nasdaq Riga" arbeitet. Ltd., iCotton, ist das erste Unternehmen von Liepāja, um Anleihen an der Börse in Nasdaq Riga zu vermarkten.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/icotton-uzsak-obligaciju-tirdzniecibu-birza/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/87/1706102213__R1A0361.webp)">
-<a aria-label="Weiterlesen" href="../icotton-uzsak-obligaciju-tirdzniecibu-birza/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/icotton-uzsak-obligaciju-tirdzniecibu-birza/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/87/1706102213__R1A0361.webp"/>
 </a>
 </div>
@@ -131,18 +131,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Das neue Produktionsgebäude von Liepaja SEZ wurde auf dem Gebiet der Liepaja SEZ gebaut</h2>
+<h2>Das neue Produktionsgebäude von Liepāja SEZ wurde auf dem Gebiet der Liepāja SEZ gebaut</h2>
 <span class="mb-3">19.01.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-teritorija-uzbuveta-ics-steel-jauna-razosanas-eka/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepajas-sez-teritorija-uzbuveta-ics-steel-jauna-razosanas-eka/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>SIA CRS Steel für die Herstellung von Metallerzeugnissen hat eine neue Fabrik auf dem Gebiet der Special Economic Zone Liepaja, Meldru Street gebaut und in Betrieb genommen, die Finanzierung durch Central Finance and Contract Agency anzieht. Etwa 2,5 Mio. € wurden in den Bau der Anlage und weitere 1,5 Mio. € in die Produktionsanlagen investiert. Gesamtfläche des Fertigungsgebäudes 3200 m2. Um ein vollständiges Serviceangebot zu gewährleisten, sind in den kommenden Jahren zwei weitere Produktionsgebäude geplant.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-teritorija-uzbuveta-ics-steel-jauna-razosanas-eka/index.php">Weiterlesen</a>
+<p>SIA CRS Steel für die Herstellung von Metallerzeugnissen hat eine neue Fabrik im Gebiet der Special Economic Zone in Liepāja, Meldru Street gebaut und in Betrieb genommen. Der Bau der Anlage wurde in etwa 2,5 Millionen Euro, weitere anderthalb Millionen in Produktionsanlagen investiert. Gesamtfläche des Produktionsgebäudes 3200 m2. Um ein vollständiges Serviceangebot zu gewährleisten, sind in den kommenden Jahren zwei weitere Produktionsgebäude geplant.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepajas-sez-teritorija-uzbuveta-ics-steel-jauna-razosanas-eka/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/86/1706102113__R1A0067.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-teritorija-uzbuveta-ics-steel-jauna-razosanas-eka/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepajas-sez-teritorija-uzbuveta-ics-steel-jauna-razosanas-eka/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/86/1706102113__R1A0067.webp"/>
 </a>
 </div>
@@ -151,18 +151,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Beschlüsse des Vorstands der Liepaja SEZ am 17. Januar</h2>
+<h2>Beschlüsse des Vorstands der Liepāja SEZ am 17. Januar</h2>
 <span class="mb-3">18.01.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-valdes-17janvari-pienemtie-lemumi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepajas-sez-valdes-17janvari-pienemtie-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Auflage. 17. Mai Am Januar fand die regelmäßige Sitzung des Vorstands von Liepaja SEZ statt, der dem Unternehmen "Crimppi" den Status der Firma Liepaja Special Economic Zone Company zuerkannte und drei Investitionsprojekte von LiepayaSEZ-Unternehmen für insgesamt 2,7 Mio. EUR unterstützte. In EUR und traf Entscheidungen über Immobilien-, Miet- und Reservierungsrechte.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-valdes-17janvari-pienemtie-lemumi/index.php">Weiterlesen</a>
+<p>17. Januar 2024 Die Sitzung des Vorstands von Liepāja SEZ fand statt, in dem der Status des Unternehmens "Crimppi" für das Unternehmen "Liepāja Sez" gewährt wurde, drei Investitionsvorhaben der Unternehmen der Special Economic Zone Liepāja wurden für den Gesamtbetrag unterstützt. 2,7 Mio. In EUR und traf Entscheidungen über Immobilien-, Miet- und Reservierungsrechte.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepajas-sez-valdes-17janvari-pienemtie-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/88/1707220416_06_01.17.2024._Norplast_Piemare (1).webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-valdes-17janvari-pienemtie-lemumi/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepajas-sez-valdes-17janvari-pienemtie-lemumi/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/88/1707220416_06_01.17.2024._Norplast_Piemare (1).webp"/>
 </a>
 </div>
@@ -174,15 +174,15 @@ Vorstandssitzungen
 <h2>Unterzeichnung einer Vereinbarung über die Finanzierung des Infrastrukturbaus im Industriepark Liepājas</h2>
 <span class="mb-3">11.01.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../paraksta-vienosanos-par-finansejuma-pieskirsanu-infrastrukturas-izbuvei/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/paraksta-vienosanos-par-finansejuma-pieskirsanu-infrastrukturas-izbuvei/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Liepaja SEZ hat eine Vereinbarung mit der Zentralen Finanz- und Vertragsagentur über die Finanzierung des Konjunktur- und Nachhaltigkeitsmechanismus von 10 Mio. EUR geschlossen. EUR für die Durchführung der 1. Projektphase "Liepaja Industrial Park Infrastructure Development." Im Rahmen des Projekts ist der Bau von Stromnetzen und drei Straßenabschnitten mit Engineering Communications (Wasserversorgung, häusliche Kanalisation, Regenwasserentwässerung, Wärmenetze) geplant. Dadurch wird es möglich sein, die geschlossene Website teilweise für den öffentlichen Zugang zu öffnen und eine Möglichkeit zu schaffen, erste Investoren anzuziehen. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../paraksta-vienosanos-par-finansejuma-pieskirsanu-infrastrukturas-izbuvei/index.php">Weiterlesen</a>
+<p>Liepāja SEZ hat eine Vereinbarung mit der Zentralen Finanz- und Vertragsagentur über die Finanzierung des Konjunktur- und Nachhaltigkeitsmechanismus von 10 Mio. EUR geschlossen. EUR für die Durchführung der 1. Projektphase "Liepāja Industrial Park Infrastructure Development." Im Rahmen des Projekts ist der Bau von Stromnetzen und drei Straßenabschnitten mit Engineering Communications (Wasserversorgung, häusliche Kanalisation, Regenwasserentwässerung, Wärmenetze) geplant. Dadurch wird es möglich sein, die geschlossene Website teilweise für den öffentlichen Zugang zu öffnen und eine Möglichkeit zu schaffen, erste Investoren anzuziehen. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/paraksta-vienosanos-par-finansejuma-pieskirsanu-infrastrukturas-izbuvei/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/73/1704958761_lm.webp)">
-<a aria-label="Weiterlesen" href="../paraksta-vienosanos-par-finansejuma-pieskirsanu-infrastrukturas-izbuvei/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/paraksta-vienosanos-par-finansejuma-pieskirsanu-infrastrukturas-izbuvei/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/73/1704958761_lm.webp"/>
 </a>
 </div>
@@ -191,7 +191,7 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev" data-block="2" data-page="21" data-per-page="6" data-topic="14" href="../21/index.php">
+<a class="news-list-pagination prev" data-block="2" data-page="21" data-per-page="6" data-topic="14" href="/site/de/jaunumi-1/21/index.php">
 <img alt="Zurück" src="../../../img/round-right.svg"/>
 
 Zurück
@@ -199,7 +199,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="2" data-page="23" data-per-page="6" data-topic="14" href="../23/index.php">
+<a class="news-list-pagination next" data-block="2" data-page="23" data-per-page="6" data-topic="14" href="/site/de/jaunumi-1/23/index.php">
 
 Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 </a>
@@ -244,7 +244,7 @@ Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

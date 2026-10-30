@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="https://liepaja-sez.lv//img/mod/news/25/1702368841_60_11.20.2023._osta.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/medijiem/oktobri-liepajas-ostas-kravu-apgrozijums-739-20218-tonnas" property="og:url"/>
-<meta content="Im Oktober Liepaja Port Frachtumschlag 739 202,18 Tonnen" property="og:title"/>
+<meta content="Im Oktober Liepāja Port Frachtumschlag 739 202,18 Tonnen" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Im Oktober Frachtumschlag im Hafen von Liepaja 739 202,18 Tonnen</title>
+<title>Im Oktober Frachtumschlag im Hafen von Liepāja 739 202,18 Tonnen</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
@@ -38,18 +38,18 @@ html.classList.add(localStorage['contrast']);
 <div class="container article-full pt-5 my-5">
 <div class="row">
 <div class="col-12 col-md-9 offset-md-3 mt-md-5">
-<span class="date d-block mt-md-5">21. 22. November 2023</span>
-<h1 class="article-title">Im Oktober Liepaja Port Frachtumschlag 739 202,18 Tonnen</h1>
+<span class="date d-block mt-md-5">21. November 2023</span>
+<h1 class="article-title">Im Oktober Liepāja Port Frachtumschlag 739 202,18 Tonnen</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Auflage. Oktober 2007 war aktiv für Stevedore-Unternehmen im Hafen von Liepaja, die 739 202.18 Tonnen verschiedener Ladungen behandelt. Dies ist der größte Frachtumschlag in diesem Jahr innerhalb eines Monats und am produktivsten Oktober während Liepaja Port Betrieb.   </p><p>Im Oktober im Hafen von Liepaja wurden 573,2 Tausend umgeschlagen. Tonnen trockener Schüttgut. Der größte Anteil lag bei Getreide und Getreideerzeugnissen. Insgesamt wurden 444.1.000 behandelt. Tonnen mehr als in diesem Jahr im September (271,6 Tausend). (in Tonnen) und im vergangenen Oktober (310.8 Tausend). Tonnen). In der Schüttgütergruppe, ohne Getreide und Getreideprodukte, ist der Umsatz von Baustoffen und erneuerbaren Energiequellen (Holzchips und Chippellets) stabil.</p><p>Der Umsatz von RO-RO Frachten nimmt weiter zu, was mit den Entwicklungsprojekten der LSEZ Ltd.Terrabaltě und dem Bau eines neuen Straßenzugangs im Zusammenhang steht, die von Liepaja SEZ Authority durchgeführt werden. Dies war ein ernster Schritt für den Fährführer Stan Line, mit Travemindi in Deutschland sechs Mal pro Woche regelmäßige Fährverbindungen anzubieten. Ein neuer Impuls für die weitere Entwicklung ist jetzt erforderlich - Häfen 46. Rekonstruktion des Kais. Uldis Hmielevskis, Liepaja SEZ Manager betont, dass die Fähre jedes Jahr Güter im Wert von 4 Milliarden Euro befördert. Wir können uns die Bedeutung dieser Linie für lettische Hersteller vorstellen, für die lettische Wirtschaft insgesamt.</p><p>Während des Arbeitsbesuchs des Finanzministers in Liepaja wurde der Wiederaufbau des Kais mit dem Finanzminister Arvils Ašeranden diskutiert, der zugab, dass exportorientierte Industrien eine sehr hohe Priorität für die Regierung darstellen. Sie brauchen Kanäle, um ihre Waren in andere Länder zu transportieren. Der wichtigste Exportmarkt ist Europa. Der Hafen von Liepaja funktioniert sehr gut, und es ist klar, dass wir die Pflicht haben, eine Lösung für die Verkehrsinfrastruktur zu finden. Heute haben wir darüber gesprochen, lassen Sie uns mit dem Ministerium für Verkehr sehen, wie das gelöst werden kann.</p><p>Im allgemeinen Frachtsegment gibt es eine anhaltende Rezession auf dem Holzmarkt, die sich auch im Frachtumschlag widerspiegelt, aber bereits für das zweite Jahr ist das flüssige Frachtvolumen deutlich zurückgegangen, was jetzt nur 4% aller Ladungen ausmacht. </p><p>Auflage. Im Oktober 2004 wurden 112 Schiffe im Hafen von Liepaja abgewickelt und 6 268 Passagiere erhielten sie. Die Schüttgutladung wurde im Oktober an Bord des Schiffes Al Saad 53,3 Tausend geladen. Tonnen, die nach Spanien geliefert werden. Im Oktober haben die beiden größten Stevedore-Unternehmen mehr als 200 Tausend behandelt. Tonnen verschiedener Ladungen, die in den Vormonaten deutlich über dem Umsatz liegen, bzw. LSEZ Ltd., Liepaja Bulk Terminal Ltd. - 297 679,44 t und LSEZ AG</p><p>In den neun Monaten dieses Jahres betrug der Frachtumschlag im Hafen von Liepaja 5 928 273,17 Tonnen, 1 168 Schiffe wurden abgewickelt, 82695 Passagiere kamen oder gingen.</p></div>
+<div class="col"><div class="col-12 output"><p>Oktober 2023 hat in den stevedore Gesellschaften von dem Hafen von Liepāja, die umgesiedelt haben aktiv gewesen 739 202,18 Tonnen verschiedener Ladungen. Dies ist der größte Frachtumschlag in diesem Jahr innerhalb eines Monats und am produktivsten Oktober während Liepāja Port Betrieb.   </p><p>Im Oktober behandelt in Port von Liepāja 573,2 Tausend Tonnen trockener Schüttgut. Der größte Anteil lag bei Getreide und Getreideerzeugnissen. Gesamtumschichtung 444,1 Tausend Tonnen über dem des September dieses Jahres (271.6 Tausend ) und im vergangenen Oktober (310,8 Tausend Tonnen). In der Schüttgütergruppe, ohne Getreide und Getreideprodukte, ist der Umsatz von Baustoffen und erneuerbaren Energiequellen (Holzchips und Chippellets) stabil.</p><p>Der Umsatz von RO-RO Frachten nimmt weiter zu, was mit den Entwicklungsprojekten der LSEZ Ltd.Terrabaltě und dem Bau eines neuen Straßenzugangs im Zusammenhang steht, die von Liepāja SEZ Authority durchgeführt werden. Dies war ein ernster Schritt für den Fährführer Stan Line, mit Travemindi in Deutschland sechs Mal pro Woche regelmäßige Fährverbindungen anzubieten. Ein neuer Impuls für die weitere Entwicklung ist jetzt erforderlich - Häfen 46. Rekonstruktion des Kais. Uldis Hmielevskis, Liepāja SEZ Manager betont, dass die Fähre jedes Jahr Güter im Wert von 4 Milliarden Euro befördert. Wir können uns die Bedeutung dieser Linie für lettische Hersteller vorstellen, für die lettische Wirtschaft insgesamt.</p><p>Während des Arbeitsbesuchs des Finanzministers in Liepāja wurde der Wiederaufbau des Kais mit dem Finanzminister Arvils Ašeranden diskutiert, der zugab, dass exportorientierte Industrien eine sehr hohe Priorität für die Regierung darstellen. Sie brauchen Kanäle, um ihre Waren in andere Länder zu transportieren. Der wichtigste Exportmarkt ist Europa. Der Hafen von Liepāja funktioniert sehr gut, und es ist klar, dass wir die Pflicht haben, eine Lösung für die Verkehrsinfrastruktur zu finden. Heute haben wir darüber gesprochen, lassen Sie uns mit dem Ministerium für Verkehr sehen, wie das gelöst werden kann.</p><p>Im allgemeinen Frachtsegment gibt es eine anhaltende Rezession auf dem Holzmarkt, die sich auch im Frachtumschlag widerspiegelt, aber bereits für das zweite Jahr ist das flüssige Frachtvolumen deutlich zurückgegangen, was jetzt nur 4% aller Ladungen ausmacht. </p><p>Oktober 2023 Im Hafen von Liepāja 112 Schiffe und erhalten 6 268 Passagiere. Die Schüttgutladung wurde im Oktober auf dem Schiff Al Saad, Liepaya Bulk Terminal Ltd. 53,3 Tausend Tonnen, die nach Spanien geliefert werden. Im Oktober haben die beiden großen Stevedore-Unternehmen mehr als 200 Tausend Tonnen verschiedener Ladungen, die den Umsatz der Vormonate deutlich übertreffen, bzw. LSEZ Ltd., Liepāja Bulk Terminal Ltd. - 297 679,44 t un LSEZ Ltd. 205 800,90 T.</p><p>In den neun Monaten dieses Jahres betrug der Frachtumschlag im Hafen von Liepāja 5 928 273,17 Tonnen, 1 168 Schiffe wurden abgewickelt, 82695 Passagiere kamen oder gingen.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/25/870_1702368841_60_11.20.2023._osta.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/25/original_1702368841_60_11.20.2023._osta.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/25/original_1702368841_60_11.20.2023._osta.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -69,12 +69,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -84,12 +84,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -131,7 +131,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

@@ -15,7 +15,7 @@
 <meta name="twitter:site" content="@liepajaSEZ" />
 <meta name="twitter:creator" content="@liepajaSEZ" />
 
-<title>Enteignung von VW Transporter mittels einer elektronischen Auktion mit einem Aufwärtsschritt</title>			
+<title>Enteignung von VW Transporter mittels einer elektronischen Auktion mit einem Aufwärtsschritt</title>
 
 <link rel="stylesheet" href="https://liepaja-sez.lv/css/jarallax.min.css">
 <link rel="stylesheet" href="https://liepaja-sez.lv/css/bootstrap.min.css">
@@ -48,31 +48,31 @@ html.classList.add(localStorage['contrast']);
 <p class="job">Leiter der Abteilung Unternehmensentwicklung</p>
 <br>
 <span>Tel.: <a href="tel:(+371) 29294267" target="_blank">(+371) 29294267</a></span>
-<span>E-Mail: <a href="mailto:raivo.spaks@lsez.lv" target="_blank">raivo.spaks@lsez.lv</a></span>								
-</div>					
+<span>E-Mail: <a href="mailto:raivo.spaks@lsez.lv" target="_blank">raivo.spaks@lsez.lv</a></span>
+</div>
 <div class="col-12 col-md-9 mt-md-5">
 <span class="date d-block mt-md-5">15. August 2024</span>
 <h1 class="article-title">Entsorgung des VW Transporters: elektronische Auktion mit einem Aufwärtsschritt</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Der Startpreis liegt bei 4465.00 EUR, Auktionsschritt 45 EUR.</p><p>Der Auktionspreis unterliegt der Mehrwertsteuer. Alle Bieter bis 2024 werden zur Ausschreibung aufgefordert. 25. August um 21.00 Uhr. 23:59 Es wird eine Sicherheit in Höhe von 10% des ursprünglichen Auktionspreises geleistet, d. h. 446,50 EUR mit der Aufschrift "Vehicle VW Transporter" gemäß Zahlungsangaben:</p><p>Liepaja Special Economic Zone Authority, Unified Registrierung No.LV90000329402, AS LV12HABA0001407037000 und bitten, die Auktion zu genehmigen.</p><p>Auktion erfolgt auf der elektronischen Auktionswebseite<a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a></p><p>Die Auktion beginnt auf der elektronischen Auktionsseite<a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>Auflage. im Jahr 15 Januar 2007 August um 15.00 Uhr 13:00 Uhr und schließt 2024. 2006 September um 15.00 Uhr 13.00 Uhr</p><p>Die Registrierung der Antragsteller erfolgt ab 2024. im Jahr 15 Januar 2007 August um 15.00 Uhr 13:00 bis 2024 25. Mai 2004 August um 21.00 Uhr. 23:59 Website der elektronischen Auktion<a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a></p><p>Das Auktionsfahrzeug kann bis 2024 konsultiert werden. 25. Mai 2004 August, durch Kontakt mit dem Telefon 29426284 (Ainars).</p><p>Auktionsbedingungen: <a href="https://liepaja-sez.lv/doc/mod/file/izsoles/Izsoles_Nolikums_Atkartots_VW_Final.docx">https://liepaja-sez.lv/doc/mod/file/izsoles/Izsoles_Nolikums_Atkartots_VW_Final.docx</a></p><p>Fahrzeugbewertung: <a href="https://liepaja-sez.lv/doc/mod/file/izsoles/Vertejums_VW_Transportier_GZ2545_2023.pdf">https://liepaja-sez.lv/doc/mod/file/izsoles/Vertejums_VW_Transportier_GZ2545_2023.pdf</a></p><p>Auktionsregeln auf der Website verfügbar<a href="https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi</a>&nbsp;&nbsp;</p></div>
+<div class="col"><div class="col-12 output"><p>Der Startpreis liegt bei 4465.00 EUR, Auktionsschritt 45 EUR.</p><p>Der Auktionspreis unterliegt der Mehrwertsteuer. Alle Bieter bis: 2024. 25. August um Uhr. 23:59 Die Sicherheit muss geleistet werden 10% des Auktionsstartpreises, d. h. 446.50 In Euro mit der Aufschrift "Vehicle VW Transporter auktion safety" gemäß den Einzelheiten der Zahlung:</p><p>Liepāja Special Economic Zone Authority, Unified Registrierung No.LV90000329402, AS LV12HABA0001407037000 und bitten, die Auktion zu genehmigen.</p><p>Auktion erfolgt auf der elektronischen Auktionswebseite<a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a></p><p>Die Auktion beginnt auf der elektronischen Auktionsseite<a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>15. August 2024 Uhr 13:00 und schließen 4. September 2024 Uhr 13:00.</p><p>Die Registrierung der Antragsteller erfolgt ab: 15. August 2024 Uhr 13:00 bis 25. August 2024um Uhr 23:59 Website der elektronischen Auktion<a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a></p><p>Das Auktionsfahrzeug kann konsultiert werden durch: 25. August 2024per Telefon im Voraus 29426284 (Ainars).</p><p>Auktionsbedingungen: <a href="https://liepaja-sez.lv/doc/mod/file/izsoles/Izsoles_Nolikums_Atkartots_VW_Final.docx">https://liepaja-sez.lv/doc/mod/file/izsoles/Izsoles_Nolikums_Atkartots_VW_Final.docx</a></p><p>Fahrzeugbewertung: <a href="https://liepaja-sez.lv/doc/mod/file/izsoles/Vertejums_VW_Transportier_GZ2545_2023.pdf">https://liepaja-sez.lv/doc/mod/file/izsoles/Vertejums_VW_Transportier_GZ2545_2023.pdf</a></p><p>Auktionsregeln auf der Website verfügbar<a href="/site/de/iepirkumi-un-izsoles/index.php">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi</a>&nbsp;&nbsp;</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/155/870_1723713036_Foto_1.webp"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/155/original_1723713036_Foto_1.webp" aria-label="Download" download>
-<img class="download-icon" alt="Download" src="https://liepaja-sez.lv/img/dl.svg"/>	
-</a>															
+<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/155/original_1723713036_Foto_1.webp" aria-label="Herunterladen" download>
+<img class="download-icon" alt="Herunterladen" src="https://liepaja-sez.lv/img/dl.svg"/>
+</a>
 </div>
-</div>						
+</div>
 </div>
 </div>
 <div class="container my-4">
 <div class="row">
 <div id="useful-p" class="col-12 useful">
 <span class="me-2">War diese Information hilfreich?</span>
-<button data-value="1" data-table-name="mod_news" data-table-id="155" class="useful-btn">Ja </button> 
+<button data-value="1" data-table-name="mod_news" data-table-id="155" class="useful-btn">Ja </button>
 <button data-value="0" data-table-name="mod_news" data-table-id="155" class="useful-btn">Nein </button>
 </div>
 </div>
@@ -80,14 +80,14 @@ html.classList.add(localStorage['contrast']);
 <div class="row related-article">
 <div class="col-12 col-lg-9 offset-lg-3 sizer first">
 <div class="row">
-<div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>						
+<div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Liepaja SEZ Authority organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in Eksporta Straße 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Weiterlesen</a>
+<h4>Die Verwaltung der Sonderwirtschaftszone Liepāja veranstaltet eine elektronische Versteigerung mit aufsteigenden Geboten für eine neu zu bildende Immobilie in der Eksporta iela 3</h4>
+<a class="d-none d-md-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">Liepaja Special Economic Zone Authority, Unified Registrierung No.LV90000329402, organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in Eksporta iela 3, Liepāja, die aus einer Grundeinheit mit einer Gesamtfläche von 51521 m2 und 12 Gebäuden bestehen wird.</div>
+<div class="col-12 col-md-8 col-lg-9">Die Verwaltung der Sonderwirtschaftszone Liepāja, einheitliche Registrierungsnummer LV90000329402, veranstaltet eine elektronische Versteigerung mit aufsteigenden Geboten für eine neu zu bildende Immobilie in der Eksporta iela 3 in Liepāja. Diese wird aus einem Grundstück mit einer Gesamtfläche von 51521 m2 und 12 Bauwerken bestehen.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -95,34 +95,34 @@ html.classList.add(localStorage['contrast']);
 <div class="row related-article">
 <div class="col-12 col-lg-9 offset-lg-3 sizer ">
 <div class="row">
-<div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>						
+<div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Hafen von Liepaja No. 46 Rekonstruktion Bauprojektentwicklung, Bauarbeiten und Autorüberwachung</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Weiterlesen</a>
+<h4>Planung, Bauarbeiten und Bauüberwachung durch den Planer beim Umbau des Liegeplatzes Nr. 46 im Hafen Liepāja</h4>
+<a class="d-none d-md-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">Gegenstand der Beschaffung: Hafen von Liepaja No. 46 Rekonstruktionsbau Projektentwicklung, Bau und Autorüberwachung ANZAHL LSEZ 2026/12 Der Haupt-CPV-Code: 45241500-3 (Ship Liegeplatzbau). 
+<div class="col-12 col-md-8 col-lg-9">Auftragsgegenstand: Planung, Bauarbeiten und Bauüberwachung durch den Planer beim Umbau des Liegeplatzes Nr. 46 im Hafen Liepāja. VERGABENUMMER LSEZ 2026/12. Haupt-CPV-Code: 45241500-3 (Bauarbeiten für Schiffsanlegestellen).
 </div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
-</div>	
+</div>
 <div class="row">
 <div class="col-12 col-lg-9 offset-lg-3 paginator mt-5">
 
-<div class="prev">	
+<div class="prev">
 </div>
 <div class="next">
 <a data-page="2" class="next related-pagination" href="#" aria-label="Weiter">
-Weiter <img src="https://liepaja-sez.lv/img/round-right.svg" alt="Weiter"> 
+Weiter <img src="https://liepaja-sez.lv/img/round-right.svg" alt="Weiter">
 </a>
-</div>		
 </div>
-</div></div>				
+</div>
+</div></div>
 <img class="background" src="https://liepaja-sez.lv/img/bg2.svg" alt="Hintergrundbild"/>
 </main>
-<footer class="footer">				
+<footer class="footer">
 <div class="container py-5">
 <div class="row">
 <div class="col-12 col-md-4 col-lg-2 footer-logo">
@@ -142,15 +142,15 @@ Weiter <img src="https://liepaja-sez.lv/img/round-right.svg" alt="Weiter">
 </div>
 </div>
 </div>
-<div class="col-12 col-md-8 col-lg-1">							
+<div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a href="#" aria-label="Nach oben"><img src="https://liepaja-sez.lv/img/round-right.svg" alt="scroll-up" class="img-fluid"></a>
+<a href="#" aria-label="Nach oben"><img src="https://liepaja-sez.lv/img/round-right.svg" alt="Nach oben" class="img-fluid"></a>
 </div>
 </div>
 </div>
 </div>
-</div>	
+</div>
 
 <div id="sticky-cookie" style="align-items: center; justify-content: center;">
 <img width="24" src="https://liepaja-sez.lv/img/cc.svg?=v5" alt="Cookie" />
@@ -167,11 +167,11 @@ gtag('config', 'G-6QTXK76SH0');
 </script>
 
 
-</script>				
+</script>
 <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous">
 <script src="https://code.jquery.com/color/jquery.color.plus-names-2.1.2.min.js"></script>
 
-<script src="https://liepaja-sez.lv/js/jarallax.min.js?v=3"></script>				
+<script src="https://liepaja-sez.lv/js/jarallax.min.js?v=3"></script>
 <script src="https://liepaja-sez.lv/js/bootstrap.bundle.min.js"></script>
 <script src="https://liepaja-sez.lv/js/main.js?v=9"></script>
 <script src="https://liepaja-sez.lv/js/mod/menu/main.js?v=1"></script><script src="https://liepaja-sez.lv/js/block/useful/main.js?v=1"></script>				<script defer src="https://liepaja-sez.lv/cc/src/cookieconsent.js"></script>

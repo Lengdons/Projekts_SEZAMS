@@ -40,7 +40,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/investe-liepaja/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue-active.svg"/>
 
 Investieren in Liepāja
@@ -56,7 +56,7 @@ Hafen
 </a>
 <div class="sidebar-nested ps-md-4">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../par-ostu/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/par-ostu/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Über den Hafen
@@ -64,7 +64,7 @@ Hafen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../pramju-satiksme/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/pramju-satiksme/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Fährverkehr
@@ -72,7 +72,7 @@ Fährverkehr
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../kruiza-kugi/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/kruiza-kugi/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Kreuzfahrtschiffe
@@ -80,7 +80,7 @@ Kreuzfahrtschiffe
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../jahtu-osta/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/jahtu-osta/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Yachthafen
@@ -88,7 +88,7 @@ Yachthafen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../oskara-kalpaka-tilts/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/oskara-kalpaka-tilts/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Oskars-Kalpaks-Brücke
@@ -98,7 +98,7 @@ Oskars-Kalpaks-Brücke
 </div>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../kapitalsabiedribas/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/kapitalsabiedribas/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Unternehmen
@@ -106,7 +106,7 @@ Unternehmen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../attistibas-projekti/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/attistibas-projekti/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Entwicklungsprojekte
@@ -114,7 +114,7 @@ Entwicklungsprojekte
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../darbs-liepaja/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/darbs-liepaja/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Stellenangebote in Liepāja
@@ -122,7 +122,7 @@ Stellenangebote in Liepāja
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../teritoriju-karte/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/teritoriju-karte/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Gebietskarte
@@ -192,7 +192,7 @@ Gebietskarte
 </div>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><h6>Liepaja SEZ Authority schafft ein attraktives und dynamisches Umfeld für Unternehmen auf Basis eines starken Ökosystems. </h6><h6>Unser Ziel ist es, die wirtschaftliche Leistungsfähigkeit der Stadt und Region zu steigern, die Wettbewerbsfähigkeit von Liepaja auf baltischer und europäischer Ebene zu stärken, neue Investoren anzulocken, das Wachstum bestehender Unternehmen zu fördern und günstige Voraussetzungen für die Schaffung neuer Arbeitsplätze zu schaffen.</h6></div>
+<div class="col"><div class="col-12 output"><h6>Liepāja SEZ Authority schafft ein attraktives und dynamisches Umfeld für Unternehmen auf Basis eines starken Ökosystems. </h6><h6>Unser Ziel ist es, die wirtschaftliche Leistungsfähigkeit der Stadt und Region zu steigern, die Wettbewerbsfähigkeit von Liepāja auf baltischer und europäischer Ebene zu stärken, neue Investoren anzulocken, das Wachstum bestehender Unternehmen zu fördern und günstige Voraussetzungen für die Schaffung neuer Arbeitsplätze zu schaffen.</h6></div>
 </div>
 </div>
 </div>
@@ -211,7 +211,7 @@ Gebietskarte
 </div>
 <div class="col-12 col-md-4 column-content">
 <img alt="Symbol" class="icon" src="../../img/block/columns/157/1718873646_eiro-starp-bultinam.svg"/>
-<p>Liepaja SEZ - Unterstützungsinstrumente für Unternehmen seit mehr als 25 Jahren bereits direkte und indirekte Steuervergünstigungen. Große, stabile und flexible Betriebsbedingungen, steuerliche Anreize.</p>
+<p>Liepāja SEZ - Unterstützungsinstrumente für Unternehmen seit mehr als 25 Jahren bereits direkte und indirekte Steuervergünstigungen. Große, stabile und flexible Betriebsbedingungen, steuerliche Anreize.</p>
 </div>
 <div class="col-12 col-md-4 column-content">
 <img alt="Symbol" class="icon" src="../../img/block/columns/158/1718873690_osta-lidosta-dzelzcels.svg"/>
@@ -229,7 +229,7 @@ Gebietskarte
 </div>
 <div class="calculator mt-5 mb-4">
 <div class="row">
-<div class="col"><h1 class="block-title mb-5">Steuergutschrift<span></span></h1><div class="col-12 output mb-5"><h6>Erfahren Sie die direkten Steuererleichterungen Ihres Unternehmens, indem Sie als Liepaja Special Economic Zone Capital Company agieren!</h6><p> </p><p>80% Rabatt auf die Körperschaftsteuer für berechnete Dividenden und 80% Nachlass auf Immobiliensteuern können bei der Berechnung des Betrages der anwendbaren Steuergutschriften nach Größe des Händlers von LSEZ-Kapitalgesellschaft getätigt werden. Die berechneten Gesamtrabatte dürfen den Prozentsatz der von einer Kapitalgesellschaft getätigten Investitionen nicht überschreiten.</p></div>
+<div class="col"><h1 class="block-title mb-5">Steuergutschrift<span></span></h1><div class="col-12 output mb-5"><h6>Erfahren Sie die direkten Steuererleichterungen Ihres Unternehmens, indem Sie als Liepāja Special Economic Zone Capital Company agieren!</h6><p> </p><p>80% Rabatt auf die Körperschaftsteuer für berechnete Dividenden und 80% Nachlass auf Immobiliensteuern können bei der Berechnung des Betrages der anwendbaren Steuergutschriften nach Größe des Händlers von LSEZ-Kapitalgesellschaft getätigt werden. Die berechneten Gesamtrabatte dürfen den Prozentsatz der von einer Kapitalgesellschaft getätigten Investitionen nicht überschreiten.</p></div>
 <div class="row">
 <div class="col-xl-10">
 <form>
@@ -328,7 +328,7 @@ Gebietskarte
 </div>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><h6>Das Gebiet von Liepaja SEZ erstreckt sich auf 3 979 Hektar, was etwa 65% der gesamten Fläche der Stadt Liepaja ausmacht. </h6><p>Liepaja SEZ bietet ein breites Spektrum an Entwicklungsmöglichkeiten für die Wirtschaft sowohl in modern gestalteten Industrieparks als auch in auf den Bau vorbereiteten Bereichen, die sich an die Bedürfnisse der verschiedenen Branchen anpassen. Dank der entwickelten Infrastruktur, des strategischen Standorts und der anpassbaren Investitionsmöglichkeiten ist Liepaja SEZ ein idealer Ort für die Gründung neuer Unternehmen und den Ausbau bestehender Unternehmen.</p></div>
+<div class="col"><div class="col-12 output"><h6>Das Gebiet von Liepāja SEZ erstreckt sich auf 3 979 Hektar, was etwa 65% der gesamten Fläche der Stadt Liepāja ausmacht. </h6><p>Liepāja SEZ bietet ein breites Spektrum an Entwicklungsmöglichkeiten für die Wirtschaft sowohl in modern gestalteten Industrieparks als auch in auf den Bau vorbereiteten Bereichen, die sich an die Bedürfnisse der verschiedenen Branchen anpassen. Dank der entwickelten Infrastruktur, des strategischen Standorts und der anpassbaren Investitionsmöglichkeiten ist Liepāja SEZ ein idealer Ort für die Gründung neuer Unternehmen und den Ausbau bestehender Unternehmen.</p></div>
 </div>
 </div>
 </div>
@@ -336,14 +336,14 @@ Gebietskarte
 <div class="row">
 <div class="col-12 col-lg-6 document-single">
 <div class="document-info py-3">
-<div class="date">5. 8. März 2025</div>
+<div class="date">5. März 2025</div>
 <div class="category mb-2">Kostenlose Pakete</div>
 <a aria-label="Dokument" href="../../doc/mod/document/265/1741174166_Brīvie_Zemesgabali_2025.pdf" target="_blank">
 
 Barrierefreie Bereiche für Unternehmen
 
 </a>
-<div class="mt-2">Kontaktpersona – 
+<div class="mt-2">Kontaktpersona –
 
 Nekustamā īpašuma daļas vadītāja Kristīne Bārtniece, (+371) 25428180, kristine.bartniece@lsez.lv</div>
 </div>
@@ -361,14 +361,14 @@ Nekustamā īpašuma daļas vadītāja Kristīne Bārtniece, (+371) 25428180, kr
 <h5 class="mb-0">
 <button aria-controls="collapse5100" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse5100" data-bs-toggle="collapse">
 
-Industriepark Liepaja
+Industriepark Liepāja
 
 </button>
 </h5>
 </div>
 <div aria-labelledby="heading5100" class="collapse" data-parent="#accordion" id="collapse5100">
 <div class="card-body">
-<p><strong>Die Entwicklung des Industrieparks Liepaja ist eines der bedeutendsten industriellen Entwicklungsprojekte in Liepaja, die von der Special Economic Zone Authority von Liepaja durchgeführt werden.</strong></p><p>Ziel des Projekts ist es, das Gebiet der ehemaligen Fabrik Liepaja Metalurgs (Liepāja Metalurgrs) in einen modernen und nachhaltigen Industriepark zu verwandeln, der in Sektoren tätig ist, die von der Smart Spezialisierungsstrategie (RIS3) definiert werden, indem sie das Beschäftigungswachstum fördert und damit einen hohen Mehrwert für die Stadt Liepaja und die lettische Wirtschaft insgesamt schafft.</p><p>Der Industriepark Liepaja befindet sich im Gebiet zwischen der Brivibas Street, der Meldru Straße, der Ezermalas Straße, der Parka Straße und der Zemnieku Straße und grenzt an den Liepajasee, einem speziell geschützten Naturgebiet NATURA 2000.</p><p>Angebot von Websites: <a href="map/teritoriju-piedavajums/index.php">https://liepaja-sez.lv/lv/investe-liepaja/map/teritoriju-piedavajums/</a></p><p> </p><p><strong>Kontaktperson:</strong> Laura Adamoviča, Projektleiterin</p><p><strong>Telefon:</strong> (+371) 20501905</p><p><strong>E-Mail:</strong> <a href="mailto:laura.adamovica@lsez.lv">laura.adamovica@lsez.lv</a></p><br/>
+<p><strong>Die Entwicklung des Industrieparks Liepāja ist eines der bedeutendsten industriellen Entwicklungsprojekte in Liepāja, die von der Special Economic Zone Authority von Liepāja durchgeführt werden.</strong></p><p>Ziel des Projekts ist es, das Gebiet der ehemaligen Fabrik Liepāja Metalurgs (Liepāja Metalurgrs) in einen modernen und nachhaltigen Industriepark zu verwandeln, der in Sektoren tätig ist, die von der Smart Spezialisierungsstrategie (RIS3) definiert werden, indem sie das Beschäftigungswachstum fördert und damit einen hohen Mehrwert für die Stadt Liepāja und die lettische Wirtschaft insgesamt schafft.</p><p>Der Industriepark Liepāja befindet sich im Gebiet zwischen der Brivibas Street, der Meldru Straße, der Ezermalas Straße, der Parka Straße und der Zemnieku Straße und grenzt an den Liepajasee, einem speziell geschützten Naturgebiet NATURA 2000.</p><p>Angebot von Websites: <a href="/site/de/investe-liepaja/map/teritoriju-piedavajums/index.php">https://liepaja-sez.lv/lv/investe-liepaja/map/teritoriju-piedavajums/</a></p><p> </p><p><strong>Kontaktperson:</strong> Laura Adamoviča, Projektleiterin</p><p><strong>Telefon:</strong> (+371) 20501905</p><p><strong>E-Mail:</strong> <a href="mailto:laura.adamovica@lsez.lv">laura.adamovica@lsez.lv</a></p><br/>
 <img alt="" src="../../img/block/accordion/116/1711009171_lip.webp"/>
 </div>
 </div>
@@ -385,7 +385,7 @@ Industriepark Karosta
 </div>
 <div aria-labelledby="heading5101" class="collapse" data-parent="#accordion" id="collapse5101">
 <div class="card-body">
-<p><strong>Das Gebiet besteht aus 28 separaten Parzellen, die mit Unterstützung der Stadt Liepaja und des Europäischen Fonds für regionale Entwicklung mit für den Bau notwendigen technischen Kommunikationsmitteln ausgestattet sind.</strong></p><p><strong>Kontaktperson:</strong> Raivo Špaks, Leiter der Abteilung Unternehmensentwicklung</p><p><strong>Telefon:</strong> (+371) 29294267 </p><p><strong>E-Mail: </strong><a href="mailto:raivo.spaks@lsez.lv">raivo.spaks@lsez.lv</a></p><p> </p><figure class="table"><table><tbody><tr><td><h4><a href="../../doc/mod/file/KIP/lazaretes2a.pdf">2a Lazaretes Street</a></h4><p>Fläche m<sub><sup>2</sup></sub> 1 524</p><p>JD1 Bereich der gemischten Unternehmen und öffentlichen Einrichtungen</p></td><td> </td><td><h4><a href="../../doc/mod/file/KIP/Lazaretes4.pdf"><strong>Lazarate Street 4</strong></a></h4><p>Fläche m<sub><sup>2</sup></sub> 3 556</p><p>JD1 Bereich der gemischten Unternehmen und öffentlichen Einrichtungen</p></td></tr><tr><td><h4><a href="../../doc/mod/file/KIP/Lazaretes6.pdf">Lazarettes 6</a></h4><p>Fläche m<sub><sup>2 </sup></sub>18 231</p><p>JR √ Mischbaufläche mit Baufunktion</p></td><td> </td><td><h4><a href="../../doc/mod/file/KIP/Lazaretes9.pdf">Lazaretes Street 9</a></h4><p>Fläche m<sub><sup>2</sup></sub> 40 447</p><p>JR √ Mischbaufläche mit Baufunktion</p></td></tr><tr><td><h4><a href="../../doc/mod/file/KIP/Ligas2.pdf">Līgas iela 2</a></h4><p>Fläche m<sub><sup>2</sup></sub> 1 400</p><p>JR √ Mischbaufläche mit Baufunktion</p></td><td> </td><td><h4><a href="../../doc/mod/file/KIP/Ligas10.pdf">Līgas Street 10</a></h4><p>Fläche m<sub><sup>2</sup></sub> 2 823</p><p>JD1 Bereich der gemischten Unternehmen und öffentlichen Einrichtungen</p></td></tr><tr><td> </td><td> </td><td><h4><a href="../../doc/mod/file/KIP/Vidus3.pdf">Mid Street 3</a></h4><p>Fläche m<sub><sup>2</sup></sub> 1 522</p><p>JD1 Bereich der gemischten Unternehmen und öffentlichen Einrichtungen</p></td></tr><tr><td><h4><a href="../../doc/mod/file/KIP/Virssardzes1.pdf">General Guards Street 1</a></h4><p>Fläche m<sub><sup>2</sup></sub> 23 151</p><p>JR √ Mischbaufläche mit Baufunktion</p></td><td> </td><td><h4><a href="../../doc/mod/file/KIP/Virssardzes12.pdf">General Guards Street 12</a></h4><p>Fläche m<sub><sup>2</sup></sub> 8 939</p><p>JR √ Mischbaufläche mit Baufunktion</p></td></tr><tr><td><h4><a href="../../doc/mod/file/KIP/Zemgales1.pdf">Zemgales Street 1</a></h4><p>Fläche m<sub><sup>2</sup></sub> 9 596</p><p>JR √ Mischbaufläche mit Baufunktion</p></td><td> </td><td><h4><a href="../../doc/mod/file/KIP/Zemgales3.pdf">Zemgales Straße 3</a></h4><p>Fläche m<sub><sup>2</sup></sub> 1 358</p><p>JR √ Mischbaufläche mit Baufunktion</p></td></tr><tr><td><h4><a href="../../doc/mod/file/KIP/Zemgales5.pdf">Zemgales Straße 5</a></h4><p>Fläche m<sub><sup>2</sup></sub> 1 358</p><p>JR √ Mischbaufläche mit Baufunktion</p></td><td> </td><td><h4><a href="../../doc/mod/file/KIP/Zemgales9.pdf">Zemgales Street 9</a></h4><p>Fläche m<sub><sup>2</sup></sub> 4 201</p><p>JR √ Mischbaufläche mit Baufunktion</p></td></tr><tr><td><h4><a href="../../doc/mod/file/KIP/Zemgales15.pdf">Zemgale 15</a></h4><p>Fläche m<sub><sup>2</sup></sub> 25 048</p><p>JR √ Mischbaufläche mit Baufunktion</p></td><td> </td><td><h4><a href="../../doc/mod/file/KIP/Zemgales iela 8_12_Liepaja.pdf">Zemgales Street 8/12</a></h4><p>Fläche m<sup>2</sup> 124381</p><p>JR √ Hafenterminal und Industriegebiet (100%)</p></td></tr></tbody></table></figure><br/>
+<p><strong>Das Gebiet besteht aus 28 separaten Parzellen, die mit Unterstützung der Stadt Liepāja und des Europäischen Fonds für regionale Entwicklung mit für den Bau notwendigen technischen Kommunikationsmitteln ausgestattet sind.</strong></p><p><strong>Kontaktperson:</strong> Raivo Špaks, Leiter der Abteilung Unternehmensentwicklung</p><p><strong>Telefon:</strong> (+371) 29294267 </p><p><strong>E-Mail: </strong><a href="mailto:raivo.spaks@lsez.lv">raivo.spaks@lsez.lv</a></p><p> </p><figure class="table"><table><tbody><tr><td><h4><a href="../../doc/mod/file/KIP/lazaretes2a.pdf">2a Lazaretes Street</a></h4><p>Fläche m<sub><sup>2</sup></sub> 1 524</p><p>JD1 Bereich der gemischten Unternehmen und öffentlichen Einrichtungen</p></td><td> </td><td><h4><a href="../../doc/mod/file/KIP/Lazaretes4.pdf"><strong>Lazarate Street 4</strong></a></h4><p>Fläche m<sub><sup>2</sup></sub> 3 556</p><p>JD1 Bereich der gemischten Unternehmen und öffentlichen Einrichtungen</p></td></tr><tr><td><h4><a href="../../doc/mod/file/KIP/Lazaretes6.pdf">Lazarettes 6</a></h4><p>Fläche m<sub><sup>2 </sup></sub>18 231</p><p>JR √ Mischbaufläche mit Baufunktion</p></td><td> </td><td><h4><a href="../../doc/mod/file/KIP/Lazaretes9.pdf">Lazaretes Street 9</a></h4><p>Fläche m<sub><sup>2</sup></sub> 40 447</p><p>JR √ Mischbaufläche mit Baufunktion</p></td></tr><tr><td><h4><a href="../../doc/mod/file/KIP/Ligas2.pdf">Līgas iela 2</a></h4><p>Fläche m<sub><sup>2</sup></sub> 1 400</p><p>JR √ Mischbaufläche mit Baufunktion</p></td><td> </td><td><h4><a href="../../doc/mod/file/KIP/Ligas10.pdf">Līgas Street 10</a></h4><p>Fläche m<sub><sup>2</sup></sub> 2 823</p><p>JD1 Bereich der gemischten Unternehmen und öffentlichen Einrichtungen</p></td></tr><tr><td> </td><td> </td><td><h4><a href="../../doc/mod/file/KIP/Vidus3.pdf">Mid Street 3</a></h4><p>Fläche m<sub><sup>2</sup></sub> 1 522</p><p>JD1 Bereich der gemischten Unternehmen und öffentlichen Einrichtungen</p></td></tr><tr><td><h4><a href="../../doc/mod/file/KIP/Virssardzes1.pdf">General Guards Street 1</a></h4><p>Fläche m<sub><sup>2</sup></sub> 23 151</p><p>JR √ Mischbaufläche mit Baufunktion</p></td><td> </td><td><h4><a href="../../doc/mod/file/KIP/Virssardzes12.pdf">General Guards Street 12</a></h4><p>Fläche m<sub><sup>2</sup></sub> 8 939</p><p>JR √ Mischbaufläche mit Baufunktion</p></td></tr><tr><td><h4><a href="../../doc/mod/file/KIP/Zemgales1.pdf">Zemgales Street 1</a></h4><p>Fläche m<sub><sup>2</sup></sub> 9 596</p><p>JR √ Mischbaufläche mit Baufunktion</p></td><td> </td><td><h4><a href="../../doc/mod/file/KIP/Zemgales3.pdf">Zemgales Straße 3</a></h4><p>Fläche m<sub><sup>2</sup></sub> 1 358</p><p>JR √ Mischbaufläche mit Baufunktion</p></td></tr><tr><td><h4><a href="../../doc/mod/file/KIP/Zemgales5.pdf">Zemgales Straße 5</a></h4><p>Fläche m<sub><sup>2</sup></sub> 1 358</p><p>JR √ Mischbaufläche mit Baufunktion</p></td><td> </td><td><h4><a href="../../doc/mod/file/KIP/Zemgales9.pdf">Zemgales Street 9</a></h4><p>Fläche m<sub><sup>2</sup></sub> 4 201</p><p>JR √ Mischbaufläche mit Baufunktion</p></td></tr><tr><td><h4><a href="../../doc/mod/file/KIP/Zemgales15.pdf">Zemgale 15</a></h4><p>Fläche m<sub><sup>2</sup></sub> 25 048</p><p>JR √ Mischbaufläche mit Baufunktion</p></td><td> </td><td><h4><a href="../../doc/mod/file/KIP/Zemgales iela 8_12_Liepaja.pdf">Zemgales Street 8/12</a></h4><p>Fläche m<sup>2</sup> 124381</p><p>JR √ Hafenterminal und Industriegebiet (100%)</p></td></tr></tbody></table></figure><br/>
 <img alt="" src="../../img/block/accordion/119/1711008789_kip-1.webp"/>
 </div>
 </div>
@@ -402,7 +402,7 @@ Industriepark der Meldru Straße
 </div>
 <div aria-labelledby="heading5102" class="collapse" data-parent="#accordion" id="collapse5102">
 <div class="card-body">
-<p><strong>Das Entwicklungsgebiet der Meldru Straße ist eine Alternative zu den Industriegebieten in der Stadt. Das Gebiet befindet sich in unmittelbarer Nähe der Brivibas Straße und bietet somit bequemen Zugang zu den Autobahnen A9 und Liepaja Hafen für Unternehmen, die auf dem Territorium ohne Überquerung von Wohngebieten arbeiten.</strong></p><p>Das Gebiet besteht aus drei getrennten Parzellen, die mit Unterstützung des Stadtrats von Liepaja und des Europäischen Fonds für regionale Entwicklung mit für den Bau notwendigen technischen Kommunikationsmitteln ausgestattet sind.</p><p> </p><p><strong>Kontaktperson:</strong> Raivo Špaks, Leiter der Abteilung Unternehmensentwicklung</p><p><strong>Telefon: </strong>(+371) 29294267 </p><p><strong>E-Mail: </strong><a href="mailto:raivo.spaks@lsez.lv" target="_blank">raivo.spaks@lsez.lv</a></p><br/>
+<p><strong>Das Entwicklungsgebiet der Meldru Straße ist eine Alternative zu den Industriegebieten in der Stadt. Das Gebiet befindet sich in unmittelbarer Nähe der Brivibas Straße und bietet somit bequemen Zugang zu den Autobahnen A9 und Liepāja Hafen für Unternehmen, die auf dem Territorium ohne Überquerung von Wohngebieten arbeiten.</strong></p><p>Das Gebiet besteht aus drei getrennten Parzellen, die mit Unterstützung des Stadtrats von Liepāja und des Europäischen Fonds für regionale Entwicklung mit für den Bau notwendigen technischen Kommunikationsmitteln ausgestattet sind.</p><p> </p><p><strong>Kontaktperson:</strong> Raivo Špaks, Leiter der Abteilung Unternehmensentwicklung</p><p><strong>Telefon: </strong>(+371) 29294267 </p><p><strong>E-Mail: </strong><a href="mailto:raivo.spaks@lsez.lv" target="_blank">raivo.spaks@lsez.lv</a></p><br/>
 <img alt="" src="../../img/block/accordion/122/1711009563_meldru.webp"/>
 </div>
 </div>
@@ -419,7 +419,7 @@ Business Park des Alten Ostmals
 </div>
 <div aria-labelledby="heading5103" class="collapse" data-parent="#accordion" id="collapse5103">
 <div class="card-body">
-<p><strong>LSEZ Ltd. ist Eigentümer, Entwickler und Manager des Industrieparks an einem strategisch vorteilhaften Standort in Liepaja, der energieeffiziente und funktionale Produktion, Lager- und Büroflächen bietet, angepasst an die Bedürfnisse von lokalen und ausländischen Investoren, helfen zu starten, zu erweitern oder zu bewegen Geschäft.</strong></p><p>Unser Business Park bietet hervorragende Reichweite, organisierte und entwickelte Infrastruktur, Anpassung der Räumlichkeiten an spezifische Geschäftsanforderungen und Energieeffizienz, die die Betriebskosten senken und einen nachhaltigen Betrieb gewährleisten.</p><p><strong>Adresse: </strong>Old Ostmala 10, Liepaja, LV-3401, Lettland</p><p><strong>Telefon: </strong>(+371) 26665152</p><p><strong>E-Mail: </strong><a href="mailto:inese.kurvina@vobp.lv"><strong>inese.kurvina@vobp.lv</strong></a></p><p><a href="http://www.vobp.lv/" target="_blank"><strong>www.vobp.lv</strong></a></p><br/>
+<p><strong>LSEZ Ltd. ist Eigentümer, Entwickler und Manager des Industrieparks an einem strategisch vorteilhaften Standort in Liepāja, der energieeffiziente und funktionale Produktion, Lager- und Büroflächen bietet, angepasst an die Bedürfnisse von lokalen und ausländischen Investoren, helfen zu starten, zu erweitern oder zu bewegen Geschäft.</strong></p><p>Unser Business Park bietet hervorragende Reichweite, organisierte und entwickelte Infrastruktur, Anpassung der Räumlichkeiten an spezifische Geschäftsanforderungen und Energieeffizienz, die die Betriebskosten senken und einen nachhaltigen Betrieb gewährleisten.</p><p><strong>Adresse: </strong>Old Ostmala 10, Liepāja, LV-3401, Lettland</p><p><strong>Telefon: </strong>(+371) 26665152</p><p><strong>E-Mail: </strong><a href="mailto:inese.kurvina@vobp.lv"><strong>inese.kurvina@vobp.lv</strong></a></p><p><a href="http://www.vobp.lv/" target="_blank"><strong>www.vobp.lv</strong></a></p><br/>
 <img alt="" src="../../img/block/accordion/118/1730791905_VOBP_LSEZ_21.10.2024..webp"/>
 </div>
 </div>
@@ -436,7 +436,7 @@ Northside Business Park
 </div>
 <div aria-labelledby="heading5104" class="collapse" data-parent="#accordion" id="collapse5104">
 <div class="card-body">
-<p><strong>LSEZ Ltd. ist Eigentümer, Entwickler und Manager des Industrieparks in Liepaja. Die Gesamtfläche des Gewerbeparks beträgt 10 ha, es beherbergt 33 Gebäude mit Produktion, Lager, Service, Büro und Handel braucht 42 Tausend m2.</strong></p><p>Das Potenzial des Standortes, der Geschichte, der Nähe zum Hafen und die bisher erfolgreiche Erfahrung der Unternehmensgruppe stellen eine Reihe von einzigartigen Vorteilen dar, die das Vertrauen in die Schaffung eines modernen, nachhaltigen und multifunktionalen Geschäftsviertels begeistern und schaffen.</p><p> </p><p><strong>Adresse:</strong> Flotes iela 16, Liepaja, LV-3405, Lettland<br/><strong>Telefon:</strong> (+371) 26665152<br/><strong>E-Mail:</strong> <a href="mailto:inese.kurvina@nsbp.lv"><strong>inese.kurvina@nsbp.lv</strong></a> <br/><a href="www.nsbp.lv"><strong>www.nsbp.lv</strong></a></p><br/>
+<p><strong>LSEZ Ltd. ist Eigentümer, Entwickler und Manager des Industrieparks in Liepāja. Gesamtfläche des Gewerbeparks 10 ha, es befindet sich 33 Gebäude für die industrielle, Lager-, Service-, Büro- und kommerzielle Nutzung 42 Fläche.</strong></p><p>Das Potenzial des Standortes, der Geschichte, der Nähe zum Hafen und die bisher erfolgreiche Erfahrung der Unternehmensgruppe stellen eine Reihe von einzigartigen Vorteilen dar, die das Vertrauen in die Schaffung eines modernen, nachhaltigen und multifunktionalen Geschäftsviertels begeistern und schaffen.</p><p> </p><p><strong>Adresse:</strong> Flotes iela 16, Liepāja, LV-3405, Lettland<br/><strong>Telefon:</strong> (+371) 26665152<br/><strong>E-Mail:</strong> <a href="mailto:inese.kurvina@nsbp.lv"><strong>inese.kurvina@nsbp.lv</strong></a> <br/><a href="www.nsbp.lv"><strong>www.nsbp.lv</strong></a></p><br/>
 <img alt="" src="../../img/block/accordion/127/1711009040_north.webp"/>
 </div>
 </div>
@@ -446,14 +446,14 @@ Northside Business Park
 <h5 class="mb-0">
 <button aria-controls="collapse5105" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse5105" data-bs-toggle="collapse">
 
-Geschäftszentrum Liepaja
+Geschäftszentrum Liepāja
 
 </button>
 </h5>
 </div>
 <div aria-labelledby="heading5105" class="collapse" data-parent="#accordion" id="collapse5105">
 <div class="card-body">
-<p><strong>Eigentümer des Geschäftszentrums Liepaja ist die LSEZ Ltd. Pumac Liepaja und bietet Verwaltung des Parks, Wartung der Infrastruktur, Entwicklung und Zusammenarbeit mit Mietern.</strong></p><p> </p><p><strong>Adresse: </strong>Kapsēdes iela 2, Liepaja, LV-3414, Lettland</p><p><strong>Telefon: </strong>(+371) 28308642</p><p><strong>E-Mail: </strong><a href="mailto:llivars@liepajabc.lv">livars@liepajabc.lv</a></p><p> </p><br/>
+<p><strong>Eigentümer des Geschäftszentrums Liepāja ist die LSEZ Ltd. Pumac Liepāja und bietet Verwaltung des Parks, Wartung der Infrastruktur, Entwicklung und Zusammenarbeit mit Mietern.</strong></p><p> </p><p><strong>Adresse: </strong>Kapsēdes iela 2, Liepāja, LV-3414, Lettland</p><p><strong>Telefon: </strong>(+371) 28308642</p><p><strong>E-Mail: </strong><a href="mailto:llivars@liepajabc.lv">livars@liepajabc.lv</a></p><p> </p><br/>
 <img alt="" src="../../img/block/accordion/120/1711009245_lbc.webp"/>
 </div>
 </div>
@@ -470,7 +470,7 @@ Lauma
 </div>
 <div aria-labelledby="heading5106" class="collapse" data-parent="#accordion" id="collapse5106">
 <div class="card-body">
-<p><strong>LSEZ "Lauma Fabrics" Ltd. ist ein auf die Textilproduktion spezialisiertes Unternehmen. Der größte Vorteil des Unternehmens ist die Fähigkeit, komplette Materialien in einem einzigen Farbbereich herzustellen. </strong></p><p> </p><p><strong>Adresse: </strong>Ziemeļu iela 19, Liepaja, LV-3405, Lettland</p><p><strong>Telefon: </strong>(+371) 63447302</p><p><strong>Zimmermiete: </strong>(+371) 25458807</p><p><strong>E-Mail: </strong><a href="mailto:fabrics@laumafabrics.com">fabrics@laumafabrics.com</a></p><p><a href="http://www.laumafabrics.com/" target="_blank">www.laumafabrics.com</a></p><br/>
+<p><strong>LSEZ "Lauma Fabrics" Ltd. ist ein auf die Textilproduktion spezialisiertes Unternehmen. Der größte Vorteil des Unternehmens ist die Fähigkeit, komplette Materialien in einem einzigen Farbbereich herzustellen. </strong></p><p> </p><p><strong>Adresse: </strong>Ziemeļu iela 19, Liepāja, LV-3405, Lettland</p><p><strong>Telefon: </strong>(+371) 63447302</p><p><strong>Zimmermiete: </strong>(+371) 25458807</p><p><strong>E-Mail: </strong><a href="mailto:fabrics@laumafabrics.com">fabrics@laumafabrics.com</a></p><p><a href="http://www.laumafabrics.com/" target="_blank">www.laumafabrics.com</a></p><br/>
 <img alt="" src="../../img/block/accordion/121/1711009365_lauma.webp"/>
 </div>
 </div>
@@ -515,7 +515,7 @@ Lauma
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/investe-liepaja/index.php"><img alt="Nach oben" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

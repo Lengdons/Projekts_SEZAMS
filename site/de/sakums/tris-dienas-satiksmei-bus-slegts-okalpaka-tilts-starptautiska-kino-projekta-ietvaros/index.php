@@ -8,7 +8,7 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="https://liepaja-sez.lv//img/mod/news/326/1792137601_75_10.16.2026._kino_kalpaka_tilts.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/sakums/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros" property="og:url"/>
-<meta content="Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke" property="og:title"/>
+<meta content="Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
@@ -47,18 +47,18 @@ html.classList.add(localStorage['contrast']);
 <span>E-Mail: <a href="mailto:liga.ratniece-kadege@lsez.lv" target="_blank">liga.ratniece-kadege@lsez.lv</a></span>
 </div>
 <div class="col-12 col-md-9 mt-md-5">
-<span class="date d-block mt-md-5">16. 22. Oktober 2026</span>
-<h1 class="article-title">Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h1>
+<span class="date d-block mt-md-5">16. Oktober 2026</span>
+<h1 class="article-title">Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</p><p>Dreharbeiten auf der O.Kalpaka-Brücke finden ab 19 statt. vom 1. Januar bis 31. Dezember Oktober. Während dieser Zeit laden wir Fahrer, Radfahrer und Fußgänger ein, ihre Reise nach und von Karosta rechtzeitig zu planen und auf mögliche zusätzliche Zeit auf der Straße zu zählen. In Zusammenarbeit mit der Gemeinde wird auf der zu befahrenden Strecke ein besonderer Busverkehr angeboten. Informationen über diesen Service werden an beiden Enden der Brücke. Der öffentliche Verkehr wird wiederum entlang der zu befahrenden Strecken geleitet. </p><p>Schließung der Kalpaka Brücke für Fußgänger und Fahrzeuge:</p><ul><li>ab 2026 19. Mai Oktober um 12 Uhr. Von 08.00 bis 21. Oktober um 12 Uhr. 15.00 Uhr</li></ul><p>Auch der Zugang zu dem Gebiet in der Nähe von O.Kalpaka Brücke und der südlichen Seite des Karosta Canal Stegs wird für die Drehzeit begrenzt sein.</p><p>Das Treffen der Schiffe auf dem Karosta-Kanal wird für die Zeit des Drehens begrenzt sein. Liepaja SEZ Authority dankt Liepaja Port stevedore-Unternehmen, die das wichtige Projekt der Filmindustrie unterstützen und ihre Arbeiten so weit wie möglich neu programmieren. Im Kanal Karosta sind fünf Hafenterminals aktiv, nämlich das Ostseeumschlagzentrum, die Schwenk, das LNG-Terminal, der Norsaf, die Baltex Bulk und LZK, die in Tosmare-Docks aktiv Schiffsreparaturen fortsetzen.</p><p>Es ist wichtig, dass die Oskars Kalpaka Brücke als eine der zentralen Schießstandorte in diesem Projekt ausgewählt wurde und dabei Liepaja besondere internationale Aufmerksamkeit schenkt. Der Film wird Millionen von Zuschauern in verschiedenen Ländern erreichen und zu einer mächtigen Plattform für die Sichtbarkeit der Stadt werden.</p><p>Die erfolgreiche Umsetzung dieses Skalierungsprojekts stärkt Liepajas Ruf als international offenes, professionelles und komplexes Projekt für eine leistungsfähige Hafenstadt. Dies erhöht die Chancen, in Zukunft neue Projekte der Film-, Kunst- und Kreativindustrie anzulocken und schafft langfristige wirtschaftliche und reputative Vorteile sowohl für die Stadt als auch die Region.</p></div>
+<div class="col"><div class="col-12 output"><p>Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</p><p>Filmen auf O.Kalpaka Bridge wird stattfinden von 19. bis 21. Oktober. Während dieser Zeit laden wir Fahrer, Radfahrer und Fußgänger ein, ihre Reise nach und von Karosta rechtzeitig zu planen und auf mögliche zusätzliche Zeit auf der Straße zu zählen. In Zusammenarbeit mit der Gemeinde wird auf der zu befahrenden Strecke ein besonderer Busverkehr angeboten. Informationen über diesen Service werden an beiden Enden der Brücke. Der öffentliche Verkehr wird wiederum entlang der zu befahrenden Strecken geleitet. </p><p>Schließung der Kalpaka Brücke für Fußgänger und Fahrzeuge:</p><ul><li>von 19. Oktober 2026 Uhr 08.00 bis 21. Oktober um Uhr. 22.00</li></ul><p>Auch der Zugang zu dem Gebiet in der Nähe von O.Kalpaka Brücke und der südlichen Seite des Karosta Canal Stegs wird für die Drehzeit begrenzt sein.</p><p>Das Treffen der Schiffe auf dem Karosta-Kanal wird für die Zeit des Drehens begrenzt sein. Liepāja SEZ Authority dankt Liepāja Port stevedore-Unternehmen, die das wichtige Projekt der Filmindustrie unterstützen und ihre Arbeiten so weit wie möglich neu programmieren. Im Kanal Karosta sind fünf Hafenterminals aktiv, nämlich das Ostseeumschlagzentrum, die Schwenk, das LNG-Terminal, der Norsaf, die Baltex Bulk und LZK, die in Tosmare-Docks aktiv Schiffsreparaturen fortsetzen.</p><p>Es ist wichtig, dass die Oskars Kalpaka Brücke als eine der zentralen Schießstandorte in diesem Projekt ausgewählt wurde und dabei Liepāja besondere internationale Aufmerksamkeit schenkt. Der Film wird Millionen von Zuschauern in verschiedenen Ländern erreichen und zu einer mächtigen Plattform für die Sichtbarkeit der Stadt werden.</p><p>Die erfolgreiche Umsetzung dieses Skalierungsprojekts stärkt Liepajas Ruf als international offenes, professionelles und komplexes Projekt für eine leistungsfähige Hafenstadt. Dies erhöht die Chancen, in Zukunft neue Projekte der Film-, Kunst- und Kreativindustrie anzulocken und schafft langfristige wirtschaftliche und reputative Vorteile sowohl für die Stadt als auch die Region.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="../../../img/mod/news/326/870_1792137601_75_10.16.2026._kino_kalpaka_tilts.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="../../../img/mod/news/326/original_1792137601_75_10.16.2026._kino_kalpaka_tilts.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="../../../img/mod/news/326/original_1792137601_75_10.16.2026._kino_kalpaka_tilts.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="../izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/sakums/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/sakums/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">29.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Der Bau des Industrieparks Liepaja setzt sich fort mit der Rehabilitierung des Territoriums</h4>
-<a class="d-none d-md-block my-4" href="../ar-teritorijas-sanaciju-turpina-liepajas-industriala-parka-izbuvi/index.php">Weiterlesen</a>
+<h4>Der Ausbau des Industrieparks Liepāja wird mit der Sanierung des Geländes fortgesetzt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/sakums/ar-teritorijas-sanaciju-turpina-liepajas-industriala-parka-izbuvi/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">Liepaja SEZ Authority setzt die Transformation des Territoriums der ehemaligen Fabrik Liepaja metallurgs fort, um Projekt Entwicklung von Liepaja Industrial Park Gebiet 2. Schritt 2 Im Rahmen des Projekts wird ein historisch verschmutztes Industriegebiet eingerichtet und renoviert, das moderne Infrastruktur für Unternehmen aufbaut. Das Projekt wird im Rahmen des Kohäsionspolitikprogramms der Europäischen Union 2021-2027 durchgeführt. Förderung des Übergangs zu einer klimaneutralen Wirtschaft und Eindämmung der sozioökonomischen Folgen dieses Übergangs in der Region Kurzeme.</div>
+<div class="col-12 col-md-8 col-lg-9">Liepāja SEZ Authority setzt Umwandlung des Territoriums der ehemaligen Fabrik Liepāja metallurgs, Durchführung Projekt Liepāja Industriepark Gebiet Entwicklung 2. Schritt Im Rahmen des Projekts wird ein historisch verschmutztes Industriegebiet eingerichtet und renoviert, das moderne Infrastruktur für Unternehmen aufbaut. Das Projekt wird von den Programmen der Kohäsionspolitik der Europäischen Union durchgeführt. 2021.-2027. Förderung des Übergangs zu einer klimaneutralen Wirtschaft und Eindämmung der sozioökonomischen Folgen dieses Übergangs in der Region Kurzeme.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../ar-teritorijas-sanaciju-turpina-liepajas-industriala-parka-izbuvi/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/sakums/ar-teritorijas-sanaciju-turpina-liepajas-industriala-parka-izbuvi/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -108,7 +108,7 @@ html.classList.add(localStorage['contrast']);
 <div class="prev">
 </div>
 <div class="next">
-<a aria-label="Weiter" class="next related-pagination" data-page="2" href="index.php">
+<a aria-label="Weiter" class="next related-pagination" data-page="2" href="/site/de/sakums/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">
 
 Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 </a>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/sakums/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

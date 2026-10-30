@@ -8,7 +8,7 @@
 <link href="../../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="page" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/teritoriju-karte/map/liepajas-biznesa-centrs" property="og:url"/>
-<meta content="Geschäftszentrum Liepaja" property="og:title"/>
+<meta content="Geschäftszentrum Liepāja" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
@@ -38,10 +38,10 @@ html.classList.add(localStorage['contrast']);
 <div class="container mod_map my-5">
 <div class="row">
 <div class="col-12 pt-5">
-<h2 class="map-title mb-5">Geschäftszentrum Liepaja</h2>
+<h2 class="map-title mb-5">Geschäftszentrum Liepāja</h2>
 </div>
 <div class="col-12 nocontrast">
-<span id="map-block"><img id="img" src="../../../../img/mod/map/21/1709027980_Kartes_1920x1320_6_liep_biznesa_centrs.webp"/><a class="map-popover" data-bs-target="#modal73" data-bs-toggle="modal" href="index.php" style="left:44.173913043478265%;top:48.040455120101136%;">
+<span id="map-block"><img id="img" src="../../../../img/mod/map/21/1709027980_Kartes_1920x1320_6_liep_biznesa_centrs.webp"/><a class="map-popover" data-bs-target="#modal73" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/liepajas-biznesa-centrs/index.php" style="left:44.173913043478265%;top:48.040455120101136%;">
 <img src="../../../../img/mod/map/icons/3.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel73" class="modal fade" id="modal73" tabindex="-1">
@@ -52,11 +52,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Hersteller der Räder für landwirtschaftliche Maschinen.</p><p><strong>Adresse:</strong> Kapsēdes iela 2, Liepaja, LV-3414, Lettland</p><p><strong>Telefon:</strong> (+371) 66906884</p>
+<p>Hersteller der Räder für landwirtschaftliche Maschinen.</p><p><strong>Adresse:</strong> Kapsēdes iela 2, Liepāja, LV-3414, Lettland</p><p><strong>Telefon:</strong> (+371) 66906884</p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal74" data-bs-toggle="modal" href="index.php" style="left:59.998176347223485%;top:47.59139802051601%;">
+</div><a class="map-popover" data-bs-target="#modal74" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/liepajas-biznesa-centrs/index.php" style="left:59.998176347223485%;top:47.59139802051601%;">
 <img src="../../../../img/mod/map/icons/3.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel74" class="modal fade" id="modal74" tabindex="-1">
@@ -67,11 +67,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>numerisch gesteuerte Werkzeugmaschinen (CNC) zum Bearbeiten von Metallen </p><p><strong>Adresse:</strong> Kapsēdes iela 2, Liepaja, LV-3414, Lettland.</p><p><strong>Telefon:</strong> (+371) 63484407</p>
+<p>numerisch gesteuerte Werkzeugmaschinen (CNC) zum Bearbeiten von Metallen </p><p><strong>Adresse:</strong> Kapsēdes iela 2, Liepāja, LV-3414, Lettland.</p><p><strong>Telefon:</strong> (+371) 63484407</p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal75" data-bs-toggle="modal" href="index.php" style="left:62.36892495668825%;top:41.2282027420069%;">
+</div><a class="map-popover" data-bs-target="#modal75" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/liepajas-biznesa-centrs/index.php" style="left:62.36892495668825%;top:41.2282027420069%;">
 <img src="../../../../img/mod/map/icons/3.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel75" class="modal fade" id="modal75" tabindex="-1">
@@ -82,11 +82,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Ein Hersteller verschiedener Typen von Metallkomponenten für die Automobilindustrie, Möbel und Elektrotechnik.</p><p><strong>Adresse:</strong> Kapsēdes iela 2, Liepaja, LV-3414, Lettland.</p><p><strong>Telefon: </strong>(+371) 63 433 000</p>
+<p>Ein Hersteller verschiedener Typen von Metallkomponenten für die Automobilindustrie, Möbel und Elektrotechnik.</p><p><strong>Adresse:</strong> Kapsēdes iela 2, Liepāja, LV-3414, Lettland.</p><p><strong>Telefon: </strong>(+371) 63 433 000</p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal86" data-bs-toggle="modal" href="index.php" style="left:47.50615482812072%;top:32.611375802359156%;">
+</div><a class="map-popover" data-bs-target="#modal86" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/liepajas-biznesa-centrs/index.php" style="left:47.50615482812072%;top:32.611375802359156%;">
 <img src="../../../../img/mod/map/icons/3.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel86" class="modal fade" id="modal86" tabindex="-1">
@@ -97,11 +97,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Schweißen von Metall- und Kunststoffteilen.</p><p><strong>Adresse:</strong> Kapsēdes iela 2, Liepaja, LV-3414, Lettland.</p><p><strong>Telefon:</strong> (+371) 27783773</p><p><strong>E-Mail:</strong> <a href="mailto:sales@lpsp.lv">sales@lpsp.lv</a></p>
+<p>Schweißen von Metall- und Kunststoffteilen.</p><p><strong>Adresse:</strong> Kapsēdes iela 2, Liepāja, LV-3414, Lettland.</p><p><strong>Telefon:</strong> (+371) 27783773</p><p><strong>E-Mail:</strong> <a href="mailto:sales@lpsp.lv">sales@lpsp.lv</a></p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal87" data-bs-toggle="modal" href="index.php" style="left:51.35862131850095%;top:34.1458334258969%;">
+</div><a class="map-popover" data-bs-target="#modal87" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/liepajas-biznesa-centrs/index.php" style="left:51.35862131850095%;top:34.1458334258969%;">
 <img src="../../../../img/mod/map/icons/3.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel87" class="modal fade" id="modal87" tabindex="-1">
@@ -112,11 +112,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Herstellung von Bauteilen aus Kunststoff.</p><p><strong>Adresse:</strong> Kapsēdes iela 2, Liepaja, LV-3414, Lettland. </p>
+<p>Herstellung von Bauteilen aus Kunststoff.</p><p><strong>Adresse:</strong> Kapsēdes iela 2, Liepāja, LV-3414, Lettland. </p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal88" data-bs-toggle="modal" href="index.php" style="left:38.31950396644479%;top:35.60406567722191%;">
+</div><a class="map-popover" data-bs-target="#modal88" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/liepajas-biznesa-centrs/index.php" style="left:38.31950396644479%;top:35.60406567722191%;">
 <img src="../../../../img/mod/map/icons/3.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel88" class="modal fade" id="modal88" tabindex="-1">
@@ -131,7 +131,7 @@ html.classList.add(localStorage['contrast']);
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal89" data-bs-toggle="modal" href="index.php" style="left:42.30874441506337%;top:32.47880923405688%;">
+</div><a class="map-popover" data-bs-target="#modal89" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/liepajas-biznesa-centrs/index.php" style="left:42.30874441506337%;top:32.47880923405688%;">
 <img src="../../../../img/mod/map/icons/3.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel89" class="modal fade" id="modal89" tabindex="-1">
@@ -142,11 +142,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Herstellung von Metalltüren und Fenstern.</p><p><strong>Adresse: </strong>Kapsēdes iela 2, Liepaja, LV-3414, Lettland</p><p><strong>Zeile:</strong> (+371) 20420666</p><p><strong>E-Mail:</strong> <a href="mailto:info@finestrasolution.com">info@finestrasolution.com</a></p>
+<p>Herstellung von Metalltüren und Fenstern.</p><p><strong>Adresse: </strong>Kapsēdes iela 2, Liepāja, LV-3414, Lettland</p><p><strong>Zeile:</strong> (+371) 20420666</p><p><strong>E-Mail:</strong> <a href="mailto:info@finestrasolution.com">info@finestrasolution.com</a></p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal90" data-bs-toggle="modal" href="index.php" style="left:55.82657062095377%;top:47.26992368782193%;">
+</div><a class="map-popover" data-bs-target="#modal90" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/liepajas-biznesa-centrs/index.php" style="left:55.82657062095377%;top:47.26992368782193%;">
 <img src="../../../../img/mod/map/icons/3.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel90" class="modal fade" id="modal90" tabindex="-1">
@@ -157,7 +157,7 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Herstellung von Kunststoffwaren.</p><p><strong>Adresse: </strong>Kapsēdes iela 2, Liepaja, LV-3414, Lettland</p>
+<p>Herstellung von Kunststoffwaren.</p><p><strong>Adresse: </strong>Kapsēdes iela 2, Liepāja, LV-3414, Lettland</p>
 </div>
 </div>
 </div>
@@ -175,7 +175,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 paginator mt-5"><div>
 <a aria-label="Zurück" class="back map-pagination" onclick="history.back()">
 
-Rückgabe <img alt="Rückgabe" src="../../../../img/round-right-blue.svg"/>
+Zurück <img alt="Zurück" src="../../../../img/round-right-blue.svg"/>
 </a>
 </div>
 </div>
@@ -206,7 +206,7 @@ Rückgabe <img alt="Rückgabe" src="../../../../img/round-right-blue.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/teritoriju-karte/map/liepajas-biznesa-centrs/index.php"><img alt="Nach oben" class="img-fluid" src="../../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

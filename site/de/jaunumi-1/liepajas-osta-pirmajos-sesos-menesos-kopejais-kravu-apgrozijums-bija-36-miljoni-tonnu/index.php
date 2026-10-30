@@ -6,13 +6,13 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
-<meta content="Hafen von Liepaja " name="keywords"/><meta content="follow, index" name="robots"/><meta content="https://lsez.it-lideris.lv//img/mod/news/36/1702379851_govorova-terminals-8.webp" property="og:image"/><meta content="article" property="og:type"/>
+<meta content="Hafen von Liepāja " name="keywords"/><meta content="follow, index" name="robots"/><meta content="https://lsez.it-lideris.lv//img/mod/news/36/1702379851_govorova-terminals-8.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/medijiem/liepajas-osta-pirmajos-sesos-menesos-kopejais-kravu-apgrozijums-bija-36-miljoni-tonnu" property="og:url"/>
-<meta content="In den erst sechs Monaten von dem Hafen von Liepaja betrug der Gesamtumsatz von der Ladung 3,6 million von den Tonnen" property="og:title"/>
+<meta content="In den erst sechs Monaten von dem Hafen von Liepāja betrug der Gesamtumsatz von der Ladung 3,6 million von den Tonnen" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Der gesamte Frachtumschlag in den erst sechs Monaten von dem Hafen von Liepaja war 3,6 million von Tonnen</title>
+<title>Der gesamte Frachtumschlag in den erst sechs Monaten von dem Hafen von Liepāja war 3,6 million von Tonnen</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
@@ -47,18 +47,18 @@ html.classList.add(localStorage['contrast']);
 <span>E-Mail: <a href="mailto:liga.ratniece-kadege@lsez.lv" target="_blank">liga.ratniece-kadege@lsez.lv</a></span>
 </div>
 <div class="col-12 col-md-9 mt-md-5">
-<span class="date d-block mt-md-5">12. 22. Dezember 2023</span>
-<h1 class="article-title">In den erst sechs Monaten von dem Hafen von Liepaja betrug der Gesamtumsatz von der Ladung 3,6 million von den Tonnen</h1>
+<span class="date d-block mt-md-5">12. Dezember 2023</span>
+<h1 class="article-title">In den erst sechs Monaten von dem Hafen von Liepāja betrug der Gesamtumsatz von der Ladung 3,6 million von den Tonnen</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Im Hafen von Liepaja steigt der Frachtumschlag in den Chips, die um 7.7% zugenommen hat, das stabile Volumen von Ro-Ro-Lager bleibt. Entrepreneurs bereiten sich auch aktiv auf eine neue Getreidesaison vor, die erste Getreidefracht wurde bereits im Juli genommen, während in den ersten sechs Monaten der gesamte Frachtumschlag im Hafen von Liepaja 3,6 Millionen Tonnen betrug.</p><p>Sowohl Liepaja als auch andere lettische Häfen werden durch geopolitische Lage, Veränderungen in Logistikrichtungen und Frachttypen beeinflusst. Der Transport- und Logistiksektor arbeitet aktiv daran, neue Ladungen anzuziehen und zu ihrem Wachstum beizutragen, indem alternative logistische Korridore entwickelt werden, darunter eine Vielzahl von Nischenprodukten, insbesondere mit hohem Mehrwert wie Container und Ro-Ro Fracht. Sie strebt auch neue Investitionen zur Entwicklung der Produktion in Hafengebieten an und zieht sie an.</p><p>Nach Angaben des Verkehrsministeriums 2023. Im ersten Halbjahr ging das gesamte Frachtvolumen zurück, während der Umsatz in mehreren Frachtsegmenten in den lettischen Häfen sowie im Inlandseisenbahnverkehr steigt. Hafen- und Eisenbahnfrachtumsätze sind nach wie vor von der aktuellen geopolitischen Situation und Entscheidung geprägt, die Anfang des Jahres getroffen wurde, als Sanktionen gegen russische Ölprodukte in Kraft traten.</p><p>Unter Berücksichtigung der Auswirkungen der geopolitischen Lage, 2023. In der ersten Jahreshälfte im Vergleich zum gleichen Zeitraum des Vorjahres ging das gesamte Frachtvolumen in den lettischen Häfen um 14,2% oder 3,4 Millionen Tonnen zurück. Die Veränderungen des Frachtumschlags werden hauptsächlich durch die sinkende Nachfrage nach Kohlefrachten beeinflusst, während infolge der Sanktionen auch der Umsatz mit Mineralölerzeugnissen zurückgegangen ist. Gleichzeitig steigt der Getreidefrachtumsatz in großen Häfen um 7,4% und das Gesamtwachstum des Frachtumschlags in kleinen Häfen Lettlands in Skulte, Salacgrīva, Mērsrags und Roja, wo das Frachtvolumen um 17,4% gestiegen ist.</p><p>Im ersten Halbjahr dieses Jahres stieg der Getreidefrachtumsatz um 20%, während die Kohle- und Mineralölgüterladung zurückgingen. Insgesamt wurden in diesem Zeitraum 9,6 Millionen Tonnen Fracht abgewickelt.</p><p>In der gleichen Periode im Hafen Ventspils wurden 5,7 Millionen Tonnen Fracht abgewickelt. Der gesamte Frachtumschlag wurde durch den Rückgang der Menge an Kohle, Erdölerzeugnissen und Ro-Ro-Lagern beeinträchtigt. Trotz des insgesamt sinkenden Frachtumschlags hat das Erzfrachtvolumen im Hafen mehr als viermal so stark zugenommen, um 3,6% Holzumsätze und das Zehnfache des Umsatzes von Baustoffen.</p><p>Ähnlich wie bei den Häfen wird der Schienengüterverkehr von geopolitischer Situation beeinflusst, und der Gesamtumsatz im Frachtverkehr in den ersten sechs Monaten des Jahres ging gegenüber dem gleichen Zeitraum des Vorjahres um 36,7% zurück. Der Rückgang des Güterverkehrs war vor allem durch den Rückgang der Kohle-, Dünger-, Holz- und Öl Produktgruppen betroffen. Der Getreidefrachtumsatz hat sich wiederum um 18,3% erhöht.</p><p>Die Wachstumstendenzen sind im Inlandsgüterverkehr zu beobachten, der in der ersten Jahreshälfte um 10% gestiegen ist und im Segment Eisenmetallfracht sogar 67% betrug.</p></div>
+<div class="col"><div class="col-12 output"><p>Im Hafen von Liepāja steigt der Frachtumschlag in den Chips, die um 7.7% zugenommen hat, das stabile Volumen von Ro-Ro-Lager bleibt. Entrepreneurs bereiten sich auch aktiv auf eine neue Getreidesaison vor, die erste Getreidefracht wurde bereits im Juli genommen, während in den ersten sechs Monaten der gesamte Frachtumschlag im Hafen von Liepāja 3,6 Millionen Tonnen betrug.</p><p>Sowohl Liepāja als auch andere lettische Häfen werden durch geopolitische Lage, Veränderungen in Logistikrichtungen und Frachttypen beeinflusst. Der Transport- und Logistiksektor arbeitet aktiv daran, neue Ladungen anzuziehen und zu ihrem Wachstum beizutragen, indem alternative logistische Korridore entwickelt werden, darunter eine Vielzahl von Nischenprodukten, insbesondere mit hohem Mehrwert wie Container und Ro-Ro Fracht. Sie strebt auch neue Investitionen zur Entwicklung der Produktion in Hafengebieten an und zieht sie an.</p><p>Nach Angaben des Verkehrsministeriums 2023. Im ersten Halbjahr ging das gesamte Frachtvolumen zurück, während der Umsatz in mehreren Frachtsegmenten in den lettischen Häfen sowie im Inlandseisenbahnverkehr steigt. Hafen- und Eisenbahnfrachtumsätze sind nach wie vor von der aktuellen geopolitischen Situation und Entscheidung geprägt, die Anfang des Jahres getroffen wurde, als Sanktionen gegen russische Ölprodukte in Kraft traten.</p><p>Unter Berücksichtigung der Auswirkungen der geopolitischen Lage, 2023. In der ersten Jahreshälfte im Vergleich zum gleichen Zeitraum des Vorjahres ging das gesamte Frachtvolumen in den lettischen Häfen um 14,2% oder 3,4 Millionen Tonnen zurück. Die Veränderungen des Frachtumschlags werden hauptsächlich durch die sinkende Nachfrage nach Kohlefrachten beeinflusst, während infolge der Sanktionen auch der Umsatz mit Mineralölerzeugnissen zurückgegangen ist. Gleichzeitig steigt der Getreidefrachtumsatz in großen Häfen um 7,4% und das Gesamtwachstum des Frachtumschlags in kleinen Häfen Lettlands in Skulte, Salacgrīva, Mērsrags und Roja, wo das Frachtvolumen um 17,4% gestiegen ist.</p><p>Im ersten Halbjahr dieses Jahres stieg der Getreidefrachtumsatz um 20%, während die Kohle- und Mineralölgüterladung zurückgingen. Insgesamt wurden in diesem Zeitraum 9,6 Millionen Tonnen Fracht abgewickelt.</p><p>In der gleichen Periode im Hafen Ventspils wurden 5,7 Millionen Tonnen Fracht abgewickelt. Der gesamte Frachtumschlag wurde durch den Rückgang der Menge an Kohle, Erdölerzeugnissen und Ro-Ro-Lagern beeinträchtigt. Trotz des insgesamt sinkenden Frachtumschlags hat das Erzfrachtvolumen im Hafen mehr als viermal so stark zugenommen, um 3,6% Holzumsätze und das Zehnfache des Umsatzes von Baustoffen.</p><p>Ähnlich wie bei den Häfen wird der Schienengüterverkehr von geopolitischer Situation beeinflusst, und der Gesamtumsatz im Frachtverkehr in den ersten sechs Monaten des Jahres ging gegenüber dem gleichen Zeitraum des Vorjahres um 36,7% zurück. Der Rückgang des Güterverkehrs war vor allem durch den Rückgang der Kohle-, Dünger-, Holz- und Öl Produktgruppen betroffen. Der Getreidefrachtumsatz hat sich wiederum um 18,3% erhöht.</p><p>Die Wachstumstendenzen sind im Inlandsgüterverkehr zu beobachten, der in der ersten Jahreshälfte um 10% gestiegen ist und im Segment Eisenmetallfracht sogar 67% betrug.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/36/870_1702379851_govorova-terminals-8.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/36/original_1702379851_govorova-terminals-8.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/36/original_1702379851_govorova-terminals-8.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

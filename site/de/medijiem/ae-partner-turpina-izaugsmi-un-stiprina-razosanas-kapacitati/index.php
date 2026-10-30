@@ -42,14 +42,14 @@ html.classList.add(localStorage['contrast']);
 <h1 class="article-title">"AE Partner" wächst weiter und stärkt die Produktionskapazität</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Der Hersteller von hochwertigen elektrischen Steuer- und Regelgeräten AE Partner Liepaja Special Economic Zone (LSEZ) Ltd. hat ein stabiles Wachstum im Jahr 2025 abgeschlossen. Steigerung des Umsatzes und des Gewinns.</p><p>Auflage. Im Jahr AE Partner LSEZ Ltd. erreichte der Nettoumsatz 75,6 Millionen Euro, das sind 2% mehr als im Vorjahr. Im Grunde ist es 2024. Die finanziellen Ergebnisse wurden von außergewöhnlichen Erträgen im Zusammenhang mit der Umstrukturierung des AE-Partner-Konzerns während 2025 positiv beeinflusst. das Jahr spiegelt die normale finanzielle Leistung ohne solche einmalige Positionen wider. Gewinn des Unternehmens 2025. Die jährliche Wachstumsrate ist auf 3,6 Mio. € gestiegen. </p><p>Bedeutende Auswirkungen auf die Entwicklung eines Unternehmens mit Sitz in Lettland und Dänemark wurden durch Investitionen in den Ausbau der Produktion in Liepaja geschaffen.</p><p>Insgesamt haben wir durch die Erweiterung der Produktions- und Büroflächen des Unternehmens auf 5000 Quadratmeter nicht nur unmittelbare positive Effekte erzielt, sondern auch die notwendige Kapazität für zukünftiges Wachstum geschaffen. In Zukunft betrachten wir Geschäftsentscheidungen auf der Basis von Strategie als solide Grundlage für die Weiterentwicklung," kommentiert Morens Bitšs Janik, Business Development, Finance und IT Manager von AE Partner LSEZ Ltd.</p><p>Auflage. Die jährlichen Gewinne wurden auch durch Dividenden der Tochtergesellschaft AE Partner DK A/S sowie gezielte Verbesserungen im Working Capital Management, die Reduzierung von Lagerbeständen und die Verbesserung der operativen Effizienz positiv beeinflusst. </p><p>Unter Berücksichtigung des Fokussierens des Unternehmens auf Expansion und Diversifizierung seines Kundenportfolios, unter voller Nutzung der Produktionskapazitäten, Effizienzgewinne, Investitionen in Infrastruktur und digitale Werkzeuge, verfügt AE Partner auch im Jahr 2026 über stabile und nachhaltige Wachstumsprognosen. 1907.</p><p> </p><p><strong> Über AE Partner Liepaja Sonderwirtschaftszonen SIA</strong></p><p>  AE Partner Liepaja Special Economic Zone Ltd. ist ein lettisches und dänisches Unternehmen mit mehr als 20 Jahren Erfahrung in Entwicklung, Produktion und Service von Automatisierungslösungen für Industrien wie Fertigung, Logistik, Schifffahrt, erneuerbare Energieproduktion und andere.   </p><p>Die Hauptproduktionseinheit von AE Partner befindet sich in Liepaja. Mit mehr als 500 Mitarbeitern ist das Unternehmen einer der größten Arbeitgeber in der Region.   </p><p>98% der von AE Partner LSEZ Ltd produzierten Produkte und Dienstleistungen werden auf allen Kontinenten in mehr als 25 Länder exportiert, aber Europa ist der wichtigste Exportmarkt.  </p><p>Die Aktivitäten von AE Partner basieren auf Kernwerten: Ehrlichkeit, Offenheit, Teamarbeit, Interesse und gegenseitiger Respekt in den Beziehungen zu Mitarbeitern, Kunden und Partnern.  </p></div>
+<div class="col"><div class="col-12 output"><p>Der Hersteller von hochwertigen elektrischen Steuer- und Regelgeräten AE Partner Liepāja Special Economic Zone (LSEZ) Ltd. hat ein stabiles Wachstum im Jahr 2025 abgeschlossen. Steigerung des Umsatzes und des Gewinns.</p><p>2025. im Jahr erreichte der Nettoumsatz von AE Partner LSEZ Ltd 75,6 Mio. EUR, d. h. 2% mehr als ein Jahr zuvor. Im Grunde genommen ist das 2024. Die finanziellen Ergebnisse wurden von den außerordentlichen Erträgen im Zusammenhang mit der Umstrukturierung der AE-Partnergruppe im Jahr positiv beeinflusst. 2025. das Jahr spiegelt die normale finanzielle Leistung ohne solche einmalige Positionen wider. Gewinne des Unternehmens 2025. Jährlicher Anstieg auf 3,6 Mio. EUR. </p><p>Bedeutende Auswirkungen auf die Entwicklung eines Unternehmens mit Sitz in Lettland und Dänemark wurden durch Investitionen in den Ausbau der Produktion in Liepāja geschaffen.</p><p>Insgesamt haben wir durch die Erweiterung der Produktions- und Büroflächen des Unternehmens auf 5000 Quadratmeter nicht nur unmittelbare positive Effekte erzielt, sondern auch die notwendige Kapazität für zukünftiges Wachstum geschaffen. In Zukunft betrachten wir Geschäftsentscheidungen auf der Basis von Strategie als solide Grundlage für die Weiterentwicklung," kommentiert Morens Bitšs Janik, Business Development, Finance und IT Manager von AE Partner LSEZ Ltd.</p><p>2025. Die jährlichen Gewinne wurden auch durch Dividenden der Tochtergesellschaft AE Partner DK A/S sowie gezielte Verbesserungen im Working Capital Management, die Reduzierung von Lagerbeständen und die Verbesserung der operativen Effizienz positiv beeinflusst. </p><p>Unter Berücksichtigung des Fokussierens des Unternehmens auf die Erweiterung und Diversifizierung seines Kundenportfolios, unter voller Nutzung der Produktionskapazität, Effizienzsteigerungen, Infrastrukturinvestitionen und digitalen Werkzeugen verfügt AE Partner über stabile und nachhaltige Wachstumsprognosen. 2026. .</p><p> </p><p><strong> Über AE Partner Liepāja Sonderwirtschaftszonen SIA</strong></p><p>  AE Partner Liepāja Special Economic Zone Ltd. ist ein lettisches und dänisches Unternehmen mit mehr als 20 Jahren Erfahrung in Entwicklung, Produktion und Service von Automatisierungslösungen für Industrien wie Fertigung, Logistik, Schifffahrt, erneuerbare Energieproduktion und andere.   </p><p>Die Hauptproduktionseinheit von AE Partner befindet sich in Liepāja. Mit mehr als 500 Mitarbeitern ist das Unternehmen einer der größten Arbeitgeber in der Region.   </p><p>98% der von AE Partner LSEZ Ltd produzierten Produkte und Dienstleistungen werden auf allen Kontinenten in mehr als 25 Länder exportiert, aber Europa ist der wichtigste Exportmarkt.  </p><p>Die Aktivitäten von AE Partner basieren auf Kernwerten: Ehrlichkeit, Offenheit, Teamarbeit, Interesse und gegenseitiger Respekt in den Beziehungen zu Mitarbeitern, Kunden und Partnern.  </p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/290/870_1778833163_36_05.15.2026._AE PARTNER__.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/290/original_1778833163_36_05.15.2026._AE PARTNER__.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/290/original_1778833163_36_05.15.2026._AE PARTNER__.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -69,12 +69,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -84,12 +84,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -131,7 +131,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="https://liepaja-sez.lv//img/mod/news/325/1791280647_72_10.06.2026._LIP_izsole_Eksporta_iela.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1" property="og:url"/>
-<meta content="Liepaja SEZ Authority organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in Eksporta Straße 3" property="og:title"/>
+<meta content="Die Verwaltung der Sonderwirtschaftszone Liepāja veranstaltet eine elektronische Versteigerung mit aufsteigenden Geboten für eine neu zu bildende Immobilie in der Eksporta iela 3" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Liepaja SEZ Authority organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in Eksporta Street 3 √ SEZ</title>
+<title>Liepāja SEZ Authority organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in Eksporta Street 3 √ SEZ</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="../../../css/main__40614cace7.css" rel="stylesheet"/>
@@ -48,18 +48,18 @@ html.classList.add(localStorage['contrast']);
 <span>E-Mail: <a href="mailto:raivo.spaks@lsez.lv" target="_blank">raivo.spaks@lsez.lv</a></span>
 </div>
 <div class="col-12 col-md-9 mt-md-5">
-<span class="date d-block mt-md-5">Veranschlagt sind Mittel zur Deckung der Verpflichtungen, die im Rahmen des Pilotprojekts aus den Vorjahren noch nicht abgewickelt werden. 22. Oktober 2026</span>
-<h1 class="article-title">Liepaja SEZ Authority organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in Eksporta Straße 3</h1>
+<span class="date d-block mt-md-5">06. Oktober 2026</span>
+<h1 class="article-title">Die Verwaltung der Sonderwirtschaftszone Liepāja veranstaltet eine elektronische Versteigerung mit aufsteigenden Geboten für eine neu zu bildende Immobilie in der Eksporta iela 3</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Liepaja Special Economic Zone Authority, einheitliche Registrierung Nr. LV90000329402, organisiert eine elektronische Auktion mit einem Aufstieg für neu geschaffene Immobilien in Eksporta iela 3, Liepāja, die aus einer Grundeinheit mit einer Gesamtfläche von 51521 m bestehen wird<sup>2</sup> und 12 Gebäude.</p><p>Ursprünglicher Preis √ <strong>680 000,00 EUR</strong> (sechshundertachtzigtausend) <i>EUR</i> und 00 Cent), der Auktionsschritt <strong>6 800.00  EUR</strong> (sechstausend achthundert) <i>EUR</i> und 00 Cent), Auktionssicherheit √ <strong>68 000.00 EUR</strong> (sechzig-achttausend) <i>EUR</i> und 00 Cents). Die Zahlung für den Kauf erfolgt in folgender Reihenfolge:</p><ul><li>Innerhalb von 10 Werktagen nach Inkrafttreten des Vorschlags zahlt der Käufer eine Vorauszahlung von 30% (dreißig Prozent) der Kaufgebühr. </li><li>Der Käufer zahlt den verbleibenden Teil der Kaufgebühr innerhalb von zwei Wochen nach Abschluss des Kaufvertrages.</li></ul><p>Die Auktion beginnt am 06.10.2026. 13:00 und schließen 05.11.2026. 13.00 Uhr</p><p>Die Bieter können sich für die Auktion ab 06.10.2026 anmelden. 13:00 bis 26.10.2026 9.00 Uhr 23:59 auf der Website der elektronischen Auktion:  <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv</a>.</p><p>Die Person, die an der Auktion teilnehmen möchte, muss eine Sicherheit von 10% (zehn Prozent) des Startpreises des zu versteigernden Grundstücks leisten, d. h.: <strong>68 000.00 EUR</strong> (sechzig-achttausend) <i>EUR</i> und 00 Cent), die dem laufenden Konto der LSEZ Authority gutgeschrieben werden müssen: Liepaja Special Economic Zone Authority, einheitliche Registrierungsnummer. LV90000329402, AS "SEB Banka," Konto Nr.LV42UNLA0012000609480, mit der Aufschrift "Immobilien in Eksporta iela 3, Liepaja, Auktionssicherheit." </p><p>Die Versteigerung erfolgt elektronisch unter: <a href="https://izsoles.ta.gov.lv/" target="_blank">https://izsoles.ta.gov.lv</a>. Auf Immobilien-Auktionsverfahren Anruf 29294267, E-Mail-Adresse: <a href="mailto:raivo.spaks@lsez.lv">raivo.spaks@lsez.lv</a>.</p></div>
+<div class="col"><div class="col-12 output"><p>Liepāja Special Economic Zone Authority, einheitliche Registrierung Nr. LV90000329402, organisiert eine elektronische Auktion mit einem Aufstieg für neu geschaffene Immobilien in Eksporta iela 3, Liepāja, die aus einer Grundeinheit mit einer Gesamtfläche von 51521 m bestehen wird<sup>2</sup> und 12 Gebäude.</p><p>Ursprünglicher Preis √ <strong>680 000,00 EUR</strong> (sechshundertachtzigtausend) <i>EUR</i> und 00 Cent), der Auktionsschritt <strong>6 800.00  EUR</strong> (sechstausend achthundert) <i>EUR</i> und 00 Cent), Auktionssicherheit √ <strong>68 000.00 EUR</strong> (sechzig-achttausend) <i>EUR</i> und 00 Cents). Die Zahlung für den Kauf erfolgt in folgender Reihenfolge:</p><ul><li>Innerhalb von 10 Werktagen nach Inkrafttreten des Vorschlags zahlt der Käufer eine Vorauszahlung von 30% (dreißig Prozent) der Kaufgebühr. </li><li>Der Käufer zahlt den verbleibenden Teil der Kaufgebühr innerhalb von zwei Wochen nach Abschluss des Kaufvertrages.</li></ul><p>Die Auktion beginnt am 06.10.2026. 13:00 und schließen 05.11.2026. 13.00 Uhr</p><p>Bieter können sich für eine Auktion anmelden von: 06.10.2026. Uhr13:00 bis 26.10.2026. Uhr 23:59 auf der Website der elektronischen Auktion:  <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv</a>.</p><p>Die Person, die an der Auktion teilnehmen möchte, muss eine Sicherheit von 10% (zehn Prozent) des Startpreises des zu versteigernden Grundstücks leisten, d. h.: <strong>68 000.00 EUR</strong> (sechzig-achttausend) <i>EUR</i> und 00 Cent), die dem laufenden Konto der LSEZ Authority gutgeschrieben werden müssen: Liepāja Special Economic Zone Authority, einheitliche Registrierungsnummer. LV90000329402, AS "SEB Banka," Konto Nr.LV42UNLA0012000609480, mit der Aufschrift "Immobilien in Eksporta iela 3, Liepāja, Auktionssicherheit." </p><p>Die Versteigerung erfolgt elektronisch unter: <a href="https://izsoles.ta.gov.lv/" target="_blank">https://izsoles.ta.gov.lv</a>. Auf Immobilien-Auktionsverfahren Anruf 29294267, E-Mail-Adresse: <a href="mailto:raivo.spaks@lsez.lv">raivo.spaks@lsez.lv</a>.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="../../../img/mod/news/325/870_1791280647_72_10.06.2026._LIP_izsole_Eksporta_iela.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="../../../img/mod/news/325/original_1791280647_72_10.06.2026._LIP_izsole_Eksporta_iela.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="../../../img/mod/news/325/original_1791280647_72_10.06.2026._LIP_izsole_Eksporta_iela.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -79,14 +79,14 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Hafen von Liepaja No. 46 Rekonstruktion Bauprojektentwicklung, Bauarbeiten und Autorüberwachung</h4>
-<a class="d-none d-md-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Weiterlesen</a>
+<h4>Planung, Bauarbeiten und Bauüberwachung durch den Planer beim Umbau des Liegeplatzes Nr. 46 im Hafen Liepāja</h4>
+<a class="d-none d-md-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">Gegenstand der Beschaffung: Hafen von Liepaja No. 46 Rekonstruktionsbau Projektentwicklung, Bau und Autorüberwachung ANZAHL LSEZ 2026/12 Der Haupt-CPV-Code: 45241500-3 (Ship Liegeplatzbau). 
+<div class="col-12 col-md-8 col-lg-9">Auftragsgegenstand: Planung, Bauarbeiten und Bauüberwachung durch den Planer beim Umbau des Liegeplatzes Nr. 46 im Hafen Liepāja. VERGABENUMMER LSEZ 2026/12. Haupt-CPV-Code: 45241500-3 (Bauarbeiten für Schiffsanlegestellen).
 
 </div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -97,13 +97,13 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">17.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Gegenstand der Beschaffung: Kauf von Strom </h4>
-<a class="d-none d-md-block my-4" href="../iepirkuma-prieksmets-elektroenergijas-iegade/index.php">Weiterlesen</a>
+<a class="d-none d-md-block my-4" href="/site/de/iepirkumi-un-izsoles/iepirkuma-prieksmets-elektroenergijas-iegade/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Betrifft: Erwerb von Elektrizität NUMBER LSEZ 2026/15 Wichtigster CPV-Code: 09310000-5 (Elektrizität)
 
 </div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../iepirkuma-prieksmets-elektroenergijas-iegade/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/iepirkumi-un-izsoles/iepirkuma-prieksmets-elektroenergijas-iegade/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -113,7 +113,7 @@ html.classList.add(localStorage['contrast']);
 <div class="prev">
 </div>
 <div class="next">
-<a aria-label="Weiter" class="next related-pagination" data-page="2" href="index.php">
+<a aria-label="Weiter" class="next related-pagination" data-page="2" href="/site/de/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">
 
 Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 </a>
@@ -145,7 +145,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

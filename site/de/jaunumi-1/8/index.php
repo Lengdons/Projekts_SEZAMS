@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/jaunumi-1/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -49,7 +49,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Fotos
@@ -57,7 +57,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -71,18 +71,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Eine Kapsel in Liepaja an der Gründung des neuen Scania Lettland Service Center</h2>
+<h2>Eine Kapsel in Liepāja an der Gründung des neuen Scania Lettland Service Center</h2>
 <span class="mb-3">28.11.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepaja-iemureta-kapsula-jauna-scania-latvia-servisa-centra-pamatos/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepaja-iemureta-kapsula-jauna-scania-latvia-servisa-centra-pamatos/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>In Liepāja, mit einer speziellen Zeitkapsel, markierte Scania Lettland die erste Baustufe des neuen Lkw-Services und Verkaufszentrums. Dieses Projekt ist nicht nur für die Weiterentwicklung des Unternehmens, sondern auch für die Verkehrsinfrastruktur und das Geschäftsumfeld in der Region wichtig.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepaja-iemureta-kapsula-jauna-scania-latvia-servisa-centra-pamatos/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepaja-iemureta-kapsula-jauna-scania-latvia-servisa-centra-pamatos/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/265/1764342748_I40A8209.webp)">
-<a aria-label="Weiterlesen" href="../liepaja-iemureta-kapsula-jauna-scania-latvia-servisa-centra-pamatos/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepaja-iemureta-kapsula-jauna-scania-latvia-servisa-centra-pamatos/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/265/1764342748_I40A8209.webp"/>
 </a>
 </div>
@@ -91,18 +91,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Caljan verdoppelt Produktionsvolumen und erweitert Team in Liepaja</h2>
+<h2>Caljan verdoppelt Produktionsvolumen und erweitert Team in Liepāja</h2>
 <span class="mb-3">25.11.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../caljan-divkarso-razosanas-apjomus-un-paplasina-komandu-liepaja/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/caljan-divkarso-razosanas-apjomus-un-paplasina-komandu-liepaja/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>Da die weltweite Nachfrage nach modernen Technologien der Frachtverarbeitung steigt und das Wachstum des E-Commerce-Marktes stabil wächst, hat der Hersteller von Förderleitungen und Automatisierungsgeräten Caljan seine Produktionsmengen verdoppelt. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../caljan-divkarso-razosanas-apjomus-un-paplasina-komandu-liepaja/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/caljan-divkarso-razosanas-apjomus-un-paplasina-komandu-liepaja/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/264/1764089424_Publicitates foto2.webp)">
-<a aria-label="Weiterlesen" href="../caljan-divkarso-razosanas-apjomus-un-paplasina-komandu-liepaja/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/caljan-divkarso-razosanas-apjomus-un-paplasina-komandu-liepaja/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/264/1764089424_Publicitates foto2.webp"/>
 </a>
 </div>
@@ -111,18 +111,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Formale Eröffnung der neu gebauten Straßen im Industriepark Liepaja</h2>
+<h2>Formale Eröffnung der neu gebauten Straßen im Industriepark Liepāja</h2>
 <span class="mb-3">21.11.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../svinigi-atver-jaunuzbuvetas-ielas-liepajas-industrialaja-parka/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/svinigi-atver-jaunuzbuvetas-ielas-liepajas-industrialaja-parka/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Heute, 21. Im November führte Ainara Virga mit symbolischem Metallschnitt und Song "Industrial Corner" eine feierliche Eröffnung der neu gebauten Straßen im Industriepark Liepaja auf dem Gebiet der ehemaligen Fabrik "Liepājas Metalurgs" durch.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../svinigi-atver-jaunuzbuvetas-ielas-liepajas-industrialaja-parka/index.php">Weiterlesen</a>
+<p>Heute, 21. Im November führte Ainara Virga mit symbolischem Metallschnitt und Song "Industrial Corner" eine feierliche Eröffnung der neu gebauten Straßen im Industriepark Liepāja auf dem Gebiet der ehemaligen Fabrik "Liepājas Metalurgs" durch.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/svinigi-atver-jaunuzbuvetas-ielas-liepajas-industrialaja-parka/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/263/1763728966__R1A4064.webp)">
-<a aria-label="Weiterlesen" href="../svinigi-atver-jaunuzbuvetas-ielas-liepajas-industrialaja-parka/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/svinigi-atver-jaunuzbuvetas-ielas-liepajas-industrialaja-parka/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/263/1763728966__R1A4064.webp"/>
 </a>
 </div>
@@ -134,15 +134,15 @@ Vorstandssitzungen
 <h2>Ein Protokoll der Absicht über die Entwicklung neuer, moderner Energieversorgungsinfrastruktur unterzeichnen</h2>
 <span class="mb-3">16.10.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../parakstis-nodomu-protokolu-par-jaunas-modernas-elektroapgades-infrastrukturas-izveidi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/parakstis-nodomu-protokolu-par-jaunas-modernas-elektroapgades-infrastrukturas-izveidi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Liepaja Special Economic Zone Authority und Liepaja City Municipality unterzeichnen ein Absichtserklärung mit dem lettischen Übertragungsnetzbetreiber AS Augstsprieguma tīkls (AST) über die gegenseitige Zusammenarbeit für den Bau der Infrastruktur, die für die deutsch-Baltische Verbindung in Liepaja notwendig ist, wobei sie ihm konzeptionell das Gebiet des Labors zur Verfügung stellen. 22/28 Street.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../parakstis-nodomu-protokolu-par-jaunas-modernas-elektroapgades-infrastrukturas-izveidi/index.php">Weiterlesen</a>
+<p>Liepāja Special Economic Zone Authority und Liepāja City Municipality unterzeichnen ein Absichtserklärung mit dem lettischen Übertragungsnetzbetreiber AS Augstsprieguma tīkls (AST) über die gegenseitige Zusammenarbeit für den Bau der Infrastruktur, die für die deutsch-Baltische Verbindung in Liepāja notwendig ist, wobei sie ihm konzeptionell das Gebiet des Labors zur Verfügung stellen. 22/28 Street.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/parakstis-nodomu-protokolu-par-jaunas-modernas-elektroapgades-infrastrukturas-izveidi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/258/1760622566_WhatsApp Image 2025-10-16 at 16.40.08.webp)">
-<a aria-label="Weiterlesen" href="../parakstis-nodomu-protokolu-par-jaunas-modernas-elektroapgades-infrastrukturas-izveidi/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/parakstis-nodomu-protokolu-par-jaunas-modernas-elektroapgades-infrastrukturas-izveidi/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/258/1760622566_WhatsApp Image 2025-10-16 at 16.40.08.webp"/>
 </a>
 </div>
@@ -151,18 +151,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Im September hat der Hafen von Liepaja Getreidefrachten, die von lettischen Landwirten hergestellt werden, aktiv verarbeitet</h2>
+<h2>Im September hat der Hafen von Liepāja Getreidefrachten, die von lettischen Landwirten hergestellt werden, aktiv verarbeitet</h2>
 <span class="mb-3">14.10.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-osta-septembri-aktivi-apstradaja-latvijas-zemnieku-izaudzeto-graudu-kravas/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepajas-osta-septembri-aktivi-apstradaja-latvijas-zemnieku-izaudzeto-graudu-kravas/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Die landwirtschaftlichen Erzeugnisse machten mehr als die Hälfte des gesamten Frachtumschlags aus (329,6 Tausend). (t) einschließlich der Einfuhren von Soja aus Argentinien. Im September behandelt im Hafen von Liepaja - 635.8 Tausend. Tonnen Fracht im Vergleich zu 2024. September 2005 beträgt 27,97% mehr.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-osta-septembri-aktivi-apstradaja-latvijas-zemnieku-izaudzeto-graudu-kravas/index.php">Weiterlesen</a>
+<p>Die landwirtschaftlichen Erzeugnisse machten mehr als die Hälfte des Gesamtvolumens der verarbeiteten Waren aus (329,6 Tausend (t) einschließlich der Einfuhren von Soja aus Argentinien. Im September im Hafen von Liepāja - 635,8 Tausend Tonnen Fracht im Vergleich zu September 2024 ist ungefähr 27,97% mehr.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepajas-osta-septembri-aktivi-apstradaja-latvijas-zemnieku-izaudzeto-graudu-kravas/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/257/1760607777__R1A2065.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-osta-septembri-aktivi-apstradaja-latvijas-zemnieku-izaudzeto-graudu-kravas/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepajas-osta-septembri-aktivi-apstradaja-latvijas-zemnieku-izaudzeto-graudu-kravas/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/257/1760607777__R1A2065.webp"/>
 </a>
 </div>
@@ -171,18 +171,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Beschlüsse des Vorstands von Liepaja SEZ</h2>
+<h2>Beschlüsse des Vorstands von Liepāja SEZ</h2>
 <span class="mb-3">10.10.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-valdes-pienemtie-lemumi-1/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepajas-sez-valdes-pienemtie-lemumi-1/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Auflage. vom 8. Dezember 1997 Am Oktober fand die regelmäßige Sitzung des Vorstands der Special Economic Zone Liepaja statt, in der er beschloss, dem Unternehmen SIA "AI industri bygg" den Status der Firma Liepaja SEZ Company zu gewähren, die drei Investitionsprojekte von Liepaja SEZ Companies für einen Gesamtbetrag von 1 Million unterstützt hat. Der EUR, geprüft und beschlossen, neun Verträge für die Erbringung von Liegeplatzdienstleistungen im Hafen von Liepaja abzuschließen, wurden auch die Ergebnisse der Auktionen genehmigt und Entscheidungen über Eigentum, Vermietung und Reservierungsrechte getroffen. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-valdes-pienemtie-lemumi-1/index.php">Weiterlesen</a>
+<p>8. Oktober 2025 die regelmäßige Sitzung des Vorstands der Special Economic Zone Liepāja, in dem er beschloss, dem Unternehmen SIA "AI industri bygg" den Status der Firma Liepāja SEZ zu gewähren, unterstützte drei Investitionsprojekte von Liepāja-SEZ-Unternehmen für den Gesamtbetrag 1 Mio. Der EUR, geprüft und beschlossen, neun Verträge für die Erbringung von Liegeplatzdienstleistungen im Hafen von Liepāja abzuschließen, wurden auch die Ergebnisse der Auktionen genehmigt und Entscheidungen über Eigentum, Vermietung und Reservierungsrechte getroffen. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepajas-sez-valdes-pienemtie-lemumi-1/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/255/1760338771_556414311_806441832082449_5988800728994920942_n.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-valdes-pienemtie-lemumi-1/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepajas-sez-valdes-pienemtie-lemumi-1/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/255/1760338771_556414311_806441832082449_5988800728994920942_n.webp"/>
 </a>
 </div>
@@ -191,7 +191,7 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev" data-block="2" data-page="7" data-per-page="6" data-topic="14" href="../7/index.php">
+<a class="news-list-pagination prev" data-block="2" data-page="7" data-per-page="6" data-topic="14" href="/site/de/jaunumi-1/7/index.php">
 <img alt="Zurück" src="../../../img/round-right.svg"/>
 
 Zurück
@@ -199,7 +199,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="2" data-page="9" data-per-page="6" data-topic="14" href="../9/index.php">
+<a class="news-list-pagination next" data-block="2" data-page="9" data-per-page="6" data-topic="14" href="/site/de/jaunumi-1/9/index.php">
 
 Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 </a>
@@ -244,7 +244,7 @@ Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

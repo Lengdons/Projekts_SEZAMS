@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/medijiem/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -49,7 +49,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Fotos
@@ -57,7 +57,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -71,18 +71,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Hafen von Liepaja Dienstleistungen werden zugänglicher</h2>
+<h2>Dienstleistungen im Hafen Liepāja werden leichter zugänglich</h2>
 <span class="mb-3">04.09.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-ostas-pakalpojumi-klust-pieejamaki/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-ostas-pakalpojumi-klust-pieejamaki/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Die Liepaja SEZ Authority hat in Zusammenarbeit mit der Freeport of Riga Authority und Ventspils FreePort Authority das ambitionierteste Projekt zur Digitalisierung lettischer Häfen abgeschlossen.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-ostas-pakalpojumi-klust-pieejamaki/index.php">Weiterlesen</a>
+<p>Die Liepāja SEZ Authority hat in Zusammenarbeit mit der Freeport of Riga Authority und Ventspils FreePort Authority das ambitionierteste Projekt zur Digitalisierung lettischer Häfen abgeschlossen.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-ostas-pakalpojumi-klust-pieejamaki/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/316/1788941725_S9209229.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-ostas-pakalpojumi-klust-pieejamaki/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-ostas-pakalpojumi-klust-pieejamaki/index.php">
 <img alt="" class="img-fluid" src="../../../img/mod/news/316/1788941725_S9209229.webp"/>
 </a>
 </div>
@@ -91,18 +91,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>7 Kreuzfahrtschiffe und mehr als 4 000 Gäste - 2026. Liepaja verstärkt sich weiter auf der Ostsee-Kreuzfahrtkarte</h2>
+<h2>7 Kreuzfahrtschiffe und mehr als 4 000 Gäste – Liepāja festigt 2026 seine Position auf der Kreuzfahrtkarte der Ostsee</h2>
 <span class="mb-3">04.09.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../7-kruiza-kugi-un-vairak-neka-4-000-viesu-2026-gada-liepaja-turpina-nostiprinaties-baltijas/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/7-kruiza-kugi-un-vairak-neka-4-000-viesu-2026-gada-liepaja-turpina-nostiprinaties-baltijas/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Liepāja 2026. Die Ostsee-Kreuzfahrtsaison baute ihre Position auf den Ostseekreuzfahrtrouten weiter aus. In diesem Jahr kamen sieben Kreuzfahrtschiffe im Hafen von Liepaja an, was die größte Anzahl von Kreuzfahrtschiffen ist, die während einer Saison zugelassen wurden. Besucher von Kreuzfahrtschiffen bieten nicht nur unvergessliche Momente für die Bewohner und Gäste der Stadt, sondern schaffen auch einen erheblichen wirtschaftlichen Beitrag zu lokalen Unternehmen und fördern Liepajas internationale Anerkennung. Das Interesse an Liepāja Kreuzfahrtunternehmen bleibt in der folgenden Saison hoch. Schon 2027. 11 Kreuzfahrtschiffbesuche wurden dem Hafen von Liepaja vorgelegt.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../7-kruiza-kugi-un-vairak-neka-4-000-viesu-2026-gada-liepaja-turpina-nostiprinaties-baltijas/index.php">Weiterlesen</a>
+<p>Liepāja 2026. Die Ostsee-Kreuzfahrtsaison baute ihre Position auf den Ostseekreuzfahrtrouten weiter aus. In diesem Jahr kamen sieben Kreuzfahrtschiffe im Hafen von Liepāja an, was die größte Anzahl von Kreuzfahrtschiffen ist, die während einer Saison zugelassen wurden. Besucher von Kreuzfahrtschiffen bieten nicht nur unvergessliche Momente für die Bewohner und Gäste der Stadt, sondern schaffen auch einen erheblichen wirtschaftlichen Beitrag zu lokalen Unternehmen und fördern Liepajas internationale Anerkennung. Das Interesse an Liepāja Kreuzfahrtunternehmen bleibt in der folgenden Saison hoch. Schon 2027. 11 Kreuzfahrtschiffbesuche wurden dem Hafen von Liepāja vorgelegt.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/7-kruiza-kugi-un-vairak-neka-4-000-viesu-2026-gada-liepaja-turpina-nostiprinaties-baltijas/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/315/1788766639_62_09.04.2026._kruīza kugis_3.1.webp)">
-<a aria-label="Weiterlesen" href="../7-kruiza-kugi-un-vairak-neka-4-000-viesu-2026-gada-liepaja-turpina-nostiprinaties-baltijas/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/7-kruiza-kugi-un-vairak-neka-4-000-viesu-2026-gada-liepaja-turpina-nostiprinaties-baltijas/index.php">
 <img alt="" class="img-fluid" src="../../../img/mod/news/315/1788766639_62_09.04.2026._kruīza kugis_3.1.webp"/>
 </a>
 </div>
@@ -111,18 +111,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Die Aufnahme von Getreide von lettischen Bauern produziert im Hafen von Liepaja weiter</h2>
+<h2>Im Hafen Liepāja wird weiterhin Getreide lettischer Landwirte angenommen</h2>
 <span class="mb-3">02.09.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-osta-turpinas-latvijas-zemnieku-izaudzeto-graudu-pienemsana/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-osta-turpinas-latvijas-zemnieku-izaudzeto-graudu-pienemsana/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Das größte Trockengut-Terminal im Hafen von Liepaja √Liepaja Bulk Terminal hat Vereinbarungen mit den führenden lettischen Getreideexporteuren, einschließlich Baltic Agro, Latraps und Linas Agro, über die Annahme von Getreide, das von lettischen Bauern aus dem Jahr 2026 angebaut wurde, geschlossen. 1. Jahr Juli bis 2027 1. Jahr Juli. Derzeit wird das Terminal mit lettischem Weizen auf einem Panamax-Klasse Schiff "Tuo Fu 8" gefüllt, das mehr als 60.000 Tonnen Getreide im Hafen aufnehmen wird. Das Ziel des Schiffes ist Abu Dhabi, Vereinigte Arabische Emirate.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-osta-turpinas-latvijas-zemnieku-izaudzeto-graudu-pienemsana/index.php">Weiterlesen</a>
+<p>Das größte Trockengut-Terminal im Hafen von Liepāja ◄Liepāja Bulk Terminal hat Vereinbarungen mit den führenden lettischen Getreideexporteuren, einschließlich "Baltic Agro," "Latraps" und "Linas Agro," über die Annahme von Getreide von lettischen Bauern angebaut 1. Juli 2026 bis 1. Juli 2027. Im Moment wird lettischer Weizen in ein Panamax Klasse Schiff "Tuo Fu" am Terminal geladen 8" das wird mehr Gastgeber als 60 Tausende Tonnen Getreide. Das Ziel des Schiffes ist Abu Dhabi, Vereinigte Arabische Emirate.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-osta-turpinas-latvijas-zemnieku-izaudzeto-graudu-pienemsana/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/311/1788428596_61_09.02.2026._LBT.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-osta-turpinas-latvijas-zemnieku-izaudzeto-graudu-pienemsana/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-osta-turpinas-latvijas-zemnieku-izaudzeto-graudu-pienemsana/index.php">
 <img alt="" class="img-fluid" src="../../../img/mod/news/311/1788428596_61_09.02.2026._LBT.webp"/>
 </a>
 </div>
@@ -134,15 +134,15 @@ Vorstandssitzungen
 <h2>Ein kleiner Künstlerwettbewerb wird eröffnet.</h2>
 <span class="mb-3">25.08.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../atklas-maza-makslinieku-plenera-juras-elpa-konkursizstadi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/atklas-maza-makslinieku-plenera-juras-elpa-konkursizstadi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Seit mehr als 30 Jahren Tradition in Zusammenarbeit mit Künstlern fand auch dieses Jahr die Plenure "Jūras elpa" des kleinen Künstlers statt. Werke aus der Zeit des Plenum 28. vom 1. August bis 10. Oktober wird im Kunstsalon "LodvisÃ1⁄4nis" (Lodviks) zur Verfügung stehen, wo eine Wettbewerbsshow stattfinden wird, bei der jeder Besucher die Möglichkeit haben wird, für seine Lieblingsarbeit zu stimmen. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../atklas-maza-makslinieku-plenera-juras-elpa-konkursizstadi/index.php">Weiterlesen</a>
+<p>Fortsetzung der Traditionen mehr als 30 Während der Jahre fand auch dieses Jahr die Liepāja SEZ Authority in Zusammenarbeit mit Künstlern eine kleine Künstlerin plenenure. Die Werke der Plenum-Zeit von 28. August bis August 10. wird im Kunstsalon "LodvisÃ⁄nis" (Lodviks) zur Verfügung stehen, wo eine Wettbewerbsshow stattfinden wird, bei der jeder Besucher die Möglichkeit haben wird, für seine Lieblingsarbeit zu stimmen. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/atklas-maza-makslinieku-plenera-juras-elpa-konkursizstadi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/309/1787656042_58_08.25.2026._mākslinieku plenērs_izstade.webp)">
-<a aria-label="Weiterlesen" href="../atklas-maza-makslinieku-plenera-juras-elpa-konkursizstadi/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/atklas-maza-makslinieku-plenera-juras-elpa-konkursizstadi/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/309/1787656042_58_08.25.2026._mākslinieku plenērs_izstade.webp"/>
 </a>
 </div>
@@ -151,18 +151,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Vorstand der Liepaja SEZ 19. Beschlüsse vom August </h2>
+<h2>Vorstand der Liepāja SEZ 19. Beschlüsse vom August </h2>
 <span class="mb-3">20.08.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-valdes-lemumi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-sez-valdes-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>19. dieses Jahres. Am August fand die ordentliche Sitzung des Vorstands von Liepaja SEZ statt, in der 7 Beschlüsse über den Abschluss eines Investitionsabkommens, die Rechte an der vorzeitigen Rückzahlung, die Genehmigung der Auktionsergebnisse sowie der Vorstand überprüften und beschlossen hatten, einen Vertrag für 46 zu schließen. Umsetzung der Projektrekonstruktion des Kais sowie Unterstützung bei der Beteiligung am Projekt zu wissenschaftlich fundierten Lösungen zur Förderung klimaresilienter Anpassung an die Ostseeküste. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-valdes-lemumi/index.php">Weiterlesen</a>
+<p>19. dieses Jahres. Am August fand die ordentliche Sitzung des Vorstands von Liepāja SEZ statt, in der 7 Beschlüsse über den Abschluss eines Investitionsabkommens, die Rechte an der vorzeitigen Rückzahlung, die Genehmigung der Auktionsergebnisse sowie der Vorstand überprüften und beschlossen hatten, einen Vertrag für 46 zu schließen. Umsetzung der Projektrekonstruktion des Kais sowie Unterstützung bei der Beteiligung am Projekt zu wissenschaftlich fundierten Lösungen zur Förderung klimaresilienter Anpassung an die Ostseeküste. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-sez-valdes-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/308/1787643657_e3o0.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-valdes-lemumi/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-sez-valdes-lemumi/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/308/1787643657_e3o0.webp"/>
 </a>
 </div>
@@ -171,18 +171,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Der Bau einer Einfahrt zum Hafen von Liepaja nähert sich. Liegeplätze</h2>
+<h2>Der Bau der Zufahrtsstraße zum Hafen von Liepāja nähert sich 92. Liegeplätze</h2>
 <span class="mb-3">20.08.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../noslegumam-tuvojas-piebraucama-cela-izbuve-uz-liepajas-ostas-92-piestatni/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/noslegumam-tuvojas-piebraucama-cela-izbuve-uz-liepajas-ostas-92-piestatni/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Die Liepaja SEZ-Behörde verbessert weiterhin die für Fischer notwendige Infrastruktur durch den Bau der Zugangsstraße zum Hafen 92. Der Kai. Das Projekt wird aus dem operationellen Programm des Europäischen Meeres-, Fischerei- und Aquakulturfonds für die Entwicklung der Fischerei 2021-2027 finanziert. 1907. Im Rahmen des Projekts wird eine öffentliche Zufahrtsstraße von 364 Metern sowie ein intelligentes Beleuchtungs- und Regenwasserentwässerungssystem errichtet. Nach den Ergebnissen der Beschaffung werden die Arbeiten von SIA "CTB" durchgeführt, die für 303 617,32 EUR die wirtschaftlich günstigste Lösung anbietet. Die Arbeiten sollen bis Ende August abgeschlossen sein.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../noslegumam-tuvojas-piebraucama-cela-izbuve-uz-liepajas-ostas-92-piestatni/index.php">Weiterlesen</a>
+<p>Liepāja SEZ-Behörde verbessert weiterhin die erforderliche Infrastruktur für Fischer durch den Bau der Zugangsstraße zum Hafen 92. Der Kai. Das Projekt wird durch das operationelle Programm des Europäischen Meeres-, Fischerei- und Aquakulturfonds für die Entwicklung der Fischerei finanziert. 2021.-2027. . Im Rahmen des Projekts wird eine öffentliche Zufahrtsstraße gebaut 364 die Länge der Meter, sowie intelligente Beleuchtung und Regenwasserentwässerung. Nach den Ergebnissen der Beschaffung werden die Arbeiten von dem Unternehmen "TCTB" durchgeführt, das die wirtschaftlich günstigste Lösung für: 303 617,32 Euro. Die Arbeiten sollen bis Ende August abgeschlossen sein.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/noslegumam-tuvojas-piebraucama-cela-izbuve-uz-liepajas-ostas-92-piestatni/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/307/1787222739_56_08.20.2026._LAD_pievadcels_zvejnieki_2.webp)">
-<a aria-label="Weiterlesen" href="../noslegumam-tuvojas-piebraucama-cela-izbuve-uz-liepajas-ostas-92-piestatni/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/noslegumam-tuvojas-piebraucama-cela-izbuve-uz-liepajas-ostas-92-piestatni/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/307/1787222739_56_08.20.2026._LAD_pievadcels_zvejnieki_2.webp"/>
 </a>
 </div>
@@ -191,7 +191,7 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev" data-block="2" data-page="1" data-per-page="6" data-topic="14" href="/site/lv/medijiem/1/index.php">
+<a class="news-list-pagination prev" data-block="2" data-page="1" data-per-page="6" data-topic="14" href="/site/de/dokumenti/1/index.php">
 <img alt="Zurück" src="../../../img/round-right.svg"/>
 
 Zurück
@@ -199,7 +199,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="2" data-page="3" data-per-page="6" data-topic="14" href="../3/index.php">
+<a class="news-list-pagination next" data-block="2" data-page="3" data-per-page="6" data-topic="14" href="/site/de/medijiem/3/index.php">
 
 Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 </a>
@@ -244,7 +244,7 @@ Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

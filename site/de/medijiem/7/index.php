@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/medijiem/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -49,7 +49,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Fotos
@@ -57,7 +57,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -71,18 +71,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Ständig stabiler Betrieb des Hafens von Liepaja 2025. 2009</h2>
+<h2>Ständiger Betrieb des Hafens von Liepāja 2025.</h2>
 <span class="mb-3">24.01.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../nemainigi-stabila-liepajas-ostas-darbiba-2025-gada/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/nemainigi-stabila-liepajas-ostas-darbiba-2025-gada/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Der Hafen von Liepaja arbeitet seit zehn Jahren als multifunktionaler Hafen mit einem stabilen Frachtumschlag von durchschnittlich 7 Millionen. Tonnen pro Jahr, die auch im Jahr 2025 blieben. im Jahr, in dem insgesamt 6,9 mln umgerüstet wurden. Tonnen Fracht. Das sind 0,19 Millionen. 2,53 % weniger als ein Jahr zuvor, wobei der Anteil der Inlandsfracht bei mehr als 52% bleibt. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../nemainigi-stabila-liepajas-ostas-darbiba-2025-gada/index.php">Weiterlesen</a>
+<p>Der Hafen von Liepāja arbeitet seit zehn Jahren als multifunktionaler Hafen mit einem stabilen Frachtumschlag von durchschnittlich 7 Millionen. Tonnen pro Jahr, die auch im Jahr 2025 blieben. im Jahr, in dem insgesamt 6,9 mln umgerüstet wurden. Tonnen Fracht. Das sind 0,19 Millionen. 2,53 % weniger als ein Jahr zuvor, wobei der Anteil der Inlandsfracht bei mehr als 52% bleibt. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/nemainigi-stabila-liepajas-ostas-darbiba-2025-gada/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/272/1769238045_07_01.23.2026._beramkravas.webp)">
-<a aria-label="Weiterlesen" href="../nemainigi-stabila-liepajas-ostas-darbiba-2025-gada/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/nemainigi-stabila-liepajas-ostas-darbiba-2025-gada/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/272/1769238045_07_01.23.2026._beramkravas.webp"/>
 </a>
 </div>
@@ -91,18 +91,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Unterschreibt Gesetzesentwurf, um die Regulierung der Special Economic Zone von Liepaja auf 2050 zu verlängern. 2009</h2>
+<h2>Unterschreibt Gesetzesentwurf zur Verlängerung der Regulierung von Liepāja Special Economic Zone bis 2050.</h2>
 <span class="mb-3">21.01.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../iesniedz-likumprojektus-lai-pagarinatu-liepajas-specialas-ekonomiskas-zonas-regulejumu-lid/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/iesniedz-likumprojektus-lai-pagarinatu-liepajas-specialas-ekonomiskas-zonas-regulejumu-lid/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Mitglieder der Saeima der Gemeinsamen Liste (AS) und der Nationalen Vereinigung (NA) haben Änderungen des Gesetzes über die Anwendung von Steuern in freien Häfen und besonderen Wirtschaftszonen eingereicht, um die Regulierung der Spezialwirtschaftszone Liepaja bis 2050 zu verlängern. 31. Dezember 2007 Dezember 2005.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../iesniedz-likumprojektus-lai-pagarinatu-liepajas-specialas-ekonomiskas-zonas-regulejumu-lid/index.php">Weiterlesen</a>
+<p>Mitglieder der Saeima der Gemeinsamen Liste (AS) und der Nationalen Vereinigung (NA) haben Änderungen des Gesetzes über die Anwendung von Steuern in freien Häfen und besonderen Wirtschaftszonen eingereicht, um die Regulierung der Spezialwirtschaftszone Liepāja bis zu verlängern 31. Dezember 2050.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/iesniedz-likumprojektus-lai-pagarinatu-liepajas-specialas-ekonomiskas-zonas-regulejumu-lid/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/271/1768984520_06_01.21.2026._LSEZ.webp)">
-<a aria-label="Weiterlesen" href="../iesniedz-likumprojektus-lai-pagarinatu-liepajas-specialas-ekonomiskas-zonas-regulejumu-lid/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/iesniedz-likumprojektus-lai-pagarinatu-liepajas-specialas-ekonomiskas-zonas-regulejumu-lid/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/271/1768984520_06_01.21.2026._LSEZ.webp"/>
 </a>
 </div>
@@ -111,18 +111,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Liepaja SEZ-Behörde entwickelt weiterhin die notwendige Infrastruktur für Fischer im Hafen von Liepaja</h2>
+<h2>Liepāja SEZ-Behörde entwickelt weiterhin die notwendige Infrastruktur für Fischer im Hafen von Liepāja</h2>
 <span class="mb-3">19.01.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-parvalde-turpina-attistit-zvejniekiem-nepieciesamo-infrastrukturu-liepajas-os/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-sez-parvalde-turpina-attistit-zvejniekiem-nepieciesamo-infrastrukturu-liepajas-os/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Nach dem Betreten des Gebäudes für günstige Bedingungen wird Liepaja SEZ Authority den Bau der Zufahrtsstraße zum Hafen 92 beginnen. Der Kai. Der Bau der Zugangsstraße wird aus dem Aktionsprogramm des Europäischen Meeres-, Fischerei- und Aquakulturfonds für die Entwicklung der Fischerei 2021 finanziert. - 2027. 1907. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-parvalde-turpina-attistit-zvejniekiem-nepieciesamo-infrastrukturu-liepajas-os/index.php">Weiterlesen</a>
+<p>Nach dem Betreten des Gebäudes für günstige Bedingungen, Liepāja SEZ Authority wird den Bau einer Einfahrt zum Hafen beginnen 92. Der Kai. Der Bau der Zugangsstraße wird durch das Aktionsprogramm des Europäischen Meeres-, Fischerei- und Aquakulturfonds für die Entwicklung der Fischerei finanziert. 2021. - 2027. . </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-sez-parvalde-turpina-attistit-zvejniekiem-nepieciesamo-infrastrukturu-liepajas-os/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/270/1768832732_LOGO-lada.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-parvalde-turpina-attistit-zvejniekiem-nepieciesamo-infrastrukturu-liepajas-os/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-sez-parvalde-turpina-attistit-zvejniekiem-nepieciesamo-infrastrukturu-liepajas-os/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/270/1768832732_LOGO-lada.webp"/>
 </a>
 </div>
@@ -131,18 +131,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Der Kauf von Liepaja Port 46 geht weiter. mit einem Hubraum von 250 cm3 oder weniger</h2>
+<h2>Der Kauf von Liepāja Port geht weiter 46. mit einem Hubraum von oder weniger</h2>
 <span class="mb-3">09.12.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../turpina-iepirkumu-par-liepajas-ostas-46-piestatnes-parbuvi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/turpina-iepirkumu-par-liepajas-ostas-46-piestatnes-parbuvi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Liepaja Special Economic Zone (Liepāja SEZ) Authority setzt die Beschaffung für Port of Liepaja 46 fort. Der Wiederaufbau des Kais hat nach Meinung eines unabhängigen Experten die Qualifikationskriterien für potenzielle Bewerber geklärt. Gleichzeitig wird die Frist für die Einreichung von Angeboten auf 2026 verlängert. 7. Mai 2007 1. Januar.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../turpina-iepirkumu-par-liepajas-ostas-46-piestatnes-parbuvi/index.php">Weiterlesen</a>
+<p>Liepāja Special Economic Zone (Liepāja SEZ) Behörde setzt Beschaffung für Hafen von Liepāja 46. Der Wiederaufbau des Kais hat nach Meinung eines unabhängigen Experten die Qualifikationskriterien für potenzielle Bewerber geklärt. Gleichzeitig verlängerte die Frist für die Einreichung von Angeboten auf 7. Januar 2026.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/turpina-iepirkumu-par-liepajas-ostas-46-piestatnes-parbuvi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/269/1765286353_65_12.09.2025._vizualizācija_46.piestatne .webp)">
-<a aria-label="Weiterlesen" href="../turpina-iepirkumu-par-liepajas-ostas-46-piestatnes-parbuvi/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/turpina-iepirkumu-par-liepajas-ostas-46-piestatnes-parbuvi/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/269/1765286353_65_12.09.2025._vizualizācija_46.piestatne .webp"/>
 </a>
 </div>
@@ -151,18 +151,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Liepaja macht einen Schritt in Richtung nachhaltiger Flugkraftstoffe: LSEZ NorSAF" startet Umweltverträglichkeitsprüfung</h2>
+<h2>Liepāja macht einen Schritt in Richtung nachhaltiger Flugkraftstoffe: LSEZ NorSAF" startet Umweltverträglichkeitsprüfung</h2>
 <span class="mb-3">05.12.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepaja-sper-soli-preti-ilgtspejigai-aviacijas-degvielai-lsez-norsaf-sak-vides-ietekmes-no/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepaja-sper-soli-preti-ilgtspejigai-aviacijas-degvielai-lsez-norsaf-sak-vides-ietekmes-no/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>Das Lager- und Umschlagterminal für Öl und chemische Produkte NorSAF hat einen Umweltverträglichkeitsprüfungsvertrag unterzeichnet. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepaja-sper-soli-preti-ilgtspejigai-aviacijas-degvielai-lsez-norsaf-sak-vides-ietekmes-no/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepaja-sper-soli-preti-ilgtspejigai-aviacijas-degvielai-lsez-norsaf-sak-vides-ietekmes-no/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/268/1764930669_64_12.05.2025._Norsaf.webp)">
-<a aria-label="Weiterlesen" href="../liepaja-sper-soli-preti-ilgtspejigai-aviacijas-degvielai-lsez-norsaf-sak-vides-ietekmes-no/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepaja-sper-soli-preti-ilgtspejigai-aviacijas-degvielai-lsez-norsaf-sak-vides-ietekmes-no/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/268/1764930669_64_12.05.2025._Norsaf.webp"/>
 </a>
 </div>
@@ -171,18 +171,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Unterzeichnete Absichtserklärung zur Errichtung einer grünen Wasserstoffanlage in Liepaja</h2>
+<h2>Unterzeichnete Absichtserklärung zur Errichtung einer grünen Wasserstoffanlage in Liepāja</h2>
 <span class="mb-3">02.12.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../svinigi-parakstits-saprasanas-memorands-cela-uz-zala-udenraza-razotnes-izveidi-liepaja/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/svinigi-parakstits-saprasanas-memorands-cela-uz-zala-udenraza-razotnes-izveidi-liepaja/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>1. In Anwesenheit des Ministers für Klima und Energie unterzeichneten im Dezember in der Botschaft des Königreichs Norwegen Vertreter des Wirtschaftsministeriums, Ratsmitglied des Premierministers und Beamte der Gemeinde Liepaja eine Vereinbarung zwischen dem Wasserstoffhersteller und dem Terminal SIA "CIS Liepaja" und dem Windenergieproduzenten SIA "Vindr Latvia." </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../svinigi-parakstits-saprasanas-memorands-cela-uz-zala-udenraza-razotnes-izveidi-liepaja/index.php">Weiterlesen</a>
+<p>1. In Anwesenheit des Ministers für Klima und Energie unterzeichneten im Dezember in der Botschaft des Königreichs Norwegen Vertreter des Wirtschaftsministeriums, Ratsmitglied des Premierministers und Beamte der Gemeinde Liepāja eine Vereinbarung zwischen dem Wasserstoffhersteller und dem Terminal SIA "CIS Liepāja" und dem Windenergieproduzenten SIA "Vindr Latvia." </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/svinigi-parakstits-saprasanas-memorands-cela-uz-zala-udenraza-razotnes-izveidi-liepaja/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/267/1764670871_62_12.01.2025._Cis_Vindra.webp)">
-<a aria-label="Weiterlesen" href="../svinigi-parakstits-saprasanas-memorands-cela-uz-zala-udenraza-razotnes-izveidi-liepaja/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/svinigi-parakstits-saprasanas-memorands-cela-uz-zala-udenraza-razotnes-izveidi-liepaja/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/267/1764670871_62_12.01.2025._Cis_Vindra.webp"/>
 </a>
 </div>
@@ -191,7 +191,7 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev" data-block="2" data-page="6" data-per-page="6" data-topic="14" href="../6/index.php">
+<a class="news-list-pagination prev" data-block="2" data-page="6" data-per-page="6" data-topic="14" href="/site/de/medijiem/6/index.php">
 <img alt="Zurück" src="../../../img/round-right.svg"/>
 
 Zurück
@@ -199,7 +199,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="2" data-page="8" data-per-page="6" data-topic="14" href="../8/index.php">
+<a class="news-list-pagination next" data-block="2" data-page="8" data-per-page="6" data-topic="14" href="/site/de/medijiem/8/index.php">
 
 Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 </a>
@@ -244,7 +244,7 @@ Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

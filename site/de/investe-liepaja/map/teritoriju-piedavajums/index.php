@@ -8,11 +8,11 @@
 <link href="../../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="page" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/investe-liepaja/map/teritoriju-piedavajums/" property="og:url"/>
-<meta content="Das Gebiet Angebot im Industriepark Liepaja" property="og:title"/>
+<meta content="Das Gebiet Angebot im Industriepark Liepāja" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Angebot von Territorien in Liepaja Industrial Park - SEZ</title>
+<title>Angebot von Territorien in Liepāja Industrial Park - SEZ</title>
 <link href="../../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="../../../../css/main__40614cace7.css" rel="stylesheet"/>
@@ -38,10 +38,10 @@ html.classList.add(localStorage['contrast']);
 <div class="container mod_map my-5">
 <div class="row">
 <div class="col-12 pt-5">
-<h2 class="map-title mb-5">Das Gebiet Angebot im Industriepark Liepaja</h2>
+<h2 class="map-title mb-5">Das Gebiet Angebot im Industriepark Liepāja</h2>
 </div>
 <div class="col-12 nocontrast">
-<span id="map-block"><img id="img" src="../../../../img/mod/map/33/1783415534_LIP_karte_pārdošana_WEB_2026_ENG_1150x791px.webp"/><a class="map-popover" data-bs-target="#modal96" data-bs-toggle="modal" href="index.php" style="left:74.84293908768096%;top:45.27174963398717%;">
+<span id="map-block"><img id="img" src="../../../../img/mod/map/33/1783415534_LIP_karte_pārdošana_WEB_2026_ENG_1150x791px.webp"/><a class="map-popover" data-bs-target="#modal96" data-bs-toggle="modal" href="/site/de/investe-liepaja/map/teritoriju-piedavajums/index.php" style="left:74.84293908768096%;top:45.27174963398717%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel96" class="modal fade" id="modal96" tabindex="-1">
@@ -56,7 +56,7 @@ html.classList.add(localStorage['contrast']);
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal97" data-bs-toggle="modal" href="index.php" style="left:76.2997359555677%;top:50.56669111164649%;">
+</div><a class="map-popover" data-bs-target="#modal97" data-bs-toggle="modal" href="/site/de/investe-liepaja/map/teritoriju-piedavajums/index.php" style="left:76.2997359555677%;top:50.56669111164649%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel97" class="modal fade" id="modal97" tabindex="-1">
@@ -71,7 +71,7 @@ html.classList.add(localStorage['contrast']);
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal98" data-bs-toggle="modal" href="index.php" style="left:74.02349084949468%;top:38.52069924997154%;">
+</div><a class="map-popover" data-bs-target="#modal98" data-bs-toggle="modal" href="/site/de/investe-liepaja/map/teritoriju-piedavajums/index.php" style="left:74.02349084949468%;top:38.52069924997154%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel98" class="modal fade" id="modal98" tabindex="-1">
@@ -86,7 +86,7 @@ html.classList.add(localStorage['contrast']);
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal99" data-bs-toggle="modal" href="index.php" style="left:71.20094691796413%;top:32.82863716148777%;">
+</div><a class="map-popover" data-bs-target="#modal99" data-bs-toggle="modal" href="/site/de/investe-liepaja/map/teritoriju-piedavajums/index.php" style="left:71.20094691796413%;top:32.82863716148777%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel99" class="modal fade" id="modal99" tabindex="-1">
@@ -101,7 +101,7 @@ html.classList.add(localStorage['contrast']);
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal100" data-bs-toggle="modal" href="index.php" style="left:68.74260220340527%;top:28.32793690547735%;">
+</div><a class="map-popover" data-bs-target="#modal100" data-bs-toggle="modal" href="/site/de/investe-liepaja/map/teritoriju-piedavajums/index.php" style="left:68.74260220340527%;top:28.32793690547735%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel100" class="modal fade" id="modal100" tabindex="-1">
@@ -116,7 +116,7 @@ html.classList.add(localStorage['contrast']);
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal101" data-bs-toggle="modal" href="index.php" style="left:84.85841755440227%;top:51.89042648106131%;">
+</div><a class="map-popover" data-bs-target="#modal101" data-bs-toggle="modal" href="/site/de/investe-liepaja/map/teritoriju-piedavajums/index.php" style="left:84.85841755440227%;top:51.89042648106131%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel101" class="modal fade" id="modal101" tabindex="-1">
@@ -131,7 +131,7 @@ html.classList.add(localStorage['contrast']);
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal108" data-bs-toggle="modal" href="index.php" style="left:67.55895474824729%;top:38.65307278691302%;">
+</div><a class="map-popover" data-bs-target="#modal108" data-bs-toggle="modal" href="/site/de/investe-liepaja/map/teritoriju-piedavajums/index.php" style="left:67.55895474824729%;top:38.65307278691302%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel108" class="modal fade" id="modal108" tabindex="-1">
@@ -146,7 +146,7 @@ html.classList.add(localStorage['contrast']);
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal109" data-bs-toggle="modal" href="index.php" style="left:73.11299280706547%;top:62.0831888255555%;">
+</div><a class="map-popover" data-bs-target="#modal109" data-bs-toggle="modal" href="/site/de/investe-liepaja/map/teritoriju-piedavajums/index.php" style="left:73.11299280706547%;top:62.0831888255555%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel109" class="modal fade" id="modal109" tabindex="-1">
@@ -161,7 +161,7 @@ html.classList.add(localStorage['contrast']);
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal110" data-bs-toggle="modal" href="index.php" style="left:66.37530729308932%;top:54.935017830715424%;">
+</div><a class="map-popover" data-bs-target="#modal110" data-bs-toggle="modal" href="/site/de/investe-liepaja/map/teritoriju-piedavajums/index.php" style="left:66.37530729308932%;top:54.935017830715424%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel110" class="modal fade" id="modal110" tabindex="-1">
@@ -176,7 +176,7 @@ html.classList.add(localStorage['contrast']);
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal111" data-bs-toggle="modal" href="index.php" style="left:81.76272421014296%;top:38.91781986079599%;">
+</div><a class="map-popover" data-bs-target="#modal111" data-bs-toggle="modal" href="/site/de/investe-liepaja/map/teritoriju-piedavajums/index.php" style="left:81.76272421014296%;top:38.91781986079599%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel111" class="modal fade" id="modal111" tabindex="-1">
@@ -205,7 +205,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 paginator mt-5"><div>
 <a aria-label="Zurück" class="back map-pagination" onclick="history.back()">
 
-Rückgabe <img alt="Rückgabe" src="../../../../img/round-right-blue.svg"/>
+Zurück <img alt="Zurück" src="../../../../img/round-right-blue.svg"/>
 </a>
 </div>
 </div>
@@ -237,7 +237,7 @@ Rückgabe <img alt="Rückgabe" src="../../../../img/round-right-blue.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/investe-liepaja/map/teritoriju-piedavajums/index.php"><img alt="Nach oben" class="img-fluid" src="../../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="https://liepaja-sez.lv//img/mod/news/234/1753814540_39_07.29.2025._LIP_buvnieciba.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/medijiem/izsludinata-pirma-izsole-par-industrialas-ekas-atsavinasanu-liepajas-industrialaja-parka" property="og:url"/>
-<meta content="Die erste Auktion für den Verkauf von Industriegebäuden in Liepaja Industrial Park wurde gestartet" property="og:title"/>
+<meta content="Die erste Auktion für den Verkauf von Industriegebäuden in Liepāja Industrial Park wurde gestartet" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Die erste Auktion für den Verkauf von Industriegebäuden in Liepaja Industrial Park wird angekündigt</title>
+<title>Die erste Auktion für den Verkauf von Industriegebäuden in Liepāja Industrial Park wird angekündigt</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
@@ -47,18 +47,18 @@ html.classList.add(localStorage['contrast']);
 <span>E-Mail: <a href="mailto:liga.ratniece-kadege@lsez.lv" target="_blank">liga.ratniece-kadege@lsez.lv</a></span>
 </div>
 <div class="col-12 col-md-9 mt-md-5">
-<span class="date d-block mt-md-5">29. 8. Juli 2025</span>
-<h1 class="article-title">Die erste Auktion für den Verkauf von Industriegebäuden in Liepaja Industrial Park wurde gestartet</h1>
+<span class="date d-block mt-md-5">29. Juli 2025</span>
+<h1 class="article-title">Die erste Auktion für den Verkauf von Industriegebäuden in Liepāja Industrial Park wurde gestartet</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Fortsetzung des Baus des Industrieparks Liepaja auf dem Gebiet der ehemaligen Fabriken von Liepāja metalurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority die erste Immobilienauktion angekündigt. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, die die Möglichkeit bieten, Industriegebäude zu kaufen. Die Auktion findet ab 2025 statt. 29. Mai 2004 Juli bis 2025 28. Januar 2008 August.</p><p>Am Anfang haben wir alle Grundstücke im Gebiet der ehemaligen Fabrik von Liepaja Metallurgs konsolidiert, lokale Planung entwickelt, Straßen- und Ingenieurbau begonnen. Das Gebiet wird nach und nach wieder in den städtischen Zyklus zurückgebracht, wodurch es der Öffentlichkeit zugänglich und für Investoren attraktiv ist. Es hat bereits eine Vielzahl von Industriegebäuden, für die wir nach neuen Eigentümern bei der Auktion suchen werden, die sie arrangieren und nach modernen <i>Grün</i> Uldis Hmielevskis, Liepaja SEZ Manager, weist darauf hin.</p><p> </p><p>Auktionsobjekt:</p><ul><li>Anschrift: 98A Brivibas Street, Liepaja</li><li>Land: Gesamtfläche 5132 m2</li><li>Bestehendes Gebäude: Dampfmühle, Gesamtfläche 2239 m2</li><li>Startpreis: 142 000 EUR</li><li>Auktionsschritt: 1420 EUR</li></ul><p> </p><p>Wie Gunārs Ansiņš, Vorsitzender des Stadtrats von Liepaja bei der Errichtung von Bauarbeiten im Industriepark Liepaja, bei der Zerstörung des alten Passgebäudes, das einst den Eingang in das Gebiet von Liepāja Metallurgs regulierte, wiesen wir symbolisch eine neue Seite in die Liepaja-Industrie um. Ich hoffe, dass dieses Gebiet nach Jahren einer der mächtigsten grünen Industrieparks Lettlands sein wird.</p><p>Der Industriepark Liepāja wird auf dem Gebiet der ehemaligen Fabrik Liepaja metallurgs geschaffen, die lokale Pläne entwickelt hat. Das Entwicklungsgebiet ist ~120 h und acht neue Straßen, die für den öffentlichen Zugang geöffnet werden sollen.</p><p>Die erste Phase des Projekts wird mit 10 mln Finanzierung durch den Recovery and Sustainability Mechanism umgesetzt. EUR, entsprechend dem entwickelten Projekt. Basierend auf den Ergebnissen der Beschaffung werden zwei Bauvorhaben von A-Land und eines von CTB Ltd durchgeführt. Im Rahmen des Projekts werden drei Straßenabschnitte mit technischer Kommunikation gebaut (<i>Wasserversorgung, häusliche Kanalisation, Regenwasserkanalisation, Heizungsnetze</i>). Neben Straßenbauten werden Stromnetze von AS Sadales neta gebaut. </p><p>Liepaja Industrial Park wird von der Liepaja SEZ Authority und Liepaja State City Municipality auf dem Gebiet der ehemaligen Fabrik "Liepājas metalurgs" zwischen Brivibas Street, Meldru Street, Esermalas Street, Parka Street und Zemnieku Street, Liepāja entwickelt. Es grenzt an den Liepaja-See, der ein besonders geschütztes Naturgebiet NATURA 2000 ist. Nach der genehmigten Entwicklungsstrategie ist geplant, mehr als 275 Millionen private Investitionen anzuziehen. EUR und schaffen mindestens 1500 neue Arbeitsplätze. </p><p> </p><p>Ankündigung der Auktion: <a href="/site/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-nekustamam-ipasumam-bri/index.php">https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-nekustamam-ipasumam-bri</a></p></div>
+<div class="col"><div class="col-12 output"><p>Fortsetzung des Baus des Industrieparks Liepāja im Gebiet der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepāja Special Economic Zone (Liepāja SEZ) Authority die erste Immobilienauktion angekündigt. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, die die Möglichkeit bieten, Industriegebäude zu kaufen. Auktion von 29. Juli 2025 bis 28. August 2025.</p><p>Am Anfang haben wir alle Grundstücke im Gebiet der ehemaligen Fabrik von Liepāja Metallurgs konsolidiert, lokale Planung entwickelt, Straßen- und Ingenieurbau begonnen. Das Gebiet wird nach und nach wieder in den städtischen Zyklus zurückgebracht, wodurch es der Öffentlichkeit zugänglich und für Investoren attraktiv ist. Es hat bereits eine Vielzahl von Industriegebäuden, für die wir nach neuen Eigentümern bei der Auktion suchen werden, die sie arrangieren und nach modernen <i>Grün</i> Uldis Hmielevskis, Liepāja SEZ Manager, weist darauf hin.</p><p> </p><p>Auktionsobjekt:</p><ul><li>Anschrift: 98A Brivibas Street, Liepāja</li><li>Land: Gesamtfläche 5132 </li><li>Bestehendes Gebäude: Dampfmühle, Gesamtfläche 2239 </li><li>Startpreis: 142 000 EUR</li><li>Auktionsschritt: 1420 EUR</li></ul><p> </p><p>Wie Gunārs Ansiņš, Vorsitzender des Stadtrats von Liepāja bei der Errichtung von Bauarbeiten im Industriepark Liepāja, bei der Zerstörung des alten Passgebäudes, das einst den Eingang in das Gebiet von Liepāja Metallurgs regulierte, wiesen wir symbolisch eine neue Seite in die Liepāja-Industrie um. Ich hoffe, dass dieses Gebiet nach Jahren einer der mächtigsten grünen Industrieparks Lettlands sein wird.</p><p>Der Industriepark Liepāja wird auf dem Gebiet der ehemaligen Fabrik Liepāja metallurgs geschaffen, die lokale Pläne entwickelt hat. Das Entwicklungsgebiet ist ~120 h und acht neue Straßen, die für den öffentlichen Zugang geöffnet werden sollen.</p><p>Projekt "Liepāja Industrial Park Infrastructure Development" 1, wird durch die Finanzierung der Sanierungs- und Resilienzfazilität durchgeführt 10 Mio. EUR, entsprechend dem entwickelten Projekt. Basierend auf den Ergebnissen der Beschaffung werden zwei Bauvorhaben von A-Land und eines von CTB Ltd durchgeführt. Im Rahmen des Projekts werden drei Straßenabschnitte mit technischer Kommunikation gebaut (<i>Wasserversorgung, häusliche Kanalisation, Regenwasserkanalisation, Heizungsnetze</i>). Neben Straßenbauten werden Stromnetze von AS Sadales neta gebaut. </p><p>Liepāja Industrial Park wird von der Liepāja SEZ Authority und Liepāja State City Municipality auf dem Gebiet der ehemaligen Fabrik "Liepājas metalurgs" zwischen Brivibas Street, Meldru Street, Esermalas Street, Parka Street und Zemnieku Street, Liepāja entwickelt. Es grenzt an den Liepāja-See, der ein besonders geschütztes Naturgebiet NATURA 2000 ist. Nach der genehmigten Entwicklungsstrategie ist geplant, mehr als 275 Millionen private Investitionen anzuziehen. EUR und schaffen mindestens 1500 neue Arbeitsplätze. </p><p> </p><p>Ankündigung der Auktion: <a href="/site/de/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-nekustamam-ipasumam-bri/index.php">https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-nekustamam-ipasumam-bri</a></p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/234/870_1753870540__R1A9976.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/234/original_1753870540__R1A9976.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/234/original_1753870540__R1A9976.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

@@ -8,7 +8,7 @@
 <link href="../../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="page" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/teritoriju-karte/map/liepajas-industrialais-parks" property="og:url"/>
-<meta content="Industriepark Liepaja" property="og:title"/>
+<meta content="Industriepark Liepāja" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
@@ -38,10 +38,10 @@ html.classList.add(localStorage['contrast']);
 <div class="container mod_map my-5">
 <div class="row">
 <div class="col-12 pt-5">
-<h2 class="map-title mb-5">Industriepark Liepaja</h2>
+<h2 class="map-title mb-5">Industriepark Liepāja</h2>
 </div>
 <div class="col-12 nocontrast">
-<span id="map-block"><img id="img" src="../../../../img/mod/map/18/1707388527_Kartes_1920x1320_7_liep_biznesa_parks.webp"/><a class="map-popover" data-bs-target="#modal104" data-bs-toggle="modal" href="index.php" style="left:38.44577984157334%;top:30.94231426007164%;">
+<span id="map-block"><img id="img" src="../../../../img/mod/map/18/1707388527_Kartes_1920x1320_7_liep_biznesa_parks.webp"/><a class="map-popover" data-bs-target="#modal104" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/liepajas-industrialais-parks/index.php" style="left:38.44577984157334%;top:30.94231426007164%;">
 <img src="../../../../img/mod/map/icons/3.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel104" class="modal fade" id="modal104" tabindex="-1">
@@ -52,11 +52,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Der größte Pflasterproduzent in Lettland.</p><p><strong>Adresse:</strong> Zemnieku iela 32, Liepaja LV-3401, Lettland</p><p><strong>Telefon: </strong>(+371) 67134907</p><p><strong>E-Mail:</strong> <a href="mailto:info@brikers.lv">info@brikers.lv</a></p><p><strong>Website:</strong> <a href="../www.brikers.lv">www.brikers.lv</a></p>
+<p>Der größte Pflasterproduzent in Lettland.</p><p><strong>Adresse:</strong> Zemnieku iela 32, Liepāja LV-3401, Lettland</p><p><strong>Telefon: </strong>(+371) 67134907</p><p><strong>E-Mail:</strong> <a href="mailto:info@brikers.lv">info@brikers.lv</a></p><p><strong>Website:</strong> <a href="../www.brikers.lv">www.brikers.lv</a></p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal105" data-bs-toggle="modal" href="index.php" style="left:29.88709824273878%;top:28.162469984300497%;">
+</div><a class="map-popover" data-bs-target="#modal105" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/liepajas-industrialais-parks/index.php" style="left:29.88709824273878%;top:28.162469984300497%;">
 <img src="../../../../img/mod/map/icons/3.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel105" class="modal fade" id="modal105" tabindex="-1">
@@ -67,7 +67,7 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Caljan ist ein internationales Fertigungsunternehmen, das einer der weltweit führenden Hersteller und Anbieter von Teleskopförderern und Paketregistrierungssystemen ist.</p><p><strong>Adresse:</strong> Brīvības iela 142A, Liepaja, Lettland</p><p><strong>Telefon: </strong>(+371) 26 375 612</p><p><strong>E-Mail: </strong><a href="mailto:info@caljan.com">info@caljan.com</a></p><p><strong>Website: </strong><a href="../www.caljan.com">www.caljan.com</a></p>
+<p>Caljan ist ein internationales Fertigungsunternehmen, das einer der weltweit führenden Hersteller und Anbieter von Teleskopförderern und Paketregistrierungssystemen ist.</p><p><strong>Adresse:</strong> Brīvības iela 142A, Liepāja, Lettland</p><p><strong>Telefon: </strong>(+371) 26 375 612</p><p><strong>E-Mail: </strong><a href="mailto:info@caljan.com">info@caljan.com</a></p><p><strong>Website: </strong><a href="../www.caljan.com">www.caljan.com</a></p>
 </div>
 </div>
 </div>
@@ -85,7 +85,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 paginator mt-5"><div>
 <a aria-label="Zurück" class="back map-pagination" onclick="history.back()">
 
-Rückgabe <img alt="Rückgabe" src="../../../../img/round-right-blue.svg"/>
+Zurück <img alt="Zurück" src="../../../../img/round-right-blue.svg"/>
 </a>
 </div>
 </div>
@@ -116,7 +116,7 @@ Rückgabe <img alt="Rückgabe" src="../../../../img/round-right-blue.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/teritoriju-karte/map/liepajas-industrialais-parks/index.php"><img alt="Nach oben" class="img-fluid" src="../../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

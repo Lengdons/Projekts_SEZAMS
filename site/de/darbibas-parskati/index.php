@@ -40,7 +40,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../parvaldiba/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/parvaldiba/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Unternehmensführung
@@ -48,7 +48,7 @@ Unternehmensführung
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../korporativa-parvaldiba/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/korporativa-parvaldiba/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Corporate Governance
@@ -56,7 +56,7 @@ Corporate Governance
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../iepirkumi-un-izsoles/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/iepirkumi-un-izsoles/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Ausschreibungen und Versteigerungen
@@ -72,7 +72,7 @@ Geschäftsberichte
 </a>
 <div class="sidebar-nested ps-md-4">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../valdes-sedes-lemumi/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes-lemumi/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Vorstandsbeschlüsse
@@ -80,7 +80,7 @@ Vorstandsbeschlüsse
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../atskaites-par-darbibu/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/atskaites-par-darbibu/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Tätigkeitsberichte
@@ -88,7 +88,7 @@ Tätigkeitsberichte
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../ostas-statistika/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/ostas-statistika/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Hafenstatistik
@@ -102,13 +102,13 @@ Hafenstatistik
 <div class="col-12 col-md-9 side-right">
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><h6><a href="liepaja-sez.lv/valdes-sedes-lemumi/index.php"><strong>Vorstandsbeschlüsse</strong></a></h6></div>
+<div class="col"><div class="col-12 output"><h6><a href="/site/de/valdes-sedes-lemumi/index.php"><strong>Vorstandsbeschlüsse</strong></a></h6></div>
 </div>
 </div>
 </div>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><h6><a href="liepaja-sez.lv/lv/ostas-statistika/index.php"><strong>Hafenstatistik</strong></a></h6></div>
+<div class="col"><div class="col-12 output"><h6><a href="/site/de/ostas-statistika/index.php"><strong>Hafenstatistik</strong></a></h6></div>
 </div>
 </div>
 </div>
@@ -120,7 +120,7 @@ Hafenstatistik
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev d-none" data-block="16" data-page="" data-per-page="8" data-topic="20" href="0/index.php">
+<a class="news-list-pagination prev d-none" data-block="16" data-page="" data-per-page="8" data-topic="20" href="/site/de/attistibas-projekti/0/index.php">
 <img alt="Zurück" src="../../img/round-right.svg"/>
 
 Zurück
@@ -128,7 +128,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next d-none" data-block="16" data-page="" data-per-page="8" data-topic="20" href="2/index.php">
+<a class="news-list-pagination next d-none" data-block="16" data-page="" data-per-page="8" data-topic="20" href="/site/de/darbibas-parskati/2/index.php">
 
 Weiter <img alt="Zurück" src="../../img/round-right.svg"/>
 </a>
@@ -182,10 +182,10 @@ Weiter <img alt="Zurück" src="../../img/round-right.svg"/>
 <div class="carousel slide magnet2 test" data-bs-ride="true" data-bs-touch="true" id="magnetCarousel3">
 <div class="carousel-inner" style="background-color:#04103e;">
 <div class="carousel-item active" style="background-color:#04103e;">
-<a href="../valdes-sedes/index.php" target="">
+<a href="/site/de/valdes-sedes/index.php" target="">
 <div class="carousel-caption"><img alt="Symbol" class="img-fluid icon mb-4" src="../../img/mod/magnet/35/1709199402_VALDEs_seede.svg"/>
 <h4>Sitzung des Vorstands </h4>
-<p>Frist für die Einreichung der Unterlagen, zur Überprüfung in der Sitzung des Vorstands von Liepaja SEZ</p>
+<p>Frist für die Einreichung der Unterlagen, zur Überprüfung in der Sitzung des Vorstands von Liepāja SEZ</p>
 </div>
 </a>
 </div>
@@ -236,7 +236,7 @@ Weiter <img alt="Zurück" src="../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/darbibas-parskati/index.php"><img alt="Nach oben" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

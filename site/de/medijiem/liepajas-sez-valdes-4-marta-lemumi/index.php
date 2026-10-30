@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="https://liepaja-sez.lv//img/mod/news/278/1773137745_15_03.05.2026._valde_LIP.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/medijiem/liepajas-sez-valdes-4-marta-lemumi" property="og:url"/>
-<meta content="Vorstand der Liepaja SEZ 4. Beschlüsse vom März" property="og:title"/>
+<meta content="Vorstand der Liepāja SEZ 4. Beschlüsse vom März" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Vorstand der Liepaja SEZ 4. Beschluss vom März 2004 (CEF)</title>
+<title>Boards of Liepāja SEZ 4. Beschluss vom März (CEF)</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
@@ -38,18 +38,18 @@ html.classList.add(localStorage['contrast']);
 <div class="container article-full pt-5 my-5">
 <div class="row">
 <div class="col-12 col-md-9 offset-md-3 mt-md-5">
-<span class="date d-block mt-md-5">10. 22. März 2026</span>
-<h1 class="article-title">Vorstand der Liepaja SEZ 4. Beschlüsse vom März</h1>
+<span class="date d-block mt-md-5">10. März 2026</span>
+<h1 class="article-title">Vorstand der Liepāja SEZ 4. Beschlüsse vom März</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Dieses Jahr, 4. Im März fand die regelmäßige Sitzung des Vorstands der Liepaja SEZ statt, in dem Fragen zu Schlepperdiensten im Hafen von Liepaja diskutiert wurden, der Abschluss eines Baurechtsabkommens auf dem Gebiet des Industrieparks Liepaja, zwei Immobilienreservierungsvereinbarungen und Fragen zur Entfremdung von Immobilien.</p><p> </p><p><strong>Auf Schlepper-Service im Hafen von Liepaja</strong></p><p>Tug-Services im Hafen von Liepaja werden weiterhin von SIA √Towmar in Liepāja bereitgestellt. Der Vorstand von Liepaja SEZ überprüfte die eingereichten Dokumente und beschloss, mit der SIA "Towmar in Liepāja" eine Vereinbarung über die Erbringung von Schlepperdienst im Hafen von Liepaja abzuschließen.</p><p>Die Entscheidung über den Abschluss eines Vertrags über die Erbringung von Schlepperdiensten mit der SIA Towmar in Liepaja zielt darauf ab, den Wettbewerb auf dem Markt für Schlepperdienste im Hafen von Liepaja zu fördern und sicherzustellen, dass die Erbringung der entsprechenden Dienstleistungen privaten Unternehmen übertragen wird. Das Hafengesetz wird somit direkt durchgesetzt. 18 das Ziel von Artikel 5, nämlich dass kommerzielle Tätigkeiten im Hafen auf der Grundlage eines Vertrags durchgeführt werden können, der geschlossen wurde und den Mindestanforderungen unterliegt. Die Liepaja SEZ-Behörde ist in dieser rechtlichen Beziehung nur als Aufsichtsstelle im Bereich des öffentlichen Rechts tätig, die die Einhaltung der Sicherheits- und technischen Anforderungen kontrolliert, aber nicht selbst kommerzielle Tätigkeiten auf dem relevanten Markt ausübt. </p><p> </p><p><strong>Zum Abschluss des Bauvertrags</strong></p><p>Zwischen der Liepaja SEZ Authority und SIA "ZET" - 2025. vom 10. Dezember Im November wurde ein Abkommen über die Reservierung von Baurechten auf dem Gebiet des Industrieparks Liepaja zu Immobilien in Brīvības iela 111A, Liepāja geschlossen. Durch die Erfüllung der Bedingungen des baurechtsrechtlichen Reservierungsvertrages bestätigte das Unternehmen seine Bereitschaft, bis 2027 einen Vertrag über die Erteilung von Baurechten auf dem Gebiet des Industrieparks Liepaja zu schließen, um den Bauplan für den Bau und die Inbetriebnahme des Batteriespeichersystems 5 MW (BESS) umzusetzen. 29. Mai 2004 März. </p><p>Der Vorstand von Liepaja SEZ hat die eingereichten Unterlagen bewertet und beschlossen, einen Vertrag über die Erteilung von Baurechten mit der SIA √ ZET auf Immobilien in Brīvības Street 111A, Liepaja, Liepaya Industrial Park Gebiet zu schließen und das Recht auf den Bau bis 2056. 1. Jahr März.</p><p> </p><p><strong>Zustimmung zur Beseitigung</strong></p><p>Der Vorstand von Liepaja SEZ untersuchte die Frage der Immobilien Red iela 13, in Liepāja zum Verkauf bei Auktion, organisiert vom Eigentümer der Gemeinde Liepaja. Da Immobilien für die Ausführung der Hauptfunktionen der Liepaja SEZ Authority nicht notwendig sind, hat sich Liepaja SEZ Board entschlossen, der Entfremdung von Immobilien zuzustimmen.</p><p> </p><p><strong>Bei Reservierung des Grundstücksentwicklungsrechts</strong></p><p>Der Vorstand von Liepaja SEZ überprüfte und beschloss, zwei Verträge für die Reservierung des Rechts auf Grundbau abzuschließen:</p><ul><li>mit SIA "VIA-S Properties" für 2 Jahre, um die Durchführung des Projekts "Erstellung einer Produktionseinheit für die Modulstruktur Häuser im Gebiet von Liepaja Industriepark an der Kreuzung von Engineering und Eksportas Straßen ~ 3.3 ha zu starten;</li><li>mit SIA CIS Liepaja für 2 Jahre über zwei Grundstücke im Gebiet von Liepaja SEZ, nach denen ein neues Grundstück mit Gesamtfläche ~ 31,7 ha erstellt werden. SIA CIS Liepaja plant, die Schaffung einer grünen Wasserstoffanlage im Rahmen des Projekts mit PEM Elektrolyse-Technologie umzusetzen.</li></ul></div>
+<div class="col"><div class="col-12 output"><p>Dieses Jahr, 4. Im März fand die regelmäßige Sitzung des Vorstands der Liepāja SEZ statt, in dem Fragen zu Schlepperdiensten im Hafen von Liepāja diskutiert wurden, der Abschluss eines Baurechtsabkommens auf dem Gebiet des Industrieparks Liepāja, zwei Immobilienreservierungsvereinbarungen und Fragen zur Entfremdung von Immobilien.</p><p> </p><p><strong>Auf Schlepper-Service im Hafen von Liepāja</strong></p><p>Tug-Services im Hafen von Liepāja werden weiterhin von SIA √Towmar in Liepāja bereitgestellt. Der Vorstand von Liepāja SEZ überprüfte die eingereichten Dokumente und beschloss, mit der SIA "Towmar in Liepāja" eine Vereinbarung über die Erbringung von Schlepperdienst im Hafen von Liepāja abzuschließen.</p><p>Die Entscheidung über den Abschluss eines Vertrags über die Erbringung von Schlepperdiensten mit der SIA Towmar in Liepāja zielt darauf ab, den Wettbewerb auf dem Markt für Schlepperdienste im Hafen von Liepāja zu fördern und sicherzustellen, dass die Erbringung der entsprechenden Dienstleistungen privaten Unternehmen übertragen wird. Die Kommission stellt fest, dass die Häfen keinen Beihilfevorschriften unterliegen, da sie nicht in den Anwendungsbereich von Artikel Absatz AEUV fallen. 18. das Ziel von Artikel , nämlich dass kommerzielle Tätigkeiten im Hafen auf der Grundlage eines Vertrags durchgeführt werden können, der geschlossen wurde und den Mindestanforderungen unterliegt. Die Liepāja SEZ-Behörde ist in dieser rechtlichen Beziehung nur als Aufsichtsstelle im Bereich des öffentlichen Rechts tätig, die die Einhaltung der Sicherheits- und technischen Anforderungen kontrolliert, aber nicht selbst kommerzielle Tätigkeiten auf dem relevanten Markt ausübt. </p><p> </p><p><strong>Zum Abschluss des Bauvertrags</strong></p><p>Zwischen Liepāja SEZ Authority und SIA "ZET" 10. November 2025 eine Vereinbarung über die Reservierung von Baurechten auf dem Gebiet des Industrieparks Liepāja zu Immobilien in der Brivibas Straße geschlossen wurde 111A, Liepāja. Durch die Erfüllung der Bedingungen des baurechtsrechtlichen Reservierungsvertrages bestätigte das Unternehmen seine Bereitschaft, einen Vertrag über die Gewährung von Baurechten im Gebiet des Industrieparks Liepāja abzuschließen, um den Bauplan auf 5 Bau und Inbetriebnahme eines MW Batterie-Energiespeichers (BESS) bis 29. März 2027. </p><p>Der Vorstand von Liepāja SEZ hat die eingereichten Unterlagen bewertet und beschlossen, einen Vertrag über die Erteilung von Baurechten mit der SIA √ ZET auf Immobilien in Brīvības Street 111A, Liepāja, Liepaya Industrial Park Gebiet zu schließen und das Recht auf den Bau bis 2056. 1. Jahr März.</p><p> </p><p><strong>Zustimmung zur Beseitigung</strong></p><p>Der Vorstand von Liepāja SEZ untersuchte die Frage der Immobilien Red iela 13, in Liepāja zum Verkauf bei Auktion, organisiert vom Eigentümer der Gemeinde Liepāja. Da Immobilien für die Ausführung der Hauptfunktionen der Liepāja SEZ Authority nicht notwendig sind, hat sich Liepāja SEZ Board entschlossen, der Entfremdung von Immobilien zuzustimmen.</p><p> </p><p><strong>Bei Reservierung des Grundstücksentwicklungsrechts</strong></p><p>Der Vorstand von Liepāja SEZ überprüfte und beschloss, zwei Verträge für die Reservierung des Rechts auf Grundbau abzuschließen:</p><ul><li>mit SIA "VIA-S Properties" für 2 Jahre, um die Durchführung des Projekts "Erstellung einer Produktionseinheit für die Modulstruktur Häuser im Gebiet von Liepāja Industriepark an der Kreuzung von Engineering und Eksportas Straßen ~ 3.3 ha zu starten;</li><li>mit SIA CIS Liepāja für 2 Jahre über zwei Grundstücke im Gebiet von Liepāja SEZ, nach denen ein neues Grundstück mit Gesamtfläche ~ 31,7 ha erstellt werden. SIA CIS Liepāja plant, die Schaffung einer grünen Wasserstoffanlage im Rahmen des Projekts mit PEM Elektrolyse-Technologie umzusetzen.</li></ul></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/278/870_1773137745_15_03.05.2026._valde_LIP.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/278/original_1773137745_15_03.05.2026._valde_LIP.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/278/original_1773137745_15_03.05.2026._valde_LIP.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -69,12 +69,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -84,12 +84,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -131,7 +131,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

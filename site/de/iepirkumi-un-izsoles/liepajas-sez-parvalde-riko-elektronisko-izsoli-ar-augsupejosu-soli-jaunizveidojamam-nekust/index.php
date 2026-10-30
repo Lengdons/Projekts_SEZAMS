@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="https://liepaja-sez.lv//img/mod/news/301/1785911353_Foto_3.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust" property="og:url"/>
-<meta content="Liepaja SEZ Authority organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in der Dūmu Street 6" property="og:title"/>
+<meta content="Liepāja SEZ Authority organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in der Dūmu Street 6" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Liepaja SEZ Authority organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in der Dūmu Street 6</title>
+<title>Liepāja SEZ Authority organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in der Dūmu Street 6</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="../../../css/main__40614cace7.css" rel="stylesheet"/>
@@ -48,11 +48,11 @@ html.classList.add(localStorage['contrast']);
 <span>E-Mail: <a href="mailto:raivo.spaks@lsez.lv" target="_blank">raivo.spaks@lsez.lv</a></span>
 </div>
 <div class="col-12 col-md-9 mt-md-5">
-<span class="date d-block mt-md-5">Veranschlagt sind Mittel zur Deckung der Finanzierung von Verpflichtungen, die aus den Vorjahren im Rahmen des Pilotprojekts noch nicht abgewickelt werden. 8. August 2026</span>
-<h1 class="article-title">Liepaja SEZ Authority organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in der Dūmu Street 6</h1>
+<span class="date d-block mt-md-5">04. August 2026</span>
+<h1 class="article-title">Liepāja SEZ Authority organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in der Dūmu Street 6</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Liepaja Special Economic Zone Authority, Unified Register No.LV90000329402, organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in der 6 Dūmu Street, Liepaja, die aus einem Gebäude mit der kadastralen Bezeichnung 170220059068 und einer Landeinheit mit einer Katasterbezeichnung 17000220351 mit einer Gesamtfläche von 46 766 m bestehen wird<sup>2</sup>.</p><p>Startpreis √ 480 000,00 EUR (vierhundert achtzigtausend) <i>EUR</i> &amp;amp; 00 Cent), Auktionsschritt 4 800,00 EUR (viertausend achthundert <i>EUR</i> &amp;amp; 00 Cent), Auktionssicherheitsgeld √ 48 000.00 EUR (rund achtundvierzigtausend <i>EUR</i> und 00 Cents). Die Zahlung für den Kauf erfolgt in folgender Reihenfolge:</p><ul><li>Innerhalb von 10 Werktagen nach Inkrafttreten des Vorschlags zahlt der Käufer eine Vorauszahlung von 30% (dreißig Prozent) der Kaufgebühr. </li><li>Der Käufer zahlt den verbleibenden Teil der Kaufgebühr innerhalb von zwei Wochen nach Abschluss des Kaufvertrages.</li></ul><p>Die Auktion beginnt am 04.08.2016. 13:00 Uhr und schließt 03.09.2026. 13.00 Uhr</p><p>Bewerber können sich ab 04.08.26 für die Auktion anmelden. von 13:00 bis 24.08.2016 9.00 Uhr 23:59 auf der Website der elektronischen Auktion:  <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv</a>.</p><p>Die Person, die an der Auktion teilnehmen möchte, muss eine Sicherheit von 10% (zehn Prozent) des Startpreises für die zu versteigernde Immobilie hinterlegen, d. h. 48 000,00 EUR (achtzigtausend EUR) bis zur Anmeldefrist der Auktion <i>EUR</i> und 00 Cent), die dem laufenden Konto der LSEZ Authority gutgeschrieben werden müssen: Liepaja Special Economic Zone Authority, einheitliche Registrierungsnummer. LV90000329402, AS "SEB Banka," Konto Nr. LV42UNLA0012000609480, mit der Kennzeichnung "Immobilien in 6 Dūmu Street, Liepaja, Auktionssicherheit." </p><p>Die Versteigerung erfolgt elektronisch unter: <a href="https://izsoles.ta.gov.lv/" target="_blank">https://izsoles.ta.gov.lv</a>. Auf Immobilien-Auktionsverfahren Anruf 29294267, E-Mail-Adresse: <a href="mailto:raivo.spaks@lsez.lv">raivo.spaks@lsez.lv</a>.</p></div>
+<div class="col"><div class="col-12 output"><p>Liepāja Special Economic Zone Authority, einheitliche Registrierung Nr.LV90000329402, organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in der Dūmu Straße 6, in Liepāja, die aus einem Gebäude mit einer kadastralen Bezeichnung besteht 17000220059068 und Grundeinheiten mit Katasterbezeichnung 17000220351 mit einer Gesamtfläche von 46 766 m<sup>2</sup>.</p><p>Startpreis √ 480 000,00 EUR (vierhundert achtzigtausend) <i>EUR</i> &amp;amp; 00 Cent), Auktionsschritt 4 800,00 EUR (viertausend achthundert <i>EUR</i> &amp;amp; 00 Cent), Auktionssicherheitsgeld √ 48 000.00 EUR (rund achtundvierzigtausend <i>EUR</i> und 00 Cents). Die Zahlung für den Kauf erfolgt in folgender Reihenfolge:</p><ul><li>Innerhalb von 10 Werktagen nach Inkrafttreten des Vorschlags zahlt der Käufer eine Vorauszahlung von 30% (dreißig Prozent) der Kaufgebühr. </li><li>Der Käufer zahlt den verbleibenden Teil der Kaufgebühr innerhalb von zwei Wochen nach Abschluss des Kaufvertrages.</li></ul><p>Auktion beginnt 04.08.2026. Uhr13:00 und schließen 03.09.2026. Uhr13:00</p><p>Bieter können sich für eine Auktion anmelden von: 04.08.2026. Uhr13:00 bis 24.08.2026. Uhr 23:59 auf der Website der elektronischen Auktion:  <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv</a>.</p><p>Die Person, die an der Auktion teilnehmen möchte, muss eine Sicherheit von 10% (zehn Prozent) des Startpreises für die zu versteigernde Immobilie hinterlegen, d. h. 48 000,00 EUR (achtzigtausend EUR) bis zur Anmeldefrist der Auktion <i>EUR</i> und 00 Cent), die dem laufenden Konto der LSEZ Authority gutgeschrieben werden müssen: Liepāja Special Economic Zone Authority, einheitliche Registrierungsnummer. LV90000329402, AS "SEB Banka," Konto Nr. LV42UNLA0012000609480, mit der Kennzeichnung "Immobilien in 6 Dūmu Street, Liepāja, Auktionssicherheit." </p><p>Die Versteigerung erfolgt elektronisch unter: <a href="https://izsoles.ta.gov.lv/" target="_blank">https://izsoles.ta.gov.lv</a>. Auf Immobilien-Auktionsverfahren Anruf 29294267, E-Mail-Adresse: <a href="mailto:raivo.spaks@lsez.lv">raivo.spaks@lsez.lv</a>.</p></div>
 </div>
 </div>
 </div>
@@ -60,7 +60,7 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 col-lg-6 document-single">
 <div class="document-info py-3">
-<div class="date">4. 8. August 2026</div>
+<div class="date">4. August 2026</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
 <a aria-label="Dokument" href="../../../doc/mod/document/384/1785911509_Pielikums_1_Pieteikums_Dalibai_Izsole_Dumu_6.pdf" target="_blank">
 
@@ -77,7 +77,7 @@ Beitrittsantrag
 <div class="row">
 <div class="col-12 col-lg-6 document-single">
 <div class="document-info py-3">
-<div class="date">4. 8. August 2026</div>
+<div class="date">4. August 2026</div>
 <div class="category mb-2">Alle</div>
 <a aria-label="Dokument" href="../../../doc/mod/document/385/1785911554_Pielikums_2_Pirkuma_Liguma_Prieksligums_Dumu_6.docx" target="_blank">
 
@@ -94,7 +94,7 @@ Kaufbrief
 <div class="row">
 <div class="col-12 col-lg-6 document-single">
 <div class="document-info py-3">
-<div class="date">4. 8. August 2026</div>
+<div class="date">4. August 2026</div>
 <div class="category mb-2">Alle</div>
 <a aria-label="Dokument" href="../../../doc/mod/document/386/1785911593_Pielikums_3_Pirkuma_Ligums_Dumu_6.docx" target="_blank">
 
@@ -111,7 +111,7 @@ Kaufvertrag
 <div class="row">
 <div class="col-12 col-lg-6 document-single">
 <div class="document-info py-3">
-<div class="date">4. 8. August 2026</div>
+<div class="date">4. August 2026</div>
 <div class="category mb-2">Alle</div>
 <a aria-label="Dokument" href="../../../doc/mod/document/387/1785911655_Izsoles_Noteikumi_Dumu_6.pdf" target="_blank">
 
@@ -128,7 +128,7 @@ Auktionsregeln
 <div class="row">
 <div class="col-12 col-lg-6 document-single">
 <div class="document-info py-3">
-<div class="date">4. 8. August 2026</div>
+<div class="date">4. August 2026</div>
 <div class="category mb-2">Alle</div>
 <a aria-label="Dokument" href="../../../doc/mod/document/388/1785911709_Pielikums_4_Dumu_6_plans.pdf" target="_blank">
 
@@ -145,7 +145,7 @@ Plan
 <div class="row">
 <div class="col-12 col-lg-6 document-single">
 <div class="document-info py-3">
-<div class="date">4. 8. August 2026</div>
+<div class="date">4. August 2026</div>
 <div class="category mb-2">Alle</div>
 <a aria-label="Dokument" href="../../../doc/mod/document/389/1785911810_Vertejums_Dumu_6.pdf" target="_blank">
 
@@ -162,7 +162,7 @@ Bewertung
 <div class="row">
 <div class="col-12 col-lg-6 document-single">
 <div class="document-info py-3">
-<div class="date">4. 8. August 2026</div>
+<div class="date">4. August 2026</div>
 <div class="category mb-2">Alle</div>
 <a aria-label="Dokument" href="../../../doc/mod/document/390/1785911921_Foto_1.webp" target="_blank">
 
@@ -179,8 +179,8 @@ Foto der Immobilienübersicht
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="../../../img/mod/news/301/870_1785928881_Foto_2.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="../../../img/mod/news/301/original_1785928881_Foto_2.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="../../../img/mod/news/301/original_1785928881_Foto_2.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -200,12 +200,12 @@ Foto der Immobilienübersicht
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Liepaja SEZ Authority organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in Eksporta Straße 3</h4>
-<a class="d-none d-md-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Weiterlesen</a>
+<h4>Die Verwaltung der Sonderwirtschaftszone Liepāja veranstaltet eine elektronische Versteigerung mit aufsteigenden Geboten für eine neu zu bildende Immobilie in der Eksporta iela 3</h4>
+<a class="d-none d-md-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">Liepaja Special Economic Zone Authority, Unified Registrierung No.LV90000329402, organisiert eine elektronische Auktion mit einem Schritt nach oben für neu geschaffene Immobilien in Eksporta iela 3, Liepāja, die aus einer Grundeinheit mit einer Gesamtfläche von 51521 m2 und 12 Gebäuden bestehen wird.</div>
+<div class="col-12 col-md-8 col-lg-9">Die Verwaltung der Sonderwirtschaftszone Liepāja, einheitliche Registrierungsnummer LV90000329402, veranstaltet eine elektronische Versteigerung mit aufsteigenden Geboten für eine neu zu bildende Immobilie in der Eksporta iela 3 in Liepāja. Diese wird aus einem Grundstück mit einer Gesamtfläche von 51521 m2 und 12 Bauwerken bestehen.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -215,14 +215,14 @@ Foto der Immobilienübersicht
 <div class="row">
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Hafen von Liepaja No. 46 Rekonstruktion Bauprojektentwicklung, Bauarbeiten und Autorüberwachung</h4>
-<a class="d-none d-md-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Weiterlesen</a>
+<h4>Planung, Bauarbeiten und Bauüberwachung durch den Planer beim Umbau des Liegeplatzes Nr. 46 im Hafen Liepāja</h4>
+<a class="d-none d-md-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">Gegenstand der Beschaffung: Hafen von Liepaja No. 46 Rekonstruktionsbau Projektentwicklung, Bau und Autorüberwachung ANZAHL LSEZ 2026/12 Der Haupt-CPV-Code: 45241500-3 (Ship Liegeplatzbau). 
+<div class="col-12 col-md-8 col-lg-9">Auftragsgegenstand: Planung, Bauarbeiten und Bauüberwachung durch den Planer beim Umbau des Liegeplatzes Nr. 46 im Hafen Liepāja. VERGABENUMMER LSEZ 2026/12. Haupt-CPV-Code: 45241500-3 (Bauarbeiten für Schiffsanlegestellen).
 
 </div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -232,7 +232,7 @@ Foto der Immobilienübersicht
 <div class="prev">
 </div>
 <div class="next">
-<a aria-label="Weiter" class="next related-pagination" data-page="2" href="index.php">
+<a aria-label="Weiter" class="next related-pagination" data-page="2" href="/site/de/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust/index.php">
 
 Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 </a>
@@ -264,7 +264,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust/index.php"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

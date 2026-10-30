@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/medijiem/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -49,7 +49,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Fotos
@@ -57,7 +57,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -74,15 +74,15 @@ Vorstandssitzungen
 <h2>Schrankfeier für das neue Lager der Firma "Mols L"</h2>
 <span class="mb-3">17.08.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../sparu-svetki-stividorkompanijas-mols-l-jaunajai-noliktavai/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/sparu-svetki-stividorkompanijas-mols-l-jaunajai-noliktavai/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Die Stevedore-Gesellschaft √Mols LÃ1⁄4r baut ein großes Lager von ~5000 Quadratmetern im Hafen von Liepaja und erhöht deutlich seine Lagerhaltung. Gesamtinvestitionen ~ 1,55 Millionen Euro. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../sparu-svetki-stividorkompanijas-mols-l-jaunajai-noliktavai/index.php">Weiterlesen</a>
+<p>Die Firma stevedore baut den Hafen von Liepāja ~5000 Quadratmeter des geräumigen Lagers und erheblich erhöhen Sie Ihre Lagerhaltung. Investitionen insgesamt ~1,55 Mio. EUR. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/sparu-svetki-stividorkompanijas-mols-l-jaunajai-noliktavai/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/306/1787045737_772138390_1019592130888993_810262060967540606_n.webp)">
-<a aria-label="Weiterlesen" href="../sparu-svetki-stividorkompanijas-mols-l-jaunajai-noliktavai/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/sparu-svetki-stividorkompanijas-mols-l-jaunajai-noliktavai/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/306/1787045737_772138390_1019592130888993_810262060967540606_n.webp"/>
 </a>
 </div>
@@ -91,18 +91,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Liepaja Industrie und Hafen Möglichkeiten kennenlernen mit dem Minister der Verteidigung</h2>
+<h2>Liepāja Industrie und Hafen Möglichkeiten kennenlernen mit dem Minister der Verteidigung</h2>
 <span class="mb-3">13.08.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-industrijas-un-ostas-iespejas-iepazist-aizsardzibas-ministrs/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-industrijas-un-ostas-iespejas-iepazist-aizsardzibas-ministrs/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Liepaja hat ein gutes Potenzial für die Entwicklung der militärischen Industrie, so dass nach einem Tag Arbeitsbesuch in Liepāja, sagte Verteidigungsminister Raivis Melnis. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-industrijas-un-ostas-iespejas-iepazist-aizsardzibas-ministrs/index.php">Weiterlesen</a>
+<p>Liepāja hat ein gutes Potenzial für die Entwicklung der militärischen Industrie, so dass nach einem Tag Arbeitsbesuch in Liepāja, sagte Verteidigungsminister Raivis Melnis. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-industrijas-un-ostas-iespejas-iepazist-aizsardzibas-ministrs/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/305/1787045139_I40A9127.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-industrijas-un-ostas-iespejas-iepazist-aizsardzibas-ministrs/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-industrijas-un-ostas-iespejas-iepazist-aizsardzibas-ministrs/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/305/1787045139_I40A9127.webp"/>
 </a>
 </div>
@@ -111,18 +111,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Multifunktionales Schiff "Līva" ergänzt die Liepaja Hafenflotte</h2>
+<h2>Multifunktionales Schiff "Līva" ergänzt die Liepāja Hafenflotte</h2>
 <span class="mb-3">12.08.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../daudzfunkcionals-kugis-liva-papildina-liepajas-ostas-floti/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/daudzfunkcionals-kugis-liva-papildina-liepajas-ostas-floti/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Die Hafenflotte von Liepaja wurde durch das multifunktionale Schiff "Līva" ergänzt, das Liepaja SEZ Authority von LVR Flote vermietet, einer Tochtergesellschaft der Freeport of Riga Authority, die nur ein Angebot eingereicht hat.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../daudzfunkcionals-kugis-liva-papildina-liepajas-ostas-floti/index.php">Weiterlesen</a>
+<p>Die Hafenflotte von Liepāja wurde durch das multifunktionale Schiff "Līva" ergänzt, das Liepāja SEZ Authority von LVR Flote vermietet, einer Tochtergesellschaft der Freeport of Riga Authority, die nur ein Angebot eingereicht hat.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/daudzfunkcionals-kugis-liva-papildina-liepajas-ostas-floti/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/304/1787044360_47548_Liva1.webp)">
-<a aria-label="Weiterlesen" href="../daudzfunkcionals-kugis-liva-papildina-liepajas-ostas-floti/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/daudzfunkcionals-kugis-liva-papildina-liepajas-ostas-floti/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/304/1787044360_47548_Liva1.webp"/>
 </a>
 </div>
@@ -134,15 +134,15 @@ Vorstandssitzungen
 <h2>Ehemaliger Schrottplatz und Gelegenheit für interessante Geschäftsideen</h2>
 <span class="mb-3">10.08.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../bijusais-metalluznu-sagatavosanas-cehs-vieta-un-iespeja-interesantam-biznesa-idejam/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/bijusais-metalluznu-sagatavosanas-cehs-vieta-un-iespeja-interesantam-biznesa-idejam/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Die Liepaja Special Economic Zone (Liepāja SEZ) hat eine Auktion der alten Metallschrottaufbereitungswerkstatt in der 6 Dūmu-Straße, Liepaja, angekündigt. Der Bau von 25,2 Tausend Einheiten wurde zur Entsorgung übertragen. m2 und ~ 46,8 Tausend m2 Land. Die Antragsteller können bis zum 24. März dieses Jahres eine Ausschreibung beantragen. Die Auktion wird auf der versteigerten elektronischen Website schließen, aber die Auktion schließt 3. September um 13.00 Uhr.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../bijusais-metalluznu-sagatavosanas-cehs-vieta-un-iespeja-interesantam-biznesa-idejam/index.php">Weiterlesen</a>
+<p>Die Liepāja Special Economic Zone (Liepāja SEZ) hat eine Auktion der alten Metallschrottaufbereitungswerkstatt in der 6 Dūmu-Straße, Liepāja, angekündigt. Der Bau von 25,2 Tausend Einheiten wurde zur Entsorgung übertragen. m2 und ~ 46,8 Tausend m2 Land. Die Antragsteller können bis zum 24. März dieses Jahres eine Ausschreibung beantragen. Die Auktion wird auf der versteigerten elektronischen Website schließen, aber die Auktion schließt 3. September um 13.00 Uhr.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/bijusais-metalluznu-sagatavosanas-cehs-vieta-un-iespeja-interesantam-biznesa-idejam/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/303/1787042779_50_08.10.2026._LIP_metalluznu cehs__.webp)">
-<a aria-label="Weiterlesen" href="../bijusais-metalluznu-sagatavosanas-cehs-vieta-un-iespeja-interesantam-biznesa-idejam/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/bijusais-metalluznu-sagatavosanas-cehs-vieta-un-iespeja-interesantam-biznesa-idejam/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/303/1787042779_50_08.10.2026._LIP_metalluznu cehs__.webp"/>
 </a>
 </div>
@@ -154,15 +154,15 @@ Vorstandssitzungen
 <h2>Liepājas Leuchtturm beherbergt eine multimediale Ausstellung über den Hafen</h2>
 <span class="mb-3">05.08.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-baka-top-multimediju-ekspozicija-par-liepajas-ostu/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-baka-top-multimediju-ekspozicija-par-liepajas-ostu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Liepaja Leuchtturm öffnet bald seine Türen für die Besucher in einer neuen Form, zu einem einzigartigen kulturellen und touristischen Objekt, wo mit Hilfe moderner Technologien der Hafen von Liepaja wird die Geschichte erzählen, so dass die Besucher die Entwicklung des Hafens von Liepaya von seinen Anfängen bis zu unserem Tag zu erkunden.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-baka-top-multimediju-ekspozicija-par-liepajas-ostu/index.php">Weiterlesen</a>
+<p>Liepāja Leuchtturm öffnet bald seine Türen für die Besucher in einer neuen Form, zu einem einzigartigen kulturellen und touristischen Objekt, wo mit Hilfe moderner Technologien der Hafen von Liepāja wird die Geschichte erzählen, so dass die Besucher die Entwicklung des Hafens von Liepaya von seinen Anfängen bis zu unserem Tag zu erkunden.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-baka-top-multimediju-ekspozicija-par-liepajas-ostu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/302/1785928095_55165969634_dbcf98cb90_o.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-baka-top-multimediju-ekspozicija-par-liepajas-ostu/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-baka-top-multimediju-ekspozicija-par-liepajas-ostu/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/302/1785928095_55165969634_dbcf98cb90_o.webp"/>
 </a>
 </div>
@@ -171,18 +171,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Boards of Liepaja SEZ 15. Beschlüsse vom Juli</h2>
+<h2>Boards of Liepāja SEZ 15. Beschlüsse vom Juli</h2>
 <span class="mb-3">16.07.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-valdes-15-julija-lemumi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-sez-valdes-15-julija-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>15. im Juli fand die ordentliche Sitzung des Vorstands der Liepaja SEZ statt, der die Liepaja-SEZ-Behörde 2025 genehmigte. den Jahresbericht, zusammen mit Entscheidungen über die Nichtnutzung von Vor-Empfangsrechten, den Abschluss eines neuen Schiffsagentursvertrags und mehrerer Aufträge.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-valdes-15-julija-lemumi/index.php">Weiterlesen</a>
+<p>15. im Juli fand die ordentliche Sitzung des Vorstands der Liepāja SEZ statt, der die Liepāja-SEZ-Behörde 2025 genehmigte. den Jahresbericht, zusammen mit Entscheidungen über die Nichtnutzung von Vor-Empfangsrechten, den Abschluss eines neuen Schiffsagentursvertrags und mehrerer Aufträge.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-sez-valdes-15-julija-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/300/1784632239_WhatsApp Image 2026-04-16 at 16.11.18.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-valdes-15-julija-lemumi/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-sez-valdes-15-julija-lemumi/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/300/1784632239_WhatsApp Image 2026-04-16 at 16.11.18.webp"/>
 </a>
 </div>
@@ -191,7 +191,7 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev" data-block="2" data-page="2" data-per-page="6" data-topic="14" href="../2/index.php">
+<a class="news-list-pagination prev" data-block="2" data-page="2" data-per-page="6" data-topic="14" href="/site/de/medijiem/2/index.php">
 <img alt="Zurück" src="../../../img/round-right.svg"/>
 
 Zurück
@@ -199,7 +199,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="2" data-page="4" data-per-page="6" data-topic="14" href="../4/index.php">
+<a class="news-list-pagination next" data-block="2" data-page="4" data-per-page="6" data-topic="14" href="/site/de/medijiem/4/index.php">
 
 Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 </a>
@@ -244,7 +244,7 @@ Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

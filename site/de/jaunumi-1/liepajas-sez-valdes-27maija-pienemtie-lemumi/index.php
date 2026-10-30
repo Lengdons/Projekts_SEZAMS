@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="https://liepaja-sez.lv//img/mod/news/135/1716963724__R1A8112.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/medijiem/liepajas-sez-valdes-27maija-pienemtie-lemumi" property="og:url"/>
-<meta content="Annahme durch den Rat &quot;Liepaja SEZ&quot; am 27. Mai." property="og:title"/>
+<meta content="Annahme durch den Rat &quot;Liepāja SEZ&quot; am 27. Mai." property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Annahme durch den Rat "Liepaja SEZ" am 27. Mai.</title>
+<title>Annahme durch den Rat "Liepāja SEZ" am 27. Mai.</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
@@ -48,17 +48,17 @@ html.classList.add(localStorage['contrast']);
 </div>
 <div class="col-12 col-md-9 mt-md-5">
 <span class="date d-block mt-md-5">29. Mai 2024</span>
-<h1 class="article-title">Annahme durch den Rat "Liepaja SEZ" am 27. Mai.</h1>
+<h1 class="article-title">Annahme durch den Rat "Liepāja SEZ" am 27. Mai.</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Auflage. 27. März 2001 Am Mai fand die Vorstandssitzung der Special Economic Zone Liepaja (Liepāja SEZ) statt, in der 11 Tagesordnungspunkte geprüft, vier Beschlüsse gefasst und Informationsberichte über die Aktivitäten von Liepaja SEZ sowie geplante Entwicklungsprojekte getroffen wurden. </p><p><br/><strong>Zum Abschluss des Investitionsvertrags</strong><br/>Liepaja SEZ Board überprüfte und unterstützte Investitionsprojekte der Liepaja Special Economic Zone Ltd. Kauf von Verpackungsgeräten. Das Projekt soll ab 2024 umgesetzt werden. 1. Jahr Juni bis 2024 31. Dezember 2007 Juli für einen Gesamtbetrag von 9 765,00 EUR.</p><p><br/><strong>Zum Abschluss des Novationsvertrages</strong><br/>2006 17. Mai Im Juni zwischen der Liepaja SEZ Behörde und der Limited Liability Company "Amserv Krasta" unterzeichnete ein Mietvertrag über Immobilien in 146B Brīvības iela, Liepāja. Zweck des Leasingvertrags ist der Bau eines Autosalons sowie die Durchführung anderer kommerzieller Tätigkeiten. Mietdauer √ 2031. 16., 1996 Juli. Nach Prüfung des von Liepaja Property LTD eingereichten Antrags hat die Liepaja SEZ Authority beschlossen, den Mietvertrag durch Aktualisierung des Namens des Mieters auf "Liepaja Propety" Ltd. zu aktualisieren und damit Widersprüche im Mietvertrag und in Bezug auf Landbuchdaten zu vermeiden.</p><p><br/><strong>Zur Änderung des Baurechtsvertrags</strong><br/>2018 vom 14. April 2007 Im Mai hat zwischen der Liepaja SEZ Authority und Liepaja Special Economic Zone (SEF) "BaltEx Bulk" Ltd. eine Vereinbarung über die Gewährung von Baurechten im Gebiet des Hafens von Liepaja, Pulvera iela 11, Liepaja geschlossen. Für die Durchführung des Bauvorhabens √ Warehouse werden Baurechte gewährt 1 Die Laufzeit des Vertrags beträgt 2038. 1. Jahr Juni. Der Vorstand der Liepaja SEZ hat beschlossen, Liepaja Special Economic Zone (SPV) √BaltEx Bulka Ltd. zu unterstützen, um die Fläche des Frachtgebiets im Zusammenhang mit der Zäuneübertragung zu erhöhen und eine Einigung über Änderungen des Baurechtsvertrages zu schließen.</p><p><br/><strong>Für Schlepperdienste</strong><br/>Der Vorstand von Liepaja SEZ überprüfte die eingereichten Dokumente und beschloss, mit der UAB Mabrocona ein Abkommen über Schlepperdienste zu schließen.</p></div>
+<div class="col"><div class="col-12 output"><p>27. Mai 2024 Der Verwaltungsrat der Sonderwirtschaftszone Liepāja (Liepāja SEZ) hielt seine regelmäßige Sitzung ab, in der er Folgendes prüfte: 11 Tagesordnungspunkte, vier Entscheidungen sowie die informativen Berichte über Liepāja SEZ-Aktivitäten und geplante Entwicklungsprojekte wurden getroffen. </p><p><br/><strong>Zum Abschluss des Investitionsvertrags</strong><br/>Liepāja SEZ Board überprüfte und unterstützte Investitionsprojekte der Liepāja Special Economic Zone Ltd. Kauf von Verpackungsgeräten. Das Projekt soll während des Zeitraums von 1. Juni 2024 bis 31. Juli 2024 über den Gesamtbetrag 9 765,00 EUR</p><p><br/><strong>Zum Abschluss des Novationsvertrages</strong><br/>17. Juni 2006 zwischen der Liepāja SEZ Authority und der Limited Liability Company "Amserv Krasta" hat eine Mietvereinbarung über Immobilien in Brīvības iela abgeschlossen 146B, Liepāja. Zweck des Leasingvertrags ist der Bau eines Autosalons sowie die Durchführung anderer kommerzieller Tätigkeiten. Mietdauer 16. Juli 2031. Nach Prüfung der Anwendung von Liepāja Property, SIA, Liepāja SEZ Authority beschlossen, den Mietvertrag durch Aktualisierung des Namens des Mieters auf "Liepāja Properaty" SIA zu aktualisieren und damit Widersprüche im Mietvertrag und Landbuchdaten zu beseitigen.</p><p><br/><strong>Zur Änderung des Baurechtsvertrags</strong><br/>14. Mai 2018 zwischen der Liepāja SEZ Authority und Liepāja Special Economic Zones, BaltEx Bulk, Ltd. eine Vereinbarung über die Gewährung von Baurechten im Gebiet des Hafens von Liepāja, Pulvera Street 11, Liepāja. Baurecht gewährt Bauprojekt √ Lager √ 1Für Marketingzwecke. Laufzeit des Vertrags 1. Juni 2038. Der Vorstand der Liepāja SEZ hat beschlossen, die Sonderwirtschaftszone Liepāja (SPV) √BaltEx Bulka SIA zu unterstützen, um das Frachtgebiet im Zusammenhang mit der Zäuneübertragung zu erhöhen und eine Einigung über Änderungen des Baurechtsvertrags zu schließen.</p><p><br/><strong>Für Schlepperdienste</strong><br/>Der Vorstand von Liepāja SEZ überprüfte die eingereichten Dokumente und beschloss, mit der UAB Mabrocona ein Abkommen über Schlepperdienste zu schließen.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/135/870_1716963724__R1A8112.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/135/original_1716963724__R1A8112.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/135/original_1716963724__R1A8112.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

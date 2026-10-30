@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="https://liepaja-sez.lv//img/mod/news/128/1714458492_18_04.26.2024._Karostas kanals_sanacija.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/medijiem/liepajas-sez-parvalde-nosledz-projekta-sanacijas-darbus" property="og:url"/>
-<meta content="Liepaja SEZ Authority schließt Durchführung des Projekts &quot;Historisch kontaminierte Standorte im Hafen von Liepaja Karosta Canal Erholungsarbeiten&quot;" property="og:title"/>
+<meta content="Liepāja SEZ Authority schließt Durchführung des Projekts &quot;Historisch kontaminierte Standorte im Hafen von Liepāja Karosta Canal Erholungsarbeiten&quot;" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Liepaja SEZ Authority schließt Durchführung des Projekts "Historisch kontaminierte Orte im Hafen von Liepaja Karosta Canal Erholung arbeitet"</title>
+<title>Liepāja SEZ Authority schließt Durchführung des Projekts "Historisch kontaminierte Orte im Hafen von Liepāja Karosta Canal Erholung arbeitet"</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
@@ -47,18 +47,18 @@ html.classList.add(localStorage['contrast']);
 <span>E-Mail: <a href="mailto:liga.ratniece-kadege@lsez.lv" target="_blank">liga.ratniece-kadege@lsez.lv</a></span>
 </div>
 <div class="col-12 col-md-9 mt-md-5">
-<span class="date d-block mt-md-5">30. 22. April 2024</span>
-<h1 class="article-title">Liepaja SEZ Authority schließt Durchführung des Projekts "Historisch kontaminierte Standorte im Hafen von Liepaja Karosta Canal Erholungsarbeiten"</h1>
+<span class="date d-block mt-md-5">30. April 2024</span>
+<h1 class="article-title">Liepāja SEZ Authority schließt Durchführung des Projekts "Historisch kontaminierte Standorte im Hafen von Liepāja Karosta Canal Erholungsarbeiten"</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p><strong>Auflage. 30. März 2004 Im April beendet die Liepaja SEZ-Behörde Wiederaufbauarbeiten des Karostakanals des Hafens von Liepaja, der aus dem norwegischen Finanzierungsmechanismus 2014-2021 finanziert wird. Im Rahmen des Jahresprogramms "Klimaänderung, Anpassung und Umwelt" sollen negative Auswirkungen auf die Umwelt, die menschliche Gesundheit und den ökologischen Status der Ostsee des Karosta-Kanals verringert werden.</strong></p><p>Uldis Hmielevskis, Liepaja SEZ Geschäftsführer: Die Sanierungsarbeiten des Karosta-Kanals im Hafen von Liepaja sind ein wichtiger Beitrag nicht nur zur Verbesserung der Umweltqualität des Hafens, sondern auch zur Stadt und Region, wo jedes Kubikmeter historisch kontaminierter Ablagerungen vom Kanal entfernt die mögliche Schadstoffentladung in die Ostsee reduziert Umwelt. Die Liepaja SEZ Behörde wird nicht nur die Durchführung des Projekts überwachen, sondern auch den Umweltzustand des Karastas-Kanals so weit wie möglich verbessern. Den Projektpartnern, die einen wichtigen Beitrag zur Gewährleistung des Transfers internationaler Erfahrungen und zur Verbesserung des Bewusstseins der Öffentlichkeit für die Umsetzung historischer Sanierungsarbeiten am Karosta-Kanal geleistet haben, muss ein gewisser Dank zuteil werden.</p><p>Um die Erreichung der Projektziele zu gewährleisten, arbeitete die Liepaja SEZ Authority bei der Durchführung des Projekts mit den Projektpartnern Norwegian Water Research Institute (NIVA) und Baltic Coast Society zusammen. Folgende Kompetenzen wurden sichergestellt:</p><ul><li>Das norwegische Wasserforschungsinstitut (NIVA) war für die norwegischen Erfahrungen verantwortlich, die mit der Sanierung, dem Transfer und der Nutzung kontaminierter Gewässer zur Reinigung der historischen Verschmutzung des Karostakanals des Hafens von Liepaja zusammenhängen;</li><li>Der Verein "Ostküsten" sorgte für die Umsetzung der öffentlichen Informationsaktivitäten des Projekts.</li></ul><p>Im Projektzeitraum ab 2021. 1. Jahr Im August wurden folgende Tätigkeiten durchgeführt:</p><ul><li>Sanierungsarbeiten des Karosta-Kanals, in denen 145 Tausend Kubikmeter historisch kontaminierter Sedimente aus dem Bett entfernt wurden, mit 298 Tonnen gefährlichen chemischen Stoffen und zur Lagerstätte für kontaminierte Ablagerungen des Kanals verbracht wurden;</li><li>Einrichtung eines nachhaltigen Überwachungsnetzes für den Karosta-Kanal;</li><li>Drei Erfahrungsaustausche mit Spezialisten des norwegischen Wasserforschungsinstituts (NIVA), <a href="http://t.sk/" target="_blank">davon</a>. über die Durchführung von Sanierungsprojekten in kontaminierten Meeresumgebungen, das Management kontaminierter Gebiete und die Bewertung des Risikos der Meeresverschmutzung;</li><li>Drei öffentliche Sensibilisierungskampagnen über mögliche Auswirkungen der Umweltverschmutzung auf die menschliche Gesundheit; <a href="http://t.sk/" target="_blank">davon</a>. Internationale Konferenz über Auswirkungen des Klimawandels Risiken für die Verbreitung historischer Umweltverschmutzungen und -qualitäten in der Ostsee, Seminare zu den Auswirkungen der Verschmutzung durch den Kanal Liepaja Karosta auf den ökologischen Status von Venta-Becken und Ostsee, Management und Verringerung von Schadstoffen; Auswirkungen auf die menschliche Gesundheit und die Umwelt, kulturhistorischer Informationstag sowie Vorbereitung von informativen Videos und gedruckten Materialien. </li></ul><p> </p><p><strong>                                                                                                                        Wir arbeiten zusammen für ein grünes Europa!</strong></p><p>Das Projekt wird durch den norwegischen Finanzierungsmechanismus 2014/2021 finanziert. Das jährliche Programm für Klimaschutz, Anpassung und Umwelt. Die Gesamtkosten des Projekts belaufen sich auf 4 737 722,26 EUR, wovon 4 027 063,92 EUR aus dem norwegischen Finanzierungsmechanismus finanziert werden.</p></div>
+<div class="col"><div class="col-12 output"><p><strong>30. April 2024 Liepāja SEZ Authority schließt die Wiederaufbauarbeiten des Karosta-Kanals des Hafens von Liepāja, der durch den norwegischen Finanzierungsmechanismus finanziert wird 2014.–2021. Im Rahmen des Jahresprogramms "Klimaänderung, Anpassung und Umwelt" sollen negative Auswirkungen auf die Umwelt, die menschliche Gesundheit und den ökologischen Status der Ostsee des Karosta-Kanals verringert werden.</strong></p><p>Uldis Hmielevskis, Liepāja SEZ Geschäftsführer: Die Sanierungsarbeiten des Karosta-Kanals im Hafen von Liepāja sind ein wichtiger Beitrag nicht nur zur Verbesserung der Umweltqualität des Hafens, sondern auch zur Stadt und Region, wo jedes Kubikmeter historisch kontaminierter Ablagerungen vom Kanal entfernt die mögliche Schadstoffentladung in die Ostsee reduziert Umwelt. Die Liepāja SEZ Behörde wird nicht nur die Durchführung des Projekts überwachen, sondern auch den Umweltzustand des Karastas-Kanals so weit wie möglich verbessern. Den Projektpartnern, die einen wichtigen Beitrag zur Gewährleistung des Transfers internationaler Erfahrungen und zur Verbesserung des Bewusstseins der Öffentlichkeit für die Umsetzung historischer Sanierungsarbeiten am Karosta-Kanal geleistet haben, muss ein gewisser Dank zuteil werden.</p><p>Um die Erreichung der Projektziele zu gewährleisten, arbeitete die Liepāja SEZ Authority bei der Durchführung des Projekts mit den Projektpartnern Norwegian Water Research Institute (NIVA) und Baltic Coast Society zusammen. Folgende Kompetenzen wurden sichergestellt:</p><ul><li>Das norwegische Wasserforschungsinstitut (NIVA) war für die norwegischen Erfahrungen verantwortlich, die mit der Sanierung, dem Transfer und der Nutzung kontaminierter Gewässer zur Reinigung der historischen Verschmutzung des Karostakanals des Hafens von Liepāja zusammenhängen;</li><li>Der Verein "Ostküsten" sorgte für die Umsetzung der öffentlichen Informationsaktivitäten des Projekts.</li></ul><p>Im Projektzeitraum ab 2021. 1. Jahr Im August wurden folgende Tätigkeiten durchgeführt:</p><ul><li>Sanierungsarbeiten des Karosta-Kanals, in denen 145 Tausend Kubikmeter historisch kontaminierter Sedimente aus dem Bett entfernt wurden, mit 298 Tonnen gefährlichen chemischen Stoffen und zur Lagerstätte für kontaminierte Ablagerungen des Kanals verbracht wurden;</li><li>Einrichtung eines nachhaltigen Überwachungsnetzes für den Karosta-Kanal;</li><li>Drei Erfahrungsaustausche mit Spezialisten des norwegischen Wasserforschungsinstituts (NIVA), <a href="http://t.sk/" target="_blank">davon</a>. über die Durchführung von Sanierungsprojekten in kontaminierten Meeresumgebungen, das Management kontaminierter Gebiete und die Bewertung des Risikos der Meeresverschmutzung;</li><li>Drei öffentliche Sensibilisierungskampagnen über mögliche Auswirkungen der Umweltverschmutzung auf die menschliche Gesundheit; <a href="http://t.sk/" target="_blank">davon</a>. Internationale Konferenz über Auswirkungen des Klimawandels Risiken für die Verbreitung historischer Umweltverschmutzungen und -qualitäten in der Ostsee, Seminare zu den Auswirkungen der Verschmutzung durch den Kanal Liepāja Karosta auf den ökologischen Status von Venta-Becken und Ostsee, Management und Verringerung von Schadstoffen; Auswirkungen auf die menschliche Gesundheit und die Umwelt, kulturhistorischer Informationstag sowie Vorbereitung von informativen Videos und gedruckten Materialien. </li></ul><p> </p><p><strong>                                                                                                                        Wir arbeiten zusammen für ein grünes Europa!</strong></p><p>Das Projekt wird durch den norwegischen Finanzierungsmechanismus 2014/2021 finanziert. Das jährliche Programm für Klimaschutz, Anpassung und Umwelt. Die Gesamtkosten des Projekts belaufen sich auf 4 737 722,26 EUR, wovon 4 027 063,92 EUR aus dem norwegischen Finanzierungsmechanismus finanziert werden.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/128/870_1735817273_nor-grants.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/128/original_1735817273_nor-grants.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/128/original_1735817273_nor-grants.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

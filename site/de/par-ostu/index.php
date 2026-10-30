@@ -40,7 +40,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../investe-liepaja/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/investe-liepaja/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Investieren in Liepāja
@@ -56,7 +56,7 @@ Hafen
 </a>
 <div class="sidebar-nested ps-md-4">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/par-ostu/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Über den Hafen
@@ -64,7 +64,7 @@ Hafen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../pramju-satiksme/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/pramju-satiksme/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Fährverkehr
@@ -72,7 +72,7 @@ Fährverkehr
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../kruiza-kugi/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/kruiza-kugi/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Kreuzfahrtschiffe
@@ -80,7 +80,7 @@ Kreuzfahrtschiffe
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../jahtu-osta/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/jahtu-osta/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Yachthafen
@@ -88,7 +88,7 @@ Yachthafen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../oskara-kalpaka-tilts/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/oskara-kalpaka-tilts/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Oskars-Kalpaks-Brücke
@@ -98,7 +98,7 @@ Oskars-Kalpaks-Brücke
 </div>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../kapitalsabiedribas/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/kapitalsabiedribas/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Unternehmen
@@ -106,7 +106,7 @@ Unternehmen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../attistibas-projekti/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/attistibas-projekti/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Entwicklungsprojekte
@@ -114,7 +114,7 @@ Entwicklungsprojekte
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../darbs-liepaja/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/darbs-liepaja/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Stellenangebote in Liepāja
@@ -122,7 +122,7 @@ Stellenangebote in Liepāja
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../teritoriju-karte/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/teritoriju-karte/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Gebietskarte
@@ -184,7 +184,7 @@ Gebietskarte
 <li class="glide__slide jarallax-banner d-flex" style='background-image:url("https://liepaja-sez.lv/img/block/banner/39/1706515082_LSEZ_aero (471).webp")'>
 <span class="filler"></span>
 <div class="container d-flex z-2">
-<div class="content"><h5 class="animate__animated animate__fadeInUp">Hafen von Liepaja</h5>
+<div class="content"><h5 class="animate__animated animate__fadeInUp">Hafen von Liepāja</h5>
 </div>
 </div>
 </li> </ul>
@@ -192,7 +192,7 @@ Gebietskarte
 </div>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><h6>Der Hafen von Liepaja ist einer der wichtigsten Verkehrs- und Transitadern in der Region, die einen effizienten Frachtfluss gewährleisten und die baltischen Staaten mit den globalen Märkten verbinden</h6></div>
+<div class="col"><div class="col-12 output"><h6>Der Hafen von Liepāja ist einer der wichtigsten Verkehrs- und Transitadern in der Region, die einen effizienten Frachtfluss gewährleisten und die baltischen Staaten mit den globalen Märkten verbinden</h6></div>
 </div>
 </div>
 </div>
@@ -211,7 +211,7 @@ Gebietskarte
 </div>
 <div class="col-12 col-md-4 column-content">
 <img alt="Symbol" class="icon" src="../../img/block/columns/163/1725607343_kravas-auto-noliktava.svg"/>
-<p> </p><p>Freie Ladungsbereiche</p><h5><strong>545 000 m2</strong></h5><p> </p><p>Geschlossene Lagereinrichtungen</p><h5><strong>160.000 m2</strong></h5><p> </p><p>Behälter für flüssige Ladung</p><h5><strong>115 000 m<sup>3</sup></strong></h5><p> </p><p>Trockene Frachtsilos</p><h5><strong>45 000 m<sup>3</sup></strong></h5>
+<p> </p><p>Freie Ladungsbereiche</p><h5><strong>545 000 </strong></h5><p> </p><p>Geschlossene Lagereinrichtungen</p><h5><strong>160 000 </strong></h5><p> </p><p>Behälter für flüssige Ladung</p><h5><strong>115 000 m<sup>3</sup></strong></h5><p> </p><p>Trockene Frachtsilos</p><h5><strong>45 000 m<sup>3</sup></strong></h5>
 </div>
 </div>
 </div>
@@ -230,7 +230,7 @@ Winternavigation
 </div>
 <div aria-labelledby="heading4960" class="collapse" data-parent="#accordion" id="collapse4960">
 <div class="card-body">
-<p>Nach dem Kabinett von den Ministern Vorschriften Winter-Navigation in allen Häfen von Lettland beginnt 15. 15. Dezember und endet im 15. April. Die Winternavigation bedeutet, dass Reeder verpflichtet sind, Schiffe für eine sichere Navigation bei negativen Lufttemperaturen in diesem Zeitraum vorzubereiten. Das Schiff muss mit Ausrüstung ausgestattet sein, um den Rumpf von der Vereisung zu befreien.</p><p>Die Entscheidung über den Start der Eisnavigation im Hafen von Liepaja sowie die Notwendigkeit, Eisbrecher zu verwenden, wird vom Meister des Hafens von Liepaja auf der Grundlage der operativen Situation im Hafen Aquatorium getroffen. Leedbreaker Service im Hafen von Liepaja wird von einem kommerziellen Unternehmen zur Verfügung gestellt, aber der Kapitän des Hafens ist für die operative Verwaltung der Eisbrecher verantwortlich.</p><br/>
+<p>Nach dem Kabinett von den Ministern Regeln Winter-Navigation in allen Häfen von Lettland beginnt 15. Dezember und Ende 15. April. Die Winternavigation bedeutet, dass Reeder verpflichtet sind, Schiffe für eine sichere Navigation bei negativen Lufttemperaturen in diesem Zeitraum vorzubereiten. Das Schiff muss mit Ausrüstung ausgestattet sein, um den Rumpf von der Vereisung zu befreien.</p><p>Die Entscheidung über den Start der Eisnavigation im Hafen von Liepāja sowie die Notwendigkeit, Eisbrecher zu verwenden, wird vom Meister des Hafens von Liepāja auf der Grundlage der operativen Situation im Hafen Aquatorium getroffen. Leedbreaker Service im Hafen von Liepāja wird von einem kommerziellen Unternehmen zur Verfügung gestellt, aber der Kapitän des Hafens ist für die operative Verwaltung der Eisbrecher verantwortlich.</p><br/>
 </div>
 </div>
 </div>
@@ -246,7 +246,7 @@ Bestimmungen für Yachten und kleine Schiffe
 </div>
 <div aria-labelledby="heading4961" class="collapse" data-parent="#accordion" id="collapse4961">
 <div class="card-body">
-<p>Um einen sicheren Versand zu organisieren, empfiehlt es sich, untergroße Schiffe mit Ultra-Kurzwellen-Radiogeräten dauerhaft mit Funkdiensten auszustatten. 11 Canal.</p><p>Es ist zu berücksichtigen, dass ein Mitglied der Schifffahrtsindustrie, das sicher außerhalb großer Fairways navigieren kann, nicht die Beförderung von Schiffen auf ihnen beeinträchtigen darf. Die Beförderung von Yachten und kleinen Schiffen in einem Hafen muss so erfolgen, dass sie nicht mit Schiffen auf dem Fairway stören. Bei der Schifffahrt im Aquatorium des Hafens von Liepaja müssen die Vorschriften über den Schiffsverkehr in Binnengewässern und den Hafen von Liepāja eingehalten werden.</p><p>Ein Boot, ein Boot oder ein Freizeitfahrzeug mit einer Länge von weniger als 24 Metern gilt als Unterwasserschiff.</p><p>Für Yachten und Sportboote ist die Navigation auf dem kommerziellen Kanal erlaubt.</p><p>Geschwindigkeitsbegrenzung für unterdimensionierte Schiffe im Handelskanal 5 Knoten (9 km/h). Der Rest des Aquators des Hafens setzt keine Geschwindigkeitsbegrenzung fest, sondern muss mit Geschwindigkeiten fahren, die andere Verkehrsteilnehmer, Personen, Ankerboote und andere schwimmende oder feste Strukturen nicht gefährden, insbesondere unter Berücksichtigung der Wellenwirkung des Wasserwerks.</p><br/>
+<p>Um einen sicheren Versand zu organisieren, empfiehlt es sich, untergroße Schiffe mit Ultra-Kurzwellen-Radiogeräten dauerhaft mit Funkdiensten auszustatten. 11 Canal.</p><p>Es ist zu berücksichtigen, dass ein Mitglied der Schifffahrtsindustrie, das sicher außerhalb großer Fairways navigieren kann, nicht die Beförderung von Schiffen auf ihnen beeinträchtigen darf. Die Beförderung von Yachten und kleinen Schiffen in einem Hafen muss so erfolgen, dass sie nicht mit Schiffen auf dem Fairway stören. Bei der Schifffahrt im Aquatorium des Hafens von Liepāja müssen die Vorschriften über den Schiffsverkehr in Binnengewässern und den Hafen von Liepāja eingehalten werden.</p><p>Ein Boot, ein Boot oder ein Freizeitfahrzeug mit einer Länge von weniger als 24 Metern gilt als Unterwasserschiff.</p><p>Für Yachten und Sportboote ist die Navigation auf dem kommerziellen Kanal erlaubt.</p><p>Geschwindigkeitsbegrenzung für unterdimensionierte Schiffe im Handelskanal 5 Knoten (9 km/h). Der Rest des Aquators des Hafens setzt keine Geschwindigkeitsbegrenzung fest, sondern muss mit Geschwindigkeiten fahren, die andere Verkehrsteilnehmer, Personen, Ankerboote und andere schwimmende oder feste Strukturen nicht gefährden, insbesondere unter Berücksichtigung der Wellenwirkung des Wasserwerks.</p><br/>
 </div>
 </div>
 </div>
@@ -262,7 +262,7 @@ Wirtschaftsteilnehmer im Hafen
 </div>
 <div aria-labelledby="heading4962" class="collapse" data-parent="#accordion" id="collapse4962">
 <div class="card-body">
-<figure class="table"><table><tbody><tr><td><h5> </h5><h5><strong>Umweltdienstleistungen</strong></h5><h5> </h5></td><td> </td></tr><tr><td>SIA “Lautus”</td><td>Tel: (+371) 67281246</td></tr><tr><td>SIA “PCE”</td><td>Tel: (+371) 63620348</td></tr><tr><td>SIA “eSYS PRO”</td><td>Tel: (+371) 26524027</td></tr><tr><td>UAB “Memelio inkaras”</td><td>Tel: (+370) 61672777</td></tr><tr><td>SIA “Eco Baltia Vide”  </td><td>Tel. (+371) 2201339</td></tr><tr><td>SIA “Corvus Company”</td><td>Tel. (371) 67321381</td></tr><tr><td><h5> </h5><h5><strong>Sicherheitsdienste</strong></h5><p> </p></td><td> </td></tr><tr><td>AS “G4S Latvia”</td><td>Tel: (+371) 67 516 975</td></tr><tr><td>SIA “Koblenz drošība”</td><td>Tel: (+371) 28368818</td></tr><tr><td>SIA √Forus Grupa</td><td>Tel: (+371) 67803330</td></tr><tr><td>SIA “eSYS PRO” </td><td>Tel: (+371) 26524027</td></tr><tr><td><p> </p><h5><strong>Erhebungsdienste </strong></h5><h4> </h4></td><td> </td></tr><tr><td>SIA “SGS Latvija LTD”</td><td>Tel: (+371) 67326163</td></tr><tr><td>SIA “Sekargas Latvija”</td><td>Tel: (+371) 63488528</td></tr><tr><td>SIA “Incolab Services Latvia”</td><td>Tel: (+371) 67321 839</td></tr><tr><td>SIA “Latsert Inspecion” </td><td>Tel: (+371) 29233551</td></tr><tr><td><h5> </h5><h5><strong>Lieferung von Kraftstoffen und Schmierstoffen an Schiffe (Bunking)</strong></h5><p> </p></td><td> </td></tr><tr><td>LSEZ Ltd. Bīļuks komercija Evija"</td><td>Tel: (+371) 634 04990</td></tr><tr><td>SIA “Baltimar VT”</td><td>Tel. (+371) 63 664 080</td></tr><tr><td>Ltd.</td><td>Tel: (+371) 67500111</td></tr><tr><td>SIA √ IDP Inudstrija</td><td>Tel: (+371) 29226612</td></tr><tr><td><h5> </h5><h5><strong>Schiffslieferant</strong></h5><h5> </h5></td><td> </td></tr><tr><td>SIA √Tosmare Shipping Agency</td><td>Tel: (+371) 20041693</td></tr><tr><td>SIA “ALVINA Ship Agency”</td><td>Tel: (+371) 26531583</td></tr><tr><td>SIA “Baltic Ship Supplies”</td><td>Tel: (+371) 20302090</td></tr><tr><td>SIA “Lions ar serviss”</td><td>Tel: (+371) 20110532</td></tr><tr><td>SIA “Garant Safety”</td><td>Tel: (+371) 67620722</td></tr><tr><td>SIA “Unimars Navigation”</td><td>Tel: (+371) 67076383</td></tr><tr><td>UAB "Baltijos Brigantina"</td><td>Tel: (+370) 46411245</td></tr><tr><td>UAB “Unimars”</td><td>Tel: (+370) 46300603</td></tr><tr><td>UAB “Mariteksa”</td><td>Tel: (+370) 46485148</td></tr><tr><td>SIA “Unimars Baltic Supply”</td><td>Tel. (+371) 6707636</td></tr><tr><td><h5> </h5><h5><strong>Schiffsreparatur</strong></h5><h5> </h5></td><td> </td></tr><tr><td>SIA “AGA Group”</td><td>Tel: (+371) 27171571</td></tr><tr><td>UAB “Memelio inkaras”</td><td>Tel: (+370) 61672777</td></tr><tr><td>SIA “GTS Project”</td><td>Tel: (+371) 26023374</td></tr><tr><td>SIA “KM Ship Management”</td><td>Tel: (+371) 66255700</td></tr><tr><td><h5> </h5><h5><strong>Wasserausgleichsleistungen und Unterwassertechnische Arbeiten</strong></h5><h5> </h5></td><td> </td></tr><tr><td>SIA “Eprons”</td><td>Tel: (+371) 67248877</td></tr><tr><td>Projekt SIA √GTS</td><td>Tel: (+371) 26023374</td></tr><tr><td>SIA “Taifun”</td><td>Tel: (+371) 28226000</td></tr><tr><td>SIA Rīgas ražošanas un commerciala birojs</td><td>Tel: (+371) 29212053</td></tr><tr><td>SIA “DTSDIVE” </td><td>Tel: (+371) 29277421</td></tr><tr><td>SIA “Promaster”</td><td>Tel: (+371) 26133862</td></tr><tr><td><h5> </h5><h5><strong>Freizeitausflüge</strong></h5><h5> </h5></td><td> </td></tr><tr><td>SIA “Proalifing”</td><td>Tel: (+371) 26779025</td></tr><tr><td>SIA “Majoka”</td><td>Tel: (+371) 29258789</td></tr><tr><td><h5> </h5><h5><strong>Stividing-Dienstleistungen</strong></h5><h5> </h5></td><td> </td></tr><tr><td>SIA “BB Stevedoring”</td><td>Tel. (+371) 29225095</td></tr><tr><td>SIA “Sparrow Line Logistics”</td><td>Tel. (+371) 29402379</td></tr><tr><td>LSEZ Ltd. </td><td>Tel. (+371) 20211294</td></tr><tr><td><p> </p><p><strong>Technische Inspektion der hydrotechnischen Strukturen und</strong> <strong>Designarbeiten</strong></p><p> </p></td><td> </td></tr><tr><td>SIA “Alserviss pluss”</td><td>Tel. (+371) 26784246</td></tr></tbody></table></figure><br/>
+<figure class="table"><table><tbody><tr><td><h5> </h5><h5><strong>Umweltdienstleistungen</strong></h5><h5> </h5></td><td> </td></tr><tr><td>SIA “Lautus”</td><td>Tel: (+371) 67281246</td></tr><tr><td>SIA “PCE”</td><td>Tel: (+371) 63620348</td></tr><tr><td>SIA “eSYS PRO”</td><td>Tel: (+371) 26524027</td></tr><tr><td>UAB “Memelio inkaras”</td><td>Tel: (+370) 61672777</td></tr><tr><td>SIA “Eco Baltia Vide”  </td><td>Tel. (+371) 22013939</td></tr><tr><td>SIA “Corvus Company”</td><td>Tel. (371) 67321381</td></tr><tr><td><h5> </h5><h5><strong>Sicherheitsdienste</strong></h5><p> </p></td><td> </td></tr><tr><td>AS “G4S Latvia”</td><td>Tel: (+371) 67 516 975</td></tr><tr><td>SIA “Koblenz drošība”</td><td>Tel: (+371) 28368818</td></tr><tr><td>SIA √Forus Grupa</td><td>Tel: (+371) 67803330</td></tr><tr><td>SIA “eSYS PRO” </td><td>Tel: (+371) 26524027</td></tr><tr><td><p> </p><h5><strong>Erhebungsdienste </strong></h5><h4> </h4></td><td> </td></tr><tr><td>SIA “SGS Latvija LTD”</td><td>Tel: (+371) 67326163</td></tr><tr><td>SIA “Sekargas Latvija”</td><td>Tel: (+371) 63488528</td></tr><tr><td>SIA “Incolab Services Latvia”</td><td>Tel: (+371) 67321 839</td></tr><tr><td>SIA “Latsert Inspecion” </td><td>Tel: (+371) 29233551</td></tr><tr><td><h5> </h5><h5><strong>Lieferung von Kraftstoffen und Schmierstoffen an Schiffe (Bunking)</strong></h5><p> </p></td><td> </td></tr><tr><td>LSEZ Ltd. Bīļuks komercija Evija"</td><td>Tel: (+371) 634 04990</td></tr><tr><td>SIA “Baltimar VT”</td><td>Tel. (+371) 63 664 080</td></tr><tr><td>Ltd.</td><td>Tel: (+371) 67500111</td></tr><tr><td>SIA √ IDP Inudstrija</td><td>Tel: (+371) 29226612</td></tr><tr><td><h5> </h5><h5><strong>Schiffslieferant</strong></h5><h5> </h5></td><td> </td></tr><tr><td>SIA √Tosmare Shipping Agency</td><td>Tel: (+371) 20041693</td></tr><tr><td>SIA “ALVINA Ship Agency”</td><td>Tel: (+371) 26531583</td></tr><tr><td>SIA “Baltic Ship Supplies”</td><td>Tel: (+371) 20302090</td></tr><tr><td>SIA “Lions ar serviss”</td><td>Tel: (+371) 20110532</td></tr><tr><td>SIA “Garant Safety”</td><td>Tel: (+371) 67650722</td></tr><tr><td>SIA “Unimars Navigation”</td><td>Tel: (+371) 67076383</td></tr><tr><td>UAB "Baltijos Brigantina"</td><td>Tel: (+370) 46411245</td></tr><tr><td>UAB “Unimars”</td><td>Tel: (+370) 46300603</td></tr><tr><td>UAB “Mariteksa”</td><td>Tel: (+370) 46485148</td></tr><tr><td>SIA “Unimars Baltic Supply”</td><td>Tel. (+371) 6707636</td></tr><tr><td><h5> </h5><h5><strong>Schiffsreparatur</strong></h5><h5> </h5></td><td> </td></tr><tr><td>SIA “AGA Group”</td><td>Tel: (+371) 27171571</td></tr><tr><td>UAB “Memelio inkaras”</td><td>Tel: (+370) 61672777</td></tr><tr><td>SIA “GTS Project”</td><td>Tel: (+371) 26023374</td></tr><tr><td>SIA “KM Ship Management”</td><td>Tel: (+371) 66255700</td></tr><tr><td><h5> </h5><h5><strong>Wasserausgleichsleistungen und Unterwassertechnische Arbeiten</strong></h5><h5> </h5></td><td> </td></tr><tr><td>SIA “Eprons”</td><td>Tel: (+371) 67248877</td></tr><tr><td>Projekt SIA √GTS</td><td>Tel: (+371) 26023374</td></tr><tr><td>SIA “Taifun”</td><td>Tel: (+371) 28226000</td></tr><tr><td>SIA Rīgas ražošanas un commerciala birojs</td><td>Tel: (+371) 29212053</td></tr><tr><td>SIA “DTSDIVE” </td><td>Tel: (+371) 29277421</td></tr><tr><td>SIA “Promaster”</td><td>Tel: (+371) 26133862</td></tr><tr><td><h5> </h5><h5><strong>Freizeitausflüge</strong></h5><h5> </h5></td><td> </td></tr><tr><td>SIA “Proalifing”</td><td>Tel: (+371) 26779025</td></tr><tr><td>SIA “Majoka”</td><td>Tel: (+371) 29258789</td></tr><tr><td><h5> </h5><h5><strong>Stividing-Dienstleistungen</strong></h5><h5> </h5></td><td> </td></tr><tr><td>SIA “BB Stevedoring”</td><td>Tel. (+371) 29225095</td></tr><tr><td>SIA “Sparrow Line Logistics”</td><td>Tel. (+371) 29402379</td></tr><tr><td>LSEZ Ltd. </td><td>Tel. (+371) 20211294</td></tr><tr><td><p> </p><p><strong>Technische Inspektion der hydrotechnischen Strukturen und</strong> <strong>Designarbeiten</strong></p><p> </p></td><td> </td></tr><tr><td>SIA “Alserviss pluss”</td><td>Tel. (+371) 26784246</td></tr></tbody></table></figure><br/>
 </div>
 </div>
 </div>
@@ -278,7 +278,7 @@ Agent-Serviceanbieter
 </div>
 <div aria-labelledby="heading4963" class="collapse" data-parent="#accordion" id="collapse4963">
 <div class="card-body">
-<p> </p><figure class="table"><table><tbody><tr><td><p><strong>LSEZ Ltd.</strong></p><p>Tel. (+371) 22322760, (+371) 29459525</p><p>E-Mail: <a href="mailto:info@ekerslp.eu">info@ekerslp.eu</a></p><p> </p><p><strong>LSEZ Ltd.</strong></p><p>Tel. (+371) 26449652</p><p>E-Mail: <a href="mailto:info@laskana.lv">info@laskana.lv</a></p><p> </p><p><strong>SIA “Baltijas tranzīta aģentūra”</strong></p><p>Tel. (+371) 29211873</p><p>E-Mail: <a href="mailto:bta@apollo.lv">bta@apollo.lv</a></p><p> </p><p><strong>SIA “Merktrans”</strong></p><p>Tel. (371) 29342342</p><p>E-Mail: <a href="mailto:merktrans@neonet.lv">merktrans@neonet.lv</a></p><p> </p><p><strong>SIA “All Overseas”</strong></p><p>Tel. (+371) 27784300</p><p>E-Mail: <a href="mailto:agency@alloverseas.net">agency@alloverseas.net</a></p><p> </p><p><strong>SIA “Estma”</strong></p><p>Tel. (+371) 26464665</p><p>E-Mail: <a href="mailto:info@lv.estma.com">info@lv.estma.com</a></p><p> </p><p><strong>SIA “Tosmare Shipping Agency”</strong></p><p>Tel. (+371) 20041693</p><p>E-Mail: <a href="mailto:tsa123@inbox.lv">tsa123@inbox.lv</a></p><p> </p><p><strong>SIA “Baltica Shipping”</strong></p><p>Tel. (+371) 26336422</p><p>E-Mail: <a href="mailto:baltica@baltica.lv">baltica@baltica.lv</a></p><p> </p><p><strong>SIA “Lat Shipping”</strong></p><p>Tel. (+371) 22033318</p><p>E-Mail: <a href="mailto:office@latshipping.lv">office@latshipping.lv</a></p><p> </p><p><strong>SIA “Mersrags Shipping Agency”</strong></p><p>Tel. + (371) 29411154</p><p>E-Mail: <a href="mailto:agency@mersrags-shipping.lv">agency@mersrags-shipping.lv</a></p><p> </p><p><strong>Greenline Maritime Ltd</strong></p><p>Tel. (+371) 29225095</p><p>E-Mail: <a href="mailto:andris@greenline.lv">andris@greenline.lv</a></p><p> </p><p><strong>SIA “Sparrow Line Logistics”</strong></p><p>Tel. (+371) 29402379</p><p>E-Mail: <a href="mailto:info@sll.lv">info@sll.lv</a></p><p> </p><p><strong>SIA “Brenners Shipping”</strong></p><p>Tel. (+371) 29205727</p><p>E-Mail: <a href="mailto:zigmunds@brennersshipping.lv">zigmunds@brennersshipping.lv</a></p></td><td><p><strong>SIA “LPX Shipping Agency”</strong></p><p>Tel. (+371) 29684647</p><p>E-Mail: <a href="mailto:agency@lpx-shipping.lv">agency@lpx-shipping.lv</a></p><p> </p><p><strong>SIA “Liepaja Trans Holding”</strong></p><p>Tel. (371) 29430419</p><p>E-Mail: <a href="mailto:juris.lth@gmail.com">juris.lth@gmail.com</a></p><p> </p><p><strong>SIA “Alpha Shipping Company”</strong></p><p>Tel. (+371) 29226986</p><p>E-Mail: <a href="mailto:agency@alpha.lv">agency@alpha.lv</a></p><p> </p><p><strong>SIA “Alvina Ship Agency”</strong></p><p>Tel. (+371) 26531583</p><p>E-Mail: <a href="mailto:alvinaship@gmail.com">alvinaship@gmail.com</a></p><p> </p><p><strong>SIA “Daugava Shipping Services”</strong></p><p>Tel. (+371) 29394111</p><p>E-Mail: <a href="mailto:daugava@dss.com.lv">daugava@dss.com.lv</a></p><p> </p><p><strong>SIA “Astramar Liepāja K.A.”</strong></p><p>Tel. (+371) 29215004</p><p>E-Mail: <a href="mailto:astramar@astramarliepaja.lv">astramar@astramarliepaja.lv</a></p><p> </p><p><strong>Stena Line Ports Liepaja SEZ Ltd</strong></p><p>Tel. (+371) 29289292</p><p>E-Mail: <a href="mailto:office.liepaja@stenaline.com">office.liepaja@stenaline.com</a></p><p> </p><p><strong>SIA “CF&amp;S Latvia”</strong></p><p>Tel. (371) 67388301</p><p>E-Mail: <a href="mailto:cfs@cfs.lv">cfs@cfs.lv</a></p><p> </p><p><strong>SIA “Ahlmann-Zerssen”</strong></p><p>Tel. (+371) 26671864</p><p>E-Mail: <a href="mailto:riga@albers-hansen.de">riga@albers-hansen.de</a></p><p> </p><p><strong>SIA “Riga Cruiseship agency”</strong></p><p>Tel. (+371) 29250515</p><p>E-Mail: <a href="mailto:agency@rigaca.lv">agency@rigaca.lv</a></p><p> </p><p><strong>"AKF Koge Reeder OU"</strong></p><p>Tel. (+371) 26419688, (+371) 29210356</p><p>E-Mail: <a href="mailto:agencyliepaja@kogereeder.lv">agencyliepaja@kogereeder.lv</a></p><p> </p><p><strong>AS “NTT Operator” </strong></p><p>Tel. (+371) 20235855</p><p>E-Mail: <a href="mailto:kristaps.eisters@nttop.eu">kristaps.eisters@nttop.eu</a></p></td></tr></tbody></table></figure><br/>
+<p> </p><figure class="table"><table><tbody><tr><td><p><strong>LSEZ Ltd.</strong></p><p>Tel. (+371) 22322760, (+371) 29459525</p><p>E-Mail: <a href="mailto:info@ekerslp.eu">info@ekerslp.eu</a></p><p> </p><p><strong>LSEZ Ltd.</strong></p><p>Tel. (+371) 26449652</p><p>E-Mail: <a href="mailto:info@laskana.lv">info@laskana.lv</a></p><p> </p><p><strong>SIA “Baltijas tranzīta aģentūra”</strong></p><p>Tel. (+371) 29211873</p><p>E-Mail: <a href="mailto:bta@apollo.lv">bta@apollo.lv</a></p><p> </p><p><strong>SIA “Merktrans”</strong></p><p>Tel. (371) 29342342</p><p>E-Mail: <a href="mailto:merktrans@neonet.lv">merktrans@neonet.lv</a></p><p> </p><p><strong>SIA “All Overseas”</strong></p><p>Tel. (+371) 27784300</p><p>E-Mail: <a href="mailto:agency@alloverseas.net">agency@alloverseas.net</a></p><p> </p><p><strong>SIA “Estma”</strong></p><p>Tel. (+371) 26464665</p><p>E-Mail: <a href="mailto:info@lv.estma.com">info@lv.estma.com</a></p><p> </p><p><strong>SIA “Tosmare Shipping Agency”</strong></p><p>Tel. (+371) 20041693</p><p>E-Mail: <a href="mailto:tsa123@inbox.lv">tsa123@inbox.lv</a></p><p> </p><p><strong>SIA “Baltica Shipping”</strong></p><p>Tel. (+371) 26336422</p><p>E-Mail: <a href="mailto:baltica@baltica.lv">baltica@baltica.lv</a></p><p> </p><p><strong>SIA “Lat Shipping”</strong></p><p>Tel. (+371) 22033318</p><p>E-Mail: <a href="mailto:office@latshipping.lv">office@latshipping.lv</a></p><p> </p><p><strong>SIA “Mersrags Shipping Agency”</strong></p><p>Tel. + (371) 29411154</p><p>E-Mail: <a href="mailto:agency@mersrags-shipping.lv">agency@mersrags-shipping.lv</a></p><p> </p><p><strong>Greenline Maritime Ltd</strong></p><p>Tel. (+371) 29225095</p><p>E-Mail: <a href="mailto:andris@greenline.lv">andris@greenline.lv</a></p><p> </p><p><strong>SIA “Sparrow Line Logistics”</strong></p><p>Tel. (+371) 29402379</p><p>E-Mail: <a href="mailto:info@sll.lv">info@sll.lv</a></p><p> </p><p><strong>SIA “Brenners Shipping”</strong></p><p>Tel. (+371) 29205727</p><p>E-Mail: <a href="mailto:zigmunds@brennersshipping.lv">zigmunds@brennersshipping.lv</a></p></td><td><p><strong>SIA “LPX Shipping Agency”</strong></p><p>Tel. (+371) 29684647</p><p>E-Mail: <a href="mailto:agency@lpx-shipping.lv">agency@lpx-shipping.lv</a></p><p> </p><p><strong>SIA “Liepaja Trans Holding”</strong></p><p>Tel. (371) 29430419</p><p>E-Mail: <a href="mailto:juris.lth@gmail.com">juris.lth@gmail.com</a></p><p> </p><p><strong>SIA “Alpha Shipping Company”</strong></p><p>Tel. (+371) 29226986</p><p>E-Mail: <a href="mailto:agency@alpha.lv">agency@alpha.lv</a></p><p> </p><p><strong>SIA “Alvina Ship Agency”</strong></p><p>Tel. (+371) 26531583</p><p>E-Mail: <a href="mailto:alvinaship@gmail.com">alvinaship@gmail.com</a></p><p> </p><p><strong>SIA “Daugava Shipping Services”</strong></p><p>Tel. (+371) 29394111</p><p>E-Mail: <a href="mailto:daugava@dss.com.lv">daugava@dss.com.lv</a></p><p> </p><p><strong>SIA “Astramar Liepāja K.A.”</strong></p><p>Tel. (+371) 29215004</p><p>E-Mail: <a href="mailto:astramar@astramarliepaja.lv">astramar@astramarliepaja.lv</a></p><p> </p><p><strong>Stena Line Ports Liepāja SEZ Ltd</strong></p><p>Tel. (+371) 29289292</p><p>E-Mail: <a href="mailto:office.liepaja@stenaline.com">office.liepaja@stenaline.com</a></p><p> </p><p><strong>SIA “CF&amp;S Latvia”</strong></p><p>Tel. (371) 67388301</p><p>E-Mail: <a href="mailto:cfs@cfs.lv">cfs@cfs.lv</a></p><p> </p><p><strong>SIA “Ahlmann-Zerssen”</strong></p><p>Tel. (+371) 26671864</p><p>E-Mail: <a href="mailto:riga@albers-hansen.de">riga@albers-hansen.de</a></p><p> </p><p><strong>SIA “Riga Cruiseship agency”</strong></p><p>Tel. (+371) 29250515</p><p>E-Mail: <a href="mailto:agency@rigaca.lv">agency@rigaca.lv</a></p><p> </p><p><strong>"AKF Koge Reeder OU"</strong></p><p>Tel. (+371) 26419688, (+371) 29210356</p><p>E-Mail: <a href="mailto:agencyliepaja@kogereeder.lv">agencyliepaja@kogereeder.lv</a></p><p> </p><p><strong>AS “NTT Operator” </strong></p><p>Tel. (+371) 20235855</p><p>E-Mail: <a href="mailto:kristaps.eisters@nttop.eu">kristaps.eisters@nttop.eu</a></p></td></tr></tbody></table></figure><br/>
 </div>
 </div>
 </div>
@@ -294,7 +294,7 @@ Festmacherdienste
 </div>
 <div aria-labelledby="heading4964" class="collapse" data-parent="#accordion" id="collapse4964">
 <div class="card-body">
-<p> </p><figure class="table"><table><tbody><tr><td><h6><strong>Dienstleister</strong></h6><h6> </h6></td><td><h6><strong>Liegeplatz Nr.</strong></h6><h6> </h6></td><td><h6><strong>Unternehmen</strong></h6><h6> </h6></td><td><h6><strong>Kontaktperson</strong></h6><h6> </h6></td></tr><tr><td><strong> SIA "LPX Serviss"</strong></td><td>64; 65; 73; 74; 75</td><td><strong>"Brimer Liepaja" LSEZ AS</strong></td><td>Elvija Ziediņš: Tel. 25542908</td></tr><tr><td> </td><td>60; 61</td><td colspan="2"><strong>LSEZ "Mols L" SIA</strong></td></tr><tr><td> </td><td>40; 41</td><td><strong>LSEZ Ltd. "Laskana"</strong></td><td> </td></tr><tr><td> </td><td>30; 30A</td><td colspan="2"><strong>LSEZ "BaltEx Bulk" SIA</strong></td></tr><tr><td> </td><td>62; 63</td><td><strong>LSEZ Ltd. "Duna"</strong></td><td> </td></tr><tr><td> </td><td>25</td><td><strong>"DG Termināls" LSEZ Ltd.</strong></td><td> </td></tr><tr><td><strong>"Norsaf" LSEZ Ltd.</strong></td><td>28</td><td><strong>"Norsaf" LSEZ Ltd.</strong></td><td>Jānis Kisiels: Tel. 29453456</td></tr><tr><td> </td><td> </td><td> </td><td> </td></tr><tr><td><strong>"DG Termināls" LSEZ Ltd.</strong></td><td>25</td><td><strong>"DG Termināls" LSEZ Ltd.</strong></td><td>Ivo Virtue: Tel. 27805004</td></tr><tr><td> </td><td> </td><td> </td><td> </td></tr><tr><td><strong>SIA "Tosmare Shipping Agency"</strong></td><td>18; 19; 20; 21; 22</td><td><strong>SIA "LZK"</strong></td><td>Ivars Vilcāns: Tel. 20041693</td></tr><tr><td> </td><td>57; 58; 59</td><td><strong> "ACA Forest" SIA</strong></td><td> </td></tr><tr><td> </td><td>69</td><td><strong> SIA LSEZ "Transit-Terminals"</strong></td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td></tr><tr><td><strong>LSEZ Ltd. "Liepaja Bulk Terminal LTD"</strong></td><td>66; 67; 68; 51; 51A</td><td><strong>LSEZ Ltd. "Liepaja Bulk Terminal LTD"</strong></td><td>Evita Kņūtiņa: Tel. 29189282</td></tr><tr><td> </td><td> </td><td> </td><td> </td></tr><tr><td><strong>Stena Line Ports Liepaja SEZ Ltd</strong></td><td>46; 49; 50</td><td><strong>Stena Line Ports Liepaja SEZ Ltd</strong></td><td>Klāvs Vecbaschtiks: Tel. 29289292</td></tr><tr><td> </td><td> </td><td> </td><td> </td></tr><tr><td><strong>SIA "Ekers Stividors Serviss"</strong></td><td>42; 43; 44; 45; 57; 58; 59; 14D; 14Z</td><td><strong>SIA "Ekers Stividors Serviss"</strong></td><td>Jānis Elerts: Tel. 29107890</td></tr><tr><td> </td><td> </td><td> </td><td> </td></tr><tr><td><strong>SIA "ALVINA Ship Agency"</strong></td><td>18; 19; 20; 21</td><td><strong>SIA "LZK"</strong></td><td>Vitālijs Bogatirovs: Tel. 26531583</td></tr><tr><td> </td><td> </td><td> </td><td>Gennadi Brjuhis: Tel. 29468350</td></tr><tr><td> </td><td> </td><td> </td><td> </td></tr><tr><td><strong>LSEZ "Baltic Transshipment Center" SIA</strong></td><td>5</td><td><strong>LSEZ "Baltic Transshipment Center" SIA</strong></td><td>Jānis Windigs: Tel. 29780748</td></tr></tbody></table></figure><p> </p><br/>
+<p> </p><figure class="table"><table><tbody><tr><td><h6><strong>Dienstleister</strong></h6><h6> </h6></td><td><h6><strong>Liegeplatz Nr.</strong></h6><h6> </h6></td><td><h6><strong>Unternehmen</strong></h6><h6> </h6></td><td><h6><strong>Kontaktperson</strong></h6><h6> </h6></td></tr><tr><td><strong> SIA "LPX Serviss"</strong></td><td>64; 65; 73; 74; 75</td><td><strong>"Brimer Liepāja" LSEZ AS</strong></td><td>Elvija Ziediņš: Tel. 25442908</td></tr><tr><td> </td><td>60; 61</td><td colspan="2"><strong>LSEZ "Mols L" SIA</strong></td></tr><tr><td> </td><td>40; 41</td><td><strong>LSEZ Ltd. "Laskana"</strong></td><td> </td></tr><tr><td> </td><td>30; 30A</td><td colspan="2"><strong>LSEZ "BaltEx Bulk" SIA</strong></td></tr><tr><td> </td><td>62; 63</td><td><strong>LSEZ Ltd. "Duna"</strong></td><td> </td></tr><tr><td> </td><td>25</td><td><strong>"DG Termināls" LSEZ Ltd.</strong></td><td> </td></tr><tr><td><strong>"Norsaf" LSEZ Ltd.</strong></td><td>28</td><td><strong>"Norsaf" LSEZ Ltd.</strong></td><td>Jānis Kisiels: Tel. 29453456</td></tr><tr><td> </td><td> </td><td> </td><td> </td></tr><tr><td><strong>"DG Termināls" LSEZ Ltd.</strong></td><td>25</td><td><strong>"DG Termināls" LSEZ Ltd.</strong></td><td>Ivo Virtue: Tel. 27805004</td></tr><tr><td> </td><td> </td><td> </td><td> </td></tr><tr><td><strong>SIA "Tosmare Shipping Agency"</strong></td><td>18; 19; 20; 21; 22</td><td><strong>SIA "LZK"</strong></td><td>Ivars Vilcāns: Tel. 20041693</td></tr><tr><td> </td><td>57; 58; 59</td><td><strong> "ACA Forest" SIA</strong></td><td> </td></tr><tr><td> </td><td>69</td><td><strong> SIA LSEZ "Transit-Terminals"</strong></td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td></tr><tr><td><strong>LSEZ Ltd. "Liepāja Bulk Terminal LTD"</strong></td><td>66; 67; 68; 51; 51A</td><td><strong>LSEZ Ltd. "Liepāja Bulk Terminal LTD"</strong></td><td>Evita Kņūtiņa: Tel. 29189282</td></tr><tr><td> </td><td> </td><td> </td><td> </td></tr><tr><td><strong>Stena Line Ports Liepāja SEZ Ltd</strong></td><td>46; 49; 50</td><td><strong>Stena Line Ports Liepāja SEZ Ltd</strong></td><td>Klāvs Vecbaschtiks: Tel. 29289292</td></tr><tr><td> </td><td> </td><td> </td><td> </td></tr><tr><td><strong>SIA "Ekers Stividors Serviss"</strong></td><td>42; 43; 44; 45; 57; 58; 59; 14D; 14Z</td><td><strong>SIA "Ekers Stividors Serviss"</strong></td><td>Jānis Elerts: Tel. 29107890</td></tr><tr><td> </td><td> </td><td> </td><td> </td></tr><tr><td><strong>SIA "ALVINA Ship Agency"</strong></td><td>18; 19; 20; 21</td><td><strong>SIA "LZK"</strong></td><td>Vitālijs Bogatirovs: Tel. 26531583</td></tr><tr><td> </td><td> </td><td> </td><td>Gennadi Brjuhis: Tel. 29468350</td></tr><tr><td> </td><td> </td><td> </td><td> </td></tr><tr><td><strong>LSEZ "Baltic Transshipment Center" SIA</strong></td><td>5</td><td><strong>LSEZ "Baltic Transshipment Center" SIA</strong></td><td>Jānis Windigs: Tel. 29780748</td></tr></tbody></table></figure><p> </p><br/>
 </div>
 </div>
 </div>
@@ -373,7 +373,7 @@ Karte der zugelassenen Fischereigebiete
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/par-ostu/index.php"><img alt="Nach oben" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

@@ -40,7 +40,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../investe-liepaja/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/investe-liepaja/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Investieren in Liepāja
@@ -56,7 +56,7 @@ Hafen
 </a>
 <div class="sidebar-nested ps-md-4">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../par-ostu/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/par-ostu/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Über den Hafen
@@ -64,7 +64,7 @@ Hafen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../pramju-satiksme/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/pramju-satiksme/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Fährverkehr
@@ -72,7 +72,7 @@ Fährverkehr
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../kruiza-kugi/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/kruiza-kugi/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Kreuzfahrtschiffe
@@ -80,7 +80,7 @@ Kreuzfahrtschiffe
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../jahtu-osta/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/jahtu-osta/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Yachthafen
@@ -88,7 +88,7 @@ Yachthafen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../oskara-kalpaka-tilts/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/oskara-kalpaka-tilts/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Oskars-Kalpaks-Brücke
@@ -98,7 +98,7 @@ Oskars-Kalpaks-Brücke
 </div>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/kapitalsabiedribas/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Unternehmen
@@ -106,7 +106,7 @@ Unternehmen
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../attistibas-projekti/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/attistibas-projekti/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Entwicklungsprojekte
@@ -114,7 +114,7 @@ Entwicklungsprojekte
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../darbs-liepaja/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/darbs-liepaja/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Stellenangebote in Liepāja
@@ -122,7 +122,7 @@ Stellenangebote in Liepāja
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../teritoriju-karte/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/teritoriju-karte/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Gebietskarte
@@ -178,7 +178,7 @@ Gebietskarte
 <div class="carousel-item" style="background-color:#085ca8;">
 <div class="carousel-caption">
 <h4>Zahlen und Fakten</h4>
-<p>Investitionen der Liepaja SEZ Authority - 149,9 Mio.n. EUR </p>
+<p>Investitionen der Liepāja SEZ Authority - 149,9 Mio.n. EUR </p>
 </div>
 </div>
 <button aria-label="Weiter" class="carousel-control-next" data-bs-slide="next" data-bs-target="#leftSideMagnet" type="button">
@@ -202,7 +202,7 @@ Gebietskarte
 <li class="glide__slide jarallax-banner d-flex" style='background-image:url("https://liepaja-sez.lv/img/block/banner/37/1706514132__R1A9848.webp")'>
 <span class="filler"></span>
 <div class="container d-flex z-2">
-<div class="content"><h5 class="animate__animated animate__fadeInUp">Liepaja SEZ-Unternehmen</h5>
+<div class="content"><h5 class="animate__animated animate__fadeInUp">Liepāja SEZ-Unternehmen</h5>
 </div>
 </div>
 </li> </ul>
@@ -210,14 +210,14 @@ Gebietskarte
 </div>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><h6>Die Investoren der Special Economic Zone von Liepaja verfügen über exzellente Infrastruktur, umfangreiche Logistikanlagen und qualifizierte Arbeitskräfte, die Investoren aus Skandinavien, den Baltischen Ländern, Japan usw. anlockten. Regionen.</h6></div>
+<div class="col"><div class="col-12 output"><h6>Die Investoren der Special Economic Zone von Liepāja verfügen über exzellente Infrastruktur, umfangreiche Logistikanlagen und qualifizierte Arbeitskräfte, die Investoren aus Skandinavien, den Baltischen Ländern, Japan usw. anlockten. Regionen.</h6></div>
 </div>
 </div>
 </div>
 <div class="columns mt-5">
 <div class="row">
 <div class="col-12">
-<h1 class="mb-4 block-title">Warum Liepaja SEZ Capital Company werden<span></span></h1>
+<h1 class="mb-4 block-title">Warum Liepāja SEZ Capital Company werden<span></span></h1>
 </div>
 <div class="col-12 col-md-3 column-content">
 <img alt="Symbol" class="icon" src="../../img/block/columns/143/1718869455_Ikonas_-03.svg"/>
@@ -229,7 +229,7 @@ Gebietskarte
 </div>
 <div class="col-12 col-md-3 column-content">
 <img alt="Symbol" class="icon" src="../../img/block/columns/145/1718869511_Ikonas_-20.svg"/>
-<p>Die Möglichkeit, Unterstützung, Konsultationen und Teilnahme der Liepaja SEZ Behörde sowie ihrer Kooperationspartner an der Lösung verschiedener Fragen zu erhalten. </p>
+<p>Die Möglichkeit, Unterstützung, Konsultationen und Teilnahme der Liepāja SEZ Behörde sowie ihrer Kooperationspartner an der Lösung verschiedener Fragen zu erhalten. </p>
 </div>
 <div class="col-12 col-md-3 column-content">
 <img alt="Symbol" class="icon" src="../../img/block/columns/146/1718869698_Ikonas_-51.svg"/>
@@ -240,15 +240,15 @@ Gebietskarte
 <div class="columns mt-5">
 <div class="row">
 <div class="col-12">
-<h1 class="mb-4 block-title">Wie man Liepaja SEZ Capital Company wird<span></span></h1>
+<h1 class="mb-4 block-title">Wie man Liepāja SEZ Capital Company wird<span></span></h1>
 </div>
 <div class="col-12 col-md-3 column-content">
 <img alt="Symbol" class="icon" src="../../img/block/columns/147/1718870215_Ikonas_-46.svg"/>
-<p>Finden Sie heraus, ob die Art des Geschäfts in Übereinstimmung mit den Regulierungsvorschriften der Firma Liepaja SEZ ist.</p><p>Entwürfe und Unterlagen für den Status der Liepaja SEZ Company.</p>
+<p>Finden Sie heraus, ob die Art des Geschäfts in Übereinstimmung mit den Regulierungsvorschriften der Firma Liepāja SEZ ist.</p><p>Entwürfe und Unterlagen für den Status der Liepāja SEZ Company.</p>
 </div>
 <div class="col-12 col-md-3 column-content">
 <img alt="Symbol" class="icon" src="../../img/block/columns/148/1718870278_Ikonas_-47.svg"/>
-<p>Erhalten Sie eine positive Entscheidung des Vorstands von Liepaja SEZ.</p><p>Es wird ein Vertrag mit der Liepaja SEZ Behörde über die Durchführung kommerzieller Tätigkeiten im Gebiet von LiepajaSEZ und eine Investitionsvereinbarung geschlossen.</p>
+<p>Erhalten Sie eine positive Entscheidung des Vorstands von Liepāja SEZ.</p><p>Es wird ein Vertrag mit der Liepāja SEZ Behörde über die Durchführung kommerzieller Tätigkeiten im Gebiet von LiepajaSEZ und eine Investitionsvereinbarung geschlossen.</p>
 </div>
 <div class="col-12 col-md-3 column-content">
 <img alt="Symbol" class="icon" src="../../img/block/columns/149/1718870921_Ikonas_-17.svg"/>
@@ -256,14 +256,14 @@ Gebietskarte
 </div>
 <div class="col-12 col-md-3 column-content">
 <img alt="Symbol" class="icon" src="../../img/block/columns/150/1718870898_Ikonas_-26.svg"/>
-<p>Erhalten Sie das Zertifikat der Liepaja SEZ Authority, ein Dokument, das im Namen des Staates ausgestellt wurde und das das Recht der Kapitalgesellschaft bestätigt, eine direkte Steuervergünstigung nach dem Gesetz über die Anwendung von Steuern in freien Häfen und besonderen Wirtschaftszonen anzuwenden. </p>
+<p>Erhalten Sie das Zertifikat der Liepāja SEZ Authority, ein Dokument, das im Namen des Staates ausgestellt wurde und das das Recht der Kapitalgesellschaft bestätigt, eine direkte Steuervergünstigung nach dem Gesetz über die Anwendung von Steuern in freien Häfen und besonderen Wirtschaftszonen anzuwenden. </p>
 </div>
 </div>
 </div>
 <div class="columns mt-5">
 <div class="row">
 <div class="col-12">
-<h1 class="mb-4 block-title">Liepaja SEZ-Unternehmen<span></span></h1>
+<h1 class="mb-4 block-title">Liepāja SEZ-Unternehmen<span></span></h1>
 </div>
 <div class="col-12 col-md-3 column-content">
 <img alt="Symbol" class="icon" src="../../img/block/columns/151/1718871860_Ikonas_-44.svg"/>
@@ -298,7 +298,7 @@ AE PARTNER
 </div>
 <div aria-labelledby="heading4570" class="collapse" data-parent="#accordion" id="collapse4570">
 <div class="card-body">
-<p>Automation und Steuerung System Hersteller.</p><p><strong>Adresse:</strong> Ganību iela 1/3, Liepaja, LV-3401, Lettland</p><p><strong>Telefon:</strong> (+371) 63401817</p><p><strong>E-Mail:</strong> <a href="mailto:mail@aepartner.lv">mail@aepartner.lv</a></p><p><a href="www.aepartner.lv">www.aepartner.lv</a></p><br/>
+<p>Automation und Steuerung System Hersteller.</p><p><strong>Adresse:</strong> Ganību iela 1/3, Liepāja, LV-3401, Lettland</p><p><strong>Telefon:</strong> (+371) 63401817</p><p><strong>E-Mail:</strong> <a href="mailto:mail@aepartner.lv">mail@aepartner.lv</a></p><p><a href="www.aepartner.lv">www.aepartner.lv</a></p><br/>
 </div>
 </div>
 </div>
@@ -314,7 +314,7 @@ AI INDUSTRI
 </div>
 <div aria-labelledby="heading4571" class="collapse" data-parent="#accordion" id="collapse4571">
 <div class="card-body">
-<p>Vermietung und Verwaltung von Immobilien.</p><p><strong>Adresse:</strong> Grīzupes iela 3, Liepaja, Lettland</p><p><strong>Telefon:</strong> (+371) 29778691</p><p><strong>E-Mail:</strong> <a href="mailto:aiindustribygg@gmail.com">aiindustribygg@gmail.com</a></p><br/>
+<p>Vermietung und Verwaltung von Immobilien.</p><p><strong>Adresse:</strong> Grīzupes iela 3, Liepāja, Lettland</p><p><strong>Telefon:</strong> (+371) 29778691</p><p><strong>E-Mail:</strong> <a href="mailto:aiindustribygg@gmail.com">aiindustribygg@gmail.com</a></p><br/>
 </div>
 </div>
 </div>
@@ -330,7 +330,7 @@ BALTEX BULK
 </div>
 <div aria-labelledby="heading4572" class="collapse" data-parent="#accordion" id="collapse4572">
 <div class="card-body">
-<p>Slide-Services und Frachtlager im Free Zone-Modus.</p><p><strong>Adresse:</strong> 11, Liepaja, LV-3405, Lettland</p><p><strong>Telefon:</strong> (+371) 29115521</p><p><strong>E-Mail:</strong> <a href="mailto:v.didora@baltex-bulk.lv">v.didora@baltex-bulk.lv</a></p><br/>
+<p>Slide-Services und Frachtlager im Free Zone-Modus.</p><p><strong>Adresse:</strong> 11, Liepāja, LV-3405, Lettland</p><p><strong>Telefon:</strong> (+371) 29115521</p><p><strong>E-Mail:</strong> <a href="mailto:v.didora@baltex-bulk.lv">v.didora@baltex-bulk.lv</a></p><br/>
 </div>
 </div>
 </div>
@@ -346,7 +346,7 @@ BALTU TERMINALS
 </div>
 <div aria-labelledby="heading4573" class="collapse" data-parent="#accordion" id="collapse4573">
 <div class="card-body">
-<p>Wired Dienstleistungen und Lagerung von Ladung.</p><p>Anschrift: 31 Brīvostas Street, Liepaja</p><p>Tel.: (+371) 20211294</p><p>E-Mail: <a href="mailto:info@baltukoks.lv" target="_blank">info@baltukoks.lv</a></p><br/>
+<p>Wired Dienstleistungen und Lagerung von Ladung.</p><p>Anschrift: 31 Brīvostas Street, Liepāja</p><p>Tel.: (+371) 20211294</p><p>E-Mail: <a href="mailto:info@baltukoks.lv" target="_blank">info@baltukoks.lv</a></p><br/>
 </div>
 </div>
 </div>
@@ -362,7 +362,7 @@ BALTIC BIOFUEL COMPANY
 </div>
 <div aria-labelledby="heading4574" class="collapse" data-parent="#accordion" id="collapse4574">
 <div class="card-body">
-<p>Hafen- und Logistikdienstleistungen.</p><p><strong>Adresse:</strong> Atsavnieku iela 16/18, Liepaja, LV-3401, Lettland</p><p><strong>Telefon:</strong> (+371) 29227735</p><p><strong>E-Mail:</strong> <a href="">info@balticbiofuel.lv</a></p><br/>
+<p>Hafen- und Logistikdienstleistungen.</p><p><strong>Adresse:</strong> Atsavnieku iela 16/18, Liepāja, LV-3401, Lettland</p><p><strong>Telefon:</strong> (+371) 29227735</p><p><strong>E-Mail:</strong> <a href="">info@balticbiofuel.lv</a></p><br/>
 </div>
 </div>
 </div>
@@ -378,7 +378,7 @@ BALTIC TRANSSHIPMENT CENTER
 </div>
 <div aria-labelledby="heading4575" class="collapse" data-parent="#accordion" id="collapse4575">
 <div class="card-body">
-<p>Stividor- und Lagerservice, Getreidevorbehandlung.</p><p><strong>Adresse:</strong> Turaidas iela 24, Liepaja, LV-3414, Lettland</p><p><strong>Telefon:</strong> (+371) 63407414</p><p><strong>E-Mail:</strong> <a href="mailto:btc@btc.lv">btc@btc.lv</a></p><p><a href="http://www.btc.lv/" target="_blank">www.btc.lv</a></p><br/>
+<p>Stividor- und Lagerservice, Getreidevorbehandlung.</p><p><strong>Adresse:</strong> Turaidas iela 24, Liepāja, LV-3414, Lettland</p><p><strong>Telefon:</strong> (+371) 63407414</p><p><strong>E-Mail:</strong> <a href="mailto:btc@btc.lv">btc@btc.lv</a></p><p><a href="http://www.btc.lv/" target="_blank">www.btc.lv</a></p><br/>
 </div>
 </div>
 </div>
@@ -394,7 +394,7 @@ BRIMER LIEPAJA
 </div>
 <div aria-labelledby="heading4576" class="collapse" data-parent="#accordion" id="collapse4576">
 <div class="card-body">
-<p>Wired Dienstleistungen und Lagerung von Ladung.</p><p><strong>Adresse:</strong> Kaiju Street 7, Liepaja, LV-3401, Lettland</p><p><strong>Telefon:</strong> (+371) 63424429</p><p><strong>E-Mail: </strong><a href="mailto:liepaja@brimer.lv" target="_blank">liepaja@brimer.lv</a></p><p><a href="https://piemare.lv/">www.piemare.lv</a></p><br/>
+<p>Wired Dienstleistungen und Lagerung von Ladung.</p><p><strong>Adresse:</strong> Kaiju Street 7, Liepāja, LV-3401, Lettland</p><p><strong>Telefon:</strong> (+371) 63424429</p><p><strong>E-Mail: </strong><a href="mailto:liepaja@brimer.lv" target="_blank">liepaja@brimer.lv</a></p><p><a href="https://piemare.lv/">www.piemare.lv</a></p><br/>
 </div>
 </div>
 </div>
@@ -410,7 +410,7 @@ CALJAN
 </div>
 <div aria-labelledby="heading4577" class="collapse" data-parent="#accordion" id="collapse4577">
 <div class="card-body">
-<p>Herstellung von Förderanlagen für das Be-, Ent- und Transport von Ladung.</p><p><strong>Adresse:</strong> Brīvības iela 142A, Liepaja, LV-3401, Lettland</p><p><strong>Telefon:</strong> (+371) 63489530</p><p><strong>E-Mail:</strong> <a href="mailto:info.lv@caljan.com">info.lv@caljan.com</a></p><p><a href="https://caljan.com/">www.caljan.com</a></p><br/>
+<p>Herstellung von Förderanlagen für das Be-, Ent- und Transport von Ladung.</p><p><strong>Adresse:</strong> Brīvības iela 142A, Liepāja, LV-3401, Lettland</p><p><strong>Telefon:</strong> (+371) 63489530</p><p><strong>E-Mail:</strong> <a href="mailto:info.lv@caljan.com">info.lv@caljan.com</a></p><p><a href="https://caljan.com/">www.caljan.com</a></p><br/>
 </div>
 </div>
 </div>
@@ -426,7 +426,7 @@ DAN STORE
 </div>
 <div aria-labelledby="heading4578" class="collapse" data-parent="#accordion" id="collapse4578">
 <div class="card-body">
-<p>Frachtumschlag und Lagerung.</p><p><strong>Adresse:</strong> Brīvostas iela 30, Liepaja, LV-3405, Lettland</p><p><strong>Telefon:</strong> (+371) 63484500</p><p><strong>E-Mail:</strong> <a href="mailto:info@danstore.lv">info@danstore.lv</a></p><p><a href="https://danstore.lv/">www.danstore.lv</a></p><br/>
+<p>Frachtumschlag und Lagerung.</p><p><strong>Adresse:</strong> Brīvostas iela 30, Liepāja, LV-3405, Lettland</p><p><strong>Telefon:</strong> (+371) 63484500</p><p><strong>E-Mail:</strong> <a href="mailto:info@danstore.lv">info@danstore.lv</a></p><p><a href="https://danstore.lv/">www.danstore.lv</a></p><br/>
 </div>
 </div>
 </div>
@@ -442,7 +442,7 @@ GD TERM
 </div>
 <div aria-labelledby="heading4579" class="collapse" data-parent="#accordion" id="collapse4579">
 <div class="card-body">
-<p>Alle flüssigen Frachtumschlag und Lagerung, Logistik und damit verbundene Dienstleistungen.</p><p><strong>Adresse:</strong> 33 Pulvera Street, Liepaja, LV-3405, Lettland</p><p><strong>Telefon:</strong> (+371) 63424604</p><p><strong>E-Mail:</strong> <a href="mailto:hub@dgterminals.lv">hub@dgterminals.lv</a></p><p><a href="https://www.dgterminals.lv/">www.dgterminals.lv</a></p><br/>
+<p>Alle flüssigen Frachtumschlag und Lagerung, Logistik und damit verbundene Dienstleistungen.</p><p><strong>Adresse:</strong> 33 Pulvera Street, Liepāja, LV-3405, Lettland</p><p><strong>Telefon:</strong> (+371) 63424604</p><p><strong>E-Mail:</strong> <a href="mailto:hub@dgterminals.lv">hub@dgterminals.lv</a></p><p><a href="https://www.dgterminals.lv/">www.dgterminals.lv</a></p><br/>
 </div>
 </div>
 </div>
@@ -458,7 +458,7 @@ DUNA
 </div>
 <div aria-labelledby="heading45710" class="collapse" data-parent="#accordion" id="collapse45710">
 <div class="card-body">
-<p>Stividor-Dienstleistungen, Speditions- und Frachtverpackungen (in Großsäcken und 50 kg in Paketen).</p><p><strong>Adresse:</strong> Atsavnieku iela 29, Liepaja, LV-3401, Lettland</p><p><strong>Telefon:</strong> (+371) 63427227</p><p><strong>E-Mail:</strong> <a href="mailto:info@duna.lv">info@duna.lv</a></p><p><a href="https://www.duna.lv/">www.duna.lv</a></p><br/>
+<p>Stividor-Dienstleistungen, Speditions- und Frachtverpackungen (in Großsäcken und 50 kg in Paketen).</p><p><strong>Adresse:</strong> Atsavnieku iela 29, Liepāja, LV-3401, Lettland</p><p><strong>Telefon:</strong> (+371) 63427227</p><p><strong>E-Mail:</strong> <a href="mailto:info@duna.lv">info@duna.lv</a></p><p><a href="https://www.duna.lv/">www.duna.lv</a></p><br/>
 </div>
 </div>
 </div>
@@ -474,7 +474,7 @@ EKERS STIVIDORS LP
 </div>
 <div aria-labelledby="heading45711" class="collapse" data-parent="#accordion" id="collapse45711">
 <div class="card-body">
-<p>Stividor Dienstleistungen, Schiffsagenturing, Chartern von Schiffen, Speditions- und Zollvermittlungsdienste.</p><p><strong>Adresse:</strong> Brīvostas iela 22, Liepaja, LV-3405, Lettland</p><p><strong>Telefon:</strong> (+371) 27335559</p><p><strong>E-Mail: </strong><a href="info@ekerslp.eu">info@ekerslp.eu</a></p><p><a href="http://www.ekerslp.eu/">www.ekerslp.eu</a></p><br/>
+<p>Stividor Dienstleistungen, Schiffsagenturing, Chartern von Schiffen, Speditions- und Zollvermittlungsdienste.</p><p><strong>Adresse:</strong> Brīvostas iela 22, Liepāja, LV-3405, Lettland</p><p><strong>Telefon:</strong> (+371) 27335559</p><p><strong>E-Mail: </strong><a href="info@ekerslp.eu">info@ekerslp.eu</a></p><p><a href="http://www.ekerslp.eu/">www.ekerslp.eu</a></p><br/>
 </div>
 </div>
 </div>
@@ -490,7 +490,7 @@ FINESTRA SOLUTION
 </div>
 <div aria-labelledby="heading45712" class="collapse" data-parent="#accordion" id="collapse45712">
 <div class="card-body">
-<p>Herstellung von Metalltüren und Fenstern.</p><p><strong>Adresse:</strong> Kapsēdes iela 8A, LV-3400, Liepaja, Lettland.</p><p><strong>Telefon:</strong> (+371) 20420666</p><p><strong>E-Mail:</strong> <a href="mailto:info@finestrasolution.com">info@finestrasolution.com</a></p><p><a href="https://www.finestrasolution.com/">www.finestrasolution.com</a></p><br/>
+<p>Herstellung von Metalltüren und Fenstern.</p><p><strong>Adresse:</strong> Kapsēdes iela 8A, LV-3400, Liepāja, Lettland.</p><p><strong>Telefon:</strong> (+371) 20420666</p><p><strong>E-Mail:</strong> <a href="mailto:info@finestrasolution.com">info@finestrasolution.com</a></p><p><a href="https://www.finestrasolution.com/">www.finestrasolution.com</a></p><br/>
 </div>
 </div>
 </div>
@@ -506,7 +506,7 @@ FLESS
 </div>
 <div aria-labelledby="heading45713" class="collapse" data-parent="#accordion" id="collapse45713">
 <div class="card-body">
-<p>Verpackungsdienstleistungen.</p><p><strong>Adresse:</strong> Traks iela 6, LV-3401, Liepaja, Lettland</p><p><strong>Telefon:</strong> (+371) 60000888</p><p><strong>E-Mail:</strong> <a href="mailto:igor@fless.com">igor@fless.com</a></p><p><a href="https://www.getic.com/">www.getic.com</a></p><br/>
+<p>Verpackungsdienstleistungen.</p><p><strong>Adresse:</strong> Traks iela 6, LV-3401, Liepāja, Lettland</p><p><strong>Telefon:</strong> (+371) 60000888</p><p><strong>E-Mail:</strong> <a href="mailto:igor@fless.com">igor@fless.com</a></p><p><a href="https://www.getic.com/">www.getic.com</a></p><br/>
 </div>
 </div>
 </div>
@@ -522,7 +522,7 @@ V. BULK COMMERCIRMA EWGY
 </div>
 <div aria-labelledby="heading45714" class="collapse" data-parent="#accordion" id="collapse45714">
 <div class="card-body">
-<p>Großhandel und Umschlag von Erdölerzeugnissen, Schiffsbunkerung eines jeden Tages<br/>Hafen von Liepaja aus Tankfahrzeugen oder Tankern.</p><p><strong>Adresse: </strong>Upmalas iela 12/16, Liepaja, LV-3401, Lettland</p><p><strong>Telefon:</strong> (+371) 63404990</p><p><strong>E-Mail:</strong> <a href="mailto:info@evija.lv">info@evija.lv</a></p><p><a href="https://www.evija.lv/">www.evija.lv</a></p><br/>
+<p>Großhandel und Umschlag von Erdölerzeugnissen, Schiffsbunkerung eines jeden Tages<br/>Hafen von Liepāja aus Tankfahrzeugen oder Tankern.</p><p><strong>Adresse: </strong>Upmalas iela 12/16, Liepāja, LV-3401, Lettland</p><p><strong>Telefon:</strong> (+371) 63404990</p><p><strong>E-Mail:</strong> <a href="mailto:info@evija.lv">info@evija.lv</a></p><p><a href="https://www.evija.lv/">www.evija.lv</a></p><br/>
 </div>
 </div>
 </div>
@@ -538,7 +538,7 @@ GF POWDERCOATING
 </div>
 <div aria-labelledby="heading45715" class="collapse" data-parent="#accordion" id="collapse45715">
 <div class="card-body">
-<p>Behandlung und Beschichtung von Metalloberflächen.</p><p><strong>Adresse:</strong> Brivibas Street 98, Liepaja, LV-3401</p><p><strong>Telefon: </strong> (+371) 26084265</p><p><strong>E-Mail: </strong><a href="mailto:info@gfpowdercoating.lv">info@gfpowdercoating.lv</a></p><p><a href="https://www.gfpowdercoating.lv/">www.gfpowdercoating.lv</a></p><br/>
+<p>Behandlung und Beschichtung von Metalloberflächen.</p><p><strong>Adresse:</strong> Brivibas Street 98, Liepāja, LV-3401</p><p><strong>Telefon: </strong> (+371) 26084265</p><p><strong>E-Mail: </strong><a href="mailto:info@gfpowdercoating.lv">info@gfpowdercoating.lv</a></p><p><a href="https://www.gfpowdercoating.lv/">www.gfpowdercoating.lv</a></p><br/>
 </div>
 </div>
 </div>
@@ -554,7 +554,7 @@ INTERSPIRO PRODUCTION
 </div>
 <div aria-labelledby="heading45716" class="collapse" data-parent="#accordion" id="collapse45716">
 <div class="card-body">
-<p>Herstellung von Atemgeräten.</p><p><strong>Adresse:</strong> General Baloza Street 20/22, Liepaja, LV-3414, Lettland</p><p><strong>Telefon: </strong>(+371) 63483860</p><p><strong>E-Mail:</strong> <a href="mailto:latvia@interspiro.com">latvia@interspiro.com</a></p><p><a href="https://interspiro.com/">www.interspiro.com</a></p><br/>
+<p>Herstellung von Atemgeräten.</p><p><strong>Adresse:</strong> General Baloza Street 20/22, Liepāja, LV-3414, Lettland</p><p><strong>Telefon: </strong>(+371) 63483860</p><p><strong>E-Mail:</strong> <a href="mailto:latvia@interspiro.com">latvia@interspiro.com</a></p><p><a href="https://interspiro.com/">www.interspiro.com</a></p><br/>
 </div>
 </div>
 </div>
@@ -570,7 +570,7 @@ JENSEN METAL
 </div>
 <div aria-labelledby="heading45717" class="collapse" data-parent="#accordion" id="collapse45717">
 <div class="card-body">
-<p>Vollradhersteller aus schwarzem Metall, Edelstahl, Aluminiumteilen, Geräten und Systemen.</p><p><strong>Adresse:</strong> General Guardes Street 11, Liepaja, LV-3414, Lettland</p><p><strong>Telefon:</strong> (+371) 63489370</p><p>E-Mail: <a href="mailto:info-LV@jensenmetal.eu">info-LV@jensenmetal.eu</a></p><p><a href="https://www.jensenmetal.eu/">www.jensenmetal.eu</a></p><br/>
+<p>Vollradhersteller aus schwarzem Metall, Edelstahl, Aluminiumteilen, Geräten und Systemen.</p><p><strong>Adresse:</strong> General Guardes Street 11, Liepāja, LV-3414, Lettland</p><p><strong>Telefon:</strong> (+371) 63489370</p><p>E-Mail: <a href="mailto:info-LV@jensenmetal.eu">info-LV@jensenmetal.eu</a></p><p><a href="https://www.jensenmetal.eu/">www.jensenmetal.eu</a></p><br/>
 </div>
 </div>
 </div>
@@ -586,7 +586,7 @@ JM PROPERTIES
 </div>
 <div aria-labelledby="heading45718" class="collapse" data-parent="#accordion" id="collapse45718">
 <div class="card-body">
-<p>Vermietung und Verwaltung von Immobilien.</p><p><strong>Adresse:</strong> General Guardes Street 11, Liepaja, LV-3414, Lettland</p><p><strong>Telefon:</strong> (+371) 63489370</p><p><strong>E-Mail:</strong> <a href="mailto:info-LV@jensenmetal.eu">info-LV@jensenmetal.eu</a></p><br/>
+<p>Vermietung und Verwaltung von Immobilien.</p><p><strong>Adresse:</strong> General Guardes Street 11, Liepāja, LV-3414, Lettland</p><p><strong>Telefon:</strong> (+371) 63489370</p><p><strong>E-Mail:</strong> <a href="mailto:info-LV@jensenmetal.eu">info-LV@jensenmetal.eu</a></p><br/>
 </div>
 </div>
 </div>
@@ -602,7 +602,7 @@ YOKOHAMA TWS LATVIA
 </div>
 <div aria-labelledby="heading45719" class="collapse" data-parent="#accordion" id="collapse45719">
 <div class="card-body">
-<p>Herstellung von Rädern für landwirtschaftliche Maschinen.</p><p><strong>Adresse:</strong> Kapsēdes iela 2, Liepaja, LV-3414, Lettland</p><p><strong>Telefon:</strong> (+371) 66906884</p><p><a href="https://www.yokohama-tws.com/">www.yokohama-tws.com</a></p><br/>
+<p>Herstellung von Rädern für landwirtschaftliche Maschinen.</p><p><strong>Adresse:</strong> Kapsēdes iela 2, Liepāja, LV-3414, Lettland</p><p><strong>Telefon:</strong> (+371) 66906884</p><p><a href="https://www.yokohama-tws.com/">www.yokohama-tws.com</a></p><br/>
 </div>
 </div>
 </div>
@@ -618,7 +618,7 @@ LAUMA FABRICS
 </div>
 <div aria-labelledby="heading45720" class="collapse" data-parent="#accordion" id="collapse45720">
 <div class="card-body">
-<p>Hersteller von Textilien, Unterwäsche und medizinischen Materialien.</p><p><strong>Adresse:</strong> Ziemeļu iela 19, Liepaja, LV-3405, Lettland</p><p><strong>Telefon:</strong> (+371) 63447466</p><p><strong>E-Mail: </strong><a href="mailto:fabrics@laumafabrics.com">fabrics@laumafabrics.com</a></p><p><a href="www.laumafabrics.com">www.laumafabrics.com</a></p><br/>
+<p>Hersteller von Textilien, Unterwäsche und medizinischen Materialien.</p><p><strong>Adresse:</strong> Ziemeļu iela 19, Liepāja, LV-3405, Lettland</p><p><strong>Telefon:</strong> (+371) 63447466</p><p><strong>E-Mail: </strong><a href="mailto:fabrics@laumafabrics.com">fabrics@laumafabrics.com</a></p><p><a href="www.laumafabrics.com">www.laumafabrics.com</a></p><br/>
 </div>
 </div>
 </div>
@@ -634,7 +634,7 @@ LAUMA MEDICAL
 </div>
 <div aria-labelledby="heading45721" class="collapse" data-parent="#accordion" id="collapse45721">
 <div class="card-body">
-<p>Hersteller von medizinischen Produkten.</p><p><strong>Anschrift:</strong> Ziemeļu iela 19, Liepaja, LV-3405, Lettland.</p><p><strong>Telefon:</strong> (+371) 25666675<br/><strong>E-Mail:</strong> <a href="mailto:medical@laumamedical.com">medical@laumamedical.com</a><br/><a href="www.laumamedical.com">www.laumamedical.com</a></p><br/>
+<p>Hersteller von medizinischen Produkten.</p><p><strong>Anschrift:</strong> Ziemeļu iela 19, Liepāja, LV-3405, Lettland.</p><p><strong>Telefon:</strong> (+371) 25666675<br/><strong>E-Mail:</strong> <a href="mailto:medical@laumamedical.com">medical@laumamedical.com</a><br/><a href="www.laumamedical.com">www.laumamedical.com</a></p><br/>
 </div>
 </div>
 </div>
@@ -650,7 +650,7 @@ LASKANA
 </div>
 <div aria-labelledby="heading45722" class="collapse" data-parent="#accordion" id="collapse45722">
 <div class="card-body">
-<p>Allgemeine Ladungen (Holzmaterialien), Schüttgut (Biokraftstoffe, Partikelpellets, Sägemehl, Holzchips).</p><p><strong>Adresse:</strong> Brīvostas Street 40, Liepaja, LV-3405, Lettland</p><p><strong>Telefon:</strong> (+371) 63423111</p><p><strong>E-Mail:</strong> <a href="mailto:info@laskana.lv">info@laskana.lv</a></p><p><a href="https://www.laskana.lv">www.laskana.lv</a></p><br/>
+<p>Allgemeine Ladungen (Holzmaterialien), Schüttgut (Biokraftstoffe, Partikelpellets, Sägemehl, Holzchips).</p><p><strong>Adresse:</strong> Brīvostas Street 40, Liepāja, LV-3405, Lettland</p><p><strong>Telefon:</strong> (+371) 63423111</p><p><strong>E-Mail:</strong> <a href="mailto:info@laskana.lv">info@laskana.lv</a></p><p><a href="https://www.laskana.lv">www.laskana.lv</a></p><br/>
 </div>
 </div>
 </div>
@@ -666,7 +666,7 @@ LESJOFORS GAS SPRINGS
 </div>
 <div aria-labelledby="heading45723" class="collapse" data-parent="#accordion" id="collapse45723">
 <div class="card-body">
-<p>Herstellung von Gasfedern.</p><p><strong>Adresse:</strong> Dūņu Street 4, Liepaja, LV-3401, Lettland</p><p><strong>Telefon:</strong> (+371) 63401840</p><p><strong>E-Mail: </strong><a href="mailto:info.lep@lesjoforsab.com">info.lep@lesjoforsab.com</a></p><p><a href="http://www.lesjoforsab.com/" target="_blank">www.lesjoforsab.com</a></p><br/>
+<p>Herstellung von Gasfedern.</p><p><strong>Adresse:</strong> Dūņu Street 4, Liepāja, LV-3401, Lettland</p><p><strong>Telefon:</strong> (+371) 63401840</p><p><strong>E-Mail: </strong><a href="mailto:info.lep@lesjoforsab.com">info.lep@lesjoforsab.com</a></p><p><a href="http://www.lesjoforsab.com/" target="_blank">www.lesjoforsab.com</a></p><br/>
 </div>
 </div>
 </div>
@@ -682,7 +682,7 @@ LESJOFORS SPRINGS LV
 </div>
 <div aria-labelledby="heading45724" class="collapse" data-parent="#accordion" id="collapse45724">
 <div class="card-body">
-<p>Produktion von Kompression, Dehnung und Torsion Federn.</p><p><strong>Adresse:</strong> Dūņu Street 4, Liepaja, LV-3401, Lettland</p><p><strong>Telefon:</strong> (+371) 63401840</p><p><strong>E-Mail:</strong> <a href="info.lep@lesjoforsab.com">info.lep@lesjoforsab.com</a></p><p><a href="http://www.lesjofors.lv/" target="_blank">www.lesjofors.lv</a></p><br/>
+<p>Produktion von Kompression, Dehnung und Torsion Federn.</p><p><strong>Adresse:</strong> Dūņu Street 4, Liepāja, LV-3401, Lettland</p><p><strong>Telefon:</strong> (+371) 63401840</p><p><strong>E-Mail:</strong> <a href="info.lep@lesjoforsab.com">info.lep@lesjoforsab.com</a></p><p><a href="http://www.lesjofors.lv/" target="_blank">www.lesjofors.lv</a></p><br/>
 </div>
 </div>
 </div>
@@ -698,7 +698,7 @@ LIEPAJA BULK TERMINAL
 </div>
 <div aria-labelledby="heading45725" class="collapse" data-parent="#accordion" id="collapse45725">
 <div class="card-body">
-<p>Wired Dienstleistungen und Lagerung von Ladung.</p><p>Anschrift: Brīvības iela 123, Liepaja, LV-3401</p><p>Tel.: (+371) 63480952, (+371) 63401659</p><p>E-Mail: <a href="mailto:lbt@asp.lv" target="_blank">lbt@asp.lv</a></p><p><a href="http://lbt-port.com/" target="_blank">http://lbt-port.com/</a></p><br/>
+<p>Wired Dienstleistungen und Lagerung von Ladung.</p><p>Anschrift: Brīvības iela 123, Liepāja, LV-3401</p><p>Tel.: (+371) 63480952, (+371) 63401659</p><p>E-Mail: <a href="mailto:lbt@asp.lv" target="_blank">lbt@asp.lv</a></p><p><a href="http://lbt-port.com/" target="_blank">http://lbt-port.com/</a></p><br/>
 </div>
 </div>
 </div>
@@ -714,7 +714,7 @@ LIEPAJA TRANS STORAGE
 </div>
 <div aria-labelledby="heading45726" class="collapse" data-parent="#accordion" id="collapse45726">
 <div class="card-body">
-<p>Logistikdienstleistungen und Lagerung von Gütern.</p><p>Anschrift: 14 November Boulevard 19A, Liepaja, LV-3414</p><p>Tel.: (+371) 26447999</p><p>E-Mail: <a href="mailto:liepaja@latstorage.com" target="_blank">liepaja@latstorage.com</a></p><p><a href="https://latstorage.com/" target="_blank">https://latstorage.com/</a></p><br/>
+<p>Logistikdienstleistungen und Lagerung von Gütern.</p><p>Anschrift: 14 November Boulevard 19A, Liepāja, LV-3414</p><p>Tel.: (+371) 26447999</p><p>E-Mail: <a href="mailto:liepaja@latstorage.com" target="_blank">liepaja@latstorage.com</a></p><p><a href="https://latstorage.com/" target="_blank">https://latstorage.com/</a></p><br/>
 </div>
 </div>
 </div>
@@ -730,7 +730,7 @@ LPSP
 </div>
 <div aria-labelledby="heading45727" class="collapse" data-parent="#accordion" id="collapse45727">
 <div class="card-body">
-<p>Schweißen von Metall- und Kunststoffteilen.</p><p><strong>Adresse:</strong> Kapsēdes iela 2, Liepaja, LV-3414</p><p><strong>Telefon: </strong>(+371) 27783773</p><p><strong>E-Mail: </strong><a href="mailto:sales@lpsp.lv">sales@lpsp.lv</a></p><p><a href="https://www.lpsp.lv/">www.lpsp.lv</a></p><br/>
+<p>Schweißen von Metall- und Kunststoffteilen.</p><p><strong>Adresse:</strong> Kapsēdes iela 2, Liepāja, LV-3414</p><p><strong>Telefon: </strong>(+371) 27783773</p><p><strong>E-Mail: </strong><a href="mailto:sales@lpsp.lv">sales@lpsp.lv</a></p><p><a href="https://www.lpsp.lv/">www.lpsp.lv</a></p><br/>
 </div>
 </div>
 </div>
@@ -746,7 +746,7 @@ METARS
 </div>
 <div aria-labelledby="heading45728" class="collapse" data-parent="#accordion" id="collapse45728">
 <div class="card-body">
-<p>Metallverarbeitung.</p><p><strong>Adresse:</strong> Roni Street 8A, Liepaja, LV-3401, Lettland.</p><p><strong>Telefon:</strong> (+371) 25663720</p><br/>
+<p>Metallverarbeitung.</p><p><strong>Adresse:</strong> Roni Street 8A, Liepāja, LV-3401, Lettland.</p><p><strong>Telefon:</strong> (+371) 25663720</p><br/>
 </div>
 </div>
 </div>
@@ -762,7 +762,7 @@ MOLS L
 </div>
 <div aria-labelledby="heading45729" class="collapse" data-parent="#accordion" id="collapse45729">
 <div class="card-body">
-<p>Wired Dienstleistungen und Lagerung von Ladung.</p><p><strong>Adresse:</strong> Brīvostas iela 21, Liepaja, LV-3405, Lettland</p><p><strong>Telefon:</strong> (+371) 63489560; (+371) 29411479</p><p><strong>E-Mail:</strong> <a href="mailto:molsl@molsl.lv">molsl@molsl.lv</a></p><br/>
+<p>Wired Dienstleistungen und Lagerung von Ladung.</p><p><strong>Adresse:</strong> Brīvostas iela 21, Liepāja, LV-3405, Lettland</p><p><strong>Telefon:</strong> (+371) 63489560; (+371) 29411479</p><p><strong>E-Mail:</strong> <a href="mailto:molsl@molsl.lv">molsl@molsl.lv</a></p><br/>
 </div>
 </div>
 </div>
@@ -778,7 +778,7 @@ NORDEPLAST
 </div>
 <div aria-labelledby="heading45730" class="collapse" data-parent="#accordion" id="collapse45730">
 <div class="card-body">
-<p>Herstellung von medizinischen Pflastern und Dressings.</p><p><strong>Adresse:</strong> Ziemeļu iela 19, Liepaja, LV-3405, Lettland</p><p><strong>Telefon: </strong>(+371) 20037773</p><p><strong>E-Mail:</strong> <a href="mailto:nordeplast.lv@gmail.com">nordeplast.lv@gmail.com</a></p><br/>
+<p>Herstellung von medizinischen Pflastern und Dressings.</p><p><strong>Adresse:</strong> Ziemeļu iela 19, Liepāja, LV-3405, Lettland</p><p><strong>Telefon: </strong>(+371) 20037773</p><p><strong>E-Mail:</strong> <a href="mailto:nordeplast.lv@gmail.com">nordeplast.lv@gmail.com</a></p><br/>
 </div>
 </div>
 </div>
@@ -794,7 +794,7 @@ NORSAF
 </div>
 <div aria-labelledby="heading45731" class="collapse" data-parent="#accordion" id="collapse45731">
 <div class="card-body">
-<p>Lagerung und Handhabung von Erdölerzeugnissen.</p><p><strong>Adresse:</strong> 19C North Street, Liepaja, LV-3405, Lettland</p><p><strong>Telefon:</strong> (+371) 29257572</p><p><strong>E-Mail:</strong> <a href="mailto:info@giterminal.lv">info@giterminal.lv</a></p><p><a href="https://norsaf.com/">www.norsaf.com</a></p><br/>
+<p>Lagerung und Handhabung von Erdölerzeugnissen.</p><p><strong>Adresse:</strong> 19C North Street, Liepāja, LV-3405, Lettland</p><p><strong>Telefon:</strong> (+371) 29257572</p><p><strong>E-Mail:</strong> <a href="mailto:info@giterminal.lv">info@giterminal.lv</a></p><p><a href="https://norsaf.com/">www.norsaf.com</a></p><br/>
 </div>
 </div>
 </div>
@@ -810,7 +810,7 @@ NORTHSIDE BUSINESS PARK
 </div>
 <div aria-labelledby="heading45732" class="collapse" data-parent="#accordion" id="collapse45732">
 <div class="card-body">
-<p>Eigentümer, Entwickler und Manager des Industrieparks.</p><p><strong>Adresse:</strong> Flotes iela 16, Liepaja, LV-3405, Lettland.</p><p><strong>Telefon:</strong> (+371) 20240811</p><p><strong>E-Mail:</strong> <a href="mailto:info@nsbp.lv">info@nsbp.lv</a></p><p><a href="https://nsbp.lv/en/sakums/www.nsbp.lv">www.nsbp.lv</a></p><br/>
+<p>Eigentümer, Entwickler und Manager des Industrieparks.</p><p><strong>Adresse:</strong> Flotes iela 16, Liepāja, LV-3405, Lettland.</p><p><strong>Telefon:</strong> (+371) 20240811</p><p><strong>E-Mail:</strong> <a href="mailto:info@nsbp.lv">info@nsbp.lv</a></p><p><a href="https://nsbp.lv/en/sakums/www.nsbp.lv">www.nsbp.lv</a></p><br/>
 </div>
 </div>
 </div>
@@ -826,7 +826,7 @@ PUMAC LIEPAJA
 </div>
 <div aria-labelledby="heading45733" class="collapse" data-parent="#accordion" id="collapse45733">
 <div class="card-body">
-<p>Vermietung und Verwaltung von Immobilien.</p><p><strong>Adresse:</strong> Kapsēdes iela 2, Liepaja, LV-3414, Lettland</p><p><strong>Telefon:</strong> (+371) 28308642</p><p><strong>E-Mail:</strong> <a href="mailto:lbc@pumac.lv">lbc@pumac.lv</a></p><p><a href="https://www.liepajabc.lv/">www.liepajabc.lv</a></p><br/>
+<p>Vermietung und Verwaltung von Immobilien.</p><p><strong>Adresse:</strong> Kapsēdes iela 2, Liepāja, LV-3414, Lettland</p><p><strong>Telefon:</strong> (+371) 28308642</p><p><strong>E-Mail:</strong> <a href="mailto:lbc@pumac.lv">lbc@pumac.lv</a></p><p><a href="https://www.liepajabc.lv/">www.liepajabc.lv</a></p><br/>
 </div>
 </div>
 </div>
@@ -842,7 +842,7 @@ RANGEFUL
 </div>
 <div aria-labelledby="heading45734" class="collapse" data-parent="#accordion" id="collapse45734">
 <div class="card-body">
-<p>Großhandel mit elektronischen Geräten, Telekommunikationsgeräten und Teilen davon.</p><p><strong>Adresse:</strong> Cieceres iela 46A, Liepaja, LV-3407</p><p><strong>Telefon:</strong> (+371) 29499676</p><p><strong>E-Mail:</strong> <a href="mailto:info@rangeful.com">info@rangeful.com</a></p><p><a href="www.rangeful.com">www.rangeful.com</a></p><br/>
+<p>Großhandel mit elektronischen Geräten, Telekommunikationsgeräten und Teilen davon.</p><p><strong>Adresse:</strong> Cieceres iela 46A, Liepāja, LV-3407</p><p><strong>Telefon:</strong> (+371) 29499676</p><p><strong>E-Mail:</strong> <a href="mailto:info@rangeful.com">info@rangeful.com</a></p><p><a href="www.rangeful.com">www.rangeful.com</a></p><br/>
 </div>
 </div>
 </div>
@@ -851,14 +851,14 @@ RANGEFUL
 <h5 class="mb-0">
 <button aria-controls="collapse45735" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45735" data-bs-toggle="collapse">
 
-NT1 NT2 NT2 BERUFSBILDUNG
+BERUFSBILDUNG
 
 </button>
 </h5>
 </div>
 <div aria-labelledby="heading45735" class="collapse" data-parent="#accordion" id="collapse45735">
 <div class="card-body">
-<p>Herstellung von Metallkonstruktionen</p><p><strong>Adresse:</strong> Laboratorijas iela 20, Liepaja, LV-3414, Lettland</p><p><strong>Telefon: </strong>(+371) 63489388</p><p><strong>E-Mail: </strong><a href="mailto:faktura@rtmetals.lv">faktura@rtmetals.lv</a></p><p><a href="http://www.rtmetals.lv/">www.rtmetals.lv</a></p><br/>
+<p>Herstellung von Metallkonstruktionen</p><p><strong>Adresse:</strong> Laboratorijas iela 20, Liepāja, LV-3414, Lettland</p><p><strong>Telefon: </strong>(+371) 63489388</p><p><strong>E-Mail: </strong><a href="mailto:faktura@rtmetals.lv">faktura@rtmetals.lv</a></p><p><a href="http://www.rtmetals.lv/">www.rtmetals.lv</a></p><br/>
 </div>
 </div>
 </div>
@@ -874,7 +874,7 @@ ROECHLING INDUSTRIAL LIEPAJA
 </div>
 <div aria-labelledby="heading45736" class="collapse" data-parent="#accordion" id="collapse45736">
 <div class="card-body">
-<p>Herstellung von Kunststoffteilen.</p><p><strong>Adresse:</strong> Kapsēdes iela 2, Liepaja, LV-3414, Lettland</p><p><strong>Telefon:</strong> (+371) 63488539</p><p><strong>E-Mail:</strong> <a href="mailto:letland@meta-plast.dk">letland@meta-plast.dk</a></p><p><a href="https://www.roechling.com/">www.roechling.com</a></p><br/>
+<p>Herstellung von Kunststoffteilen.</p><p><strong>Adresse:</strong> Kapsēdes iela 2, Liepāja, LV-3414, Lettland</p><p><strong>Telefon:</strong> (+371) 63488539</p><p><strong>E-Mail:</strong> <a href="mailto:letland@meta-plast.dk">letland@meta-plast.dk</a></p><p><a href="https://www.roechling.com/">www.roechling.com</a></p><br/>
 </div>
 </div>
 </div>
@@ -890,7 +890,7 @@ SCAN-PLAST LATVIA
 </div>
 <div aria-labelledby="heading45737" class="collapse" data-parent="#accordion" id="collapse45737">
 <div class="card-body">
-<p>Herstellung von Verbundwerkstoffen.</p><p><strong>Adresse:</strong> Brīvības iela 185, Liepaja, LV-3401, Lettland</p><p><strong>Telefon:</strong> (+371) 634 01 770</p><p><strong>E-Mail:</strong> <a href="mailto:mail@scan-plast.lv">mail@scan-plast.lv</a></p><p><a href="https://www.scan-plast.com/">www.scan-plast.com</a></p><br/>
+<p>Herstellung von Verbundwerkstoffen.</p><p><strong>Adresse:</strong> Brīvības iela 185, Liepāja, LV-3401, Lettland</p><p><strong>Telefon:</strong> (+371) 634 01 770</p><p><strong>E-Mail:</strong> <a href="mailto:mail@scan-plast.lv">mail@scan-plast.lv</a></p><p><a href="https://www.scan-plast.com/">www.scan-plast.com</a></p><br/>
 </div>
 </div>
 </div>
@@ -899,14 +899,14 @@ SCAN-PLAST LATVIA
 <h5 class="mb-0">
 <button aria-controls="collapse45738" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45738" data-bs-toggle="collapse">
 
-Stena Line Ports Liepaja SEZ Ltd
+Stena Line Ports Liepāja SEZ Ltd
 
 </button>
 </h5>
 </div>
 <div aria-labelledby="heading45738" class="collapse" data-parent="#accordion" id="collapse45738">
 <div class="card-body">
-<p>Stividor Dienstleistungen, Schiffsagentur, Schiffscharter und Frachtumleitung, Fährverbindung Betrieb im Hafen von Liepaja.</p><p><strong>Adresse:</strong> Brīvostas 14A, Liepaja, LV √ 3405, Lettland</p><p><strong>Telefon:</strong> (+371) 63425756</p><p><strong>E-Mail:</strong> <a href="mailto:office.liepaja@stenaline.com">office.liepaja@stenaline.com</a></p><p> </p><br/>
+<p>Stividor Dienstleistungen, Schiffsagentur, Schiffscharter und Frachtumleitung, Fährverbindung Betrieb im Hafen von Liepāja.</p><p><strong>Adresse:</strong> Brīvostas 14A, Liepāja, LV √ 3405, Lettland</p><p><strong>Telefon:</strong> (+371) 63425756</p><p><strong>E-Mail:</strong> <a href="mailto:office.liepaja@stenaline.com">office.liepaja@stenaline.com</a></p><p> </p><br/>
 </div>
 </div>
 </div>
@@ -922,7 +922,7 @@ SOLO L
 </div>
 <div aria-labelledby="heading45739" class="collapse" data-parent="#accordion" id="collapse45739">
 <div class="card-body">
-<p>Logistikdienstleistungen und Lagerung von Gütern.</p><p><strong>Adresse:</strong> 10 Pulvera Street, Liepaja, LV-3405, Lettland</p><p><strong>Telefon: </strong>(+371) 29224540</p><p><strong>E-Mail:</strong> <a href="sololmanager@apollo.lv">sololmanager@apollo.lv</a></p><br/>
+<p>Logistikdienstleistungen und Lagerung von Gütern.</p><p><strong>Adresse:</strong> 10 Pulvera Street, Liepāja, LV-3405, Lettland</p><p><strong>Telefon: </strong>(+371) 29224540</p><p><strong>E-Mail:</strong> <a href="sololmanager@apollo.lv">sololmanager@apollo.lv</a></p><br/>
 </div>
 </div>
 </div>
@@ -938,7 +938,7 @@ SWEDAN PARTNERS
 </div>
 <div aria-labelledby="heading45740" class="collapse" data-parent="#accordion" id="collapse45740">
 <div class="card-body">
-<p>Mechanische Behandlung von Metall.</p><p><strong>Adresse:</strong> Kapsēdes iela 2, Liepaja, LV-3414, Lettland</p><p><strong>Telefon:</strong> (+371) 29845968</p><p><strong>E-Mail:</strong> <a href="mailto:gl@swedanpartners.eu">gl@swedanpartners.eu</a></p><p><a href="https://www.swedanpartners.eu/">www.swedanpartners.eu</a></p><br/>
+<p>Mechanische Behandlung von Metall.</p><p><strong>Adresse:</strong> Kapsēdes iela 2, Liepāja, LV-3414, Lettland</p><p><strong>Telefon:</strong> (+371) 29845968</p><p><strong>E-Mail:</strong> <a href="mailto:gl@swedanpartners.eu">gl@swedanpartners.eu</a></p><p><a href="https://www.swedanpartners.eu/">www.swedanpartners.eu</a></p><br/>
 </div>
 </div>
 </div>
@@ -954,7 +954,7 @@ TRANSITTERMINAL
 </div>
 <div aria-labelledby="heading45741" class="collapse" data-parent="#accordion" id="collapse45741">
 <div class="card-body">
-<p>Lagerung und Handhabung von Erdölerzeugnissen.</p><p><strong>Adresse:</strong> Neue Ostmala 33/35, Liepaja, LV-3401, Lettland</p><p><strong>Telefon:</strong> (+371) 29225140</p><p><strong>E-Mail:</strong> <a href="transit.term@gmail.com">transit.term@gmail.com</a></p><br/>
+<p>Lagerung und Handhabung von Erdölerzeugnissen.</p><p><strong>Adresse:</strong> Neue Ostmala 33/35, Liepāja, LV-3401, Lettland</p><p><strong>Telefon:</strong> (+371) 29225140</p><p><strong>E-Mail:</strong> <a href="transit.term@gmail.com">transit.term@gmail.com</a></p><br/>
 </div>
 </div>
 </div>
@@ -970,7 +970,7 @@ TRUWEL
 </div>
 <div aria-labelledby="heading45742" class="collapse" data-parent="#accordion" id="collapse45742">
 <div class="card-body">
-<p>Herstellung von Waschmitteln, Reinigungs- und Poliermitteln.</p><p><strong>Adresse:</strong> Ziemeļu iela 19, Liepaja, LV-3415, Lettland</p><p><strong>Telefon: </strong>(+371) 67273333</p><p><strong>E-Mail:</strong> <a href="info@truwel.lv">info@truwel.lv</a></p><p><a href="https://truwel.lv/">www.truwel.lv</a></p><br/>
+<p>Herstellung von Waschmitteln, Reinigungs- und Poliermitteln.</p><p><strong>Adresse:</strong> Ziemeļu iela 19, Liepāja, LV-3415, Lettland</p><p><strong>Telefon: </strong>(+371) 67273333</p><p><strong>E-Mail:</strong> <a href="info@truwel.lv">info@truwel.lv</a></p><p><a href="https://truwel.lv/">www.truwel.lv</a></p><br/>
 </div>
 </div>
 </div>
@@ -986,7 +986,7 @@ TRANSIT SERVICE
 </div>
 <div aria-labelledby="heading45743" class="collapse" data-parent="#accordion" id="collapse45743">
 <div class="card-body">
-<p>Logistikdienstleistungen und Lagerung von Gütern.</p><p><strong>Adresse:</strong> Brīvības iela 123, Liepaja, LV-3401, Lettland</p><p><strong>Telefon:</strong> (+371) 63486363</p><p><strong>E-Mail: </strong><a href="mailto:info@tipark.lv">info@tipark.lv</a></p><br/>
+<p>Logistikdienstleistungen und Lagerung von Gütern.</p><p><strong>Adresse:</strong> Brīvības iela 123, Liepāja, LV-3401, Lettland</p><p><strong>Telefon:</strong> (+371) 63486363</p><p><strong>E-Mail: </strong><a href="mailto:info@tipark.lv">info@tipark.lv</a></p><br/>
 </div>
 </div>
 </div>
@@ -1002,7 +1002,7 @@ TRANSWIDE SERVICES
 </div>
 <div aria-labelledby="heading45744" class="collapse" data-parent="#accordion" id="collapse45744">
 <div class="card-body">
-<p>Logistik, Lagerung und Lagerhaltung.</p><p><strong>Adresse:</strong> Brīvības iela 123, Liepaja, LV-3414, Lettland</p><p><strong>Telefon:</strong> (+371) 63424817</p><p><strong>E-Mail:</strong><a href="mailto:lbt@asp.lv"> lbt@asp.lv</a></p><p><a href="http://lbt-port.com/">www.lbt-port.com</a></p><br/>
+<p>Logistik, Lagerung und Lagerhaltung.</p><p><strong>Adresse:</strong> Brīvības iela 123, Liepāja, LV-3414, Lettland</p><p><strong>Telefon:</strong> (+371) 63424817</p><p><strong>E-Mail:</strong><a href="mailto:lbt@asp.lv"> lbt@asp.lv</a></p><p><a href="http://lbt-port.com/">www.lbt-port.com</a></p><br/>
 </div>
 </div>
 </div>
@@ -1018,7 +1018,7 @@ OLD OSTMALE BIZNE PARK
 </div>
 <div aria-labelledby="heading45745" class="collapse" data-parent="#accordion" id="collapse45745">
 <div class="card-body">
-<p>Eigentümer, Entwickler und Manager des Industrie-Businessparks in Liepaja, dessen Ziel es ist, wettbewerbsfähige Infrastrukturlösungen sowohl für Startups als auch bestehende Unternehmen zu finden, um ihre Aktivitäten auszubauen.</p><p><strong>Adresse: </strong>Old Ostmala 10, Liepaja, LV-3401, Lettland</p><p><strong>Telefon:</strong> (+371) 25666472</p><p><strong>E-Mail:</strong>  <a href="mailto:info@vobp.lv">info@vobp.lv</a></p><p><a href="http://www.vobp.lv/" target="_blank">www.vobp.lv</a></p><br/>
+<p>Eigentümer, Entwickler und Manager des Industrie-Businessparks in Liepāja, dessen Ziel es ist, wettbewerbsfähige Infrastrukturlösungen sowohl für Startups als auch bestehende Unternehmen zu finden, um ihre Aktivitäten auszubauen.</p><p><strong>Adresse: </strong>Old Ostmala 10, Liepāja, LV-3401, Lettland</p><p><strong>Telefon:</strong> (+371) 25666472</p><p><strong>E-Mail:</strong>  <a href="mailto:info@vobp.lv">info@vobp.lv</a></p><p><a href="http://www.vobp.lv/" target="_blank">www.vobp.lv</a></p><br/>
 </div>
 </div>
 </div>
@@ -1062,7 +1062,7 @@ OLD OSTMALE BIZNE PARK
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/kapitalsabiedribas/index.php"><img alt="Nach oben" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

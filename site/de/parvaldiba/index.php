@@ -40,7 +40,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/parvaldiba/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Unternehmensführung
@@ -48,7 +48,7 @@ Unternehmensführung
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../korporativa-parvaldiba/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/korporativa-parvaldiba/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Corporate Governance
@@ -56,7 +56,7 @@ Corporate Governance
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../iepirkumi-un-izsoles/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/iepirkumi-un-izsoles/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Ausschreibungen und Versteigerungen
@@ -72,7 +72,7 @@ Geschäftsberichte
 </a>
 <div class="sidebar-nested ps-md-4">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../valdes-sedes-lemumi/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes-lemumi/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Vorstandsbeschlüsse
@@ -80,7 +80,7 @@ Vorstandsbeschlüsse
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../atskaites-par-darbibu/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/atskaites-par-darbibu/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Tätigkeitsberichte
@@ -88,7 +88,7 @@ Tätigkeitsberichte
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../ostas-statistika/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/ostas-statistika/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Hafenstatistik
@@ -102,7 +102,7 @@ Hafenstatistik
 <div class="col-12 col-md-9 side-right">
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><h6>Liepaja Special Economic Zone (Liepāja SEZ) Verwaltung ist eine abgeleitete juristische Person des öffentlichen Rechts, die von dem Staat und der lokalen Regierung, die unter der Aufsicht des Kabinetts der Minister, hat spezielle Budget, separate Eigentum und Siegel. Liepaja SEZ Authority ist der Nachfolger von Liepaja Port Authority Gesetz und Pflichten.</h6><p>Die Liepaja SEZ Behörde wird vom Vorstand von Liepaja als höchste Entscheidungs- und Exekutivorgan gebildet, das von Liepuja SEZ Manager geführt wird. </p></div>
+<div class="col"><div class="col-12 output"><h6>Liepāja Special Economic Zone (Liepāja SEZ) Verwaltung ist eine abgeleitete juristische Person des öffentlichen Rechts, die von dem Staat und der lokalen Regierung, die unter der Aufsicht des Kabinetts der Minister, hat spezielle Budget, separate Eigentum und Siegel. Liepāja SEZ Authority ist der Nachfolger von Liepāja Port Authority Gesetz und Pflichten.</h6><p>Die Liepāja SEZ Behörde wird vom Vorstand von Liepāja als höchste Entscheidungs- und Exekutivorgan gebildet, das von Liepuja SEZ Manager geführt wird. </p></div>
 </div>
 </div>
 </div>
@@ -115,10 +115,10 @@ Hafenstatistik
 <h4>3</h4><p>Vertreter staatlicher Interessen aus dem Ministerium für Wirtschaft, Finanzen und Verkehr</p>
 </div>
 <div class="col-12 col-md-4 column-content">
-<h4>3</h4><p>Vertreter des Stadtrats von Liepaja</p>
+<h4>3</h4><p>Vertreter des Stadtrats von Liepāja</p>
 </div>
 <div class="col-12 col-md-4 column-content">
-<h4>3</h4><p>Liepaja Handelsvertreter</p>
+<h4>3</h4><p>Liepāja Handelsvertreter</p>
 </div>
 </div>
 </div>
@@ -153,7 +153,7 @@ Aufgaben
 </div>
 <div aria-labelledby="heading3531" class="collapse" data-parent="#accordion" id="collapse3531">
 <div class="card-body">
-<ul><li>Genehmigung des Entwicklungsplans der Sonderwirtschaftszone Liepaja gemäß dem Gesetz über besondere Wirtschaftszonen, Staat, Gemeinde und öffentliche Interessen;</li><li>Vereinbarungen mit Investoren der Sonderwirtschaftszone Liepaja für Investitionen und Geschäftstätigkeiten im Gebiet der besonderen Wirtschaftszone von Liepaja schließen;</li><li>Abkommen mit den Unternehmen der Sonderwirtschaftszone Liepaja für ihre Geschäftstätigkeit im Gebiet der besonderen Wirtschaftszone von Liepaja schließen;</li><li>Erteilung von Zertifikaten für Unternehmen der Sonderwirtschaftszone Liepaja über das Recht auf Anwendung steuerlicher Anreize gemäß dem Gesetz "Über die Anwendung von Steuern in freien Häfen und besonderen Wirtschaftszonen";</li><li>Festlegung von Freizonen und deren Grenzen, im Einvernehmen mit dem staatlichen Steuerdienst, die Vereinbarkeit dieser Zonen mit der Anwendung des Regelungssystems für die Freizone;</li><li>Vereinbarungen über die Pacht oder Veräußerung von Grundstücken im Gebiet der Sonderwirtschaftszone Liepaja, mit Ausnahme der Enteignung von Hafengrundstücken, sowie in den Fällen, die durch dieses Gesetz festgelegt werden, wenn die Privatisierung von Grundstücken und anderen Immobilien im Gebiet der besonderen Wirtschaftszone Liepaya von anderen Institutionen durchgeführt wird;</li><li>Abkommen mit den Unternehmen der Sonderwirtschaftszone Liepaja für die allgemeine Übertragung bestimmter wirtschaftlicher Funktionen auf sie in bestimmten Bereichen des besonderen Wirtschaftszonendienstes von Liepaja oder Teile des Gebiets der Sonderwirtschaftsgebiet Liepāja schließen;</li><li>Kontrolle der Ausführung abgeschlossener Verträge;</li><li>billigt den Haushaltsplan für die künftige und die nächste Ausführung des Haushaltsplans;</li><li>die Exekutive der Sonderwirtschaftszone Liepaja zu ernennen, zu lenken und zu kontrollieren;</li><li>er führt die Aufgaben der Gebietsverwaltung durch gesetzliche Regelungen auf dem Gebiet der Sonderwirtschaftszone Liepaja aus.</li></ul><br/>
+<ul><li>Genehmigung des Entwicklungsplans der Sonderwirtschaftszone Liepāja gemäß dem Gesetz über besondere Wirtschaftszonen, Staat, Gemeinde und öffentliche Interessen;</li><li>Vereinbarungen mit Investoren der Sonderwirtschaftszone Liepāja für Investitionen und Geschäftstätigkeiten im Gebiet der besonderen Wirtschaftszone von Liepāja schließen;</li><li>Abkommen mit den Unternehmen der Sonderwirtschaftszone Liepāja für ihre Geschäftstätigkeit im Gebiet der besonderen Wirtschaftszone von Liepāja schließen;</li><li>Erteilung von Zertifikaten für Unternehmen der Sonderwirtschaftszone Liepāja über das Recht auf Anwendung steuerlicher Anreize gemäß dem Gesetz "Über die Anwendung von Steuern in freien Häfen und besonderen Wirtschaftszonen";</li><li>Festlegung von Freizonen und deren Grenzen, im Einvernehmen mit dem staatlichen Steuerdienst, die Vereinbarkeit dieser Zonen mit der Anwendung des Regelungssystems für die Freizone;</li><li>Vereinbarungen über die Pacht oder Veräußerung von Grundstücken im Gebiet der Sonderwirtschaftszone Liepāja, mit Ausnahme der Enteignung von Hafengrundstücken, sowie in den Fällen, die durch dieses Gesetz festgelegt werden, wenn die Privatisierung von Grundstücken und anderen Immobilien im Gebiet der besonderen Wirtschaftszone Liepaya von anderen Institutionen durchgeführt wird;</li><li>Abkommen mit den Unternehmen der Sonderwirtschaftszone Liepāja für die allgemeine Übertragung bestimmter wirtschaftlicher Funktionen auf sie in bestimmten Bereichen des besonderen Wirtschaftszonendienstes von Liepāja oder Teile des Gebiets der Sonderwirtschaftsgebiet Liepāja schließen;</li><li>Kontrolle der Ausführung abgeschlossener Verträge;</li><li>billigt den Haushaltsplan für die künftige und die nächste Ausführung des Haushaltsplans;</li><li>die Exekutive der Sonderwirtschaftszone Liepāja zu ernennen, zu lenken und zu kontrollieren;</li><li>er führt die Aufgaben der Gebietsverwaltung durch gesetzliche Regelungen auf dem Gebiet der Sonderwirtschaftszone Liepāja aus.</li></ul><br/>
 </div>
 </div>
 </div>
@@ -214,7 +214,7 @@ Verwaltungsstruktur
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/parvaldiba/index.php"><img alt="Nach oben" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

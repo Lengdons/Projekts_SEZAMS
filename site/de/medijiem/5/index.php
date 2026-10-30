@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/medijiem/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -49,7 +49,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Fotos
@@ -57,7 +57,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -71,18 +71,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Management der Europäischen Bank für Wiederaufbau und Entwicklung lernt Liepaja Projekte für nachhaltige Industrie kennen</h2>
+<h2>Management der Europäischen Bank für Wiederaufbau und Entwicklung lernt Liepāja Projekte für nachhaltige Industrie kennen</h2>
 <span class="mb-3">12.05.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../eiropas-rekonstrukcijas-un-attistibas-bankas-vadiba-iepazistas-ar-liepajas-ilgtspejigas-in/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/eiropas-rekonstrukcijas-un-attistibas-bankas-vadiba-iepazistas-ar-liepajas-ilgtspejigas-in/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>11. Im Mai in London präsentierten Jānis Lapiņš, Beraterin von Liepaja SEZ-Manager für Projekte im Bereich erneuerbare Energien, zusammen mit dem Liepaja Centre for Sustainable Industry Unternehmen das Management der Europäischen Bank für Wiederaufbau und Entwicklung (EBRD) mit geplanten Projekten in Liepaja.  </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../eiropas-rekonstrukcijas-un-attistibas-bankas-vadiba-iepazistas-ar-liepajas-ilgtspejigas-in/index.php">Weiterlesen</a>
+<p>11. Im Mai in London präsentierten Jānis Lapiņš, Beraterin von Liepāja SEZ-Manager für Projekte im Bereich erneuerbare Energien, zusammen mit dem Liepāja Centre for Sustainable Industry Unternehmen das Management der Europäischen Bank für Wiederaufbau und Entwicklung (EBRD) mit geplanten Projekten in Liepāja.  </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/eiropas-rekonstrukcijas-un-attistibas-bankas-vadiba-iepazistas-ar-liepajas-ilgtspejigas-in/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/289/1778656070_36_05.12.2026._ERAB_HUB_Londona.webp)">
-<a aria-label="Weiterlesen" href="../eiropas-rekonstrukcijas-un-attistibas-bankas-vadiba-iepazistas-ar-liepajas-ilgtspejigas-in/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/eiropas-rekonstrukcijas-un-attistibas-bankas-vadiba-iepazistas-ar-liepajas-ilgtspejigas-in/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/289/1778656070_36_05.12.2026._ERAB_HUB_Londona.webp"/>
 </a>
 </div>
@@ -91,18 +91,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Die Sympathiepreise der Liepaja SEZ Authority werden von den Bildungseinrichtungen LAMPwood und PLIX erhalten</h2>
+<h2>Die Sympathiepreise der Liepāja SEZ Authority werden von den Bildungseinrichtungen LAMPwood und PLIX erhalten</h2>
 <span class="mb-3">29.04.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-parvaldes-simpatiju-balavas-sanem-skolenu-macibu-uznemumi-lampwood-un-plix/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-sez-parvaldes-simpatiju-balavas-sanem-skolenu-macibu-uznemumi-lampwood-un-plix/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Bereits für das zweite Jahr beteiligt sich die Liepaja SEZ Authority an der Bewertung des nationalen Finales der besten lettischen Schülerinnen und Schüler und präsentiert ihren Sympathiepreis in Grundschulen und weiterführenden Schulen. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-parvaldes-simpatiju-balavas-sanem-skolenu-macibu-uznemumi-lampwood-un-plix/index.php">Weiterlesen</a>
+<p>Bereits für das zweite Jahr beteiligt sich die Liepāja SEZ Authority an der Bewertung des nationalen Finales der besten lettischen Schülerinnen und Schüler und präsentiert ihren Sympathiepreis in Grundschulen und weiterführenden Schulen. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-sez-parvaldes-simpatiju-balavas-sanem-skolenu-macibu-uznemumi-lampwood-un-plix/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/288/1777533949_34_04.29.2026._JA_uznemumi_0.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-parvaldes-simpatiju-balavas-sanem-skolenu-macibu-uznemumi-lampwood-un-plix/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-sez-parvaldes-simpatiju-balavas-sanem-skolenu-macibu-uznemumi-lampwood-un-plix/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/288/1777533949_34_04.29.2026._JA_uznemumi_0.webp"/>
 </a>
 </div>
@@ -111,18 +111,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Vorstand der Liepaja SEZ 22. Beschlüsse vom April</h2>
+<h2>Vorstand der Liepāja SEZ 22. Beschlüsse vom April</h2>
 <span class="mb-3">29.04.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-valdes-22-aprila-lemumi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-sez-valdes-22-aprila-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>22 dieses Jahres. Am April fand die regelmäßige Sitzung des Vorstands der Liepaja SEZ statt, bei der 11 Entscheidungen über Investitionen in Unternehmen für einen Gesamtbetrag von 1,25 Mio. EUR getroffen wurden. EUR für kommerzielle Tätigkeiten im Gebiet von Liepaja SEZ sowie für Änderungen und Klarstellungen der Verträge.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-valdes-22-aprila-lemumi/index.php">Weiterlesen</a>
+<p>22 dieses Jahres. Am April fand die regelmäßige Sitzung des Vorstands der Liepāja SEZ statt, bei der 11 Entscheidungen über Investitionen in Unternehmen für einen Gesamtbetrag von 1,25 Mio. EUR getroffen wurden. EUR für kommerzielle Tätigkeiten im Gebiet von Liepāja SEZ sowie für Änderungen und Klarstellungen der Verträge.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-sez-valdes-22-aprila-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/287/1777454003_32903943777_3a47fd04ca_k.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-valdes-22-aprila-lemumi/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-sez-valdes-22-aprila-lemumi/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/287/1777454003_32903943777_3a47fd04ca_k.webp"/>
 </a>
 </div>
@@ -134,15 +134,15 @@ Vorstandssitzungen
 <h2>Botschafterin der Vereinigten Staaten in Lettland Melissa Argirosa, Liepajas industrielle Ambitionen verkörpern lettischen Geist.</h2>
 <span class="mb-3">17.04.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../asv-vestniece-latvija-melisa-ardzirosa-liepajas-industrialas-ambicijas-iemieso-latvijas-ga/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/asv-vestniece-latvija-melisa-ardzirosa-liepajas-industrialas-ambicijas-iemieso-latvijas-ga/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Es ist klar, dass Liepajas industrielle Ambitionen den Geist Lettlands verkörpern. Im April lernte sie den Betrieb des Hafens von Liepaja und die besondere Wirtschaftszone kennen. Liepaja SEZ General Manager Uldis Hmielevskis stellte den Botschafter vor, um grüne Energie- und Industrieprojekte zu planen, die im Liepaja Sustainable Industry Centre zusammengeführt werden und einander ergänzen.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../asv-vestniece-latvija-melisa-ardzirosa-liepajas-industrialas-ambicijas-iemieso-latvijas-ga/index.php">Weiterlesen</a>
+<p>Es ist klar, dass Liepajas industrielle Ambitionen den Geist Lettlands verkörpern. 16. Im April lernte sie den Betrieb des Hafens von Liepāja und die besondere Wirtschaftszone kennen. Liepāja SEZ General Manager Uldis Hmielevskis stellte den Botschafter vor, um grüne Energie- und Industrieprojekte zu planen, die im Liepāja Sustainable Industry Centre zusammengeführt werden und einander ergänzen.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/asv-vestniece-latvija-melisa-ardzirosa-liepajas-industrialas-ambicijas-iemieso-latvijas-ga/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/286/1776427166_28_04.16.2026._ASV_vestniece_02.webp)">
-<a aria-label="Weiterlesen" href="../asv-vestniece-latvija-melisa-ardzirosa-liepajas-industrialas-ambicijas-iemieso-latvijas-ga/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/asv-vestniece-latvija-melisa-ardzirosa-liepajas-industrialas-ambicijas-iemieso-latvijas-ga/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/286/1776427166_28_04.16.2026._ASV_vestniece_02.webp"/>
 </a>
 </div>
@@ -151,18 +151,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Liepaja SEZ Behörde verbessert Zusammenarbeit mit den Häfen Lübeck und Hamburg in Deutschland </h2>
+<h2>Liepāja SEZ Behörde verbessert Zusammenarbeit mit den Häfen Lübeck und Hamburg in Deutschland </h2>
 <span class="mb-3">17.04.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-parvalde-pilnveido-sadarbibu-ar-libekas-un-hamburgas-ostam-vacija/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-sez-parvalde-pilnveido-sadarbibu-ar-libekas-un-hamburgas-ostam-vacija/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Hafenentwicklung, grüne Energie, Stärkung der Verkehrskorridore waren die Hauptthemen der Hamburger und Lübecker Hafentage, an denen Liepaja SEZ-Manager Uldis Hmielevskis und Berater Janis Lapiņš teilnahmen. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-parvalde-pilnveido-sadarbibu-ar-libekas-un-hamburgas-ostam-vacija/index.php">Weiterlesen</a>
+<p>Hafenentwicklung, grüne Energie, Stärkung der Verkehrskorridore waren die Hauptthemen der Hamburger und Lübecker Hafentage, an denen Liepāja SEZ-Manager Uldis Hmielevskis und Berater Janis Lapiņš teilnahmen. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-sez-parvalde-pilnveido-sadarbibu-ar-libekas-un-hamburgas-ostam-vacija/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/285/1776427096_27_04.16.2026._Vacijas ostu dienas.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-parvalde-pilnveido-sadarbibu-ar-libekas-un-hamburgas-ostam-vacija/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-sez-parvalde-pilnveido-sadarbibu-ar-libekas-un-hamburgas-ostam-vacija/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/285/1776427096_27_04.16.2026._Vacijas ostu dienas.webp"/>
 </a>
 </div>
@@ -171,18 +171,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Der Bau des Industrieparks Liepaja setzt sich fort</h2>
+<h2>Der Bau des Industrieparks Liepāja setzt sich fort</h2>
 <span class="mb-3">07.04.2026.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../turpinas-liepajas-industriala-parka-izbuve/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/turpinas-liepajas-industriala-parka-izbuve/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Von 8. vom 1. April bis 14. April April in Brivibas Straße in Richtung Stadtzentrum Verkehr wird auf einer Fahrspur verschoben werden, die mit dem Bau des Projekts "Bau der Straßeninfrastruktur im Gebiet der ehemaligen Fabrik "Liepājas Metallurgs" 1. Etappe verbunden ist." </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../turpinas-liepajas-industriala-parka-izbuve/index.php">Weiterlesen</a>
+<p>Von 8. April bis 14. April in Brivibas Straße in Richtung Stadtzentrum Verkehr wird auf einer Fahrspur verschoben werden, die mit dem Bau des Projekts "Bau der Straßeninfrastruktur im Gebiet der ehemaligen Fabrik "Liepājas Metallurgs" verbunden ist 1Karte'. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/turpinas-liepajas-industriala-parka-izbuve/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/284/1775629848_23_2026.04.07._LIP_2.webp)">
-<a aria-label="Weiterlesen" href="../turpinas-liepajas-industriala-parka-izbuve/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/turpinas-liepajas-industriala-parka-izbuve/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/284/1775629848_23_2026.04.07._LIP_2.webp"/>
 </a>
 </div>
@@ -191,7 +191,7 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev" data-block="2" data-page="4" data-per-page="6" data-topic="14" href="../4/index.php">
+<a class="news-list-pagination prev" data-block="2" data-page="4" data-per-page="6" data-topic="14" href="/site/de/medijiem/4/index.php">
 <img alt="Zurück" src="../../../img/round-right.svg"/>
 
 Zurück
@@ -199,7 +199,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="2" data-page="6" data-per-page="6" data-topic="14" href="../6/index.php">
+<a class="news-list-pagination next" data-block="2" data-page="6" data-per-page="6" data-topic="14" href="/site/de/medijiem/6/index.php">
 
 Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 </a>
@@ -244,7 +244,7 @@ Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/jaunumi-1/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -49,7 +49,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Fotos
@@ -57,7 +57,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -71,18 +71,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Entwicklung der technischen - wirtschaftlichen Bewertung der Lagerstätte für historische kontaminierte Lagerstätten des Karosta-Kanals im Hafen von Liepaja wurde abgeschlossen</h2>
+<h2>Entwicklung der technischen - wirtschaftlichen Bewertung der Lagerstätte für historische kontaminierte Lagerstätten des Karosta-Kanals im Hafen von Liepāja wurde abgeschlossen</h2>
 <span class="mb-3">05.11.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../noslegusies-liepajas-ostas-karostas-kanala-vesturiski-piesarnoto-nogulumu-deponesanas-viet/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/noslegusies-liepajas-ostas-karostas-kanala-vesturiski-piesarnoto-nogulumu-deponesanas-viet/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Ab 2024 Am 1. August bis 31. Oktober hat die Liepaja Special Economic Zone Authority den norwegischen Finanzierungsmechanismus 2014 umgesetzt.-2021. Entwicklung einer technischen - wirtschaftlichen Bewertung der Erschließung des Standortes für die Ablagerung historisch kontaminierter Lagerstätten im Hafen von Liepaja, Karasta-Kanal (im Folgenden "die Initiative"). </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../noslegusies-liepajas-ostas-karostas-kanala-vesturiski-piesarnoto-nogulumu-deponesanas-viet/index.php">Weiterlesen</a>
+<p>Ab 2024 Am 1. August bis 31. Oktober hat die Liepāja Special Economic Zone Authority den norwegischen Finanzierungsmechanismus 2014 umgesetzt.-2021. Entwicklung einer technischen - wirtschaftlichen Bewertung der Erschließung des Standortes für die Ablagerung historisch kontaminierter Lagerstätten im Hafen von Liepāja, Karasta-Kanal (im Folgenden "die Initiative"). </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/noslegusies-liepajas-ostas-karostas-kanala-vesturiski-piesarnoto-nogulumu-deponesanas-viet/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/187/)">
-<a aria-label="Weiterlesen" href="../noslegusies-liepajas-ostas-karostas-kanala-vesturiski-piesarnoto-nogulumu-deponesanas-viet/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/noslegusies-liepajas-ostas-karostas-kanala-vesturiski-piesarnoto-nogulumu-deponesanas-viet/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/187/"/>
 </a>
 </div>
@@ -94,15 +94,15 @@ Vorstandssitzungen
 <h2>Yachthafen schließt aktive Saison</h2>
 <span class="mb-3">04.11.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../jahtu-osta-nosledz-aktivo-sezonu/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/jahtu-osta-nosledz-aktivo-sezonu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>1. Die aktive Yachtsaison ist traditionell im November geschlossen. In diesem Jahr wurden 243 Yachten, die mehr als 15 Yachten sind, im Hafen von Liepaja serviert. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../jahtu-osta-nosledz-aktivo-sezonu/index.php">Weiterlesen</a>
+<p>1. Die aktive Yachtsaison ist traditionell im November geschlossen. In diesem Jahr wurden 243 Yachten, die mehr als 15 Yachten sind, im Hafen von Liepāja serviert. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/jahtu-osta-nosledz-aktivo-sezonu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/183/1730726126_52959807438_f8dae3e529_o.webp)">
-<a aria-label="Weiterlesen" href="../jahtu-osta-nosledz-aktivo-sezonu/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/jahtu-osta-nosledz-aktivo-sezonu/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/183/1730726126_52959807438_f8dae3e529_o.webp"/>
 </a>
 </div>
@@ -111,18 +111,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Neue SyFud Fabrik in Liepaja wird die Exportkapazität der lettischen Fischindustrie deutlich erhöhen</h2>
+<h2>Neue SyFud Fabrik in Liepāja wird die Exportkapazität der lettischen Fischindustrie deutlich erhöhen</h2>
 <span class="mb-3">01.11.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../jauna-syfud-razotne-liepaja-butiski-palielinas-latvijas-zivjrupniecibas-eksporta-jaudu/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/jauna-syfud-razotne-liepaja-butiski-palielinas-latvijas-zivjrupniecibas-eksporta-jaudu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Mit der Eröffnung der neuen Produktionseinheit von SIA "Syfud" in Liepāja wird die Produktion und Exportkapazität der lettischen Fischereiindustrie deutlich zunehmen. 31. Im Oktober wurde die Fabrik des Fischverarbeitungsunternehmens "SyFud" in Liepaja eröffnet, das in seiner Infrastruktur und Technologie insgesamt rund 80 Millionen Euro investierte und deren Produktionskapazität bis zu 250 Millionen Euro pro Jahr betragen konnte.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../jauna-syfud-razotne-liepaja-butiski-palielinas-latvijas-zivjrupniecibas-eksporta-jaudu/index.php">Weiterlesen</a>
+<p>Mit der Eröffnung der neuen Produktionseinheit von SIA "Syfud" in Liepāja wird die Produktion und Exportkapazität der lettischen Fischereiindustrie deutlich zunehmen. 31. Im Oktober wurde die Fabrik des Fischverarbeitungsunternehmens "SyFud" in Liepāja eröffnet, das in seiner Infrastruktur und Technologie insgesamt rund 80 Millionen Euro investierte und deren Produktionskapazität bis zu 250 Millionen Euro pro Jahr betragen konnte.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/jauna-syfud-razotne-liepaja-butiski-palielinas-latvijas-zivjrupniecibas-eksporta-jaudu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/182/1730965122__R1A0123.webp)">
-<a aria-label="Weiterlesen" href="../jauna-syfud-razotne-liepaja-butiski-palielinas-latvijas-zivjrupniecibas-eksporta-jaudu/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/jauna-syfud-razotne-liepaja-butiski-palielinas-latvijas-zivjrupniecibas-eksporta-jaudu/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/182/1730965122__R1A0123.webp"/>
 </a>
 </div>
@@ -131,18 +131,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Zivilschutz und Katastrophenmanagement Ausbildung in Liepaja Hafen</h2>
+<h2>Zivilschutz und Katastrophenmanagement Ausbildung in Liepāja Hafen</h2>
 <span class="mb-3">29.10.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-osta-risinas-civilas-aizsardzibas-un-katastrofas-parvaldisanas-macibas/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepajas-osta-risinas-civilas-aizsardzibas-un-katastrofas-parvaldisanas-macibas/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>29. Im Oktober hielt LSEZ Ltd. √GI Terminal √ Der Hafen von Liepaja Kai Nr.28 praktische Katastrophenschutz- und Katastrophenmanagementübungen auf lokaler Ebene ab.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-osta-risinas-civilas-aizsardzibas-un-katastrofas-parvaldisanas-macibas/index.php">Weiterlesen</a>
+<p>29. Im Oktober hielt LSEZ Ltd. √GI Terminal √ Der Hafen von Liepāja Kai Nr.28 praktische Katastrophenschutz- und Katastrophenmanagementübungen auf lokaler Ebene ab.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepajas-osta-risinas-civilas-aizsardzibas-un-katastrofas-parvaldisanas-macibas/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/181/1730204843__R1A9838.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-osta-risinas-civilas-aizsardzibas-un-katastrofas-parvaldisanas-macibas/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepajas-osta-risinas-civilas-aizsardzibas-un-katastrofas-parvaldisanas-macibas/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/181/1730204843__R1A9838.webp"/>
 </a>
 </div>
@@ -151,18 +151,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Beschlüsse des Vorstands der Liepaja SEZ am 18. Oktober</h2>
+<h2>Beschlüsse des Vorstands der Liepāja SEZ am 18. Oktober</h2>
 <span class="mb-3">24.10.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-valdes-18oktobri-pienemtie-lemumi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepajas-sez-valdes-18oktobri-pienemtie-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Auflage. im 18. Jahrhundert Im Oktober fand die regelmäßige Sitzung des Vorstands von Liepaja SEZ statt, in der dem Unternehmen SIA "BALTU Terminals" der Status der Firma Liepaja Special Economic Zone Company gewährt wurde und fünf Investitionsprojekte von Liepaya SEZ-Unternehmen für einen Gesamtbetrag von weniger als Millionen unterstützt wurden. den Euro sowie Änderungen der Hafengebühren und Baurechtsverträge.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-valdes-18oktobri-pienemtie-lemumi/index.php">Weiterlesen</a>
+<p>18. Oktober 2024 Die regelmäßige Sitzung des Vorstands der Liepāja SEZ fand statt, in dem die Stellung der Firma Liepāja SAZ der Firma SIA "BALTU Terminals" gewährt wurde, die fünf Investitionsprojekte von Liepāja SEZ Unternehmen für einen Gesamtbetrag von weniger als mln unterstützte. den Euro sowie Änderungen der Hafengebühren und Baurechtsverträge.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepajas-sez-valdes-18oktobri-pienemtie-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/179/1729777612_47_10.23._BALTU_terminals_2.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-valdes-18oktobri-pienemtie-lemumi/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepajas-sez-valdes-18oktobri-pienemtie-lemumi/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/179/1729777612_47_10.23._BALTU_terminals_2.webp"/>
 </a>
 </div>
@@ -171,18 +171,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Unternehmer werden eingeladen, an der ab 2025 stattfindenden Ausstellung "Made in Liepaja" teilzunehmen. 31. Dezember 2007 vom 1. Januar bis 1. Januar Februar</h2>
+<h2>Unternehmer sind eingeladen, an der Ausstellung "Made in Liepāja" teilzunehmen, die von 31. Januar 2025 bis 1. Februar</h2>
 <span class="mb-3">22.10.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../uznemeji-aicinati-piedalities-izstade-razots-liepaja/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/uznemeji-aicinati-piedalities-izstade-razots-liepaja/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Ziel der Ausstellung ist es, Besuchern und Bewohnern während des 400-jährigen Jubiläumsjahres die Geschäftswelt von Liepaja und Südkurzeme kennenzulernen.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../uznemeji-aicinati-piedalities-izstade-razots-liepaja/index.php">Weiterlesen</a>
+<p>Ziel der Ausstellung ist es, Besuchern und Bewohnern während des 400-jährigen Jubiläumsjahres die Geschäftswelt von Liepāja und Südkurzeme kennenzulernen.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/uznemeji-aicinati-piedalities-izstade-razots-liepaja/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/178/1729599373_53733627229_3d37aad53e_k.webp)">
-<a aria-label="Weiterlesen" href="../uznemeji-aicinati-piedalities-izstade-razots-liepaja/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/uznemeji-aicinati-piedalities-izstade-razots-liepaja/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/178/1729599373_53733627229_3d37aad53e_k.webp"/>
 </a>
 </div>
@@ -191,7 +191,7 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev" data-block="2" data-page="14" data-per-page="6" data-topic="14" href="../14/index.php">
+<a class="news-list-pagination prev" data-block="2" data-page="14" data-per-page="6" data-topic="14" href="/site/de/jaunumi-1/14/index.php">
 <img alt="Zurück" src="../../../img/round-right.svg"/>
 
 Zurück
@@ -199,7 +199,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="2" data-page="16" data-per-page="6" data-topic="14" href="../16/index.php">
+<a class="news-list-pagination next" data-block="2" data-page="16" data-per-page="6" data-topic="14" href="/site/de/jaunumi-1/16/index.php">
 
 Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 </a>
@@ -244,7 +244,7 @@ Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

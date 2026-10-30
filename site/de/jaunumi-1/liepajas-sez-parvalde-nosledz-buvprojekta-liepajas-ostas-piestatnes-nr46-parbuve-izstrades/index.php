@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/medijiem/liepajas-sez-parvalde-nosledz-buvprojekta-liepajas-ostas-piestatnes-nr46-parbuve-izstrades" property="og:url"/>
-<meta content="Liepaja SEZ Authority rundet den Prozess der Rekonstruktion des Bauprojekts Nr.46 Liepaja Port Pier ab" property="og:title"/>
+<meta content="Liepāja SEZ Authority rundet den Prozess der Rekonstruktion des Bauprojekts Nr.46 Liepāja Port Pier ab" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Liepaja SEZ Authority schließt Bauprojekt "Rekonstruktion von Liepaja Port Pier No.46"</title>
+<title>Liepāja SEZ Authority schließt Bauprojekt "Rekonstruktion von Liepāja Port Pier No.46"</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
@@ -47,18 +47,18 @@ html.classList.add(localStorage['contrast']);
 <span>E-Mail: <a href="mailto:ivo.kolins@lsez.lv" target="_blank">ivo.kolins@lsez.lv</a></span>
 </div>
 <div class="col-12 col-md-9 mt-md-5">
-<span class="date d-block mt-md-5">22. 8. August 2025</span>
-<h1 class="article-title">Liepaja SEZ Authority rundet den Prozess der Rekonstruktion des Bauprojekts Nr.46 Liepaja Port Pier ab</h1>
+<span class="date d-block mt-md-5">22. August 2025</span>
+<h1 class="article-title">Liepāja SEZ Authority rundet den Prozess der Rekonstruktion des Bauprojekts Nr.46 Liepāja Port Pier ab</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Ziel des Projekts ist es, eine sichere Anlegemöglichkeit von RO-RO-Fähren im Hafen von Liepaja zu gewährleisten und dadurch die Kapazität der TEN-T-Infrastruktur zu stärken sowie den Zugang zu internen und externen Märkten durch verbesserte Seeverkehrsverbindungen zu verbessern.</p><p>Auflage. vom 20. Februar 2004 Im September schlossen Liepaja Special Economic Zone Authority und SIA "CHR Design Solutions" eine Vereinbarung über den Bau des Bauprojekts "Liepājas port pier Nr.46." Auflage. vom 20. Februar 2004 Am 26. August machte Liepaja City Construction Board ein Zeichen für die Ausführung der Konstruktionsbedingungen im Jahr 2025. 21. Dezember 2003 Im Januar Baugenehmigung Nr. BIS-BV-4.2-2025-18 (7/2025), so Genehmigung der Rekonstruktion des Bauvorhabens Nr. 46 in Liepaja Hafen Kai. </p><p>Die Umsetzung des Projekts umfasst die Installation zusätzlicher Anlegepfähle, den Wiederaufbau von Kaistrukturen und die Erhöhung der Wassertiefe von 10.5 auf 12.0 m und wird eine sichere Wartung der RO-RO/ RO-PAX Fähre mit einer maximalen Länge bis zu 240,0 Metern und einem Tiefgang von bis zu 11.0 Metern ermöglichen. </p><p>Die Gesamtkosten für die Durchführung des Projekts belaufen sich auf 23 090 050 EUR. </p><p>Das Projekt gewährleistet eine sichere Anlegemöglichkeit von Ro-Ro-Fähren im Hafen von Liepaja (Projekt Akronym 22-LV-TG-LPXRORO) wird zum Teil im Rahmen des CEF2027 Programms finanziert (Theic ID - CEF-T-2022-COMPGEN-MARP-WORKS , Projekt Nr. 101122785). Die Fazilität "Connecting Europe" deckt 30% der förderfähigen Projektkosten von 6 927 015 EUR ab.</p></div>
+<div class="col"><div class="col-12 output"><p>Ziel des Projekts ist es, eine sichere Anlegemöglichkeit von RO-RO-Fähren im Hafen von Liepāja zu gewährleisten und dadurch die Kapazität der TEN-T-Infrastruktur zu stärken sowie den Zugang zu internen und externen Märkten durch verbesserte Seeverkehrsverbindungen zu verbessern.</p><p>20. September 2024 Liepāja Special Economic Zone Authority and Ltd.46 die Entwicklung der Konversion. 20. August 2025 Liepāja City Construction Board hat ein Zeichen für die Erfüllung der Konstruktionsbedingungen 21. Januar 2025 Baugenehmigung BIS-BV-4.2-2025-18 (7/2025), so genehmigt das Bauprojekt "Liepāja port quay Nr.46 Rekonstruktion der endgültigen Entwicklung. </p><p>Die Umsetzung des Projekts umfasst die Installation zusätzlicher Anlegepfähle, den Wiederaufbau von Kaistrukturen und die Erhöhung der Wassertiefe von 10.5 auf 12.0 m und wird eine sichere Wartung der RO-RO/ RO-PAX Fähre mit einer maximalen Länge bis zu 240,0 Metern und einem Tiefgang von bis zu 11.0 Metern ermöglichen. </p><p>Die Gesamtkosten für die Durchführung des Projekts belaufen sich auf 23 090 050 EUR. </p><p>Das Projekt gewährleistet eine sichere Anlegemöglichkeit von Ro-Ro-Fähren im Hafen von Liepāja (Projekt Akronym 22-LV-TG-LPXRORO) wird zum Teil im Rahmen des CEF2027 Programms finanziert (Theic ID - CEF-T-2022-COMPGEN-MARP-WORKS , Projekt Nr. 101122785). Die Fazilität "Connecting Europe" deckt 30% der förderfähigen Projektkosten von 6 927 015 EUR ab.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/256/870_1760339559_870-eu.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/256/original_1760339559_870-eu.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/256/original_1760339559_870-eu.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

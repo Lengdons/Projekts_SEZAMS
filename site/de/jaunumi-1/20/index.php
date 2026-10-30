@@ -40,7 +40,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/jaunumi-1/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -48,7 +48,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Fotos
@@ -56,7 +56,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -70,18 +70,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Schwedisches Unternehmen Care of Sweden eröffnet Produktionsstätte in Liepaja</h2>
+<h2>Schwedisches Unternehmen Care of Sweden eröffnet Produktionsstätte in Liepāja</h2>
 <span class="mb-3">14.05.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../zviedrijas-uznemums-care-of-sweden-atver-razotni-liepaja/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/zviedrijas-uznemums-care-of-sweden-atver-razotni-liepaja/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>Heute, 14. Im Mai eröffnete die schwedische Firma "Care of Sweden" eine neue Fabrik in Liepāja, dem Old Ostmala Business Park. Das Unternehmen hat ein starkes Team von Mitarbeitern geschaffen, die medizinische Matratzen herstellen. Investitionssumme von rund 2 Mio. Euro.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../zviedrijas-uznemums-care-of-sweden-atver-razotni-liepaja/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/zviedrijas-uznemums-care-of-sweden-atver-razotni-liepaja/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/130/1715716633_20_05.14.2024._VOBP_.webp)">
-<a aria-label="Weiterlesen" href="../zviedrijas-uznemums-care-of-sweden-atver-razotni-liepaja/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/zviedrijas-uznemums-care-of-sweden-atver-razotni-liepaja/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/130/1715716633_20_05.14.2024._VOBP_.webp"/>
 </a>
 </div>
@@ -90,18 +90,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Karosta nach der Besetzung in der Vision von Liepaja SEZ Manager Uldis Hmielevskis</h2>
+<h2>Karosta nach der Besetzung in der Vision von Liepāja SEZ Manager Uldis Hmielevskis</h2>
 <span class="mb-3">10.05.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../karosta-pec-okupacijas-liepajas-sez-parvaldnieka-ulda-hmielevska-redzejuma/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/karosta-pec-okupacijas-liepajas-sez-parvaldnieka-ulda-hmielevska-redzejuma/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Freitag, 17. Mai um 12 Uhr. 15:00 Schuljugend und andere interessierte Personen sind nach der Besetzung der UdSSR zur Geschichte von Liepaja SEZ Manager Uldis Hmieļevska über Karosta eingeladen. Die Veranstaltung findet im Liepaja Occupation Museum, K.Ukstiņa iela 7/9, Liepāja, im Rahmen der Ausstellung "Das sowjetische Besatzungserbe in Karosta" statt. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../karosta-pec-okupacijas-liepajas-sez-parvaldnieka-ulda-hmielevska-redzejuma/index.php">Weiterlesen</a>
+<p>Freitag, 17. Mai um Uhr. 15:00 Schuljugend und andere Interessierte werden nach der Besetzung der UdSSR zur Geschichte von Liepāja SEZ Manager Uldis Hmieļevska über Karosta eingeladen. Die Veranstaltung findet im Liepāja Occupation Museum, K.Ukstiņa Street statt 7/9, in Liepāja, im Rahmen der Ausstellung "Das sowjetische Besatzungserbe in Karosta." </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/karosta-pec-okupacijas-liepajas-sez-parvaldnieka-ulda-hmielevska-redzejuma/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/129/1715351716_19_05.10.2024._karosta_okupacijas_muzejs_uzaicinājums.webp)">
-<a aria-label="Weiterlesen" href="../karosta-pec-okupacijas-liepajas-sez-parvaldnieka-ulda-hmielevska-redzejuma/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/karosta-pec-okupacijas-liepajas-sez-parvaldnieka-ulda-hmielevska-redzejuma/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/129/1715351716_19_05.10.2024._karosta_okupacijas_muzejs_uzaicinājums.webp"/>
 </a>
 </div>
@@ -110,18 +110,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Liepaja SEZ Authority schließt Durchführung des Projekts "Historisch kontaminierte Standorte im Hafen von Liepaja Karosta Canal Erholungsarbeiten"</h2>
+<h2>Liepāja SEZ Authority schließt Durchführung des Projekts "Historisch kontaminierte Standorte im Hafen von Liepāja Karosta Canal Erholungsarbeiten"</h2>
 <span class="mb-3">30.04.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-parvalde-nosledz-projekta-sanacijas-darbus/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepajas-sez-parvalde-nosledz-projekta-sanacijas-darbus/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Auflage. 30. März 2004 Im April beendet die Liepaja SEZ-Behörde Wiederaufbauarbeiten des Karostakanals des Hafens von Liepaja, der aus dem norwegischen Finanzierungsmechanismus 2014-2021 finanziert wird. Im Rahmen des Jahresprogramms "Klimaänderung, Anpassung und Umwelt" sollen negative Auswirkungen auf die Umwelt, die menschliche Gesundheit und den ökologischen Status der Ostsee des Karosta-Kanals verringert werden.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-parvalde-nosledz-projekta-sanacijas-darbus/index.php">Weiterlesen</a>
+<p>30. April 2024 Liepāja SEZ Authority schließt die Wiederaufbauarbeiten des Karosta-Kanals des Hafens von Liepāja, der durch den norwegischen Finanzierungsmechanismus finanziert wird 2014.–2021. Im Rahmen des Jahresprogramms "Klimaänderung, Anpassung und Umwelt" sollen negative Auswirkungen auf die Umwelt, die menschliche Gesundheit und den ökologischen Status der Ostsee des Karosta-Kanals verringert werden.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepajas-sez-parvalde-nosledz-projekta-sanacijas-darbus/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/128/1735817273_nor-grants.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-parvalde-nosledz-projekta-sanacijas-darbus/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepajas-sez-parvalde-nosledz-projekta-sanacijas-darbus/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/128/1735817273_nor-grants.webp"/>
 </a>
 </div>
@@ -130,18 +130,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Van Oord, Euroports und Smulders verbinden ihre Kompetenzen zur Schaffung des führenden Offshore-Windenergiezentrums in der Ostsee im Hafen von Liepaja</h2>
+<h2>Van Oord, Euroports und Smulders verbinden ihre Kompetenzen zur Schaffung des führenden Offshore-Windenergiezentrums in der Ostsee im Hafen von Liepāja</h2>
 <span class="mb-3">25.04.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../van-oord-euroports-un-smulders-apvieno-kompetences/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/van-oord-euroports-un-smulders-apvieno-kompetences/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Heute, 2024. 25. Mai 2004 Im April kündigte das führende maritime Unternehmen im Bau von Häfen und Offshore-Windparks Van Oord im Rahmen der größten Windenergiekonferenz der Ostsee ein Kooperationsabkommen mit dem internationalen Hafenbetreiber Euroports und dem Stahlbauhersteller Smulders über die Gründung eines Konsortiums zur Schaffung des Hafens von Liepaja an Offshore-Windenergie in der Ostsee.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../van-oord-euroports-un-smulders-apvieno-kompetences/index.php">Weiterlesen</a>
+<p>Heute, 25. April 2024, im Rahmen der größten Ostsee-Windenergiekonferenz "Wind Works," kündigte das führende maritime Unternehmen im Bau von Häfen und Offshore-Windparks "Van Oord" ein Kooperationsabkommen mit dem internationalen Hafenbetreiber "Euroports" und Stahlbauhersteller "Smulders" auf die Schaffung eines Konsortiums zur Gründung der führenden Küsten im Hafen von Liepāja das Windenergiezentrum in der Ostsee.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/van-oord-euroports-un-smulders-apvieno-kompetences/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/127/1714051094_17_04.25.2024._atkraste_konsorcija.webp)">
-<a aria-label="Weiterlesen" href="../van-oord-euroports-un-smulders-apvieno-kompetences/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/van-oord-euroports-un-smulders-apvieno-kompetences/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/127/1714051094_17_04.25.2024._atkraste_konsorcija.webp"/>
 </a>
 </div>
@@ -150,18 +150,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Annahme durch den Rat "Liepaja SEZ" am 22. April.</h2>
+<h2>Annahme durch den Rat "Liepāja SEZ" am 22. April.</h2>
 <span class="mb-3">23.04.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-sez-valdes-22aprili-pienemtie-lemumi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepajas-sez-valdes-22aprili-pienemtie-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Auflage. im Monat vom 22. Dezember 2001, Am April hielt der Vorstand der Sonderwirtschaftszone Liepaja (Liepāja SEZ) seine regelmäßige Sitzung ab, in der fünf Fragen im Zusammenhang mit Immobilienverträgen geprüft und unterstützt wurden.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-sez-valdes-22aprili-pienemtie-lemumi/index.php">Weiterlesen</a>
+<p>22. April 2024 Die Vorstandssitzung der Special Economic Zone Liepāja (Liepāja SEZ) fand statt, in der fünf Fragen im Zusammenhang mit Abschluss, Klärung und Verpfand von Immobilienverträgen geprüft und unterstützt wurden.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepajas-sez-valdes-22aprili-pienemtie-lemumi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/126/1713878147_122448762_3152280248234457_5846830724940570545_n.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-sez-valdes-22aprili-pienemtie-lemumi/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepajas-sez-valdes-22aprili-pienemtie-lemumi/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/126/1713878147_122448762_3152280248234457_5846830724940570545_n.webp"/>
 </a>
 </div>
@@ -170,18 +170,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Der Hafen von Liepaja plant den Bau eines Erneuerbaren Energiekomplexes mit Terminal</h2>
+<h2>Der Hafen von Liepāja plant den Bau eines Erneuerbaren Energiekomplexes mit Terminal</h2>
 <span class="mb-3">09.04.2024.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-osta-plano-izbuvet-atjaunojamas-energijas-kompleksu-ar-terminali/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/jaunumi-1/liepajas-osta-plano-izbuvet-atjaunojamas-energijas-kompleksu-ar-terminali/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Um einen Mehrwert für Strom aus erneuerbaren Energiequellen zu schaffen, haben norwegische, schwedische und lettische Unternehmen ein Projektmanagement-Team von SIA "CIS Liepāja" gegründet, das darauf abzielt, die notwendige Forschung durchzuführen und einen Komplex für erneuerbare Energien mit Terminal im Hafen von Liepaja inkl. eine Wasserstoffanlage.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-osta-plano-izbuvet-atjaunojamas-energijas-kompleksu-ar-terminali/index.php">Weiterlesen</a>
+<p>Um einen Mehrwert für Strom aus erneuerbaren Energiequellen zu schaffen, haben norwegische, schwedische und lettische Unternehmen ein Projektmanagement-Team von SIA "CIS Liepāja" gegründet, das darauf abzielt, die notwendige Forschung durchzuführen und einen Komplex für erneuerbare Energien mit Terminal im Hafen von Liepāja inkl. eine Wasserstoffanlage.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/jaunumi-1/liepajas-osta-plano-izbuvet-atjaunojamas-energijas-kompleksu-ar-terminali/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/125/1712647971_14_04.09.2024_prieksosta_2.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-osta-plano-izbuvet-atjaunojamas-energijas-kompleksu-ar-terminali/index.php">
+<a aria-label="Weiterlesen" href="/site/de/jaunumi-1/liepajas-osta-plano-izbuvet-atjaunojamas-energijas-kompleksu-ar-terminali/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/125/1712647971_14_04.09.2024_prieksosta_2.webp"/>
 </a>
 </div>
@@ -190,7 +190,7 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev" data-block="2" data-page="19" data-per-page="6" data-topic="14" href="../19/index.php">
+<a class="news-list-pagination prev" data-block="2" data-page="19" data-per-page="6" data-topic="14" href="/site/de/jaunumi-1/19/index.php">
 <img alt="Zurück" src="../../../img/round-right.svg"/>
 
 Zurück
@@ -198,7 +198,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="2" data-page="21" data-per-page="6" data-topic="14" href="../21/index.php">
+<a class="news-list-pagination next" data-block="2" data-page="21" data-per-page="6" data-topic="14" href="/site/de/jaunumi-1/21/index.php">
 
 Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 </a>
@@ -243,7 +243,7 @@ Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

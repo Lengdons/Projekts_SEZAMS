@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="https://lsez.it-lideris.lv//img/mod/news/42/1704277527_64_12.08.2023._EB_liepaja.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/medijiem/liepajas-sez-valdes-7decembri-pienemtie-lemumi" property="og:url"/>
-<meta content="Beschlüsse des Vorstands der Liepaja SEZ am 7. Dezember" property="og:title"/>
+<meta content="Beschlüsse des Vorstands der Liepāja SEZ am 7. Dezember" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Annahme durch den Rat der SEZ Liepaja am 7. Dezember.</title>
+<title>Annahme durch den Rat der SEZ Liepāja am 7. Dezember.</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
@@ -47,18 +47,18 @@ html.classList.add(localStorage['contrast']);
 <span>E-Mail: <a href="mailto:liga.ratniece-kadege@lsez.lv" target="_blank">liga.ratniece-kadege@lsez.lv</a></span>
 </div>
 <div class="col-12 col-md-9 mt-md-5">
-<span class="date d-block mt-md-5">Veranschlagt sind Mittel zur Deckung der Verpflichtungen, die im Rahmen des Pilotprojekts aus den Vorjahren noch nicht abgewickelt werden. 22. Dezember 2023</span>
-<h1 class="article-title">Beschlüsse des Vorstands der Liepaja SEZ am 7. Dezember</h1>
+<span class="date d-block mt-md-5">08. Dezember 2023</span>
+<h1 class="article-title">Beschlüsse des Vorstands der Liepāja SEZ am 7. Dezember</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p><strong>Über Liepaja SEZ Authority 2024. Jahreshaushaltsplan</strong></p><p>Liepaja SEZ Board überprüft und genehmigt den Haushalt der Liepaja Special Economic Zone Authority 2024. 1907. Operative Einnahmen √ 15 766 038 EUR, Operative Ausgaben √ 12 460 072 EUR, Investitionstätigkeit fließend 2 777 339 EUR, . Auch der Vorstand von Liepaja SEZ hat die Haushaltsprognose für die nächsten fünf Jahre gebilligt.</p><p>Die Prognose der operativen Einnahmen wird unter Berücksichtigung der Prognosen des Frachtumsatzes von Stevedore im Hafen von Liepaja berechnet, und bestätigt Hafengebühren für 2024 und geplante Erträge aus Immobilienmieten.</p><p>Auflage. Im Jahr 2007 wird Liepaja SEZ Authority an drei bedeutenden Entwicklungsprojekten arbeiten: Rekonstruktion des Fährsteigers (Stage 46), Umwandlung des Territoriums der ehemaligen Fabrik Liepaja Metalllurgs über den modernen Industriepark Liepāja und Umsetzung des Hafens von Liepaja.</p><p> </p><p><strong>Zur Durchführung von Investitionsvorhaben</strong></p><p>Der Vorstand der Special Economic Zone von Liepaja überprüfte und unterstützte das Investitionsprojekt der Kapitalgesellschaften "Roechling Industrial Liepaja" Ltd. für einen Gesamtbetrag von 200 000,00 EUR. LSEZ Ltd. plant, das Projekt "Universal Kauf von Roboterhänden und deren Ausrüstung" vom 27. Dezember 2023 bis 31. Dezember 2024 umzusetzen. Nach der Erklärung vom</p><p>Die Einhaltung des Unternehmens mit dem kleinen (kleinen) oder mittleren Unternehmen "Roechling Industrial Liepaja" Ltd. ist ein durchschnittliches Handelsunternehmen und die zulässige Beihilfeintensität für diese Investitionen beträgt 50%.</p><p> </p><p>Im Jahr 2023 haben Liepaja Special Economic Zone Authority und Liepaja SEZ Unternehmen 15 Vereinbarungen über die Durchführung von Investitionen geschlossen, deren Investitionssumme insgesamt 5 481 903,28 EUR beträgt.</p><p> </p><p><strong>Auf Entfremdung von Immobilien</strong></p><p>Das Board of Liepaja Special Economic Zone überprüfte und beschloss, die Übertragung des Grundstücks an der Labor Street 1, Liepaja zu akzeptieren, da Immobilien nicht für Liepaja Verwaltungsaufgaben erforderlich sind.</p><p> </p><p><strong>Immobilienmiet-/Baurechtsverträge</strong></p><ul><li>Auflage. 31. Dezember 2007 Im Januar wurde zwischen der Liepaja Special Economic Zone Authority und dem Liepaja Sonderwirtschaftsgebiet ★ BaltEx Bulka SIA eine Vereinbarung über die Gewährung von Baurechten für Immobilien auf dem Gebiet von Liepaja Spezialwirtschaftsgebiet √ Grundstück Pulvera iela 5, Liepāja mit dem Ziel abgeschlossen, ein Bauprojekt in minimaler Zusammensetzung zu entwickeln Bau eines Frachtgebietes an der 5 Pulvera Street, Liepaja.</li></ul><p>Liepaja SEZ Board hat Dokumente der Liepaja SEZ Capital Company "BaltEx Bulk" Ltd. kennengelernt und berücksichtigt, dass Frachttypen im Zuge von Markt- und geopolitischen Situationsänderungen die Art der Ladung ändern und ergänzen müssen, um Änderungen bei der minimalen Zusammensetzung des Bauvorhabens vorzunehmen.</p><p>Der Vorstand der Special Economic Zone Liepaja hat beschlossen, eine Vereinbarung mit Liepaja Special Economics Zone √BaltEx Bulka SIA zu schließen und die Laufzeit des Buchungsvertrags bis 2024 zu verlängern. 31. Dezember 2007 Juli.</p><p> </p><ul><li>Der Verwaltungsrat der Sonderwirtschaftszone Liepaja hat beschlossen, Änderungen zwischen der Behörde für besondere Wirtschaftszonen Liepaja und LSEZ AS "NORPLAST PIMARE" 1998 vorzunehmen. vom 5. Februar 2004 Im März wurde ein Mietvertrag auf Immobilien im Gebiet des Hafens von Liepaja geschlossen: Kaiju iela 7, Liepāja und Atsellnieku iela 37, Liepaja.</li></ul><p>Der Antrag auf einen Immobilienteil - Atsellnieku iela 37, Liepāja, von der Mietvereinbarung zu trennen und einen gesonderten Mietvertrag über diese Immobilie abzuschließen, wurde unterstützt.</p><p> </p><ul><li>2019 2008 - RECHTSSACHE T-289/03 Im April wurde zwischen der Liepaja Special Economic Zone Authority und der SIA "EB" in Liepaja ein Abkommen über die Gewährung von Baurechten für Immobilien im Gebiet der Liepaya Special Economy Zone auf der Zemgales Street 11, Liepāja mit dem Ziel geschlossen, ein Bauprojekt "Rekonstruktion von Neubauten und zwei Gebäuden auf der Zemgale Street 11, Liepaja" umzusetzen.</li></ul><p>Der Vorstand der Special Economic Zone von Liepaja hat die Vermietung neuer Produktionsanlagen und Bürogebäude an das Unternehmen "Golden Fields Factory" überprüft und genehmigt.</p></div>
+<div class="col"><div class="col-12 output"><p><strong>Über Liepāja SEZ Authority 2024. Jahreshaushaltsplan</strong></p><p>Liepāja SEZ Board überprüft und genehmigt den Haushalt der Liepāja Special Economic Zone Authority 2024. . Betriebseinnahmen √ 15 766 038 In EUR, operativen Ausgaben 12 460 072 EUR, Investitionstätigkeit 2 777 339 EUR, . Auch der Vorstand von Liepāja SEZ hat die Haushaltsprognose für die nächsten fünf Jahre gebilligt.</p><p>Die Prognose der operativen Einnahmen wird unter Berücksichtigung der Prognosen des Frachtumsatzes von Stevedore im Hafen von Liepāja berechnet, und bestätigt Hafengebühren für 2024 und geplante Erträge aus Immobilienmieten.</p><p>2024. Liepāja SEZ Behörde wird weiterhin an drei wichtigen Entwicklungsprojekten am Fährhafen arbeiten (46Die Umwandlung des Territoriums der ehemaligen Fabrik Liepāja metallurgs in einen modernen Industriepark in Liepāja und die Umsetzung des Hafens von Liepāja.</p><p> </p><p><strong>Zur Durchführung von Investitionsvorhaben</strong></p><p>Der Vorstand der Special Economic Zone von Liepāja überprüfte und unterstützte das Investitionsprojekt der Kapitalgesellschaften "Roechling Industrial Liepāja" Ltd. für einen Gesamtbetrag von 200 000,00 EUR. LSEZ Ltd. plant, das Projekt "Universal Kauf von Roboterhänden und deren Ausrüstung" vom 27. Dezember 2023 bis 31. Dezember 2024 umzusetzen. Nach der Erklärung vom</p><p>Die Einhaltung des Unternehmens mit dem kleinen (kleinen) oder mittleren Unternehmen "Roechling Industrial Liepāja" Ltd. ist ein durchschnittliches Handelsunternehmen und die zulässige Beihilfeintensität für diese Investitionen beträgt 50%.</p><p> </p><p>Im Jahr 2023 haben Liepāja Special Economic Zone Authority und Liepāja SEZ Unternehmen 15 Vereinbarungen über die Durchführung von Investitionen geschlossen, deren Investitionssumme insgesamt 5 481 903,28 EUR beträgt.</p><p> </p><p><strong>Auf Entfremdung von Immobilien</strong></p><p>Das Board of Liepāja Special Economic Zone überprüfte und beschloss, die Übertragung des Grundstücks an der Labor Street 1, Liepāja zu akzeptieren, da Immobilien nicht für Liepāja Verwaltungsaufgaben erforderlich sind.</p><p> </p><p><strong>Immobilienmiet-/Baurechtsverträge</strong></p><ul><li>31. Januar 2023 zwischen der Liepāja Special Economic Zone Authority und der Spezialwirtschaftszone Liepāja, BaltEx Bulk, Ltd. wurde eine Vereinbarung über die Gewährung von Baurechten für Immobilien im Gebiet der Liepaya Special Economy Zone, Pulvera iela 5, in Liepāja mit dem Ziel, ein Bauprojekt in minimaler Zusammensetzung zu entwickeln. 5, Liepāja.</li></ul><p>Liepāja SEZ Board hat Dokumente der Liepāja SEZ Capital Company "BaltEx Bulk" Ltd. kennengelernt und berücksichtigt, dass Frachttypen im Zuge von Markt- und geopolitischen Situationsänderungen die Art der Ladung ändern und ergänzen müssen, um Änderungen bei der minimalen Zusammensetzung des Bauvorhabens vorzunehmen.</p><p>Der Vorstand der Sonderwirtschaftszone Liepāja hat beschlossen, eine Vereinbarung mit der Special Economics Zone (CEF) BaltEx Bulka SIA zu schließen und die Laufzeit des Reservierungsvertrags bis zu folgenden Bedingungen zu verlängern: 31. Juli 2024.</p><p> </p><ul><li>Der Vorstand der Sonderwirtschaftszone Liepāja hat beschlossen, Änderungen zwischen der Behörde für besondere Wirtschaft Liepāja und LSEZ AS "NORPLAST PIEMARE" vorzunehmen. 5. März 1998 abgeschlossen Mietvertrag auf Immobilien im Gebiet des Hafens von Liepāja: Kaiju iela 7, Liepāja und Dislocking Street 37, Liepāja.</li></ul><p>Der Antrag auf einen Immobilienteil - Atsellnieku iela 37, Liepāja, von der Mietvereinbarung zu trennen und einen gesonderten Mietvertrag über diese Immobilie abzuschließen, wurde unterstützt.</p><p> </p><ul><li>3. April 2019 Es wurde eine Vereinbarung zwischen der Liepāja Special Economic Zone Authority und Ltd. geschlossen. 11, Liepāja mit dem Ziel, ein Bauprojekt auf Neubau und Rekonstruktion von zwei Gebäuden in Zemgales Street umzusetzen 11, Liepāja.</li></ul><p>Der Vorstand der Special Economic Zone von Liepāja hat die Vermietung neuer Produktionsanlagen und Bürogebäude an das Unternehmen "Golden Fields Factory" überprüft und genehmigt.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/42/870_1704277527_64_12.08.2023._EB_liepaja.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/42/original_1704277527_64_12.08.2023._EB_liepaja.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/42/original_1704277527_64_12.08.2023._EB_liepaja.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

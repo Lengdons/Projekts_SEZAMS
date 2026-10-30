@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="https://liepaja-sez.lv//img/mod/news/209/1741162522_80cc3761-ffc1-4b75-9d68-f7eaff89acca111.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/medijiem/liepajas-sez-parvaldnieks-apmekle-stokholmas-karalisko-tehnologiju-institutu" property="og:url"/>
-<meta content="Uldis Hmielevskis, Liepaja SEZ Manager besucht Stockholm Royal Institute of Technology" property="og:title"/>
+<meta content="Uldis Hmielevskis, Liepāja SEZ Manager besucht Stockholm Royal Institute of Technology" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Uldis Hmielevskis, Liepaja SEZ Manager besucht das Royal Institute of Technology in Stockholm</title>
+<title>Uldis Hmielevskis, Liepāja SEZ Manager besucht das Royal Institute of Technology in Stockholm</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
@@ -47,18 +47,18 @@ html.classList.add(localStorage['contrast']);
 <span>E-Mail: <a href="mailto:liga.ratniece-kadege@lsez.lv" target="_blank">liga.ratniece-kadege@lsez.lv</a></span>
 </div>
 <div class="col-12 col-md-9 mt-md-5">
-<span class="date d-block mt-md-5">Veranschlagt sind Mittel zur Deckung der Verpflichtungen, die im Rahmen des Pilotprojekts aus den Vorjahren noch nicht abgewickelt werden. 8. März 2025</span>
-<h1 class="article-title">Uldis Hmielevskis, Liepaja SEZ Manager besucht Stockholm Royal Institute of Technology</h1>
+<span class="date d-block mt-md-5">05. März 2025</span>
+<h1 class="article-title">Uldis Hmielevskis, Liepāja SEZ Manager besucht Stockholm Royal Institute of Technology</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Die Technologie, die für das SAF-Brennstoffkraftwerk im Gebiet des Hafens von Liepaja geplant ist, wurde von der schwedischen Firma "Swedish Biofuels AB" entwickelt, indem sie Wissenschaftler vom Royal Institute of Technology und US-Militärstipendien anzieht. Die Prototypanlage, die durch die Kombination von Kohlenstoff- und Wasserstoffmolekülen Brennstoff produziert, erzeugt pro Jahr etwa 3 Tausend Tonnen nachhaltige Brennstoffe. Es befindet sich in Stockholm, auf dem Gebiet des Instituts für Technologie, neben Publikum und Labors. Wie auf der Website des Unternehmens angegeben, bieten die entwickelten Technologien eine tragfähige Alternative zu fossilen Brennstoffen durch die Förderung von Unternehmertum, Luftfahrt, Verkehr und Industrie auf neuem, verantwortungsbewussteren und sichererem Niveau.</p><p>Uldis Hmieļevskis, Liepaja SEZ Manager betont, dass es wichtig ist, in jedes Projekt zu gehen, dessen Entwicklung in Liepāja geplant ist. Eine solche eingehende Diskussion mit Technologielieferanten und Investoren ermöglicht eine umfassende Bewertung der Art, des wirtschaftlichen Nutzens, der Sicherheit, der Umweltauswirkungen und anderer Aspekte des Projekts. Dies ist ein Standard der Forschung für mich persönlich, dass wir mit lokalen Regierung und LSEZ-Spezialisten in praktisch jedem großen Projekt tun, um sicherzustellen, dass die neu gebaute Fabrik in die Stadt passen und keine Unannehmlichkeiten und Risiken verursachen wird. Daher war eines der Kapitel in der Diskussion genau - Umwelt- und Sicherheitsfragen. Das Produkt selbst ist auch ein farbloser grüner Brennstoff, und vor dem Hinzufügen von Duftstoffen ist es praktisch geruchlos, weil während des Herstellungsprozesses keine Verunreinigungen im Produkt vorhanden sind.</p><p>Sowohl die Brennstoffanlage selbst als auch den schuppigen und pedanten Ansatz, mit dem Technologie entwickelt wurde, und die Dokumentation von Projekten in anderen Anlagen - alles wird verantwortungsvoll behandelt. Die Kraftstoffproduktion findet buchstäblich neben dem Publikum und dem Kaffeetrinkraum statt, es gibt kein Geräusch, Geruch, Rauch - viele Probleme werden bereits vor der Wurzel entfernt. Warum wird so ein Brennstoff benötigt? Die Luftfahrt ist einer der größten CO2-Emitter weltweit und Europa hat ein Ziel von 2050 gesetzt. Im Jahr 2009 nutzen 65% der Flüge grünen SAF-Kraftstoff. Liepaja hat die Möglichkeit, ein Zentrum der zukünftigen Industrien zu werden, neue Arbeitsplätze zu schaffen, Forschung für ländliche Wissenschaftler an der RTU Liepaja Academy und eine Möglichkeit für andere Unternehmen, die nächsten Technologien zu entwickeln, sagt Uldis Hmieļevskis, Liepaja SEZ Manager.</p><p>Das SAF-Werk im Hafen von Liepaja soll von LSEZ Ltd. gebaut werden. Entwickelte Technologien, Anlagenbau und Installation sind weltweit mit einem der größten US-Energietechnologieunternehmen KBR verbunden, mit über 6 Milliarden US-Dollar Umsatz und Erfahrung in der Raumfahrt-, Energie- und Militärindustrie.</p></div>
+<div class="col"><div class="col-12 output"><p>Die Technologie, die für das SAF-Brennstoffkraftwerk im Gebiet des Hafens von Liepāja geplant ist, wurde von der schwedischen Firma "Swedish Biofuels AB" entwickelt, indem sie Wissenschaftler vom Royal Institute of Technology und US-Militärstipendien anzieht. Die Prototypanlage, die durch die Kombination von Kohlenstoff- und Wasserstoffmolekülen Brennstoff produziert, erzeugt pro Jahr etwa 3 Tausend Tonnen nachhaltige Brennstoffe. Es befindet sich in Stockholm, auf dem Gebiet des Instituts für Technologie, neben Publikum und Labors. Wie auf der Website des Unternehmens angegeben, bieten die entwickelten Technologien eine tragfähige Alternative zu fossilen Brennstoffen durch die Förderung von Unternehmertum, Luftfahrt, Verkehr und Industrie auf neuem, verantwortungsbewussteren und sichererem Niveau.</p><p>Uldis Hmieļevskis, Liepāja SEZ Manager betont, dass es wichtig ist, in jedes Projekt zu gehen, dessen Entwicklung in Liepāja geplant ist. Eine solche eingehende Diskussion mit Technologielieferanten und Investoren ermöglicht eine umfassende Bewertung der Art, des wirtschaftlichen Nutzens, der Sicherheit, der Umweltauswirkungen und anderer Aspekte des Projekts. Dies ist ein Standard der Forschung für mich persönlich, dass wir mit lokalen Regierung und LSEZ-Spezialisten in praktisch jedem großen Projekt tun, um sicherzustellen, dass die neu gebaute Fabrik in die Stadt passen und keine Unannehmlichkeiten und Risiken verursachen wird. Daher war eines der Kapitel in der Diskussion genau - Umwelt- und Sicherheitsfragen. Das Produkt selbst ist auch ein farbloser grüner Brennstoff, und vor dem Hinzufügen von Duftstoffen ist es praktisch geruchlos, weil während des Herstellungsprozesses keine Verunreinigungen im Produkt vorhanden sind.</p><p>Sowohl die Brennstoffanlage selbst als auch den schuppigen und pedanten Ansatz, mit dem Technologie entwickelt wurde, und die Dokumentation von Projekten in anderen Anlagen - alles wird verantwortungsvoll behandelt. Die Kraftstoffproduktion findet buchstäblich neben dem Publikum und dem Kaffeetrinkraum statt, es gibt kein Geräusch, Geruch, Rauch - viele Probleme werden bereits vor der Wurzel entfernt. Warum wird so ein Brennstoff benötigt? Luftfahrt ist einer der größten CO2 Globale Emitter und Europa setzen folgende Ziele: 2050. Jahr, 65Verwenden Sie grünen SAF Kraftstoff in % der Flüge. Liepāja wiederum hat die Möglichkeit, ein Zentrum der zukünftigen Industrien zu werden, neue Arbeitsplätze zu schaffen, Forschung für ländliche Wissenschaftler an der RTU Liepāja Academy und Entwicklung der nächsten Technologien für andere Unternehmen, sagt Uldis Hmieļevskis, Liepāja SEZ Manager.</p><p>Das SAF-Werk im Hafen von Liepāja soll von LSEZ Ltd. gebaut werden. Entwickelte Technologien, Anlagenbau und Installation sind weltweit mit einem der größten US-Energietechnologieunternehmen KBR verbunden, mit über 6 Milliarden US-Dollar Umsatz und Erfahrung in der Raumfahrt-, Energie- und Militärindustrie.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/209/870_1741162522_80cc3761-ffc1-4b75-9d68-f7eaff89acca111.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/209/original_1741162522_80cc3761-ffc1-4b75-9d68-f7eaff89acca111.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/209/original_1741162522_80cc3761-ffc1-4b75-9d68-f7eaff89acca111.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

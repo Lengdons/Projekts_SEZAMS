@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="https://liepaja-sez.lv//img/mod/news/288/1777533949_34_04.29.2026._JA_uznemumi_0.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/medijiem/liepajas-sez-parvaldes-simpatiju-balavas-sanem-skolenu-macibu-uznemumi-lampwood-un-plix" property="og:url"/>
-<meta content="Die Sympathiepreise der Liepaja SEZ Authority werden von den Bildungseinrichtungen LAMPwood und PLIX erhalten" property="og:title"/>
+<meta content="Die Sympathiepreise der Liepāja SEZ Authority werden von den Bildungseinrichtungen LAMPwood und PLIX erhalten" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Die Liepaja SEZ Authority erhält die Lieblingspreise von den Schulgesellschaften LAMPwood und PLIX SEZ</title>
+<title>Die Liepāja SEZ Authority erhält die Lieblingspreise von den Schulgesellschaften LAMPwood und PLIX SEZ</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
@@ -48,17 +48,17 @@ html.classList.add(localStorage['contrast']);
 </div>
 <div class="col-12 col-md-9 mt-md-5">
 <span class="date d-block mt-md-5">29. April 2026</span>
-<h1 class="article-title">Die Sympathiepreise der Liepaja SEZ Authority werden von den Bildungseinrichtungen LAMPwood und PLIX erhalten</h1>
+<h1 class="article-title">Die Sympathiepreise der Liepāja SEZ Authority werden von den Bildungseinrichtungen LAMPwood und PLIX erhalten</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Bereits für das zweite Jahr beteiligt sich die Liepaja SEZ Authority an der Bewertung des nationalen Finales der besten lettischen Schülerinnen und Schüler und präsentiert ihren Sympathiepreis in Grundschulen und weiterführenden Schulen. </p><p>In diesem Jahr erhielt SMU LAMPwood einen Preis für die Produktion eines nachhaltigen und einzigartigen Innenobjekts, ergänzt durch einen ästhetisch gestalteten Stand, ein Gesprächslogo, überzeugende Präsentation, ein vereintes Team, entwicklungsorientiertes Unternehmertum, Produkte fühlen sich Liepaja an. LAMPwood ist Liepaja State Gymnasium Unternehmen und seine Teilnehmer sind Raivo Egmanis und Emilija Betrama.</p><p>In der Sekundarschulgruppe erhielt SMU PLIX ein Mitgefühl von Liepaja SEZ Verwaltung für die Entwicklung und Herstellung von kompakten Kunststoff-Recycling-Geräten - nachhaltige Lösung zur Unterstützung der Kreislaufwirtschaft, innovative Verbesserung der Produktionsanlagen, erworbene Software, Wissen, Experimentieren und Entwicklung Konzentration der Produktion. PLIX ist die Studentin der staatlichen Technischen Hochschule Riga, zu der Mark Žihar, Laura Krasnikova und Tomas Lībenzob gehören.</p><p>Die Ausbildung von Schülern ist eine gute Gelegenheit, die ersten unternehmerischen Fähigkeiten in der Schule zu erlernen und ein Produkt von der Idee zum Verkauf zu entwickeln. Liepaja Studenten waren schon immer aktiv und zeigten gute Ergebnisse. Die Ausbildungsfirmen der Schüler fördern die Entwicklung und Förderung des Unternehmertums. Es ist ein praxisorientiertes Lernen, das Studenten anzieht, Wissen zu verarbeiten, ihr Vertrauen zu stärken und sie dazu motiviert, neue Ziele zu erreichen.</p><p>Von 27 Anhang II der Verordnung (EG) Nr. 396/2005 wird wie folgt geändert: Das Nationale Finale der lettischen Studentenstudenten (SMU), das von der Investment and Development Agency of Latvia (LIAA) und der Bildungsorganisation "Junior Achievement Latvia" (JA Lettland) organisiert wird, findet in Liepaja statt. Innerhalb von zwei Tagen wird ein Team mit 31 besten Studenten aus ganz Lettland ihre Produkte und Geschäftsideen präsentieren, die um eine Gelegenheit konkurrieren, Lettland im europäischen Finale zu vertreten, das in diesem Jahr in Riga stattfinden wird.</p><p>Innerhalb von zwei Tagen wird ein Team mit 31 besten Studenten aus ganz Lettland ihre Produkte und Geschäftsideen präsentieren, die um eine Gelegenheit konkurrieren, Lettland im europäischen Finale zu vertreten, das in diesem Jahr in Riga stattfinden wird.</p><p>Für das letzte Jahr wurden 10 Grundschüler und 21 Sekundarschulschüler ausgewählt, die ein hohes Niveau sowohl an Produktentwicklung als auch an unternehmerischen Denk- und Präsentationsfähigkeiten aufweisen.</p></div>
+<div class="col"><div class="col-12 output"><p>Bereits für das zweite Jahr beteiligt sich die Liepāja SEZ Authority an der Bewertung des nationalen Finales der besten lettischen Schülerinnen und Schüler und präsentiert ihren Sympathiepreis in Grundschulen und weiterführenden Schulen. </p><p>In diesem Jahr erhielt SMU LAMPwood einen Preis für die Produktion eines nachhaltigen und einzigartigen Innenobjekts, ergänzt durch einen ästhetisch gestalteten Stand, ein Gesprächslogo, überzeugende Präsentation, ein vereintes Team, entwicklungsorientiertes Unternehmertum, Produkte fühlen sich Liepāja an. LAMPwood ist Liepāja State Gymnasium Unternehmen und seine Teilnehmer sind Raivo Egmanis und Emilija Betrama.</p><p>In der Sekundarschulgruppe erhielt SMU PLIX ein Mitgefühl von Liepāja SEZ Verwaltung für die Entwicklung und Herstellung von kompakten Kunststoff-Recycling-Geräten - nachhaltige Lösung zur Unterstützung der Kreislaufwirtschaft, innovative Verbesserung der Produktionsanlagen, erworbene Software, Wissen, Experimentieren und Entwicklung Konzentration der Produktion. PLIX ist die Studentin der staatlichen Technischen Hochschule Riga, zu der Mark Žihar, Laura Krasnikova und Tomas Lībenzob gehören.</p><p>Die Ausbildung von Schülern ist eine gute Gelegenheit, die ersten unternehmerischen Fähigkeiten in der Schule zu erlernen und ein Produkt von der Idee zum Verkauf zu entwickeln. Liepāja Studenten waren schon immer aktiv und zeigten gute Ergebnisse. Die Ausbildungsfirmen der Schüler fördern die Entwicklung und Förderung des Unternehmertums. Es ist ein praxisorientiertes Lernen, das Studenten anzieht, Wissen zu verarbeiten, ihr Vertrauen zu stärken und sie dazu motiviert, neue Ziele zu erreichen.</p><p>Von 27. bis 28. Das Nationale Finale der lettischen Studentenbildungsgesellschaften (SMU), das von der Investitions- und Entwicklungsbehörde Lettlands (LIAA) und der Bildungsorganisation "Junior Achievement Latvia" (JA Lettland) organisiert wird, findet in Liepāja statt. Innerhalb von zwei Tagen 31 Ein Team bester Studenten aus ganz Lettland wird ihre Produkte und Geschäftsideen präsentieren, um eine Gelegenheit zu bieten, Lettland im europäischen Finale zu vertreten, das dieses Jahr in Riga stattfinden wird.</p><p>Innerhalb von zwei Tagen wird ein Team mit 31 besten Studenten aus ganz Lettland ihre Produkte und Geschäftsideen präsentieren, die um eine Gelegenheit konkurrieren, Lettland im europäischen Finale zu vertreten, das in diesem Jahr in Riga stattfinden wird.</p><p>Für das letzte Jahr wurden 10 Grundschüler und 21 Sekundarschulschüler ausgewählt, die ein hohes Niveau sowohl an Produktentwicklung als auch an unternehmerischen Denk- und Präsentationsfähigkeiten aufweisen.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/288/870_1777533949_34_04.29.2026._JA_uznemumi_0.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/288/original_1777533949_34_04.29.2026._JA_uznemumi_0.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="/site/img/mod/news/288/original_1777533949_34_04.29.2026._JA_uznemumi_0.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -78,12 +78,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<h4>Oskars-Kalpaks-Brücke wird für ein internationales Filmprojekt drei Tage lang für den Verkehr gesperrt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 col-md-8 col-lg-9">Vom 16. bis 24. Oktober wird Liepāja vorübergehend zum Drehort einer internationalen Filmproduktion. In der Stadt entsteht eine Verfilmung des Romans „Verblendung“ aus der weltweit beliebten „Millennium“-Buchreihe. Produziert wird sie von „Left Bank Pictures“, bekannt durch Projekte wie „The Crown“ und „Dept Q“. Eine besondere Rolle spielt die Oskars-Kalpaks-Brücke, die als einer der wichtigsten Drehorte der gesamten Serie ausgewählt wurde. Für die Dreharbeiten wird die Brücke an drei Tagen für Fußgänger und Kraftfahrzeuge gesperrt; auch der Schiffsverkehr wird eingeschränkt.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -93,12 +93,12 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
-<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<h4>Versteigerung einer Immobilie im Industriepark Liepāja in der Eksporta iela 3 angekündigt</h4>
+<a class="d-none d-md-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 col-md-8 col-lg-9">Im Zuge des weiteren Ausbaus des Industrieparks Liepāja auf dem Gelände des ehemaligen Werks „Liepājas metalurgs“ hat die Verwaltung der Sonderwirtschaftszone Liepāja eine Versteigerung der Immobilie in der Eksporta iela 3 im Industriepark angekündigt. Damit sollen Unternehmen stärker in die Erneuerung und Umgestaltung des Industriegeländes eingebunden werden. Sie erhalten die Möglichkeit, Produktionsgebäude samt Grundstück zu erwerben.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -140,7 +140,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

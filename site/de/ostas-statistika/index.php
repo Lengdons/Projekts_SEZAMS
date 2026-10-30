@@ -40,7 +40,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../parvaldiba/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/parvaldiba/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Unternehmensführung
@@ -48,7 +48,7 @@ Unternehmensführung
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../korporativa-parvaldiba/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/korporativa-parvaldiba/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Corporate Governance
@@ -56,7 +56,7 @@ Corporate Governance
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../iepirkumi-un-izsoles/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/iepirkumi-un-izsoles/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Ausschreibungen und Versteigerungen
@@ -72,7 +72,7 @@ Geschäftsberichte
 </a>
 <div class="sidebar-nested ps-md-4">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../valdes-sedes-lemumi/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes-lemumi/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Vorstandsbeschlüsse
@@ -80,7 +80,7 @@ Vorstandsbeschlüsse
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="../atskaites-par-darbibu/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/atskaites-par-darbibu/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Tätigkeitsberichte
@@ -88,7 +88,7 @@ Tätigkeitsberichte
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/ostas-statistika/index.php">
 <img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
 Hafenstatistik
@@ -102,7 +102,7 @@ Hafenstatistik
 <div class="col-12 col-md-9 side-right">
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><h1 class="block-title mb-5">Hafen von Liepaja 2026. Jährliche Statistiken <span></span></h1><div class="col-12 output"><h6>Im August im Hafen von Liepaja <strong>341,8 Tausend</strong> Tonnen verschiedener Ladungen, einschließlich:</h6></div>
+<div class="col"><h1 class="block-title mb-5">Hafen von Liepāja 2026. Jährliche Statistiken <span></span></h1><div class="col-12 output"><h6>Im August im Hafen von Liepāja <strong>341,8 Tausend</strong> Tonnen verschiedener Ladungen, einschließlich:</h6></div>
 </div>
 </div>
 </div>
@@ -134,7 +134,7 @@ Hafenstatistik
 </div>
 <div class="col-12 col-md-4 column-content">
 <img alt="Symbol" class="icon" src="../../img/block/columns/51/1725965636_kugjis-ar-konteineriem.svg"/>
-<h4> </h4><h4>1104.7 Tausend Tonnen</h4><p>Ladungen der Fährlinien 2026. 2009 </p>
+<h4> </h4><h4>1104.7 Tausend Tonnen</h4><p>Ferry-Linienlasten 2026. </p>
 </div>
 </div>
 </div>
@@ -143,7 +143,7 @@ Hafenstatistik
 <div class="col-12 col-lg-3 mt-5 sidebar-nav ps-0">
 <div class="row document-categories">
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Statistik" class="d-flex align-items-center dc sidebar-nav-icon" data-value="23" href="23/index.php">
+<a aria-label="Statistik" class="d-flex align-items-center dc sidebar-nav-icon" data-value="23" href="/site/de/ostas-statistika/23/index.php">
 <img alt="Statistik" src="../../img/round-right-blue.svg"/>
 
 Statistik
@@ -160,7 +160,7 @@ Statistik
 <div class="category">2026</div>
 <a aria-label="Dokument" href="../../doc/mod/document/394/1788954908_ostas-statistika-2026-augusts.pdf" target="_blank">
 
-Hafenstatistik August 2026
+August 2026 ostas statistika
 
 </a>
 <div class="mt-2"></div>
@@ -172,11 +172,11 @@ Hafenstatistik August 2026
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">7. 8. August 2026</div>
+<div class="date">7. August 2026</div>
 <div class="category">Statistik</div>
 <a aria-label="Dokument" href="../../doc/mod/document/391/1787048926_Ostas_statistika_2026_julijs.pdf" target="_blank">
 
-Hafenstatistik Juli 2026
+Juli 2026 ostas statistika
 
 </a>
 <div class="mt-2"></div>
@@ -188,11 +188,11 @@ Hafenstatistik Juli 2026
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">9. 8. Juli 2026</div>
+<div class="date">9. Juli 2026</div>
 <div class="category">2026</div>
 <a aria-label="Dokument" href="../../doc/mod/document/380/1783580626_ostas-statistika-2026-junijs.pdf" target="_blank">
 
-Hafenstatistik Juni 2026
+Juni 2026 ostas statistika
 
 </a>
 <div class="mt-2"></div>
@@ -204,11 +204,11 @@ Hafenstatistik Juni 2026
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">12. 8. Juni 2026</div>
+<div class="date">12. Juni 2026</div>
 <div class="category">2026</div>
 <a aria-label="Dokument" href="../../doc/mod/document/364/1781514347_Ostas_statistika_2026_maijs.pdf" target="_blank">
 
-Hafenstatistik Mai 2026
+Mai 2026 ostas statistika
 
 </a>
 <div class="mt-2"></div>
@@ -240,7 +240,7 @@ Hafenstatistik April 2026
 <div class="category">2026</div>
 <a aria-label="Dokument" href="../../doc/mod/document/359/1780299325_ostas-statistika-2026-marts.pdf" target="_blank">
 
-Hafenstatistik März 2026
+März 2026 ostas statistika
 
 </a>
 <div class="mt-2"></div>
@@ -252,11 +252,11 @@ Hafenstatistik März 2026
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">13. 22. März 2026</div>
+<div class="date">13. März 2026</div>
 <div class="category">2026</div>
 <a aria-label="Dokument" href="../../doc/mod/document/356/1774355096_ostas-statistika-2026-februaris.pdf" target="_blank">
 
-Hafenstatistik vom Februar 2026
+Februar 2026 ostas statistika
 
 </a>
 <div class="mt-2"></div>
@@ -272,7 +272,7 @@ Hafenstatistik vom Februar 2026
 <div class="category">2026</div>
 <a aria-label="Dokument" href="../../doc/mod/document/354/1771834709_ostas-statistika-2026-janvaris.pdf" target="_blank">
 
-Hafenstatistik für Januar 2026
+Januar 2026 ostas statistika
 
 </a>
 <div class="mt-2"></div>
@@ -288,7 +288,7 @@ Hafenstatistik für Januar 2026
 <div class="category">2025</div>
 <a aria-label="Dokument" href="../../doc/mod/document/341/1769427477_ostas-statistika-2025-decembris.pdf" target="_blank">
 
-Hafenstatistik Dezember 2025
+Dezember 2025 ostas statistika
 
 </a>
 <div class="mt-2"></div>
@@ -300,11 +300,11 @@ Hafenstatistik Dezember 2025
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">5. 22. Dezember 2025</div>
+<div class="date">5. Dezember 2025</div>
 <div class="category">2025</div>
 <a aria-label="Dokument" href="../../doc/mod/document/338/1766481082_ostas-statistika-2025-novembris.pdf" target="_blank">
 
-Hafenstatistik November 2025
+November 2025 ostas statistika
 
 </a>
 <div class="mt-2"></div>
@@ -316,11 +316,11 @@ Hafenstatistik November 2025
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">6. 8. November 2025</div>
+<div class="date">6. November 2025</div>
 <div class="category">2025</div>
 <a aria-label="Dokument" href="../../doc/mod/document/332/1763987301_ostas-statistika-2025-oktobris.pdf" target="_blank">
 
-Hafenstatistik Oktober 2025
+Oktober 2025 ostas statistika
 
 </a>
 <div class="mt-2"></div>
@@ -332,11 +332,11 @@ Hafenstatistik Oktober 2025
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">16. 8. Oktober 2025</div>
+<div class="date">16. Oktober 2025</div>
 <div class="category">2025</div>
 <a aria-label="Dokument" href="../../doc/mod/document/330/1760611363_ostas-statistika-2025-septembris.pdf" target="_blank">
 
-Hafenstatistik September 2025
+September 2025 ostas statistika
 
 </a>
 <div class="mt-2"></div>
@@ -348,11 +348,11 @@ Hafenstatistik September 2025
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">12. 22. September 2025</div>
+<div class="date">12. September 2025</div>
 <div class="category">2025</div>
 <a aria-label="Dokument" href="../../doc/mod/document/326/1760609274_ostas-statistika-2025-augusts.pdf" target="_blank">
 
-Hafenstatistik August 2025
+August 2025 ostas statistika
 
 </a>
 <div class="mt-2"></div>
@@ -364,11 +364,11 @@ Hafenstatistik August 2025
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">11. 8. August 2025</div>
+<div class="date">11. August 2025</div>
 <div class="category">2025</div>
 <a aria-label="Dokument" href="../../doc/mod/document/317/1755767764_ostas-statistika-2025-julijs.pdf" target="_blank">
 
-Hafenstatistik Juli 2025
+Juli 2025 ostas statistika
 
 </a>
 <div class="mt-2"></div>
@@ -380,11 +380,11 @@ Hafenstatistik Juli 2025
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">7. 8. Juli 2025</div>
+<div class="date">7. Juli 2025</div>
 <div class="category">2025</div>
 <a aria-label="Dokument" href="../../doc/mod/document/306/1754901969_ostas-statistika-2025-junija-menesis.pdf" target="_blank">
 
-Hafenstatistik Juni 2025
+Juni 2025 ostas statistika
 
 </a>
 <div class="mt-2"></div>
@@ -396,11 +396,11 @@ Hafenstatistik Juni 2025
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">11. 8. Juni 2025</div>
+<div class="date">11. Juni 2025</div>
 <div class="category">2025</div>
 <a aria-label="Dokument" href="../../doc/mod/document/278/1754901848_ostas-statistika-2025-maijs.pdf" target="_blank">
 
-Hafenstatistik Mai 2025
+Mai 2025 ostas statistika
 
 </a>
 <div class="mt-2"></div>
@@ -428,11 +428,11 @@ Hafenstatistik April 2025
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">8. 8. April 2025</div>
+<div class="date">8. April 2025</div>
 <div class="category">2025</div>
 <a aria-label="Dokument" href="../../doc/mod/document/269/1744104655_ostas-statistika-2025-marts.pdf" target="_blank">
 
-Hafenstatistik März 2025
+März 2025 ostas statistika
 
 </a>
 <div class="mt-2"></div>
@@ -444,11 +444,11 @@ Hafenstatistik März 2025
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">7. 8. März 2025</div>
+<div class="date">7. März 2025</div>
 <div class="category">2025</div>
 <a aria-label="Dokument" href="../../doc/mod/document/266/1741359740_ostas-statistika-2025-februaris.pdf" target="_blank">
 
-Hafenstatistik vom Februar 2025
+Februar 2025 ostas statistika
 
 </a>
 <div class="mt-2"></div>
@@ -460,11 +460,11 @@ Hafenstatistik vom Februar 2025
 <hr/>
 <div class="document-single my-4">
 <div class="document-info">
-<div class="date">3. 8. Februar 2025</div>
+<div class="date">3. Februar 2025</div>
 <div class="category">2025</div>
 <a aria-label="Dokument" href="../../doc/mod/document/254/1739968552_ostas-statistika-2025-janvaris.pdf" target="_blank">
 
-Hafenstatistik für Januar 2025
+Januar 2025 ostas statistika
 
 </a>
 <div class="mt-2"></div>
@@ -478,7 +478,7 @@ Hafenstatistik für Januar 2025
 <div class="prev">
 </div>
 <div class="next">
-<a aria-label="Weiter" class="next docs-pagination" data-page="2" href="index.php">
+<a aria-label="Weiter" class="next docs-pagination" data-page="2" href="/site/de/ostas-statistika/index.php">
 
 Weiter <img alt="Weiter" src="../../img/round-right.svg"/>
 </a>
@@ -524,7 +524,7 @@ Weiter <img alt="Weiter" src="../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/ostas-statistika/index.php"><img alt="Nach oben" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

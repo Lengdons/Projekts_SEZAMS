@@ -61,7 +61,7 @@ flex-grow: 0;
 <h1 class="mb-4 block-title">LSEZ<span></span></h1>
 </div>
 <div class="col-12 column-content">
-<p>Nach Angaben von 1997. 17. Mai Das Liepaja Sonderwirtschaftszone Gesetz, das im Februar verabschiedet wurde, besteht aus dem Gebiet der Special Economy Zone Liepaja, in dem Unternehmen der Spezialwirtschaftszone Liepaja Geschäfte tätigen und von der Sonderwirtschaftsregion Liepaja verwaltet und betreut werden.</p><p>Das Gebiet der Sonderwirtschaftszone Liepaja wurde gemäß dem Gebietsplan für besondere Wirtschaftszonen Liepaja und der Beschreibung der Gebietsgrenzen von Liepaja, die dem Gesetz über die Sonderwirtschaftsregion Liepaja beigefügt sind, festgelegt.</p>
+<p>Nach Angaben von 1997. 17. Mai Das Liepāja Sonderwirtschaftszone Gesetz, das im Februar verabschiedet wurde, besteht aus dem Gebiet der Special Economy Zone Liepāja, in dem Unternehmen der Spezialwirtschaftszone Liepāja Geschäfte tätigen und von der Sonderwirtschaftsregion Liepāja verwaltet und betreut werden.</p><p>Das Gebiet der Sonderwirtschaftszone Liepāja wurde gemäß dem Gebietsplan für besondere Wirtschaftszonen Liepāja und der Beschreibung der Gebietsgrenzen von Liepāja, die dem Gesetz über die Sonderwirtschaftsregion Liepāja beigefügt sind, festgelegt.</p>
 </div>
 </div>
 </div>
@@ -91,7 +91,7 @@ flex-grow: 0;
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/liepajas-sez/index.php"><img alt="Nach oben" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

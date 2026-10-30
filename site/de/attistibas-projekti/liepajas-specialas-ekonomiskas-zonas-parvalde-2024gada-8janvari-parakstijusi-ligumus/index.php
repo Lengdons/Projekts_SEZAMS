@@ -8,11 +8,11 @@
 <link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="follow, index" name="robots"/><meta content="https://liepaja-sez.lv//img/mod/news/153/1723112448_metalurgs-5.webp" property="og:image"/><meta content="article" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/attistibas-projekti/liepajas-specialas-ekonomiskas-zonas-parvalde-2024gada-8janvari-parakstijusi-ligumus" property="og:url"/>
-<meta content=" Am 8. Januar 2024 unterzeichnete Liepaja Special Economic Zone Authority Bauverträge für das Projekt Entwicklung des Industrieparks Liepaja 1. Stufe" property="og:title"/>
+<meta content=" Am 8. Januar 2024 unterzeichnete Liepāja Special Economic Zone Authority Bauverträge für das Projekt Entwicklung des Industrieparks Liepāja 1. Stufe" property="og:title"/>
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title> Liepaja Special Economic Zone Authority unterzeichnete am 8. Januar 2024 Bauverträge für das Projekt Entwicklung des Industrieparks Liepaja 1. Stufe</title>
+<title> Liepāja Special Economic Zone Authority unterzeichnete am 8. Januar 2024 Bauverträge für das Projekt Entwicklung des Industrieparks Liepāja 1. Stufe</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="../../../css/main__40614cace7.css" rel="stylesheet"/>
@@ -48,18 +48,18 @@ html.classList.add(localStorage['contrast']);
 <span>E-Mail: <a href="mailto:" target="_blank"></a></span>
 </div>
 <div class="col-12 col-md-9 mt-md-5">
-<span class="date d-block mt-md-5">Veranschlagt sind Mittel zur Deckung der Verpflichtungen, die im Rahmen des Pilotprojekts aus den Vorjahren noch nicht abgewickelt werden. 8. Januar 2024</span>
-<h1 class="article-title"> Am 8. Januar 2024 unterzeichnete Liepaja Special Economic Zone Authority Bauverträge für das Projekt Entwicklung des Industrieparks Liepaja 1. Stufe</h1>
+<span class="date d-block mt-md-5">08. Januar 2024</span>
+<h1 class="article-title"> Am 8. Januar 2024 unterzeichnete Liepāja Special Economic Zone Authority Bauverträge für das Projekt Entwicklung des Industrieparks Liepāja 1. Stufe</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Am 8. Januar 2024 unterzeichnete Liepaja Special Economic Zone Authority Bauverträge für das Projekt Entwicklung des Industrieparks Liepaja 1. Stufe. Im Rahmen des Projekts werden ehemalige Fabriken wieder aufgebaut.Liepājas metalurgs Das Gebiet Liepaja zwischen Brivibas Street, Meldru Street, Liepāja Lake, Esermalas Street, Parka Street und Zemnieku Street mit angrenzenden Gebieten an den Liepaja Lake, Bau öffentlicher Straßeninfrastruktur mit Ingenieurnetzwerken, Unternehmertum Bereitstellung einer grundlegenden Infrastruktur durch Schaffung eines Betriebsparks von nationaler Bedeutung, um die Funktionalität des entwickelten Gebiets gemäß der genehmigten Strategie für langfristige Entwicklung des Industrieparks Liepaja 2023-2038 zu gewährleisten.</p><p>Ziel des Projekts war es, das Gebiet der Fabrik "Liepājas metalurgs" in einen grünen Öko-Industriepark von nationaler Bedeutung zu verwandeln, moderne Basisinfrastruktur aufzubauen und Investoren in RIS3-Sektoren anzuziehen, um eine stark erweiterte exportorientierte Produktion zu entwickeln und qualifizierte, gut bezahlte Arbeitsplätze zu schaffen.</p><p>Das Projekt sieht Investitionen in den Bau öffentlich zugänglicher Infrastrukturen auf und unter dem öffentlichen Bereich vor.</p><p>Das Projekt wird zu einer Reihe von erheblichen langfristigen Vorteilen führen:</p><ul><li>Steigerung der Beschäftigung in der Region, wird zur wirtschaftlichen Tätigkeit der Stadt Liepaja, des Bezirks Südkurzeme und der Region Kurzeme beitragen und die soziale Belastung verringern;</li><li>Gewinnung von Sektoren mit höherem Mehrwert und notwendigen Spezialisten, die die Entwicklung von Bildungs- und Forschungsbereichen fördern und das Wachstum der gebildeten Arbeitskräfte in der Region Kurzeme und Lettland sicherstellen werden;</li><li>höhere Wertschöpfungssektoren, ihre Kooperationsmechanismen und die Entwicklung des Ökosystems in klimaneutralen Bereichen, die bei der Entwicklung innovativer Lösungen und lokaler Start-ups erfolgreich sind;</li><li>Erhöhung der Steuereinnahmen im Staatshaushalt und in den Kommunalverwaltungen, die einen wesentlichen Beitrag zur Finanzierung staatlicher und kommunaler Aufgaben leisten werden.</li></ul><p>Die Projektfinanzierung erfolgt durch den Plan 3.1 des Konjunktur- und Widerstandsmechanismus der Europäischen Union. in Abschnitt 3.1.1.3i der Reform- und Investitionsrichtung "Regionalpolitik." Investitionen in "Investitionen in öffentliche Infrastruktur für Unternehmen in Industrieparks und Gebieten in den Regionen."</p></div>
+<div class="col"><div class="col-12 output"><p>Am 8. Januar 2024 unterzeichnete Liepāja Special Economic Zone Authority Bauverträge für das Projekt Entwicklung des Industrieparks Liepāja 1. Stufe. Im Rahmen des Projekts werden ehemalige Fabriken wieder aufgebaut.Liepājas metalurgs Das Gebiet Liepāja zwischen Brivibas Street, Meldru Street, Liepāja Lake, Esermalas Street, Parka Street und Zemnieku Street mit angrenzenden Gebieten an den Liepāja Lake, Bau öffentlicher Straßeninfrastruktur mit Ingenieurnetzwerken, Unternehmertum Bereitstellung einer grundlegenden Infrastruktur durch Schaffung eines Betriebsparks von nationaler Bedeutung, um die Funktionalität des entwickelten Gebiets gemäß der genehmigten Strategie für langfristige Entwicklung des Industrieparks Liepāja 2023-2038 zu gewährleisten.</p><p>Ziel des Projekts war es, das Gebiet der Fabrik "Liepājas metalurgs" in einen grünen Öko-Industriepark von nationaler Bedeutung zu verwandeln, moderne Basisinfrastruktur aufzubauen und Investoren in RIS3-Sektoren anzuziehen, um eine stark erweiterte exportorientierte Produktion zu entwickeln und qualifizierte, gut bezahlte Arbeitsplätze zu schaffen.</p><p>Das Projekt sieht Investitionen in den Bau öffentlich zugänglicher Infrastrukturen auf und unter dem öffentlichen Bereich vor.</p><p>Das Projekt wird zu einer Reihe von erheblichen langfristigen Vorteilen führen:</p><ul><li>Steigerung der Beschäftigung in der Region, wird zur wirtschaftlichen Tätigkeit der Stadt Liepāja, des Bezirks Südkurzeme und der Region Kurzeme beitragen und die soziale Belastung verringern;</li><li>Gewinnung von Sektoren mit höherem Mehrwert und notwendigen Spezialisten, die die Entwicklung von Bildungs- und Forschungsbereichen fördern und das Wachstum der gebildeten Arbeitskräfte in der Region Kurzeme und Lettland sicherstellen werden;</li><li>höhere Wertschöpfungssektoren, ihre Kooperationsmechanismen und die Entwicklung des Ökosystems in klimaneutralen Bereichen, die bei der Entwicklung innovativer Lösungen und lokaler Start-ups erfolgreich sind;</li><li>Erhöhung der Steuereinnahmen im Staatshaushalt und in den Kommunalverwaltungen, die einen wesentlichen Beitrag zur Finanzierung staatlicher und kommunaler Aufgaben leisten werden.</li></ul><p>Die Projektfinanzierung erfolgt durch den Plan 3.1 des Konjunktur- und Widerstandsmechanismus der Europäischen Union. in Abschnitt 3.1.1.3i der Reform- und Investitionsrichtung "Regionalpolitik." Investitionen in "Investitionen in öffentliche Infrastruktur für Unternehmen in Industrieparks und Gebieten in den Regionen."</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="../../../img/mod/news/153/870_1723460186_logo-870.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="../../../img/mod/news/153/original_1723460186_logo-870.webp">
-<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+<a aria-label="Herunterladen" class="image-download" download="" href="../../../img/mod/news/153/original_1723460186_logo-870.webp">
+<img alt="Herunterladen" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
 </div>
@@ -80,11 +80,11 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">25.08.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Das gemeinsame Digitalisierungsprojekt der lettischen Häfen wurde abgeschlossen, eine einzige digitale Plattform für effizientere Hafenoperationen wurde eingerichtet.</h4>
-<a class="d-none d-md-block my-4" href="../nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
+<a class="d-none d-md-block my-4" href="/site/de/attistibas-projekti/nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
 </div>
-<div class="col-12 col-md-8 col-lg-9">Das gemeinsame Digitalisierungsprojekt der größten Häfen Lettlands hat abgeschlossen, bei dem für die Häfen Riga, Ventspils und Liepaja eine einzige digitale Plattform für den Hafenbetrieb und den Kundenservice eingerichtet wurde. Das Projekt hat zu gemeinsamen digitalen Lösungen geführt, die die Zusammenarbeit zwischen Häfen und ihren Kunden verbessern, den Informationsaustausch beschleunigen, die manuelle Datenverarbeitung verringern und eine gemeinsame technologische Basis für die Weiterentwicklung der lettischen Häfen schaffen.</div>
+<div class="col-12 col-md-8 col-lg-9">Das gemeinsame Digitalisierungsprojekt der größten Häfen Lettlands hat abgeschlossen, bei dem für die Häfen Riga, Ventspils und Liepāja eine einzige digitale Plattform für den Hafenbetrieb und den Kundenservice eingerichtet wurde. Das Projekt hat zu gemeinsamen digitalen Lösungen geführt, die die Zusammenarbeit zwischen Häfen und ihren Kunden verbessern, den Informationsaustausch beschleunigen, die manuelle Datenverarbeitung verringern und eine gemeinsame technologische Basis für die Weiterentwicklung der lettischen Häfen schaffen.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/attistibas-projekti/nosledzies-latvijas-ostu-kopigais-digitalizacijas-projekts-izveidota-vienota-digitala-plat/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -95,11 +95,11 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">03.03.2025.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Digitale Transformation des Hafenmanagements durch verbesserte Transport- und Logistikdatenverarbeitung und -analyse</h4>
-<a class="d-none d-md-block my-4" href="../ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
+<a class="d-none d-md-block my-4" href="/site/de/attistibas-projekti/ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Ziel des Projekts ist es, die digitale Transformation des lettischen Hafenmanagements durch Verbesserung der Datenverarbeitung und -analyse im Transport- und Logistikbereich zu fördern und eine integrierte, gemeinsame und anpassungsfähige Plattform umzusetzen.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
+<a class="d-block my-4" href="/site/de/attistibas-projekti/ostu-parvaldibas-digitala-transformacija-pilnveidojot-transporta-un-logistikas-datu-apstra/index.php">Weiterlesen</a>
 </div>
 </div>
 </div>
@@ -109,7 +109,7 @@ html.classList.add(localStorage['contrast']);
 <div class="prev">
 </div>
 <div class="next">
-<a aria-label="Weiter" class="next related-pagination" data-page="2" href="index.php">
+<a aria-label="Weiter" class="next related-pagination" data-page="2" href="/site/de/attistibas-projekti/liepajas-specialas-ekonomiskas-zonas-parvalde-2024gada-8janvari-parakstijusi-ligumus/index.php">
 
 Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 </a>
@@ -141,7 +141,7 @@ Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/attistibas-projekti/liepajas-specialas-ekonomiskas-zonas-parvalde-2024gada-8janvari-parakstijusi-ligumus/index.php"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

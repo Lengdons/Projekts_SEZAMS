@@ -12,7 +12,7 @@
 <meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
-<title>Gebiet Liepaja SEZ √ SEZ</title>
+<title>Gebiet Liepāja SEZ √ SEZ</title>
 <link href="../../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="../../../../css/main__40614cace7.css" rel="stylesheet"/>
@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <h2 class="map-title mb-5">Gebiet der Sonderwirtschaftszone Liepāja</h2>
 </div>
 <div class="col-12 nocontrast">
-<span id="map-block"><img id="img" src="../../../../img/mod/map/17/1707388365_Kartes_1920x1320_Karte_titula.webp"/><a class="map-popover" data-bs-target="#modal63" data-bs-toggle="modal" href="index.php" style="left:79.91304347826087%;top:43.23640960809102%;">
+<span id="map-block"><img id="img" src="../../../../img/mod/map/17/1707388365_Kartes_1920x1320_Karte_titula.webp"/><a class="map-popover" data-bs-target="#modal63" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/liepajas-sez-teritorija/index.php" style="left:79.91304347826087%;top:43.23640960809102%;">
 <img src="../../../../img/mod/map/icons/4.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel63" class="modal fade" id="modal63" tabindex="-1">
@@ -56,22 +56,22 @@ html.classList.add(localStorage['contrast']);
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal64" data-bs-toggle="modal" href="index.php" style="left:53.628334699080405%;top:19.194162856515028%;">
+</div><a class="map-popover" data-bs-target="#modal64" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/liepajas-sez-teritorija/index.php" style="left:53.628334699080405%;top:19.194162856515028%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel64" class="modal fade" id="modal64" tabindex="-1">
 <div class="modal-dialog modal-dialog-centered modal-lg">
 <div class="modal-content pins-modal">
 <div class="modal-header">
-<h1 class="modal-title fs-5" id="modalLabel64">Geschäftszentrum Liepaja</h1>
+<h1 class="modal-title fs-5" id="modalLabel64">Geschäftszentrum Liepāja</h1>
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Eigentümer des Business Center Liepaja ist Pumac Liepaja, der seine Verwaltung, Wartung und Entwicklung von Infrastruktur, Zusammenarbeit mit Mietern gewährleistet.</p><p><strong>Adresse: </strong>Kapsēdes iela 2, Liepaja, LV-3414, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 28308642</p><p><strong>E-Mail: </strong><a href="mailto:llivars@liepajabc.lv">livars@liepajabc.lv</a></p><p><strong>Website: </strong><a href="http://www.liepajabc.lv/" target="_blank">www.liepajabc.lv</a></p>
+<p>Eigentümer des Business Center Liepāja ist Pumac Liepāja, der seine Verwaltung, Wartung und Entwicklung von Infrastruktur, Zusammenarbeit mit Mietern gewährleistet.</p><p><strong>Adresse: </strong>Kapsēdes iela 2, Liepāja, LV-3414, Lettland</p><p><strong>Telefonnummer: </strong>(+371) 28308642</p><p><strong>E-Mail: </strong><a href="mailto:llivars@liepajabc.lv">livars@liepajabc.lv</a></p><p><strong>Website: </strong><a href="http://www.liepajabc.lv/" target="_blank">www.liepajabc.lv</a></p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal65" data-bs-toggle="modal" href="index.php" style="left:60.69565217391304%;top:65.73957016434892%;">
+</div><a class="map-popover" data-bs-target="#modal65" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/liepajas-sez-teritorija/index.php" style="left:60.69565217391304%;top:65.73957016434892%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel65" class="modal fade" id="modal65" tabindex="-1">
@@ -82,11 +82,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Der alte Ostmala Business Park ist Eigentümer, Entwickler und Manager eines Industrie-Geschäftsparks in Liepaja, der lokalen und ausländischen Investoren die notwendigen Räumlichkeiten für den Start oder Ausbau ihres Unternehmens bietet.</p><p><strong>Adresse: </strong>Old Ostmala 10, Liepaja, LV-3401, Lettland</p><p><strong>Website:</strong> <a href="">www.vobp.lv</a></p><p><strong>Telefonnummer: </strong>(+371) 25666472</p>
+<p>Der alte Ostmala Business Park ist Eigentümer, Entwickler und Manager eines Industrie-Geschäftsparks in Liepāja, der lokalen und ausländischen Investoren die notwendigen Räumlichkeiten für den Start oder Ausbau ihres Unternehmens bietet.</p><p><strong>Adresse: </strong>Old Ostmala 10, Liepāja, LV-3401, Lettland</p><p><strong>Website:</strong> <a href="">www.vobp.lv</a></p><p><strong>Telefonnummer: </strong>(+371) 25666472</p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal66" data-bs-toggle="modal" href="index.php" style="left:38.52173913043478%;top:44.50063211125158%;">
+</div><a class="map-popover" data-bs-target="#modal66" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/liepajas-sez-teritorija/index.php" style="left:38.52173913043478%;top:44.50063211125158%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel66" class="modal fade" id="modal66" tabindex="-1">
@@ -97,11 +97,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Das Parkgebiet besteht aus 28 separaten Parzellen, die mit der notwendigen technischen Kommunikation mit Unterstützung des Stadtrats von Liepaja und des Europäischen Fonds für regionale Entwicklung ausgestattet sind.</p><p><strong>Telefon:</strong> (+371) 29294267 </p><p><strong>E-Mail: </strong><a href="mailto:raivo.spaks@lsez.lv">raivo.spaks@lsez.lv</a></p><p> </p><p> </p>
+<p>Das Parkgebiet besteht aus 28 separaten Parzellen, die mit der notwendigen technischen Kommunikation mit Unterstützung des Stadtrats von Liepāja und des Europäischen Fonds für regionale Entwicklung ausgestattet sind.</p><p><strong>Telefon:</strong> (+371) 29294267 </p><p><strong>E-Mail: </strong><a href="mailto:raivo.spaks@lsez.lv">raivo.spaks@lsez.lv</a></p><p> </p><p> </p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal68" data-bs-toggle="modal" href="index.php" style="left:45.565217391304344%;top:62.7054361567636%;">
+</div><a class="map-popover" data-bs-target="#modal68" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/liepajas-sez-teritorija/index.php" style="left:45.565217391304344%;top:62.7054361567636%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel68" class="modal fade" id="modal68" tabindex="-1">
@@ -112,11 +112,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>LSEZ Ltd. ist Eigentümer, Entwickler und Manager eines Industrieparks in Liepaja. Gesamtfläche 10 ha, 31 Gebäude mit Produktions-, Lager- und Serviceräumen 37 Tausend m2. </p><p><strong>Adresse:</strong> Flotes iela 16, Liepaja, LV-3405, Lettland</p><p><strong>Website:</strong> <a href="">www.nsbp.lv</a></p><p><strong>Telefonnummer: </strong>(+371) 20240811</p>
+<p>LSEZ Ltd. ist Eigentümer, Entwickler und Manager eines Industrieparks in Liepāja. Gesamtfläche 10 ha 31 Gebäude mit Herstellung, Lager, Serviceräume 37 eine Fläche von tausenden . </p><p><strong>Adresse:</strong> Flotes iela 16, Liepāja, LV-3405, Lettland</p><p><strong>Website:</strong> <a href="">www.nsbp.lv</a></p><p><strong>Telefonnummer: </strong>(+371) 20240811</p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal69" data-bs-toggle="modal" href="index.php" style="left:57.27032686879724%;top:58.37672979119398%;">
+</div><a class="map-popover" data-bs-target="#modal69" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/liepajas-sez-teritorija/index.php" style="left:57.27032686879724%;top:58.37672979119398%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel69" class="modal fade" id="modal69" tabindex="-1">
@@ -127,11 +127,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Die Entwicklung des Industrieparks Liepaja ist eines der bedeutendsten industriellen Entwicklungsprojekte in Liepaja, die von der Special Economic Zone Authority von Liepaja durchgeführt werden.</p><p>Ziel des Projekts ist es, das Gebiet der ehemaligen Fabrik Liepaja Metalurgs (Liepāja Metalurgrs) in einen modernen und nachhaltigen Industriepark zu verwandeln, der in Sektoren tätig ist, die von der Smart Spezialisierungsstrategie (RIS3) definiert werden, indem sie das Beschäftigungswachstum fördert und damit einen hohen Mehrwert für die Stadt Liepaja und die lettische Wirtschaft insgesamt schafft.</p><p><strong>Telefon:</strong> (+371) 20501905</p><p><strong>E-Mail:</strong> <a href="mailto:laura.adamovica@lsez.lv">laura.adamovica@lsez.lv</a></p>
+<p>Die Entwicklung des Industrieparks Liepāja ist eines der bedeutendsten industriellen Entwicklungsprojekte in Liepāja, die von der Special Economic Zone Authority von Liepāja durchgeführt werden.</p><p>Ziel des Projekts ist es, das Gebiet der ehemaligen Fabrik Liepāja Metalurgs (Liepāja Metalurgrs) in einen modernen und nachhaltigen Industriepark zu verwandeln, der in Sektoren tätig ist, die von der Smart Spezialisierungsstrategie (RIS3) definiert werden, indem sie das Beschäftigungswachstum fördert und damit einen hohen Mehrwert für die Stadt Liepāja und die lettische Wirtschaft insgesamt schafft.</p><p><strong>Telefon:</strong> (+371) 20501905</p><p><strong>E-Mail:</strong> <a href="mailto:laura.adamovica@lsez.lv">laura.adamovica@lsez.lv</a></p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal102" data-bs-toggle="modal" href="index.php" style="left:43.47826086956522%;top:52.46523388116309%;">
+</div><a class="map-popover" data-bs-target="#modal102" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/liepajas-sez-teritorija/index.php" style="left:43.47826086956522%;top:52.46523388116309%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel102" class="modal fade" id="modal102" tabindex="-1">
@@ -142,11 +142,11 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>LSEZ "Lauma Fabrics" Ltd. ist ein auf die Textilproduktion spezialisiertes Unternehmen. Der größte Vorteil des Unternehmens ist die Fähigkeit, komplette Materialien in einem einzigen Farbbereich herzustellen. </p><p><strong>Adresse: </strong>Ziemeļu iela 19, Liepaja, LV-3405, Lettland</p><p><strong>Telefon: </strong>(+371) 63447302</p><p><strong>Zimmermiete: </strong>(+371) 25458807</p><p><strong>E-Mail: </strong><a href="mailto:fabrics@laumafabrics.com">fabrics@laumafabrics.com</a></p><p><strong>Website: </strong><a href="http://www.laumafabrics.com/" target="_blank">www.laumafabrics.com</a></p>
+<p>LSEZ "Lauma Fabrics" Ltd. ist ein auf die Textilproduktion spezialisiertes Unternehmen. Der größte Vorteil des Unternehmens ist die Fähigkeit, komplette Materialien in einem einzigen Farbbereich herzustellen. </p><p><strong>Adresse: </strong>Ziemeļu iela 19, Liepāja, LV-3405, Lettland</p><p><strong>Telefon: </strong>(+371) 63447302</p><p><strong>Zimmermiete: </strong>(+371) 25458807</p><p><strong>E-Mail: </strong><a href="mailto:fabrics@laumafabrics.com">fabrics@laumafabrics.com</a></p><p><strong>Website: </strong><a href="http://www.laumafabrics.com/" target="_blank">www.laumafabrics.com</a></p>
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal103" data-bs-toggle="modal" href="index.php" style="left:56.109441864699996%;top:51.592586022942974%;">
+</div><a class="map-popover" data-bs-target="#modal103" data-bs-toggle="modal" href="/site/de/teritoriju-karte/map/liepajas-sez-teritorija/index.php" style="left:56.109441864699996%;top:51.592586022942974%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel103" class="modal fade" id="modal103" tabindex="-1">
@@ -157,7 +157,7 @@ html.classList.add(localStorage['contrast']);
 <button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<p>Das Entwicklungsgebiet der Meldru Straße ist eine Alternative zu den Industriegebieten in der Stadt. Das Gebiet befindet sich in unmittelbarer Nähe der Brivibas Straße und bietet somit bequemen Zugang zu den Autobahnen A9 und Liepaja Hafen für Unternehmen, die auf dem Territorium ohne Überquerung von Wohngebieten arbeiten.</p><p>Das Gebiet besteht aus drei getrennten Parzellen, die mit Unterstützung des Stadtrats von Liepaja und des Europäischen Fonds für regionale Entwicklung mit für den Bau notwendigen technischen Kommunikationsmitteln ausgestattet sind.</p><p><strong>Telefon: </strong>(+371) 29294267 </p><p><strong>E-Mail: </strong><a href="mailto:raivo.spaks@lsez.lv" target="_blank">raivo.spaks@lsez.lv</a></p>
+<p>Das Entwicklungsgebiet der Meldru Straße ist eine Alternative zu den Industriegebieten in der Stadt. Das Gebiet befindet sich in unmittelbarer Nähe der Brivibas Straße und bietet somit bequemen Zugang zu den Autobahnen A9 und Liepāja Hafen für Unternehmen, die auf dem Territorium ohne Überquerung von Wohngebieten arbeiten.</p><p>Das Gebiet besteht aus drei getrennten Parzellen, die mit Unterstützung des Stadtrats von Liepāja und des Europäischen Fonds für regionale Entwicklung mit für den Bau notwendigen technischen Kommunikationsmitteln ausgestattet sind.</p><p><strong>Telefon: </strong>(+371) 29294267 </p><p><strong>E-Mail: </strong><a href="mailto:raivo.spaks@lsez.lv" target="_blank">raivo.spaks@lsez.lv</a></p>
 </div>
 </div>
 </div>
@@ -175,7 +175,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 paginator mt-5"><div>
 <a aria-label="Zurück" class="back map-pagination" onclick="history.back()">
 
-Rückgabe <img alt="Rückgabe" src="../../../../img/round-right-blue.svg"/>
+Zurück <img alt="Zurück" src="../../../../img/round-right-blue.svg"/>
 </a>
 </div>
 </div>
@@ -206,7 +206,7 @@ Rückgabe <img alt="Rückgabe" src="../../../../img/round-right-blue.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="/site/de/teritoriju-karte/map/liepajas-sez-teritorija/index.php"><img alt="Nach oben" class="img-fluid" src="../../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

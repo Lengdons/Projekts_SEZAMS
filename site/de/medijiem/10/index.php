@@ -41,7 +41,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="../index.php">
+<a aria-label="Bezeichnung" class="active sidebar-nav-icon" href="/site/de/medijiem/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Für die Medien
@@ -49,7 +49,7 @@ Für die Medien
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/foto/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/foto/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Fotos
@@ -57,7 +57,7 @@ Fotos
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/lv/valdes-sedes/index.php">
+<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/valdes-sedes/index.php">
 <img alt="Kategorie" src="../../../img/round-right-blue.svg"/>
 
 Vorstandssitzungen
@@ -74,15 +74,15 @@ Vorstandssitzungen
 <h2>Mitteilung über die Immobilienauktion bei Pulvera iela 29</h2>
 <span class="mb-3">01.08.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../pazinojums-par-nekustama-ipasuma-izsoli-pulvera-iela/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/pazinojums-par-nekustama-ipasuma-izsoli-pulvera-iela/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Liepaja SEZ Authority organisiert eine schriftliche Versteigerung von Mietrechten für Immobilien im Besitz der Verwaltung von Liepaja SEZ, Pulvera iela 29. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../pazinojums-par-nekustama-ipasuma-izsoli-pulvera-iela/index.php">Weiterlesen</a>
+<p>Liepāja SEZ Authority organisiert eine schriftliche Versteigerung von Mietrechten für Immobilien im Besitz der Verwaltung von Liepāja SEZ, Pulvera iela 29. </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/pazinojums-par-nekustama-ipasuma-izsoli-pulvera-iela/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/236/1754024810_original_1749026168_original_1746620912_original_1744188343_LSEZ_aero (234).webp)">
-<a aria-label="Weiterlesen" href="../pazinojums-par-nekustama-ipasuma-izsoli-pulvera-iela/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/pazinojums-par-nekustama-ipasuma-izsoli-pulvera-iela/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/236/1754024810_original_1749026168_original_1746620912_original_1744188343_LSEZ_aero (234).webp"/>
 </a>
 </div>
@@ -91,18 +91,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Die erste Auktion für den Verkauf von Industriegebäuden in Liepaja Industrial Park wurde gestartet</h2>
+<h2>Die erste Auktion für den Verkauf von Industriegebäuden in Liepāja Industrial Park wurde gestartet</h2>
 <span class="mb-3">29.07.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../izsludinata-pirma-izsole-par-industrialas-ekas-atsavinasanu-liepajas-industrialaja-parka/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/izsludinata-pirma-izsole-par-industrialas-ekas-atsavinasanu-liepajas-industrialaja-parka/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Fortsetzung des Baus des Industrieparks Liepaja auf dem Gebiet der ehemaligen Fabriken von Liepāja metalurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority die erste Immobilienauktion angekündigt. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, die die Möglichkeit bieten, Industriegebäude zu kaufen. Die Auktion findet ab 2025 statt. 29. Mai 2004 Juli bis 2025 28. Januar 2008 August.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../izsludinata-pirma-izsole-par-industrialas-ekas-atsavinasanu-liepajas-industrialaja-parka/index.php">Weiterlesen</a>
+<p>Fortsetzung des Baus des Industrieparks Liepāja im Gebiet der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepāja Special Economic Zone (Liepāja SEZ) Authority die erste Immobilienauktion angekündigt. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, die die Möglichkeit bieten, Industriegebäude zu kaufen. Auktion von 29. Juli 2025 bis 28. August 2025.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/izsludinata-pirma-izsole-par-industrialas-ekas-atsavinasanu-liepajas-industrialaja-parka/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/234/1753870540__R1A9976.webp)">
-<a aria-label="Weiterlesen" href="../izsludinata-pirma-izsole-par-industrialas-ekas-atsavinasanu-liepajas-industrialaja-parka/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/izsludinata-pirma-izsole-par-industrialas-ekas-atsavinasanu-liepajas-industrialaja-parka/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/234/1753870540__R1A9976.webp"/>
 </a>
 </div>
@@ -111,18 +111,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Baltic Ports Zusammenarbeit in der Energie- und Infrastrukturentwicklung, Liepaja SEZ Vertreter nehmen an der Sitzung in Dänemark teil</h2>
+<h2>Baltic Ports Zusammenarbeit in der Energie- und Infrastrukturentwicklung, Liepāja SEZ Vertreter nehmen an der Sitzung in Dänemark teil</h2>
 <span class="mb-3">27.06.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../baltijas-ostu-sadarbiba-energetikas-un-infrastrukturas-attistiba-liepajas-sez-parstavji-pi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/baltijas-ostu-sadarbiba-energetikas-un-infrastrukturas-attistiba-liepajas-sez-parstavji-pi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>Die neuen Technologien und Möglichkeiten für die Energieerzeugung sind für alle Länder des Ostseeraums relevant. Die Möglichkeit, die verfügbaren Finanzierungsquellen kennenzulernen und die Erfahrungen mit der Entwicklung der Hafeninfrastruktur in anderen Ländern kennen zu lernen, ist für jeden Hafen ein wesentlicher Vorteil.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../baltijas-ostu-sadarbiba-energetikas-un-infrastrukturas-attistiba-liepajas-sez-parstavji-pi/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/baltijas-ostu-sadarbiba-energetikas-un-infrastrukturas-attistiba-liepajas-sez-parstavji-pi/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/227/1751095888_1000005370.webp)">
-<a aria-label="Weiterlesen" href="../baltijas-ostu-sadarbiba-energetikas-un-infrastrukturas-attistiba-liepajas-sez-parstavji-pi/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/baltijas-ostu-sadarbiba-energetikas-un-infrastrukturas-attistiba-liepajas-sez-parstavji-pi/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/227/1751095888_1000005370.webp"/>
 </a>
 </div>
@@ -131,18 +131,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Ein Schiff, das Energie mit Windkraftanlagen produziert hat in den Hafen von Liepaja</h2>
+<h2>Ein Schiff, das Energie mit Windkraftanlagen produziert hat in den Hafen von Liepāja</h2>
 <span class="mb-3">25.06.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../liepajas-osta-ienacis-kugis-kas-razo-energiju-no-v/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/liepajas-osta-ienacis-kugis-kas-razo-energiju-no-v/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>25. Im Juni kam ein besonderes Schiff in den Hafen von Liepaja. Ein Teil der für seine Bewegung benötigten Energie kommt aus Windenergie. Vertikale Masten an der Vorderseite des Schiffes sind Windkraftanlagen, die helfen, CO2 von Motoren zu reduzieren und Kraftstoff zu sparen.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../liepajas-osta-ienacis-kugis-kas-razo-energiju-no-v/index.php">Weiterlesen</a>
+<p>25. Im Juni kam ein besonderes Schiff in den Hafen von Liepāja. Ein Teil der für seine Bewegung benötigten Energie kommt aus Windenergie. Vertikale Masten an der Vorderseite des Schiffes sind Windkraftanlagen, die helfen, von Motoren zu reduzieren und Kraftstoff zu sparen.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/liepajas-osta-ienacis-kugis-kas-razo-energiju-no-v/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/226/1751015556__R1A6685.webp)">
-<a aria-label="Weiterlesen" href="../liepajas-osta-ienacis-kugis-kas-razo-energiju-no-v/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/liepajas-osta-ienacis-kugis-kas-razo-energiju-no-v/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/226/1751015556__R1A6685.webp"/>
 </a>
 </div>
@@ -151,18 +151,18 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Neue Klärung auf der veröffentlichten Mitteilung über die schriftliche Auktion von den Rechten zu vermieten von dem Hafen von der Reinigung Ausrüstung im Besitz von Liepaja SEZ Authority</h2>
+<h2>Neue Klärung auf der veröffentlichten Mitteilung über die schriftliche Auktion von den Rechten zu vermieten von dem Hafen von der Reinigung Ausrüstung im Besitz von Liepāja SEZ Authority</h2>
 <span class="mb-3">04.06.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../jauns-precizejums-par-publiceto-pazinojumu/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/jauns-precizejums-par-publiceto-pazinojumu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Änderungen des Vertragsprojekts 2.2.20 wurden vorgenommen; 4.8; 4.8.4.; 48,6; 4.8.7, 4.8.8. Siehe Nummern 4.8.9 und 4.8.9. </p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../jauns-precizejums-par-publiceto-pazinojumu/index.php">Weiterlesen</a>
+<p>Änderungen des Vertragsprojekts des Gesetzes über die Vermietung von Reinigungsmitteln im Hafen von Liepāja wurden vorgenommen 2.2.20.; 4.8.; 4.8.4.; 4.8.6.; 4.8.7., 4.8.8. und 4.8.9.Punkte </p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/jauns-precizejums-par-publiceto-pazinojumu/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/223/1749026168_original_1746620912_original_1744188343_LSEZ_aero (234).webp)">
-<a aria-label="Weiterlesen" href="../jauns-precizejums-par-publiceto-pazinojumu/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/jauns-precizejums-par-publiceto-pazinojumu/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/223/1749026168_original_1746620912_original_1744188343_LSEZ_aero (234).webp"/>
 </a>
 </div>
@@ -174,15 +174,15 @@ Vorstandssitzungen
 <h2>Die Blaue Flagge ist seit 18 Jahren im Yachthafen aufgewachsen</h2>
 <span class="mb-3">28.05.2025.</span>
 </div>
-<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="../jahtu-osta-zilais-karogs-tiek-pacelts-jau-18-gadus/index.php">Weiterlesen</a>
+<a aria-label="Weiterlesen" class="mb-3 news_link d-none d-md-block" href="/site/de/medijiem/jahtu-osta-zilais-karogs-tiek-pacelts-jau-18-gadus/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Seit 18 Jahren wird die Blaue Flagge im Hafen von Liepaja aufgewachsen. Dies ist der einzige lettische Yachthafen, der alle Voraussetzungen für den Erhalt dieses internationalen Öko-Qualitätszertifikats erfüllt hat.</p>
-<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="../jahtu-osta-zilais-karogs-tiek-pacelts-jau-18-gadus/index.php">Weiterlesen</a>
+<p>Seit 18 Jahren wird die Blaue Flagge im Hafen von Liepāja aufgewachsen. Dies ist der einzige lettische Yachthafen, der alle Voraussetzungen für den Erhalt dieses internationalen Öko-Qualitätszertifikats erfüllt hat.</p>
+<a aria-label="Weiterlesen" class="my-3 news_link d-block d-md-none" href="/site/de/medijiem/jahtu-osta-zilais-karogs-tiek-pacelts-jau-18-gadus/index.php">Weiterlesen</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/222/1748508220__R1A4338.webp)">
-<a aria-label="Weiterlesen" href="../jahtu-osta-zilais-karogs-tiek-pacelts-jau-18-gadus/index.php">
+<a aria-label="Weiterlesen" href="/site/de/medijiem/jahtu-osta-zilais-karogs-tiek-pacelts-jau-18-gadus/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/222/1748508220__R1A4338.webp"/>
 </a>
 </div>
@@ -191,7 +191,7 @@ Vorstandssitzungen
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev" data-block="2" data-page="9" data-per-page="6" data-topic="14" href="../9/index.php">
+<a class="news-list-pagination prev" data-block="2" data-page="9" data-per-page="6" data-topic="14" href="/site/de/medijiem/9/index.php">
 <img alt="Zurück" src="../../../img/round-right.svg"/>
 
 Zurück
@@ -199,7 +199,7 @@ Zurück
 </a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="2" data-page="11" data-per-page="6" data-topic="14" href="../11/index.php">
+<a class="news-list-pagination next" data-block="2" data-page="11" data-per-page="6" data-topic="14" href="/site/de/medijiem/11/index.php">
 
 Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 </a>
@@ -244,7 +244,7 @@ Weiter <img alt="Zurück" src="../../../img/round-right.svg"/>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Nach oben" href="#"><img alt="Nach oben" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>
