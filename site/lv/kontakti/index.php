@@ -5,7 +5,7 @@
 <!-- Required meta tags -->
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
-<link href="../../favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="/site/favicon.ico" rel="icon" type="image/x-icon"/>
 <meta content="website" property="og:type"/>
 <meta content="https://liepaja-sez.lv/lv/kontakti/" property="og:url"/>
 <meta content="Sākums" property="og:title"/>
@@ -13,10 +13,10 @@
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
 <title>Sākums » SEZ</title>
-<link href="../../css/jarallax.min.css" rel="stylesheet"/>
-<link href="../../css/bootstrap.min.css" rel="stylesheet"/>
-<link href="../../css/main__40614cace7.css" rel="stylesheet"/>
-<link href="../../css/block/text/main__f67bbdbffc.css" rel="stylesheet" type="text/css"/><link href="../../css/block/contacts/main__1d365e2dc4.css" rel="stylesheet" type="text/css"/><link href="../../css/block/contactform/main__1d365e2dc4.css" rel="stylesheet" type="text/css"/> <link href="../../cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
+<link href="/site/css/jarallax.min.css" rel="stylesheet"/>
+<link href="/site/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="/site/css/main__40614cace7.css" rel="stylesheet"/>
+<link href="/site/css/block/text/main__f67bbdbffc.css" rel="stylesheet" type="text/css"/><link href="/site/css/block/contacts/main__1d365e2dc4.css" rel="stylesheet" type="text/css"/><link href="/site/css/block/contactform/main__1d365e2dc4.css" rel="stylesheet" type="text/css"/> <link href="/site/cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
 <script>
 
 const html = document.querySelector("html");
@@ -47,80 +47,80 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-md-3 sidebar-nav">
 <div class="row">
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Vadība" class="d-flex align-items-center units current sidebar-nav-icon" data-block="49" data-id="10" href="index.php">
-<img alt="Vadība" src="../../img/round-right-blue.svg"/>
+<a aria-label="Vadība" class="d-flex align-items-center current sidebar-nav-icon" href="/site/lv/kontakti/vadiba/index.php">
+<img alt="Vadība" src="/site/img/round-right-blue.svg"/>
 
 Vadība
 
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Pārvaldnieka birojs" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="22" href="index.php">
-<img alt="Pārvaldnieka birojs" src="../../img/round-right-blue.svg"/>
+<a aria-label="Pārvaldnieka birojs" class="d-flex align-items-center sidebar-nav-icon" href="/site/lv/kontakti/parvaldnieka-birojs/index.php">
+<img alt="Pārvaldnieka birojs" src="/site/img/round-right-blue.svg"/>
 
 Pārvaldnieka birojs
 
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Biznesa attīstības departaments" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="15" href="index.php">
-<img alt="Biznesa attīstības departaments" src="../../img/round-right-blue.svg"/>
+<a aria-label="Biznesa attīstības departaments" class="d-flex align-items-center sidebar-nav-icon" href="/site/lv/kontakti/biznesa-attistibas-departaments/index.php">
+<img alt="Biznesa attīstības departaments" src="/site/img/round-right-blue.svg"/>
 
 Biznesa attīstības departaments
 
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Ostas kapteiņa dienests" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="21" href="index.php">
-<img alt="Ostas kapteiņa dienests" src="../../img/round-right-blue.svg"/>
+<a aria-label="Ostas kapteiņa dienests" class="d-flex align-items-center sidebar-nav-icon" href="/site/lv/kontakti/ostas-kapteina-dienests/index.php">
+<img alt="Ostas kapteiņa dienests" src="/site/img/round-right-blue.svg"/>
 
 Ostas kapteiņa dienests
 
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Infrastruktūras departaments" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="17" href="index.php">
-<img alt="Infrastruktūras departaments" src="../../img/round-right-blue.svg"/>
+<a aria-label="Infrastruktūras departaments" class="d-flex align-items-center sidebar-nav-icon" href="/site/lv/kontakti/infrastrukturas-departaments/index.php">
+<img alt="Infrastruktūras departaments" src="/site/img/round-right-blue.svg"/>
 
 Infrastruktūras departaments
 
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Juridiski administratīvais departaments" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="11" href="index.php">
-<img alt="Juridiski administratīvais departaments" src="../../img/round-right-blue.svg"/>
+<a aria-label="Juridiski administratīvais departaments" class="d-flex align-items-center sidebar-nav-icon" href="/site/lv/kontakti/juridiski-administrativais-departaments/index.php">
+<img alt="Juridiski administratīvais departaments" src="/site/img/round-right-blue.svg"/>
 
 Juridiski administratīvais departaments
 
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Finanšu departaments" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="12" href="index.php">
-<img alt="Finanšu departaments" src="../../img/round-right-blue.svg"/>
+<a aria-label="Finanšu departaments" class="d-flex align-items-center sidebar-nav-icon" href="/site/lv/kontakti/finansu-departaments/index.php">
+<img alt="Finanšu departaments" src="/site/img/round-right-blue.svg"/>
 
 Finanšu departaments
 
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Personāla vadības departaments" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="24" href="index.php">
-<img alt="Personāla vadības departaments" src="../../img/round-right-blue.svg"/>
+<a aria-label="Personāla vadības departaments" class="d-flex align-items-center sidebar-nav-icon" href="/site/lv/kontakti/personala-vadibas-departaments/index.php">
+<img alt="Personāla vadības departaments" src="/site/img/round-right-blue.svg"/>
 
 Personāla vadības departaments
 
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Drošības, aizsardzības un vides daļa" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="25" href="index.php">
-<img alt="Drošības, aizsardzības un vides daļa" src="../../img/round-right-blue.svg"/>
+<a aria-label="Drošības, aizsardzības un vides daļa" class="d-flex align-items-center sidebar-nav-icon" href="/site/lv/kontakti/drosibas-aizsardzibas-un-vides-dala/index.php">
+<img alt="Drošības, aizsardzības un vides daļa" src="/site/img/round-right-blue.svg"/>
 
 Drošības, aizsardzības un vides daļa
 
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Iekšējā audita daļa" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="26" href="index.php">
-<img alt="Iekšējā audita daļa" src="../../img/round-right-blue.svg"/>
+<a aria-label="Iekšējā audita daļa" class="d-flex align-items-center sidebar-nav-icon" href="/site/lv/kontakti/iekseja-audita-dala/index.php">
+<img alt="Iekšējā audita daļa" src="/site/img/round-right-blue.svg"/>
 
 Iekšējā audita daļa
 
@@ -130,21 +130,20 @@ Iekšējā audita daļa
 </div>
 <div class="col-12 col-md-9 main-content">
 <div class="row cards contacts-div">
-<div class="col-6 col-md-4 contact mb-5">
-<img alt="Uldis Hmieļevskis" class="img-fluid mb-2" src="../../img/block/contacts/8/1743499565_3000-550wb.webp"/>
-<p class="name">Uldis Hmieļevskis</p>
-<p class="job">Pārvaldnieks</p>
-<p class="notes mt-1"></p>
-<br/><span>Tālr.: <a aria-label="(+371) 29440526" href="tel:(+371) 29440526" target="_blank">(+371) 29440526</a></span><span>E-pasts: <a aria-label=" uldis.hmielevskis@lsez.lv" href="mailto: uldis.hmielevskis@lsez.lv" target="_blank"> uldis.hmielevskis@lsez.lv</a></span>
-</div>
-<div class="col-6 col-md-4 contact mb-5">
-<img alt="Elans Strazdiņš" class="img-fluid mb-2" src="../../img/block/contacts/28/1743499953_3000-a550-wb.webp"/>
-<p class="name">Elans Strazdiņš</p>
-<p class="job">Pārvaldnieka vietnieks</p>
-<p class="notes mt-1"></p>
-<br/><span>Tālr.: <a aria-label="(+371) 29256364" href="tel:(+371) 29256364" target="_blank">(+371) 29256364</a></span><span>E-pasts: <a aria-label="elans.strazdins@lsez.lv" href="mailto:elans.strazdins@lsez.lv" target="_blank">elans.strazdins@lsez.lv</a></span>
-</div>
-</div>
+				<div class="col-6 col-md-4 contact mb-5">
+					<img src="/site/img/block/contacts/8/1743499565_3000-550wb.webp" alt="Uldis Hmieļevskis" class="img-fluid mb-2"/>
+					<p class="name">Uldis Hmieļevskis</p>
+					<p class="job">Pārvaldnieks</p>
+					<p class="notes mt-1"></p>
+					<br><span>Tālr.: <a href="tel:(+371) 29440526" target="_blank" aria-label="(+371) 29440526">(+371) 29440526</a></span><span>E-pasts: <a href="mailto: uldis.hmielevskis@lsez.lv" target="_blank" aria-label=" uldis.hmielevskis@lsez.lv"> uldis.hmielevskis@lsez.lv</a></span>
+				</div>
+				<div class="col-6 col-md-4 contact mb-5">
+					<img src="/site/img/block/contacts/28/1743499953_3000-a550-wb.webp" alt="Elans Strazdiņš" class="img-fluid mb-2"/>
+					<p class="name">Elans Strazdiņš</p>
+					<p class="job">Pārvaldnieka vietnieks</p>
+					<p class="notes mt-1"></p>
+					<br><span>Tālr.: <a href="tel:(+371) 29256364" target="_blank" aria-label="(+371) 29256364">(+371) 29256364</a></span><span>E-pasts: <a href="mailto:elans.strazdins@lsez.lv" target="_blank" aria-label="elans.strazdins@lsez.lv">elans.strazdins@lsez.lv</a></span>
+				</div></div>
 </div>
 </div>
 </div>
@@ -231,39 +230,39 @@ confirmButtonText: 'Labi'
 </div>
 </div>
 </div>
-<img alt="Background image" class="background" src="../../img/bg2.svg"/>
+<img alt="Background image" class="background" src="/site/img/bg2.svg"/>
 </main>
 <footer class="footer">
 <div class="container py-5">
 <div class="row">
 <div class="col-12 col-md-4 col-lg-2 footer-logo">
-<img alt="logo" class="img-fluid" src="../../img/logo-white.svg" width="100"/>
+<img alt="logo" class="img-fluid" src="/site/img/logo-white.svg" width="100"/>
 </div>
 <div class="col-12 col-md-8 col-lg-5 mb-3 reqs">
 <p>Liepājas speciālās ekonomiskās zonas pārvalde<br/>Fēniksa iela 4, Liepāja,<br/>LV-3401, Latvija<br/><br/>Tālrunis: <a href="tel:+37163427605">+371 63427605</a><br/>E-pasts: <a href="mailto:lsez@lsez.lv">lsez@lsez.lv</a></p> </div>
 <div class="col-12 col-md-4 col-lg-4">
 <div class="row pt-3k">
 <div class="col socials d-flex justify-content-start">
-<a aria-label="Facebook" href="https://www.facebook.com/LiepajasSEZ" target="_blank"><img alt="Facebook" class="img-fluid" src="../../img/FB.svg"/></a>
-<a aria-label="Twitter" href="https://twitter.com/liepajaSEZ" target="_blank"><img alt="Twitter" class="img-fluid" src="../../img/TW.svg"/></a>
-<a aria-label="Instagram" href="https://www.instagram.com/liepajasez" target="_blank"><img alt="Instagram" class="img-fluid" src="../../img/IG.svg"/></a>
-<a aria-label="Youtube" href="https://www.youtube.com/channel/UCjBSQK6pZ5tQGpRabmlLwxQ" target="_blank"><img alt="Youtube" class="img-fluid" src="../../img/YT.svg"/></a>
-<a alt="Linkedin" href="https://www.linkedin.com/company/liepaja-special-economic-zone/" target="_blank"><img aria-label="Linkedin" class="img-fluid" src="../../img/IN.svg"/></a>
-<a alt="Linkedin" href="https://www.flickr.com/photos/liepajasez/albums/" target="_blank"><img aria-label="Flickr" class="img-fluid" src="../../img/flickr.svg"/></a>
+<a aria-label="Facebook" href="https://www.facebook.com/LiepajasSEZ" target="_blank"><img alt="Facebook" class="img-fluid" src="/site/img/FB.svg"/></a>
+<a aria-label="Twitter" href="https://twitter.com/liepajaSEZ" target="_blank"><img alt="Twitter" class="img-fluid" src="/site/img/TW.svg"/></a>
+<a aria-label="Instagram" href="https://www.instagram.com/liepajasez" target="_blank"><img alt="Instagram" class="img-fluid" src="/site/img/IG.svg"/></a>
+<a aria-label="Youtube" href="https://www.youtube.com/channel/UCjBSQK6pZ5tQGpRabmlLwxQ" target="_blank"><img alt="Youtube" class="img-fluid" src="/site/img/YT.svg"/></a>
+<a alt="Linkedin" href="https://www.linkedin.com/company/liepaja-special-economic-zone/" target="_blank"><img aria-label="Linkedin" class="img-fluid" src="/site/img/IN.svg"/></a>
+<a alt="Linkedin" href="https://www.flickr.com/photos/liepajasez/albums/" target="_blank"><img aria-label="Flickr" class="img-fluid" src="/site/img/flickr.svg"/></a>
 </div>
 </div>
 </div>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Scroll up" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Scroll up" href="index.php"><img alt="scroll-up" class="img-fluid" src="/site/img/round-right.svg"/></a>
 </div>
 </div>
 </div>
 </div>
 </div>
 <div id="sticky-cookie" style="align-items: center; justify-content: center;">
-<img alt="cookie" src="../../img/cc__3df23cc431.svg" width="24"/>
+<img alt="cookie" src="/site/img/cc__3df23cc431.svg" width="24"/>
 </div>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-6QTXK76SH0"></script>
@@ -280,14 +279,14 @@ gtag('js', new Date());
 gtag('config', 'G-6QTXK76SH0');
 
 </script>
-<script crossorigin="anonymous" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" src="https://code.jquery.com/jquery-3.7.0.min.js">
+<script crossorigin="anonymous" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
 
 <script src="https://code.jquery.com/color/jquery.color.plus-names-2.1.2.min.js"></script>
-<script src="../../js/jarallax.min__cc5fd325af.js"></script>
-<script src="../../js/bootstrap.bundle.min.js"></script>
-<script src="../../js/main__7152e3fda1.js"></script>
-<script src="../../js/block/useful/main__1d365e2dc4.js"></script><script src="../../js/block/contacts/main__f67bbdbffc.js"></script><script src="../../js/block/contactform/parsley.min.js"></script><script src="../../js/block/contactform/sweetalert.all.min.js"></script><script src="../../js/block/contactform/main.js"></script> <script defer="" src="../../cc/src/cookieconsent.js"></script>
-<script defer="" src="../../cc/demo/app2__251c29cb24.js"></script>
+<script src="/site/js/jarallax.min__cc5fd325af.js"></script>
+<script src="/site/js/bootstrap.bundle.min.js"></script>
+<script src="/site/js/main__7152e3fda1.js"></script>
+<script src="/site/js/block/useful/main__1d365e2dc4.js"></script><script src="/site/js/block/contactform/parsley.min.js"></script><script src="/site/js/block/contactform/sweetalert.all.min.js"></script><script src="/site/js/block/contactform/main.js"></script> <script defer="" src="/site/cc/src/cookieconsent.js"></script>
+<script defer="" src="/site/cc/demo/app2__251c29cb24.js"></script>
 </footer>
 </body>
 </html>
