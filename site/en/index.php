@@ -32,205 +32,7 @@
 <script>var lang="en";</script>
 </head>
 <body>
-<div class="block" id="search-overlay">
-<div class="centered">
-<div id="search-box">
-<div class="fa fa-times fa-2x" id="close-btn">X</div>
-<form action="#" id="search-form" method="get" target="_top">
-<input id="search-text" name="q" placeholder="I'm searching for..." type="text"/>
-<button id="search-button" type="submit">
-<span>Search</span>
-</button>
-</form>
-</div>
-</div>
-</div>
-<nav class="navbar navbar-expand-lg navbar-light bg-light b-2 fixed-top color-border">
-<div class="container align-items-end position-relative nav-container">
-<ul class="controls d-none d-lg-block">
-<li class="search-controls search-btn" id=""><i class="bi bi-search"></i></li>
-<li class="dropdown font-controls">
-<a aria-expanded="false" aria-label="Font size" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="index.php" id="font-controls1">
-<span>A</span>
-<span>A</span>
-<span>A</span>
-</a>
-<ul aria-labelledby="font-controls1" class="dropdown-menu text-center font-size">
-<li><a class="dropdown-item" data-size="14" href="index.php">75%</a></li>
-<li><a class="dropdown-item active" data-size="15" href="index.php">100%</a></li>
-<li><a class="dropdown-item" data-size="16.5" href="index.php">125%</a></li>
-<li><a class="dropdown-item" data-size="17.5" href="index.php">150%</a></li>
-</ul>
-</li>
-<li class="dropdown contrast-controls nocontrast">
-<a aria-expanded="false" aria-label="Contrast" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="index.php" id="contrast-controls1">
-<i class="bi bi-circle-half"></i>
-</a>
-<ul aria-labelledby="contrast-controls1" class="dropdown-menu">
-<li><a class="control dropdown-item contrast-default active" data-class="blue" href="index.php"><i>A</i></a></li>
-<li><a class="control dropdown-item contrast1" data-class="black" href="index.php"><i>A</i></a></li>
-<li><a class="control dropdown-item contrast2" data-class="yellow2" href="index.php"><i>A</i></a></li>
-<li><a class="control dropdown-item contrast3" data-class="yellow" href="index.php"><i>A</i></a></li>
-</ul>
-</li>
-<li class="dropdown language-controls">
-<a aria-expanded="false" aria-label="Select language" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="" id="language-controls1">
-
-										en
-
-									</a><ul aria-labelledby="language-controls1" class="dropdown-menu text-center"><li><a class="dropdown-item" href="../index.php">lv</a></li></ul> </li>
-</ul>
-<div class="brand-container">
-<a class="navbar-brand" href="index.php">
-<img alt="logo" class="site-logo" src="../img/logo.svg" width="100"/>
-</a>
-</div>
-<div class="mobile-controls">
-<ul class="controls mobile d-flex d-lg-none">
-<li class="search-controls search-btn" id=""><i class="bi bi-search"></i></li>
-<li class="dropdown language-controls">
-<a aria-expanded="false" aria-label="Select language" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="" id="language-controls2">
-
-											en
-
-										</a><ul aria-labelledby="language-controls2" class="dropdown-menu text-center"><li><a class="dropdown-item" href="../index.php">lv</a></li></ul> </li>
-</ul>
-<button aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler nocontrast" data-bs-target="#navbar" data-bs-toggle="collapse" type="button">
-<span class="navbar-toggler-icon"></span>
-</button>
-</div>
-<div class="collapse navbar-collapse" id="navbar">
-<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-<li class="nav-item">
-<a class="nav-link active" href="index.php">Home</a>
-</li><li class="nav-item dropdown">
-<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="liepaja-sez/index.php" role="button">
-
-									Liepaja SEZ
-
-								</a><ul aria-labelledby="navbar" class="dropdown-menu">
-<li>
-<a class="dropdown-item" href="invest-in-liepaja/index.php">Invest in Liepaja</a>
-</li>
-<li class="dropend">
-<a class="dropdown-item dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="port/index.php">
-
-									Port
-
-								</a>
-<ul class="dropdown-menu">
-<li>
-<a class="dropdown-item" href="about-port/index.php">About Port</a>
-</li>
-<li>
-<a class="dropdown-item" href="ferry-traffic/index.php">Ferry traffic</a>
-</li>
-<li>
-<a class="dropdown-item" href="cruise-ships/index.php">Cruising</a>
-</li>
-<li>
-<a class="dropdown-item" href="liepaja-marina/index.php">Liepaja Marina</a>
-</li>
-<li>
-<a class="dropdown-item" href="oskars-kalpaks-bridge/index.php">Oskars Kalpaks bridge</a>
-</li>
-</ul>
-</li>
-<li>
-<a class="dropdown-item" href="lsez-commercial-companies/index.php">Commercial Companies</a>
-</li>
-<li>
-<a class="dropdown-item" href="development-projects/index.php">Development projects</a>
-</li>
-<li>
-<a class="dropdown-item" href="job-vacancies/index.php">Job vacancies</a>
-</li>
-<li>
-<a class="dropdown-item" href="map-of-territories/index.php">Map of territories</a>
-</li>
-</ul></li><li class="nav-item dropdown">
-<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="authority/index.php" role="button">
-
-									Authority
-
-								</a><ul aria-labelledby="navbar" class="dropdown-menu">
-<li>
-<a class="dropdown-item" href="governance/index.php">Governance</a>
-</li>
-<li>
-<a class="dropdown-item" href="corporate-governance/index.php">Corporate governance</a>
-</li>
-<li>
-<a class="dropdown-item" href="public-procurement/index.php">Procurement and auctions</a>
-</li>
-<li class="dropend">
-<a class="dropdown-item dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="activity-reports/index.php">
-
-									Activity reports
-
-								</a>
-<ul class="dropdown-menu">
-<li>
-<a class="dropdown-item" href="board-meeting-decisions/index.php">Board meeting decisions</a>
-</li>
-<li>
-<a class="dropdown-item" href="activity-reports-1/index.php">Activity reports</a>
-</li>
-<li>
-<a class="dropdown-item" href="port-statistics/index.php">Port statistics</a>
-</li>
-</ul>
-</li></ul></li><li class="nav-item dropdown">
-<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="news-1/index.php" role="button">
-
-									News
-
-								</a><ul aria-labelledby="navbar" class="dropdown-menu">
-<li>
-<a class="dropdown-item" href="news/index.php">Press releases</a>
-</li>
-<li>
-<a class="dropdown-item" href="photos/index.php">Photos</a>
-</li>
-<li>
-<a class="dropdown-item" href="board-meetings/index.php">Board Meetings</a>
-</li>
-</ul></li>
-<li class="nav-item">
-<a class="nav-link" href="documents/index.php">Documents</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="contacts/index.php">Contacts</a>
-</li>
-<hr class="dropdown-divider d-block d-lg-none"/>
-<li class="dropdown font-controls mobile d-flex d-lg-none">
-<a aria-expanded="false" aria-label="Font size" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="index.php" id="font-controls2">
-<span>A</span>
-<span>A</span>
-<span>A</span>
-</a>
-<ul aria-labelledby="font-controls2" class="text-center font-size">
-<li><a class="" data-size="14" href="index.php">75%</a></li>
-<li><a class="active" data-size="15" href="index.php">100%</a></li>
-<li><a class="" data-size="16.5" href="index.php">125%</a></li>
-<li><a class="" data-size="17.5" href="index.php">150%</a></li>
-</ul>
-</li>
-<li class="dropdown contrast-controls mobile d-flex d-lg-none">
-<a aria-expanded="false" aria-label="Contrast" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="index.php" id="contrast-controls2">
-<i class="bi bi-circle-half"></i>
-</a>
-<ul aria-labelledby="contrast-controls2" class="">
-<li><a class="control contrast-default active" data-class="blue" href="index.php"><i>A</i></a></li>
-<li><a class="control contrast1" data-class="black" href="index.php"><i>A</i></a></li>
-<li><a class="control contrast2" data-class="yellow2" href="index.php"><i>A</i></a></li>
-<li><a class="control contrast3" data-class="yellow" href="index.php"><i>A</i></a></li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-</nav>
+<?php include __DIR__ . '/ennavbar.php'; ?>
 <div class="spacer"></div>
 <main class="pb-5">
 <div class="nocontrast glide z mb-5">
@@ -250,7 +52,7 @@
 <li class="glide__slide jarallax-banner d-flex" style='background-image:url("https://liepaja-sez.lv/img/block/banner/25/1695811369_HEADER_HD_razoshana.webp")'>
 <span class="filler"></span>
 <div class="container d-flex z-2">
-<div class="content"><h5 class="animate__animated animate__fadeInUp">Liepaja Special Economic Zone</h5><p class="animate__animated animate__fadeInUp">Invest in Liepaja</p><a aria-label="Find out more" class="animate__animated animate__fadeInUp" href="invest-in-liepaja/index.php" target="">Find out more</a>
+<div class="content"><h5 class="animate__animated animate__fadeInUp">Liepaja Special Economic Zone</h5><p class="animate__animated animate__fadeInUp">Invest in Liepaja</p><a aria-label="Find out more" class="animate__animated animate__fadeInUp" href="/site/en/investe-liepaja/index.php" target="">Find out more</a>
 </div>
 </div>
 </li>
@@ -434,7 +236,7 @@ development of the city and the region, attracting new entrepreneurs, and suppor
 
 expansion of existing companies, creating new jobs with competitive salaries, increasing
 
-GDP and the amount of taxes paid.</p><a aria-label="Find out more" href="invest-in-liepaja/index.php" target="">Find out more</a>
+GDP and the amount of taxes paid.</p><a aria-label="Find out more" href="/site/en/investe-liepaja/index.php" target="">Find out more</a>
 </div>
 </div>
 </div>
@@ -450,7 +252,7 @@ world. The Port of Liepaja brings the essence and character of the city. Liepaja
 
 that have their own ports, think and live more broadly. The Port of Liepaja has a favorable
 
-geographical location between east and west.</p><a aria-label="Find out more" href="about-port/index.php" target="">Find out more</a>
+geographical location between east and west.</p><a aria-label="Find out more" href="/site/en/par-ostu/index.php" target="">Find out more</a>
 </div>
 </div>
 </div>
@@ -464,7 +266,7 @@ geographical location between east and west.</p><a aria-label="Find out more" hr
 
 and develops projects to promote establishment of new companies based on the basic
 
-principles of circular economy and technological growth.</p><a aria-label="Find out more" href="../en/development-projects/index.php" target="">Find out more</a>
+principles of circular economy and technological growth.</p><a aria-label="Find out more" href="/site/en/attistibas-projekti/index.php" target="">Find out more</a>
 </div>
 </div>
 </div>
@@ -482,7 +284,7 @@ city center, which allows tourists to easily enjoy the city's attractions. The c
 
 Rose Square and the Tourist Information Center are within a five-minute walking distance,
 
-and the beach itself is within a fifteen minute-walk.</p><a aria-label="Find out more" href="liepaja-marina/index.php" target="">Find out more</a>
+and the beach itself is within a fifteen minute-walk.</p><a aria-label="Find out more" href="/site/en/jahtu-osta/index.php" target="">Find out more</a>
 </div>
 </div>
 </div>
@@ -512,7 +314,7 @@ Karosta Canal is a busy shipping route, so the bridge is opened for ship traffic
 
 day. In order to find out whether Oskars Kalpaks Bridge is open, a webcam has been
 
-installed.</p><a aria-label="Find out more" href="oskars-kalpaks-bridge/index.php" target="">Find out more</a>
+installed.</p><a aria-label="Find out more" href="/site/en/oskara-kalpaka-tilts/index.php" target="">Find out more</a>
 </div>
 </div>
 </div>
@@ -530,33 +332,33 @@ installed.</p><a aria-label="Find out more" href="oskars-kalpaks-bridge/index.ph
 <div class="row">
 <div class="col-12 col-md-6 col-lg-4 news-single">
 <div>
-<a aria-label="Read more" href="home/the-kalpak-bridge-will-be-closed-to-traffic-for-three-days-as-part-of-an-international-film-project/index.php">
+<a aria-label="Read more" href="/site/en/sakums/the-kalpak-bridge-will-be-closed-to-traffic-for-three-days-as-part-of-an-international-film-project/index.php">
 <img alt="" class="img-fluid mb-2" src="../img/mod/news/326/1792137601_75_10.16.2026._kino_kalpaka_tilts.webp"/>
 </a>
 <span class="mb-1">16.10.2026.</span>
 <h3> O. Kalpakas Bridge will be closed to traffic for three days as part of an international film project
 </h3></div>
-<a aria-label="Read more" class="news_link mb-5" href="home/the-kalpak-bridge-will-be-closed-to-traffic-for-three-days-as-part-of-an-international-film-project/index.php">Read more</a>
+<a aria-label="Read more" class="news_link mb-5" href="/site/en/sakums/the-kalpak-bridge-will-be-closed-to-traffic-for-three-days-as-part-of-an-international-film-project/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-6 col-lg-4 news-single">
 <div>
-<a aria-label="Read more" href="home/auction-announced-for-property-at-eksporta-street-3-in-the-liepaja-industrial-park/index.php">
+<a aria-label="Read more" href="/site/en/sakums/auction-announced-for-property-at-eksporta-street-3-in-the-liepaja-industrial-park/index.php">
 <img alt="" class="img-fluid mb-2" src="../img/mod/news/324/1791277284_72_10.06.2026._LIP_izsole_Eksporta_iela.webp"/>
 </a>
 <span class="mb-1">06.10.2026.</span>
 <h3>Auction Announced for Property at Eksporta Street 3 in the Liepaja Industrial Park
 </h3></div>
-<a aria-label="Read more" class="news_link mb-5" href="home/auction-announced-for-property-at-eksporta-street-3-in-the-liepaja-industrial-park/index.php">Read more</a>
+<a aria-label="Read more" class="news_link mb-5" href="/site/en/sakums/auction-announced-for-property-at-eksporta-street-3-in-the-liepaja-industrial-park/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-6 col-lg-4 news-single">
 <div>
-<a aria-label="Read more" href="home/liepaja-industrial-park-development-continues-with-site-remediation/index.php">
+<a aria-label="Read more" href="/site/en/sakums/liepaja-industrial-park-development-continues-with-site-remediation/index.php">
 <img alt="" class="img-fluid mb-2" src="../img/mod/news/322/1790685711_I40A6032.webp"/>
 </a>
 <span class="mb-1">29.09.2026.</span>
 <h3>Liepaja Industrial Park Development Continues with Site Remediation
 </h3></div>
-<a aria-label="Read more" class="news_link mb-5" href="home/liepaja-industrial-park-development-continues-with-site-remediation/index.php">Read more</a>
+<a aria-label="Read more" class="news_link mb-5" href="/site/en/sakums/liepaja-industrial-park-development-continues-with-site-remediation/index.php">Read more</a>
 </div>
 </div>
 </div>
@@ -566,33 +368,33 @@ installed.</p><a aria-label="Find out more" href="oskars-kalpaks-bridge/index.ph
 <div class="row">
 <div class="col-12 col-md-6 col-lg-4 news-single">
 <div>
-<a aria-label="Read more" href="home/decisions-of-the-liepaja-sez-board-of-25-september/index.php">
+<a aria-label="Read more" href="/site/en/sakums/decisions-of-the-liepaja-sez-board-of-25-september/index.php">
 <img alt="" class="img-fluid mb-2" src="../img/mod/news/323/1790837289_70_09.28.2026._Brimer_vizualizacija.webp"/>
 </a>
 <span class="mb-1">28.09.2026.</span>
 <h3>Decisions of the Liepaja SEZ Board of 25 September
 </h3></div>
-<a aria-label="Read more" class="news_link mb-5" href="home/decisions-of-the-liepaja-sez-board-of-25-september/index.php">Read more</a>
+<a aria-label="Read more" class="news_link mb-5" href="/site/en/sakums/decisions-of-the-liepaja-sez-board-of-25-september/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-6 col-lg-4 news-single">
 <div>
-<a aria-label="Read more" href="home/liepaja-industrial-park-named-among-the-worlds-top-10-most-attractive-industrial-and-logis/index.php">
+<a aria-label="Read more" href="/site/en/sakums/liepaja-industrial-park-named-among-the-worlds-top-10-most-attractive-industrial-and-logis/index.php">
 <img alt="" class="img-fluid mb-2" src="../img/mod/news/319/1790069221_66_09.21.2026._LIP.webp"/>
 </a>
 <span class="mb-1">21.09.2026.</span>
 <h3>Liepaja Industrial Park Named Among the World’s Top 10 Most Attractive Industrial and Logistics Investment Projects
 </h3></div>
-<a aria-label="Read more" class="news_link mb-5" href="home/liepaja-industrial-park-named-among-the-worlds-top-10-most-attractive-industrial-and-logis/index.php">Read more</a>
+<a aria-label="Read more" class="news_link mb-5" href="/site/en/sakums/liepaja-industrial-park-named-among-the-worlds-top-10-most-attractive-industrial-and-logis/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-6 col-lg-4 news-single">
 <div>
-<a aria-label="Read more" href="home/grain-season-gets-off-to-a-slower-start-at-the-port-of-liepaja-this-year/index.php">
+<a aria-label="Read more" href="/site/en/sakums/grain-season-gets-off-to-a-slower-start-at-the-port-of-liepaja-this-year/index.php">
 <img alt="" class="img-fluid mb-2" src="../img/mod/news/317/1788948830_63_09.08.2026._1_LBT.webp"/>
 </a>
 <span class="mb-1">09.09.2026.</span>
 <h3>Grain season gets off to a slower start at the Port of Liepaja this year
 </h3></div>
-<a aria-label="Read more" class="news_link mb-5" href="home/grain-season-gets-off-to-a-slower-start-at-the-port-of-liepaja-this-year/index.php">Read more</a>
+<a aria-label="Read more" class="news_link mb-5" href="/site/en/sakums/grain-season-gets-off-to-a-slower-start-at-the-port-of-liepaja-this-year/index.php">Read more</a>
 </div>
 </div>
 </div>
@@ -602,33 +404,33 @@ installed.</p><a aria-label="Find out more" href="oskars-kalpaks-bridge/index.ph
 <div class="row">
 <div class="col-12 col-md-6 col-lg-4 news-single">
 <div>
-<a aria-label="Read more" href="home/port-services-in-the-port-of-liepaja-become-more-accessible/index.php">
+<a aria-label="Read more" href="/site/en/sakums/port-services-in-the-port-of-liepaja-become-more-accessible/index.php">
 <img alt="" class="img-fluid mb-2" src="../img/mod/news/316/1788941725_S9209229.webp"/>
 </a>
 <span class="mb-1">04.09.2026.</span>
 <h3>Port Services in the Port of Liepaja Become More Accessible
 </h3></div>
-<a aria-label="Read more" class="news_link mb-5" href="home/port-services-in-the-port-of-liepaja-become-more-accessible/index.php">Read more</a>
+<a aria-label="Read more" class="news_link mb-5" href="/site/en/sakums/port-services-in-the-port-of-liepaja-become-more-accessible/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-6 col-lg-4 news-single">
 <div>
-<a aria-label="Read more" href="home/seven-cruise-ships-4276-visitors-and-growing-demand-liepaja-strengthens-its-position-on-th/index.php">
+<a aria-label="Read more" href="/site/en/sakums/seven-cruise-ships-4276-visitors-and-growing-demand-liepaja-strengthens-its-position-on-th/index.php">
 <img alt="" class="img-fluid mb-2" src="../img/mod/news/315/1788766639_62_09.04.2026._kruīza kugis_3.1.webp"/>
 </a>
 <span class="mb-1">04.09.2026.</span>
 <h3>Seven Cruise Ships, 4,276 Visitors and Growing Demand: Liepaja Strengthens Its Position on the Baltic Cruise Map
 </h3></div>
-<a aria-label="Read more" class="news_link mb-5" href="home/seven-cruise-ships-4276-visitors-and-growing-demand-liepaja-strengthens-its-position-on-th/index.php">Read more</a>
+<a aria-label="Read more" class="news_link mb-5" href="/site/en/sakums/seven-cruise-ships-4276-visitors-and-growing-demand-liepaja-strengthens-its-position-on-th/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-6 col-lg-4 news-single">
 <div>
-<a aria-label="Read more" href="home/port-of-liepaja-continues-handling-grain-grown-by-latvian-farmers/index.php">
+<a aria-label="Read more" href="/site/en/sakums/port-of-liepaja-continues-handling-grain-grown-by-latvian-farmers/index.php">
 <img alt="" class="img-fluid mb-2" src="../img/mod/news/311/1788428596_61_09.02.2026._LBT.webp"/>
 </a>
 <span class="mb-1">02.09.2026.</span>
 <h3>Port of Liepaja Continues Handling Grain Grown by Latvian Farmers
 </h3></div>
-<a aria-label="Read more" class="news_link mb-5" href="home/port-of-liepaja-continues-handling-grain-grown-by-latvian-farmers/index.php">Read more</a>
+<a aria-label="Read more" class="news_link mb-5" href="/site/en/sakums/port-of-liepaja-continues-handling-grain-grown-by-latvian-farmers/index.php">Read more</a>
 </div>
 </div>
 </div>
@@ -640,7 +442,7 @@ installed.</p><a aria-label="Find out more" href="oskars-kalpaks-bridge/index.ph
 <div class="carousel slide newsMagnetCarousel nocontrast" data-bs-interval="9999999" data-bs-ride="carousel" data-bs-touch="true" id="newsMagnetCarousel69">
 <div class="carousel-inner">
 <div class="carousel-item active" style="background-color:#04103e;">
-<a href="board-meeting-decisions/index.php" target="">
+<a href="/site/en/valdes-sedes-lemumi/index.php" target="">
 <div class="carousel-caption"><img alt="Icon" class="img-fluid icon mb-4" src="../img/mod/magnet/35/1709199402_VALDEs_seede.svg"/>
 <h4>Board meeting</h4>
 <p>Deadline for the submission of documents for consideration at a meeting of the Liepāja SEZ Board</p>
@@ -678,7 +480,7 @@ installed.</p><a aria-label="Find out more" href="oskars-kalpaks-bridge/index.ph
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Scroll up" href="index.php"><img alt="scroll-up" class="img-fluid" src="../img/round-right.svg"/></a>
+<a aria-label="Scroll up" href="/site/en/index.php"><img alt="scroll-up" class="img-fluid" src="../img/round-right.svg"/></a>
 </div>
 </div>
 </div>
