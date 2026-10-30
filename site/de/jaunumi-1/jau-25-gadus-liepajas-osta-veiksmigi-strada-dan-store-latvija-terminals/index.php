@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+
+<html lang="de">
+<head>
+<!-- Required meta tags -->
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
+<meta content="follow, index" name="robots"/><meta content="https://liepaja-sez.lv//img/mod/news/140/1718366878__R1A9795.webp" property="og:image"/><meta content="article" property="og:type"/>
+<meta content="https://liepaja-sez.lv/lv/medijiem/jau-25-gadus-liepajas-osta-veiksmigi-strada-dan-store-latvija-terminals" property="og:url"/>
+<meta content="25 Jahre im Hafen von Liepaja erfolgreich funktioniert ♫ Dan Store Latvija" property="og:title"/>
+<meta content="Sonderwirtschaftszone Liepāja" property="og:site_name"/>
+<meta content="@liepajaSEZ" name="twitter:site"/>
+<meta content="@liepajaSEZ" name="twitter:creator"/>
+<title>25 Jahre im Hafen von Liepaja erfolgreich funktioniert ♫ Dan Store Latvija</title>
+<link href="../../../css/jarallax.min.css" rel="stylesheet"/>
+<link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
+<link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
+<link href="/site/css/block/text/main__f67bbdbffc.css?v=2" rel="stylesheet" type="text/css"/> <link href="../../../cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
+<script>
+
+const html = document.querySelector("html");
+
+if(localStorage['contrast']){
+
+html.classList.add(localStorage['contrast']);
+
+}
+
+</script>
+<script>var web_url="https://liepaja-sez.lv/";</script>
+<script>var lang="de";</script>
+</head>
+<body>
+<?php include __DIR__ . '/../../denavbar.php'; ?>
+<div class="spacer"></div>
+<main class="pb-5">
+<div class="container article-full pt-5 my-5">
+<div class="row">
+<div class="col-12 col-md-3 col-xl-2 me-xl-auto author order-last order-md-first">
+<p class="contact mb-4">Kontaktperson</p>
+<img alt="Līga Ratniece-Kadeģe" class="img-fluid mb-2" src="../../../img/block/contacts/35/1733394528_default.svg"/>
+<p class="name">Līga Ratniece-Kadeģe</p>
+<p class="job">Referentin für Kommunikation und Corporate Governance</p>
+<br/>
+<span>Tel.: <a href="tel:(+371) 29233446" target="_blank">(+371) 29233446</a></span>
+<span>E-Mail: <a href="mailto:liga.ratniece-kadege@lsez.lv" target="_blank">liga.ratniece-kadege@lsez.lv</a></span>
+</div>
+<div class="col-12 col-md-9 mt-md-5">
+<span class="date d-block mt-md-5">12. 8. Juni 2024</span>
+<h1 class="article-title">25 Jahre im Hafen von Liepaja erfolgreich funktioniert ♫ Dan Store Latvija</h1>
+<div class="block_text mt-5 mb-4">
+<div class="row">
+<div class="col"><div class="col-12 output"><p>Das Dan Storea Terminal sorgt für den Export von landwirtschaftlichen Produkten und Futterprodukten. Das Unternehmen bietet seinen Kunden flexible Logistiklösungen durch direkten Zugang zu Bahn, moderner Infrastruktur und von Fachleuten verwalteter Ausrüstung. Auflage. Im Jahr 2007 war das Unternehmen mit 6,7 Mio. EUR Umsatz.</p><p><br/>LSEZ Ltd. ist eines der ersten Unternehmen, die die Liepaja Special Economic Zone schnell in ein Terminal im Hafen von Liepaja mit einem großen Lager umwandeln. Aufgrund der schrittweisen Investitionen in die Entwicklung ist Dan Storea heute einer der größten Umschlag- und Lagerterminals für Großladungen.</p><p><br/>Uldis Hmielevskis, Liepaja SEZ Manager, weist darauf hin, dass es derzeit nichts im bestehenden Terminal gab. Es gab Ruinen von einem Militärhafen ohne Infrastruktur, ohne alles, was wir hier sehen. Ein Jahr nach dem Bau mehrerer Lagerhallen wurden erhebliche Investitionen getätigt, der Frachtfluss wurde sichergestellt. Dies ist ein sehr bedeutendes Volumen von über 600 Tausend Tonnen pro Jahr. Die Sortimente ändern sich - ein Jahr mehr landwirtschaftliche Produkte, ein weiteres Jahr mehr Holzhackschnitzel zum Heizen. Das Jahr unterscheidet sich von Jahr zu Jahr, aber es ist sehr bedeutend für den Hafen von Liepaja.</p><p><br/>LSEZ Ltd. - Dan Storea General Manager Ibs Henrichsen: √Liepāja ist ein guter Arbeitsplatz, es ist einfach zusammenzuarbeiten. Soweit ich weiß, hat Lettland einen guten Ruf für den Dan Store. Ein Großteil der Menschen, die sich zu der Zeit entwickelt haben, als wir anfingen, arbeiten noch immer an uns - von Anfang an.</p><p><br/>Das Unternehmen beschäftigt derzeit 29 Mitarbeiter. Obwohl der landwirtschaftliche Frachtumschlag im Laufe der Zeit modernisiert wurde und viel Arbeit in Computerprogrammen leistet, ist es nicht notwendig, dass Menschen anwesend sind. Kaspars Skrīvers ist seit 19 Jahren Terminalmanager der LSEZ Ltd. - Wir arbeiten 24/7. Wir haben vier Schichten, vier<br/>die Teams, die arbeiten, ändern sich. Er arbeitet 12 Stunden. Das Terminal ist ständig zu besetzen. In Ermangelung von Umladungen gibt es Wartungsarbeiten am Terminal. Ich arbeite ständig viel.</p><p><br/>Die Firma "Dan Store Latvija" wurde 1999 gegründet. Im Jahr 2003. Der größte Aktionär ist √Copenhagen Merchants, das 2009. 1991 schlossen sich die bisherigen Aktionäre Bunge und Svane Shipping an. Das Dan Storea Terminal bietet sowohl landwirtschaftlichen Frachtimport als auch Export in Zusammenarbeit mit Partnern aus mehreren europäischen Ländern, USA, Argentinien und Brasilien. Liepaja Firma war an guter geographischer Lage, einem nicht-fressenden Hafen, Eisenbahninfrastruktur interessiert, sowie für bereitwillige Menschen zu arbeiten.</p><p><br/>Derzeit können Getreide, Futtermittel und andere landwirtschaftliche Güter in 6 Behältern mit einer Kapazität von 22 000 Tonnen sowie 3 Lagerhallen mit einer Gesamtkapazität von 65 000 Tonnen gelagert werden.</p></div>
+</div>
+</div>
+</div>
+<div class="col-12 mt-5" style="position:relative;">
+<img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/140/870_1718366878__R1A9795.webp" style="width: 100%;"/>
+<a aria-label="Download" class="image-download" download="" href="/site/img/mod/news/140/original_1718366878__R1A9795.webp">
+<img alt="Download" class="download-icon" src="../../../img/dl.svg"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="container my-4">
+<div class="row">
+<div class="col-12 useful" id="useful-p">
+<span class="me-2">War diese Information hilfreich?</span>
+<button class="useful-btn" data-table-id="140" data-table-name="mod_news" data-value="1">Ja </button>
+<button class="useful-btn" data-table-id="140" data-table-name="mod_news" data-value="0">Nein </button>
+</div>
+</div>
+</div><div class="container related-list pt-3" data-topics="14">
+<div class="row related-article">
+<div class="col-12 col-lg-9 offset-lg-3 sizer first">
+<div class="row">
+<div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
+<div class="col-12 col-md-4 col-lg-3">
+<h4>Im Rahmen eines internationalen Filmprojekts wird der Verkehr für drei Tage geschlossen. Kalpaka-Brücke</h4>
+<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+</div>
+<div class="col-12 col-md-8 col-lg-9">von 16 24. Oktober Liepaja wird für kurze Zeit zu einem internationalen Film-Industrie-Filmfeld. Die Stadt wird den weltweit beliebten Roman der Millennium Buchreihe "Meitene mit einem Drachen Tattoo," die von der Firma "Left Bank Pictures" bekannt für Projekte wie Eine besondere Rolle in diesem Projekt spielt die Oskars Kalpaka Brücke, die als einer der wichtigsten Drehorte der Serie ausgewählt wurde. Die Brücke wird drei Tage lang für Fußgänger und den Straßenverkehr sowie für den eingeschränkten Versand geschlossen.</div>
+<div class="col-12 d-block d-md-none">
+<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Weiterlesen</a>
+</div>
+</div>
+</div>
+</div>
+<div class="row related-article">
+<div class="col-12 col-lg-9 offset-lg-3 sizer">
+<div class="row">
+<div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
+<div class="col-12 col-md-4 col-lg-3">
+<h4>Auktion über Immobilien in Liepaja Industrial Park - Eksporta iela 3</h4>
+<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+</div>
+<div class="col-12 col-md-8 col-lg-9">In Fortsetzung des Baus des Industrieparks Liepaja auf dem Territorium der ehemaligen Fabriken von Liepāja Metallurgs, hat die Liepaja Special Economic Zone (Liepāja SEZ) Authority eine Auktion für Immobilien auf Eksporta iela 3 angekündigt, die sich in Liepaja Industrial Park Gebiet befindet. Dies ist der nächste Schritt, um Unternehmer in den Prozess des Wiederaufbaus und Umbaus von Industriegebieten einzubeziehen, was die Möglichkeit bietet, landbasierte Produktionsgebäude zu kaufen.</div>
+<div class="col-12 d-block d-md-none">
+<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Weiterlesen</a>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-12 col-lg-9 offset-lg-3 paginator mt-5">
+<div class="prev">
+</div>
+<div class="next">
+<a aria-label="Weiter" class="next related-pagination" data-page="2" href="#">
+
+Weiter <img alt="Weiter" src="../../../img/round-right.svg"/>
+</a>
+</div>
+</div>
+</div></div>
+<img alt="Hintergrundbild" class="background" src="../../../img/bg2.svg"/>
+</main>
+<footer class="footer">
+<div class="container py-5">
+<div class="row">
+<div class="col-12 col-md-4 col-lg-2 footer-logo">
+<img alt="Logo" class="img-fluid" src="../../../img/logo-white.svg" width="100"/>
+</div>
+<div class="col-12 col-md-8 col-lg-5 mb-3 reqs">
+<p>Verwaltung der Sonderwirtschaftszone Liepāja<br/>Fēniksa iela 4, Liepāja,<br/>LV-3401, Lettland<br/><br/>Telefon: <a href="tel:+37163427605">+371 63427605</a><br/>E-Mail: <a href="mailto:lsez@lsez.lv">lsez@lsez.lv</a></p> </div>
+<div class="col-12 col-md-4 col-lg-4">
+<div class="row pt-3k">
+<div class="col socials d-flex justify-content-start">
+<a aria-label="Facebook" href="https://www.facebook.com/LiepajasSEZ" target="_blank"><img alt="Facebook" class="img-fluid" src="../../../img/FB.svg"/></a>
+<a aria-label="Twitter" href="https://twitter.com/liepajaSEZ" target="_blank"><img alt="Twitter" class="img-fluid" src="../../../img/TW.svg"/></a>
+<a aria-label="Instagram" href="https://www.instagram.com/liepajasez" target="_blank"><img alt="Instagram" class="img-fluid" src="../../../img/IG.svg"/></a>
+<a aria-label="Youtube" href="https://www.youtube.com/channel/UCjBSQK6pZ5tQGpRabmlLwxQ" target="_blank"><img alt="Youtube" class="img-fluid" src="../../../img/YT.svg"/></a>
+<a alt="Linkedin" href="https://www.linkedin.com/company/liepaja-special-economic-zone/" target="_blank"><img aria-label="Linkedin" class="img-fluid" src="../../../img/IN.svg"/></a>
+<a alt="Linkedin" href="https://www.flickr.com/photos/liepajasez/albums/" target="_blank"><img aria-label="Flickr" class="img-fluid" src="../../../img/flickr.svg"/></a>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-8 col-lg-1">
+<div class="row">
+<div class="col up">
+<a aria-label="Nach oben" href="#"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="sticky-cookie" style="align-items: center; justify-content: center;">
+<img alt="Cookie" src="https://liepaja-sez.lv/img/cc.svg?=v5" width="24"/>
+</div>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-6QTXK76SH0"></script>
+<script>
+
+window.dataLayer = window.dataLayer || [];
+
+function gtag(){dataLayer.push(arguments);}
+
+gtag('js', new Date());
+
+
+
+gtag('config', 'G-6QTXK76SH0');
+
+</script>
+
+<script crossorigin="anonymous" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" src="https://code.jquery.com/jquery-3.7.0.min.js">
+
+<script src="https://code.jquery.com/color/jquery.color.plus-names-2.1.2.min.js"></script>
+<script src="https://liepaja-sez.lv/js/jarallax.min.js?v=3"></script>
+<script src="../../../js/bootstrap.bundle.min.js"></script>
+<script src="https://liepaja-sez.lv/js/main.js?v=9"></script>
+<script src="https://liepaja-sez.lv/js/mod/menu/main.js?v=1"></script><script src="https://liepaja-sez.lv/js/block/useful/main.js?v=1"></script> <script defer="" src="../../../cc/src/cookieconsent.js"></script>
+<script defer="" src="https://liepaja-sez.lv/cc/demo/app2.js?v=6"></script>
+</footer>
+</body>
+</html>

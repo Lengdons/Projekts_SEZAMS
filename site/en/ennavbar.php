@@ -41,11 +41,24 @@
 </ul>
 </li>
 <li class="dropdown language-controls">
-<a aria-expanded="false" aria-label="Select language" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="" id="language-controls1">
+    <a aria-expanded="false" aria-label="Valodas izvēle"
+       class="nav-link dropdown-toggle"
+       data-bs-toggle="dropdown"
+       href="#"
+       id="language-controls1">
+        en
+    </a>
 
-										en
+    <ul aria-labelledby="language-controls1" class="dropdown-menu text-center">
+        <li>
+            <a class="dropdown-item" href="<?= htmlspecialchars($lvLink) ?>">lv</a>
+        </li>
 
-									</a><ul aria-labelledby="language-controls1" class="dropdown-menu text-center"><li><a class="dropdown-item" href="<?= htmlspecialchars($lvLink) ?>">lv</a></li></ul> </li>
+        <li>
+            <a class="dropdown-item" href="<?= htmlspecialchars($deLink) ?>">de</a>
+        </li>
+    </ul>
+</li>
 </ul>
 <div class="brand-container">
 <a class="navbar-brand" href="/site/en/index.php">
