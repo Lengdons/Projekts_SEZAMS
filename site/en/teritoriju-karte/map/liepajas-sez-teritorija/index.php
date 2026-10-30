@@ -41,7 +41,7 @@
 <h2 class="map-title mb-5">Liepāja SEZ Territory</h2>
 </div>
 <div class="col-12 nocontrast">
-<span id="map-block"><img id="img" src="../../../../img/mod/map/17/1707388365_Kartes_1920x1320_Karte_titula.webp"/><a class="map-popover" data-bs-target="#modal63" data-bs-toggle="modal" href="index.php" style="left:79.91304347826087%;top:43.23640960809102%;">
+<span id="map-block"><img id="img" src="../../../../img/mod/map/17/1707388365_Kartes_1920x1320_Karte_titula.webp"/><a class="map-popover" data-bs-target="#modal63" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/liepajas-sez-teritorija/index.php" style="left:79.91304347826087%;top:43.23640960809102%;">
 <img src="../../../../img/mod/map/icons/4.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel63" class="modal fade" id="modal63" tabindex="-1">
@@ -56,7 +56,7 @@
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal64" data-bs-toggle="modal" href="index.php" style="left:53.628334699080405%;top:19.194162856515028%;">
+</div><a class="map-popover" data-bs-target="#modal64" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/liepajas-sez-teritorija/index.php" style="left:53.628334699080405%;top:19.194162856515028%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel64" class="modal fade" id="modal64" tabindex="-1">
@@ -71,7 +71,7 @@
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal65" data-bs-toggle="modal" href="index.php" style="left:60.69565217391304%;top:65.73957016434892%;">
+</div><a class="map-popover" data-bs-target="#modal65" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/liepajas-sez-teritorija/index.php" style="left:60.69565217391304%;top:65.73957016434892%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel65" class="modal fade" id="modal65" tabindex="-1">
@@ -86,7 +86,7 @@
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal66" data-bs-toggle="modal" href="index.php" style="left:38.52173913043478%;top:44.50063211125158%;">
+</div><a class="map-popover" data-bs-target="#modal66" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/liepajas-sez-teritorija/index.php" style="left:38.52173913043478%;top:44.50063211125158%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel66" class="modal fade" id="modal66" tabindex="-1">
@@ -101,7 +101,7 @@
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal68" data-bs-toggle="modal" href="index.php" style="left:45.565217391304344%;top:62.7054361567636%;">
+</div><a class="map-popover" data-bs-target="#modal68" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/liepajas-sez-teritorija/index.php" style="left:45.565217391304344%;top:62.7054361567636%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel68" class="modal fade" id="modal68" tabindex="-1">
@@ -116,7 +116,7 @@
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal69" data-bs-toggle="modal" href="index.php" style="left:57.27032686879724%;top:58.37672979119398%;">
+</div><a class="map-popover" data-bs-target="#modal69" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/liepajas-sez-teritorija/index.php" style="left:57.27032686879724%;top:58.37672979119398%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel69" class="modal fade" id="modal69" tabindex="-1">
@@ -131,7 +131,7 @@
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal102" data-bs-toggle="modal" href="index.php" style="left:43.47826086956522%;top:52.46523388116309%;">
+</div><a class="map-popover" data-bs-target="#modal102" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/liepajas-sez-teritorija/index.php" style="left:43.47826086956522%;top:52.46523388116309%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel102" class="modal fade" id="modal102" tabindex="-1">
@@ -146,7 +146,7 @@
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal103" data-bs-toggle="modal" href="index.php" style="left:56.109441864699996%;top:51.592586022942974%;">
+</div><a class="map-popover" data-bs-target="#modal103" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/liepajas-sez-teritorija/index.php" style="left:56.109441864699996%;top:51.592586022942974%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel103" class="modal fade" id="modal103" tabindex="-1">
@@ -206,7 +206,7 @@
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Scroll up" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../../img/round-right.svg"/></a>
+<a aria-label="Scroll up" href="/site/en/teritoriju-karte/map/liepajas-sez-teritorija/index.php"><img alt="scroll-up" class="img-fluid" src="../../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

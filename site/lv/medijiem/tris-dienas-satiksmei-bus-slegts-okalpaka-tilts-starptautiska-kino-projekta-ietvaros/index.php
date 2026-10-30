@@ -15,8 +15,8 @@
 <title>Starptautiska kino projekta ietvaros trīs dienas satiksmei būs slēgts O. Kalpaka tilts » SEZ</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
-<link href="https://liepaja-sez.lv/css/main.css?v=26" rel="stylesheet"/>
-<link href="https://liepaja-sez.lv/css/block/text/main.css?v=2" rel="stylesheet" type="text/css"/> <link href="../../../cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
+<link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
+<link href="/site/css/block/text/main__f67bbdbffc.css?v=2" rel="stylesheet" type="text/css"/> <link href="../../../cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
 <script>
 
 const html = document.querySelector("html");
@@ -79,11 +79,11 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Izsludina izsoli par nekustamo īpašumu Liepājas Industriālajā parkā - Eksporta ielā 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Turpinot izbūvēt Liepājas Industriālo parku bijušās rūpnīcas Liepājas metalurgs teritorijā, Liepājas speciālās ekonomiskās zonas (Liepājas SEZ) pārvalde izsludinājusi  izsoli par nekustamo īpašumu Eksporta ielā 3, kas atrodas Liepājas Industriālā parka teritorijā.  Šis ir nākamais solis, lai iesaistītu uzņēmējus industriālās teritorijas atjaunošanas un pārveidošanas procesā, piedāvājot iespēju iegādāties īpašumā ražošanas ēkas ar zemi.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/">Lasīt vairāk</a>
+<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>
@@ -94,11 +94,11 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">29.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Ar teritorijas sanāciju turpina Liepājas industriālā parka izbūvi</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/medijiem/ar-teritorijas-sanaciju-turpina-liepajas-industriala-parka-izbuvi/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="/site/lv/medijiem/ar-teritorijas-sanaciju-turpina-liepajas-industriala-parka-izbuvi/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Liepājas SEZ pārvalde turpina bijušās rūpnīcas “Liepājas metalurgs” teritorijas transformāciju, īstenojot projektu “Liepājas industriālā parka teritorijas attīstība 2. kārta”. Projekta ietvaros tiek sakārtota un sanēta vēsturiski piesārņota rūpnieciskā teritorija, izbūvējot mūsdienīgu uzņēmējdarbībai nepieciešamo infrastruktūru. Projekts tiek īstenots Eiropas Savienības Kohēzijas politikas programmas 2021.-2027. gadam ietvaros, sekmējot pāreju uz klimatneitrālu ekonomiku un mazinot ar šo pāreju saistītās sociālekonomiskās sekas Kurzemes reģionā.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/medijiem/ar-teritorijas-sanaciju-turpina-liepajas-industriala-parka-izbuvi/">Lasīt vairāk</a>
+<a class="d-block my-4" href="/site/lv/medijiem/ar-teritorijas-sanaciju-turpina-liepajas-industriala-parka-izbuvi/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>

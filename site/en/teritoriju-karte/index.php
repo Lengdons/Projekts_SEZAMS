@@ -40,7 +40,7 @@
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../invest-in-liepaja/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/investe-liepaja/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Invest in Liepaja
@@ -48,7 +48,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 sidebar-parent ps-0">
-<a class="sidebar-nav-icon inactive mb-4" href="">
+<a class="sidebar-nav-icon inactive mb-4" href="/site/en/osta/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Port
@@ -56,7 +56,7 @@
 						</a>
 <div class="sidebar-nested ps-md-4">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../about-port/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/par-ostu/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							About Port
@@ -64,7 +64,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../ferry-traffic/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/pramju-satiksme/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Ferry traffic
@@ -72,7 +72,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../cruise-ships/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/kruiza-kugi/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Cruising
@@ -80,7 +80,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../liepaja-marina/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/jahtu-osta/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Liepaja Marina
@@ -88,7 +88,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../oskars-kalpaks-bridge/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/oskara-kalpaka-tilts/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Oskars Kalpaks bridge
@@ -98,7 +98,7 @@
 </div>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../lsez-commercial-companies/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/kapitalsabiedribas/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Commercial Companies
@@ -106,7 +106,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../development-projects/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/attistibas-projekti/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Development projects
@@ -114,7 +114,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../job-vacancies/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/darbs-liepaja/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Job vacancies
@@ -122,7 +122,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="active sidebar-nav-icon" href="index.php">
+<a aria-label="nosaukums" class="active sidebar-nav-icon" href="/site/en/teritoriju-karte/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Map of territories
@@ -135,11 +135,11 @@
 <div class="map">
 <div class="row">
 <div class="col-12 map-title">
-<h1 class="mb-5"><a href="map/liepajas-sez-teritorija/index.php">Liepāja SEZ Territory</a></h1>
+<h1 class="mb-5"><a href="/site/en/teritoriju-karte/map/liepajas-sez-teritorija/index.php">Liepāja SEZ Territory</a></h1>
 </div>
 <div class="col-12 mb-5">
 <span class="nocontrast" id="map-block">
-<a href="map/liepajas-sez-teritorija/index.php">
+<a href="/site/en/teritoriju-karte/map/liepajas-sez-teritorija/index.php">
 <img id="img" src="../../img/mod/map/17/1707388365_Kartes_1920x1320_Karte_titula.webp"/>
 </a><span class="map-popover" data-bs-target="#modal63" data-bs-toggle="modal" style="left:79.91304347826087%;top:43.23640960809102%;">
 <img src="../../img/mod/map/icons/4.svg"/>
@@ -212,7 +212,7 @@
 <p><strong>Email:</strong> <a href="mailto:raivo.spaks@lsez.lv">raivo.spaks@lsez.lv</a></p>
 <p> </p>
 <p> </p>
-<a class="map-btn mt-5 d-block" href="map/liepajas-sez-teritorija/index.php" target="_blank">View territory</a></div>
+<a class="map-btn mt-5 d-block" href="/site/en/teritoriju-karte/map/liepajas-sez-teritorija/index.php" target="_blank">View territory</a></div>
 </div>
 </div>
 </div><span class="map-popover" data-bs-target="#modal68" data-bs-toggle="modal" style="left:45.565217391304344%;top:62.7054361567636%;">
@@ -230,7 +230,7 @@
 <p><strong>Address:</strong> Flotes iela 16, Liepāja, LV-3405, Latvia</p>
 <p><strong>Website:</strong> <a href="">www.nsbp.lv</a></p>
 <p><strong>Phone number:</strong> (+371) 20240811</p>
-<a class="map-btn mt-5 d-block" href="map/northside-business-park/index.php" target="">View territory</a></div>
+<a class="map-btn mt-5 d-block" href="/site/en/teritoriju-karte/map/northside-business-park/index.php" target="">View territory</a></div>
 </div>
 </div>
 </div><span class="map-popover" data-bs-target="#modal69" data-bs-toggle="modal" style="left:57.27032686879724%;top:58.37672979119398%;">
@@ -292,41 +292,41 @@
 </div>
 </span>
 </div><div class="col-12 col-md-6 col-lg-4 map-single mb-5">
-<div><a href="map/karostas-industrialais-parks/index.php"><img class="img-fluid" src="../../img/mod/map/19/1709029359_Kartes_1920x1320_4_karostas_ind_parks.webp"/></a>
+<div><a href="/site/en/teritoriju-karte/map/karostas-industrialais-parks/index.php"><img class="img-fluid" src="../../img/mod/map/19/1709029359_Kartes_1920x1320_4_karostas_ind_parks.webp"/></a>
 <span class="mt-2 d-block">Liepāja SEZ Territory</span>
-<h3 class="mb-3"><a href="map/karostas-industrialais-parks/index.php">Karosta Industrial Park</a></h3>
+<h3 class="mb-3"><a href="/site/en/teritoriju-karte/map/karostas-industrialais-parks/index.php">Karosta Industrial Park</a></h3>
 </div>
-<a class="link" href="map/karostas-industrialais-parks/index.php">Find out more</a>
+<a class="link" href="/site/en/teritoriju-karte/map/karostas-industrialais-parks/index.php">Find out more</a>
 </div><div class="col-12 col-md-6 col-lg-4 map-single mb-5">
-<div><a href="map/liepajas-biznesa-centrs/index.php"><img class="img-fluid" src="../../img/mod/map/21/1709027980_Kartes_1920x1320_6_liep_biznesa_centrs.webp"/></a>
+<div><a href="/site/en/teritoriju-karte/map/liepajas-biznesa-centrs/index.php"><img class="img-fluid" src="../../img/mod/map/21/1709027980_Kartes_1920x1320_6_liep_biznesa_centrs.webp"/></a>
 <span class="mt-2 d-block">Liepāja SEZ Territory</span>
-<h3 class="mb-3"><a href="map/liepajas-biznesa-centrs/index.php">Liepāja Business Centre</a></h3>
+<h3 class="mb-3"><a href="/site/en/teritoriju-karte/map/liepajas-biznesa-centrs/index.php">Liepāja Business Centre</a></h3>
 </div>
-<a class="link" href="map/liepajas-biznesa-centrs/index.php">Find out more</a>
+<a class="link" href="/site/en/teritoriju-karte/map/liepajas-biznesa-centrs/index.php">Find out more</a>
 </div><div class="col-12 col-md-6 col-lg-4 map-single mb-5">
-<div><a href="map/northside-business-park/index.php"><img class="img-fluid" src="../../img/mod/map/22/1709029655_Kartes_1920x1320_8_mashinbuves_ruupn.webp"/></a>
+<div><a href="/site/en/teritoriju-karte/map/northside-business-park/index.php"><img class="img-fluid" src="../../img/mod/map/22/1709029655_Kartes_1920x1320_8_mashinbuves_ruupn.webp"/></a>
 <span class="mt-2 d-block">Liepāja SEZ Territory</span>
-<h3 class="mb-3"><a href="map/northside-business-park/index.php">Northside Business Park</a></h3>
+<h3 class="mb-3"><a href="/site/en/teritoriju-karte/map/northside-business-park/index.php">Northside Business Park</a></h3>
 </div>
-<a class="link" href="map/northside-business-park/index.php">Find out more</a>
+<a class="link" href="/site/en/teritoriju-karte/map/northside-business-park/index.php">Find out more</a>
 </div><div class="col-12 col-md-6 col-lg-4 map-single mb-5">
-<div><a href="map/vecas-ostmalas-biznesa-parks/index.php"><img class="img-fluid" src="../../img/mod/map/20/1709029340_Kartes_1920x1320_9_vecas_ostmals_biznesa_parks.webp"/></a>
+<div><a href="/site/en/teritoriju-karte/map/vecas-ostmalas-biznesa-parks/index.php"><img class="img-fluid" src="../../img/mod/map/20/1709029340_Kartes_1920x1320_9_vecas_ostmals_biznesa_parks.webp"/></a>
 <span class="mt-2 d-block">Liepāja SEZ Territory</span>
-<h3 class="mb-3"><a href="map/vecas-ostmalas-biznesa-parks/index.php">Vecā Ostmala Business Park</a></h3>
+<h3 class="mb-3"><a href="/site/en/teritoriju-karte/map/vecas-ostmalas-biznesa-parks/index.php">Vecā Ostmala Business Park</a></h3>
 </div>
-<a class="link" href="map/vecas-ostmalas-biznesa-parks/index.php">Find out more</a>
+<a class="link" href="/site/en/teritoriju-karte/map/vecas-ostmalas-biznesa-parks/index.php">Find out more</a>
 </div><div class="col-12 col-md-6 col-lg-4 map-single mb-5">
-<div><a href="map/lauma-fabrics/index.php"><img class="img-fluid" src="../../img/mod/map/24/1709713840_Kartes_1920x1320_5_laumas_ind_parks.webp"/></a>
+<div><a href="/site/en/teritoriju-karte/map/lauma-fabrics/index.php"><img class="img-fluid" src="../../img/mod/map/24/1709713840_Kartes_1920x1320_5_laumas_ind_parks.webp"/></a>
 <span class="mt-2 d-block">Liepāja SEZ Territory</span>
-<h3 class="mb-3"><a href="map/lauma-fabrics/index.php">Lauma Fabrics</a></h3>
+<h3 class="mb-3"><a href="/site/en/teritoriju-karte/map/lauma-fabrics/index.php">Lauma Fabrics</a></h3>
 </div>
-<a class="link" href="map/lauma-fabrics/index.php">Find out more</a>
+<a class="link" href="/site/en/teritoriju-karte/map/lauma-fabrics/index.php">Find out more</a>
 </div><div class="col-12 col-md-6 col-lg-4 map-single mb-5">
-<div><a href="map/liepajas-industrialais-parks/index.php"><img class="img-fluid" src="../../img/mod/map/18/1707388527_Kartes_1920x1320_7_liep_biznesa_parks.webp"/></a>
+<div><a href="/site/en/teritoriju-karte/map/liepajas-industrialais-parks/index.php"><img class="img-fluid" src="../../img/mod/map/18/1707388527_Kartes_1920x1320_7_liep_biznesa_parks.webp"/></a>
 <span class="mt-2 d-block">Liepāja SEZ Territory</span>
-<h3 class="mb-3"><a href="map/liepajas-industrialais-parks/index.php">Liepāja Industrial Park</a></h3>
+<h3 class="mb-3"><a href="/site/en/teritoriju-karte/map/liepajas-industrialais-parks/index.php">Liepāja Industrial Park</a></h3>
 </div>
-<a class="link" href="map/liepajas-industrialais-parks/index.php">Find out more</a>
+<a class="link" href="/site/en/teritoriju-karte/map/liepajas-industrialais-parks/index.php">Find out more</a>
 </div>
 </div>
 </div>
@@ -339,11 +339,11 @@
 <div class="map">
 <div class="row">
 <div class="col-12 map-title">
-<h1 class="mb-5"><a href="map/liepajas-osta/index.php">Port of Liepāja</a></h1>
+<h1 class="mb-5"><a href="/site/en/teritoriju-karte/map/liepajas-osta/index.php">Port of Liepāja</a></h1>
 </div>
 <div class="col-12 mb-5">
 <span class="nocontrast" id="map-block">
-<a href="map/liepajas-osta/index.php">
+<a href="/site/en/teritoriju-karte/map/liepajas-osta/index.php">
 <img id="img" src="../../img/mod/map/14/1707387987_Kartes_1920x1320_Karte_titula.webp"/>
 </a><span class="map-popover" data-bs-target="#modal79" data-bs-toggle="modal" style="left:45.77368469043494%;top:45.868032632586456%;">
 <img src="../../img/mod/map/icons/1.svg"/>
@@ -355,7 +355,7 @@
 <h1 class="modal-title fs-5" id="modalLabel79">Karosta Canal</h1>
 <button aria-label="Close" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
-<div class="modal-body"><p>The Karosta Canal is 3.5 kilometres long, up to 250 metres wide, and has an average depth of 9 metres. The canal was excavated between 1894 and 1901.</p><a class="map-btn mt-5 d-block" href="../ostas-karte/map/karostas-kanals/index.php" target="">View territory</a></div>
+<div class="modal-body"><p>The Karosta Canal is 3.5 kilometres long, up to 250 metres wide, and has an average depth of 9 metres. The canal was excavated between 1894 and 1901.</p><a class="map-btn mt-5 d-block" href="/site/en/teritoriju-karte/map/karostas-kanals/index.php" target="">View territory</a></div>
 </div>
 </div>
 </div><span class="map-popover" data-bs-target="#modal81" data-bs-toggle="modal" style="left:43.61285623235911%;top:69.0989862834541%;">
@@ -369,7 +369,7 @@
 <button aria-label="Close" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<a class="map-btn mt-5 d-block" href="../ostas-karte/map/ziemas-osta/index.php" target="">View territory</a>
+<a class="map-btn mt-5 d-block" href="/site/en/teritoriju-karte/map/ziemas-osta/index.php" target="">View territory</a>
 </div>
 </div>
 </div>
@@ -384,7 +384,7 @@
 <button aria-label="Close" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
 <div class="modal-body">
-<a class="map-btn mt-5 d-block" href="../ostas-karte/map/brivosta/index.php" target="">View territory</a>
+<a class="map-btn mt-5 d-block" href="/site/en/teritoriju-karte/map/brivosta/index.php" target="">View territory</a>
 </div>
 </div>
 </div>
@@ -398,29 +398,29 @@
 <h1 class="modal-title fs-5" id="modalLabel83">Oskars Kalpaks Bridge</h1>
 <button aria-label="Close" class="btn-close" data-bs-dismiss="modal" type="button"></button>
 </div>
-<div class="modal-body"><p>The bridge opened on 19 August 1906 and is one of the oldest steel bridges in Latvia, as well as an engineering monument. It weighs 300 tonnes and consists of two sections (north and south), each formed by two identical cantilevers.</p><a class="map-btn mt-5 d-block" href="../oskara-kalpaka-tilts/index.php" target="">View territory</a></div>
+<div class="modal-body"><p>The bridge opened on 19 August 1906 and is one of the oldest steel bridges in Latvia, as well as an engineering monument. It weighs 300 tonnes and consists of two sections (north and south), each formed by two identical cantilevers.</p><a class="map-btn mt-5 d-block" href="/site/en/oskara-kalpaka-tilts/index.php" target="">View territory</a></div>
 </div>
 </div>
 </div>
 </span>
 </div><div class="col-12 col-md-6 col-lg-4 map-single mb-5">
-<div><a href="map/karostas-kanals/index.php"><img class="img-fluid" src="../../img/mod/map/15/1707388022_Kartes_1920x1320_2_karsta_kanals.webp"/></a>
+<div><a href="/site/en/teritoriju-karte/map/karostas-kanals/index.php"><img class="img-fluid" src="../../img/mod/map/15/1707388022_Kartes_1920x1320_2_karsta_kanals.webp"/></a>
 <span class="mt-2 d-block">Liepāja SEZ Territory</span>
-<h3 class="mb-3"><a href="map/karostas-kanals/index.php">Karosta Canal</a></h3>
+<h3 class="mb-3"><a href="/site/en/teritoriju-karte/map/karostas-kanals/index.php">Karosta Canal</a></h3>
 </div>
-<a class="link" href="map/karostas-kanals/index.php">Find out more</a>
+<a class="link" href="/site/en/teritoriju-karte/map/karostas-kanals/index.php">Find out more</a>
 </div><div class="col-12 col-md-6 col-lg-4 map-single mb-5">
-<div><a href="map/brivosta/index.php"><img class="img-fluid" src="../../img/mod/map/13/1709030803_Kartes_1920x1320_1_brivosta.webp"/></a>
+<div><a href="/site/en/teritoriju-karte/map/brivosta/index.php"><img class="img-fluid" src="../../img/mod/map/13/1709030803_Kartes_1920x1320_1_brivosta.webp"/></a>
 <span class="mt-2 d-block">Liepāja SEZ Territory</span>
-<h3 class="mb-3"><a href="map/brivosta/index.php">Freeport</a></h3>
+<h3 class="mb-3"><a href="/site/en/teritoriju-karte/map/brivosta/index.php">Freeport</a></h3>
 </div>
-<a class="link" href="map/brivosta/index.php">Find out more</a>
+<a class="link" href="/site/en/teritoriju-karte/map/brivosta/index.php">Find out more</a>
 </div><div class="col-12 col-md-6 col-lg-4 map-single mb-5">
-<div><a href="map/ziemas-osta/index.php"><img class="img-fluid" src="../../img/mod/map/16/1707388062_Kartes_1920x1320_3_ziemasosta.webp"/></a>
+<div><a href="/site/en/teritoriju-karte/map/ziemas-osta/index.php"><img class="img-fluid" src="../../img/mod/map/16/1707388062_Kartes_1920x1320_3_ziemasosta.webp"/></a>
 <span class="mt-2 d-block">Liepāja SEZ Territory</span>
-<h3 class="mb-3"><a href="map/ziemas-osta/index.php">Winter Harbour</a></h3>
+<h3 class="mb-3"><a href="/site/en/teritoriju-karte/map/ziemas-osta/index.php">Winter Harbour</a></h3>
 </div>
-<a class="link" href="map/ziemas-osta/index.php">Find out more</a>
+<a class="link" href="/site/en/teritoriju-karte/map/ziemas-osta/index.php">Find out more</a>
 </div>
 </div>
 </div>
@@ -461,7 +461,7 @@
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Scroll up" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Scroll up" href="/site/en/teritoriju-karte/index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

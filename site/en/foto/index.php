@@ -40,7 +40,7 @@
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../news/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/medijiem/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Press releases
@@ -48,7 +48,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="active sidebar-nav-icon" href="../photos/index.php">
+<a aria-label="nosaukums" class="active sidebar-nav-icon" href="/site/en/foto/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Photos
@@ -56,7 +56,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../board-meetings/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/valdes-sedes/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Board Meetings
@@ -269,7 +269,7 @@
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="photo-pagination prev d-none" data-block="1" data-page="" data-per-page="12" href="index.php">
+<a class="photo-pagination prev d-none" data-block="1" data-page="" data-per-page="12" href="/site/en/foto/index.php">
 <img alt="Previous" src="../../img/round-right.svg"/>
 
 							Previous
@@ -277,7 +277,7 @@
 						</a>
 </div>
 <div>
-<a class="photo-pagination next" data-block="1" data-page="2" data-per-page="12" href="index.php">
+<a class="photo-pagination next" data-block="1" data-page="2" data-per-page="12" href="/site/en/foto/index.php">
 
 							Next <img alt="Previous" src="../../img/round-right.svg"/>
 </a>
@@ -313,7 +313,7 @@
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Scroll up" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Scroll up" href="/site/en/foto/index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

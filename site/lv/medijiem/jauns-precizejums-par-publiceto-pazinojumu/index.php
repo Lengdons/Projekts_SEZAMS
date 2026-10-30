@@ -15,8 +15,8 @@
 <title>Jauns precizējums par publicēto paziņojumu par Liepājas SEZ pārvaldes valdījumā esoša nekustamā īpašuma ostas attīrīšanas iekārtu nomas tiesību rakstisko izsoli » SEZ</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
-<link href="https://liepaja-sez.lv/css/main.css?v=26" rel="stylesheet"/>
-<link href="https://liepaja-sez.lv/css/block/text/main.css?v=2" rel="stylesheet" type="text/css"/> <link href="../../../cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
+<link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
+<link href="/site/css/block/text/main__f67bbdbffc.css?v=2" rel="stylesheet" type="text/css"/> <link href="../../../cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
 <script>
 
 const html = document.querySelector("html");
@@ -42,13 +42,13 @@ html.classList.add(localStorage['contrast']);
 <h1 class="article-title">Jauns precizējums par publicēto paziņojumu par Liepājas SEZ pārvaldes valdījumā esoša nekustamā īpašuma ostas attīrīšanas iekārtu nomas tiesību rakstisko izsoli</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p><a href="https://liepaja-sez.lv/doc/mod/document/277/1749022049_Piel_2_Nomas_ligums_ar%2002.06.2025%20groz%C4%ABjumiem_%20LSEZ_IZS_2025_1_noma.docx"><i>Veikti grozījumi Liepājas ostas attīrīšanas iekārtu nomas tiesību līgumprojekta 2.2.20.; 4.8.; 4.8.4.; 4.8.6.; 4.8.7., 4.8.8. un 4.8.9.punktos.</i></a></p><p>Izsoles dalībnieku reģistrācija notiek no 2025. gada 3.marta plkst. 08:00 līdz 2025. gada 13.jūnija plkst.16.30. Izsoles dalībniekam personīgi vai ar pilnvarotas personas starpniecību piedāvājums ir jāiesniedz Pārvaldē, Fēniksa ielā 4, Liepājā, paziņojumā par izsoli norādītajā izsoles dalībnieku pieteikšanās termiņā (Pārvaldes darba laikā no plkst.8:00-12.00 un no plkst.12:30-16:30), līdz 2025.gada 13.jūnijam. Piedāvājumi tiks atvērti 2025.gada 16.jūnijā plkst. 13:00.</p><p><a href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-specialas-ekonomiskas-zonas-parvaldes-valdijuma-esosa-nekustama-ipasuma-nomas-tie"><strong>28. februāra </strong><i><strong>precizētais sludinājums</strong></i><strong> par Liepājas speciālās ekonomiskās zonas pārvaldes valdījumā esoša nekustamā īpašuma nomas tiesību rakstisko izsoli.</strong></a></p></div>
+<div class="col"><div class="col-12 output"><p><a href="/site/doc/mod/document/277/1749022049_Piel_2_Nomas_ligums_ar%2002.06.2025%20groz%C4%ABjumiem_%20LSEZ_IZS_2025_1_noma.docx"><i>Veikti grozījumi Liepājas ostas attīrīšanas iekārtu nomas tiesību līgumprojekta 2.2.20.; 4.8.; 4.8.4.; 4.8.6.; 4.8.7., 4.8.8. un 4.8.9.punktos.</i></a></p><p>Izsoles dalībnieku reģistrācija notiek no 2025. gada 3.marta plkst. 08:00 līdz 2025. gada 13.jūnija plkst.16.30. Izsoles dalībniekam personīgi vai ar pilnvarotas personas starpniecību piedāvājums ir jāiesniedz Pārvaldē, Fēniksa ielā 4, Liepājā, paziņojumā par izsoli norādītajā izsoles dalībnieku pieteikšanās termiņā (Pārvaldes darba laikā no plkst.8:00-12.00 un no plkst.12:30-16:30), līdz 2025.gada 13.jūnijam. Piedāvājumi tiks atvērti 2025.gada 16.jūnijā plkst. 13:00.</p><p><a href="/site/lv/iepirkumi-un-izsoles/liepajas-specialas-ekonomiskas-zonas-parvaldes-valdijuma-esosa-nekustama-ipasuma-nomas-tie/index.php"><strong>28. februāra </strong><i><strong>precizētais sludinājums</strong></i><strong> par Liepājas speciālās ekonomiskās zonas pārvaldes valdījumā esoša nekustamā īpašuma nomas tiesību rakstisko izsoli.</strong></a></p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/223/870_1749026168_original_1746620912_original_1744188343_LSEZ_aero (234).webp" style="width: 100%;"/>
-<a aria-label="Lejupielādēt" class="image-download" download="" href="https://liepaja-sez.lv/img/mod/news/223/original_1749026168_original_1746620912_original_1744188343_LSEZ_aero (234).webp">
+<a aria-label="Lejupielādēt" class="image-download" download="" href="/site/img/mod/news/223/original_1749026168_original_1746620912_original_1744188343_LSEZ_aero (234).webp">
 <img alt="Lejupielādēt" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
@@ -70,11 +70,11 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Starptautiska kino projekta ietvaros trīs dienas satiksmei būs slēgts O. Kalpaka tilts</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">No 16. – 24. oktobrim Liepāja uz īsu brīdi pārtaps par starptautiskas kinoindustrijas filmēšanas laukumu. Pilsētā tiks uzņemta pasaulē populārās “Millennium” grāmatu sērijas romāna “Meitene ar pūķa tetovējumu” ekranizācija, kuru producē kompānija “Left Bank Pictures”, kas pazīstama ar tādiem projektiem kā “The Crown” un “Dept Q”. Īpaša loma šajā projektā atvēlēta Oskara Kalpaka tiltam, kas izvēlēts kā viena no nozīmīgākajām filmēšanas lokācijām visā seriālā. Tilts trīs dienās uz filmēšanas laiku tiks slēgts gājējiem un autotransportam, kā arī tiks ierobežota kuģu satiksme.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/">Lasīt vairāk</a>
+<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>
@@ -85,11 +85,11 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Izsludina izsoli par nekustamo īpašumu Liepājas Industriālajā parkā - Eksporta ielā 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Turpinot izbūvēt Liepājas Industriālo parku bijušās rūpnīcas Liepājas metalurgs teritorijā, Liepājas speciālās ekonomiskās zonas (Liepājas SEZ) pārvalde izsludinājusi  izsoli par nekustamo īpašumu Eksporta ielā 3, kas atrodas Liepājas Industriālā parka teritorijā.  Šis ir nākamais solis, lai iesaistītu uzņēmējus industriālās teritorijas atjaunošanas un pārveidošanas procesā, piedāvājot iespēju iegādāties īpašumā ražošanas ēkas ar zemi.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/">Lasīt vairāk</a>
+<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>

@@ -43,15 +43,15 @@
 <h2></h2>
 <span class="mb-3">16.10.2026.</span>
 </div>
-<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="index.php">Read more</a>
+<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="/site/en/medijiem/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p></p>
-<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="index.php">Read more</a>
+<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="/site/en/medijiem/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/326/1792137601_75_10.16.2026._kino_kalpaka_tilts.webp)">
-<a aria-label="Read more" href="index.php">
+<a aria-label="Read more" href="/site/en/medijiem/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/326/1792137601_75_10.16.2026._kino_kalpaka_tilts.webp"/>
 </a>
 </div>
@@ -63,15 +63,15 @@
 <h2>Auction Announced for Property at Eksporta Street 3 in the Liepaja Industrial Park</h2>
 <span class="mb-3">06.10.2026.</span>
 </div>
-<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="auction-announced-for-property-at-eksporta-street-3-in-the-liepaja-industrial-park/index.php">Read more</a>
+<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="/site/en/sakums/auction-announced-for-property-at-eksporta-street-3-in-the-liepaja-industrial-park/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>As the development of the Liepaja Industrial Park on the site of the former “Liepājas metalurgs” steelworks continues, the Liepaja Special Economic Zone (Liepaja SEZ) Authority has announced an auction for the property at Eksporta Street 3, located within the Liepaja Industrial Park. This is the next step in involving businesses in the regeneration and transformation of the industrial area, offering an opportunity to acquire existing production buildings together with the land.</p>
-<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="auction-announced-for-property-at-eksporta-street-3-in-the-liepaja-industrial-park/index.php">Read more</a>
+<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="/site/en/sakums/auction-announced-for-property-at-eksporta-street-3-in-the-liepaja-industrial-park/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/324/1791277284_72_10.06.2026._LIP_izsole_Eksporta_iela.webp)">
-<a aria-label="Read more" href="auction-announced-for-property-at-eksporta-street-3-in-the-liepaja-industrial-park/index.php">
+<a aria-label="Read more" href="/site/en/sakums/auction-announced-for-property-at-eksporta-street-3-in-the-liepaja-industrial-park/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/324/1791277284_72_10.06.2026._LIP_izsole_Eksporta_iela.webp"/>
 </a>
 </div>
@@ -83,15 +83,15 @@
 <h2>Liepaja Industrial Park Development Continues with Site Remediation</h2>
 <span class="mb-3">29.09.2026.</span>
 </div>
-<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="liepaja-industrial-park-development-continues-with-site-remediation/index.php">Read more</a>
+<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="/site/en/sakums/liepaja-industrial-park-development-continues-with-site-remediation/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>The Liepaja Special Economic Zone Authority continues the transformation of the former steelworks “Liepajas metalurgs” industrial site by implementing the project “Development of the Liepaja Industrial Park Area – Phase 2.” The project involves redevelopment and remediation of a historically contaminated industrial site and construction of modern infrastructure required for business operations. The project is being implemented under the European Union Cohesion Policy Program 2021–2027, supporting the transition towards a climate-neutral economy and mitigating the socio-economic impacts associated with this transition in the Kurzeme region.</p>
-<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="liepaja-industrial-park-development-continues-with-site-remediation/index.php">Read more</a>
+<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="/site/en/sakums/liepaja-industrial-park-development-continues-with-site-remediation/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/322/1790685711_I40A6032.webp)">
-<a aria-label="Read more" href="liepaja-industrial-park-development-continues-with-site-remediation/index.php">
+<a aria-label="Read more" href="/site/en/sakums/liepaja-industrial-park-development-continues-with-site-remediation/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/322/1790685711_I40A6032.webp"/>
 </a>
 </div>
@@ -103,15 +103,15 @@
 <h2>Decisions of the Liepaja SEZ Board of 25 September</h2>
 <span class="mb-3">28.09.2026.</span>
 </div>
-<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="decisions-of-the-liepaja-sez-board-of-25-september/index.php">Read more</a>
+<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="/site/en/sakums/decisions-of-the-liepaja-sez-board-of-25-september/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>The regular meeting of the Liepaja Special Economic Zone (Liepaja SEZ) Board was held on 25 September, during which decisions were adopted at the conclusion of an investment agreement, the non-exercise of pre-emption rights, and the organization of an auction, as well as amendments to previously adopted decisions. The Liepaja SEZ Board also approved the updated Development Plan of the Liepaja Special Economic Zone for 2018-2035 and the Development Program of the Port of Liepaja for 2023-2027.</p>
-<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="decisions-of-the-liepaja-sez-board-of-25-september/index.php">Read more</a>
+<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="/site/en/sakums/decisions-of-the-liepaja-sez-board-of-25-september/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/323/1790837289_70_09.28.2026._Brimer_vizualizacija.webp)">
-<a aria-label="Read more" href="decisions-of-the-liepaja-sez-board-of-25-september/index.php">
+<a aria-label="Read more" href="/site/en/sakums/decisions-of-the-liepaja-sez-board-of-25-september/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/323/1790837289_70_09.28.2026._Brimer_vizualizacija.webp"/>
 </a>
 </div>
@@ -123,15 +123,15 @@
 <h2>Liepaja Industrial Park Named Among the World’s Top 10 Most Attractive Industrial and Logistics Investment Projects</h2>
 <span class="mb-3">21.09.2026.</span>
 </div>
-<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="liepaja-industrial-park-named-among-the-worlds-top-10-most-attractive-industrial-and-logis/index.php">Read more</a>
+<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="/site/en/sakums/liepaja-industrial-park-named-among-the-worlds-top-10-most-attractive-industrial-and-logis/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>The latest edition of Real FDI ongoing publication series highlighting the most attractive investment projects across regions and sectors has revealed its 2026 Top 10. In today’s increasingly competitive investment landscape, locations that can offer not only land, but also modern infrastructure, energy security, logistics connectivity and an ecosystem suited to advanced manufacturing are becoming increasingly attractive to investors. The Liepaja Industrial Park has been recognized as one of the most promising projects in Europe and included in the Top 10.</p>
-<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="liepaja-industrial-park-named-among-the-worlds-top-10-most-attractive-industrial-and-logis/index.php">Read more</a>
+<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="/site/en/sakums/liepaja-industrial-park-named-among-the-worlds-top-10-most-attractive-industrial-and-logis/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/319/1790069221_66_09.21.2026._LIP.webp)">
-<a aria-label="Read more" href="liepaja-industrial-park-named-among-the-worlds-top-10-most-attractive-industrial-and-logis/index.php">
+<a aria-label="Read more" href="/site/en/sakums/liepaja-industrial-park-named-among-the-worlds-top-10-most-attractive-industrial-and-logis/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/319/1790069221_66_09.21.2026._LIP.webp"/>
 </a>
 </div>
@@ -143,15 +143,15 @@
 <h2>Grain season gets off to a slower start at the Port of Liepaja this year</h2>
 <span class="mb-3">09.09.2026.</span>
 </div>
-<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="grain-season-gets-off-to-a-slower-start-at-the-port-of-liepaja-this-year/index.php">Read more</a>
+<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="/site/en/sakums/grain-season-gets-off-to-a-slower-start-at-the-port-of-liepaja-this-year/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>Stevedoring companies at the Port of Liepaja handled 341,830 tons of cargo in August 2026. Dry bulk cargo traditionally accounts for the largest share, with agricultural products, construction materials and wood chips totaling 188,160 tons. General cargo was the second-largest cargo group, accounting for 153,240 tons, of which 129,200 tons were transported on the regular Liepaja–Travemünde ferry service to Germany.</p>
-<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="grain-season-gets-off-to-a-slower-start-at-the-port-of-liepaja-this-year/index.php">Read more</a>
+<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="/site/en/sakums/grain-season-gets-off-to-a-slower-start-at-the-port-of-liepaja-this-year/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/317/1788948830_63_09.08.2026._1_LBT.webp)">
-<a aria-label="Read more" href="grain-season-gets-off-to-a-slower-start-at-the-port-of-liepaja-this-year/index.php">
+<a aria-label="Read more" href="/site/en/sakums/grain-season-gets-off-to-a-slower-start-at-the-port-of-liepaja-this-year/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/317/1788948830_63_09.08.2026._1_LBT.webp"/>
 </a>
 </div>
@@ -160,7 +160,7 @@
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev d-none" data-block="6" data-page="" data-per-page="6" data-topic="14" href="0/index.php">
+<a class="news-list-pagination prev d-none" data-block="6" data-page="" data-per-page="6" data-topic="14" href="/site/en/medijiem/0/index.php">
 <img alt="Previous" src="../../img/round-right.svg"/>
 
 								Previous
@@ -168,7 +168,7 @@
 							</a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="6" data-page="2" data-per-page="6" data-topic="14" href="2/index.php">
+<a class="news-list-pagination next" data-block="6" data-page="2" data-per-page="6" data-topic="14" href="/site/en/jaunumi-1/2/index.php">
 
 								Next <img alt="Previous" src="../../img/round-right.svg"/>
 </a>
@@ -202,7 +202,7 @@
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Scroll up" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Scroll up" href="/site/en/medijiem/index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

@@ -40,7 +40,7 @@
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../governance/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/parvaldiba/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Governance
@@ -48,7 +48,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../corporate-governance/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/korporativa-parvaldiba/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Corporate governance
@@ -56,7 +56,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../public-procurement/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/iepirkumi-un-izsoles/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Procurement and auctions
@@ -72,7 +72,7 @@
 						</a>
 <div class="sidebar-nested ps-md-4">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../board-meeting-decisions/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/valdes-sedes-lemumi/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Board meeting decisions
@@ -80,7 +80,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../activity-reports-1/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/atskaites-par-darbibu/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Activity reports
@@ -88,7 +88,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="active sidebar-nav-icon" href="index.php">
+<a aria-label="nosaukums" class="active sidebar-nav-icon" href="/site/en/ostas-statistika/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Port statistics
@@ -143,7 +143,7 @@
 <div class="col-12 col-lg-3 mt-5 sidebar-nav ps-0">
 <div class="row document-categories">
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Liepaja port statistics" class="d-flex align-items-center dc sidebar-nav-icon" data-value="23" href="23/index.php">
+<a aria-label="Liepaja port statistics" class="d-flex align-items-center dc sidebar-nav-icon" data-value="23" href="/site/en/jaunumi-1/23/index.php">
 <img alt="Liepaja port statistics" src="../../img/round-right-blue.svg"/>
 
 												Liepaja port statistics
@@ -462,7 +462,7 @@
 <div class="prev">
 </div>
 <div class="next">
-<a aria-label="Next" class="next docs-pagination" data-page="2" href="index.php">
+<a aria-label="Next" class="next docs-pagination" data-page="2" href="/site/en/ostas-statistika/index.php">
 
 							Next <img alt="Next" src="../../img/round-right.svg"/>
 </a>
@@ -508,7 +508,7 @@
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Scroll up" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Scroll up" href="/site/en/ostas-statistika/index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

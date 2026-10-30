@@ -41,7 +41,7 @@
 <h2 class="map-title mb-5">Liepāja Industrial Park</h2>
 </div>
 <div class="col-12 nocontrast">
-<span id="map-block"><img id="img" src="../../../../img/mod/map/18/1707388527_Kartes_1920x1320_7_liep_biznesa_parks.webp"/><a class="map-popover" data-bs-target="#modal104" data-bs-toggle="modal" href="index.php" style="left:38.44577984157334%;top:30.94231426007164%;">
+<span id="map-block"><img id="img" src="../../../../img/mod/map/18/1707388527_Kartes_1920x1320_7_liep_biznesa_parks.webp"/><a class="map-popover" data-bs-target="#modal104" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/liepajas-industrialais-parks/index.php" style="left:38.44577984157334%;top:30.94231426007164%;">
 <img src="../../../../img/mod/map/icons/3.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel104" class="modal fade" id="modal104" tabindex="-1">
@@ -56,7 +56,7 @@
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal105" data-bs-toggle="modal" href="index.php" style="left:29.88709824273878%;top:28.162469984300497%;">
+</div><a class="map-popover" data-bs-target="#modal105" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/liepajas-industrialais-parks/index.php" style="left:29.88709824273878%;top:28.162469984300497%;">
 <img src="../../../../img/mod/map/icons/3.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel105" class="modal fade" id="modal105" tabindex="-1">
@@ -116,7 +116,7 @@
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Scroll up" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../../img/round-right.svg"/></a>
+<a aria-label="Scroll up" href="/site/en/teritoriju-karte/map/liepajas-industrialais-parks/index.php"><img alt="scroll-up" class="img-fluid" src="../../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

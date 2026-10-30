@@ -16,8 +16,8 @@
 <title>Sākums » SEZ</title>
 <link href="../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../css/bootstrap.min.css" rel="stylesheet"/>
-<link href="https://liepaja-sez.lv/css/main.css?v=26" rel="stylesheet"/>
-<link href="https://liepaja-sez.lv/css/block/mod_news/main.css?v=1" rel="stylesheet" type="text/css"/> <link href="../../cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
+<link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
+<link href="/site/css/block/mod_news/main__1d365e2dc4.css?v=1" rel="stylesheet" type="text/css"/> <link href="../../cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
 <style>
 .blur-load img {
 opacity: 1 !important;

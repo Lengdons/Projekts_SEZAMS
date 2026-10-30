@@ -154,7 +154,7 @@
 
 								</a><ul aria-labelledby="navbar" class="dropdown-menu">
 <li>
-<a class="dropdown-item" href="/site/lv/medijiem/index.php">Medijiem</a>
+<a class="dropdown-item" href="/site/lv/jaunumi-1/index.php">Medijiem</a>
 </li>
 <li>
 <a class="dropdown-item" href="/site/lv/foto/index.php">Foto</a>

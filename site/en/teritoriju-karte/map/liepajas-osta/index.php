@@ -41,7 +41,7 @@
 <h2 class="map-title mb-5">Port of Liepāja</h2>
 </div>
 <div class="col-12 nocontrast">
-<span id="map-block"><img id="img" src="../../../../img/mod/map/14/1707387987_Kartes_1920x1320_Karte_titula.webp"/><a class="map-popover" data-bs-target="#modal79" data-bs-toggle="modal" href="index.php" style="left:45.77368469043494%;top:45.868032632586456%;">
+<span id="map-block"><img id="img" src="../../../../img/mod/map/14/1707387987_Kartes_1920x1320_Karte_titula.webp"/><a class="map-popover" data-bs-target="#modal79" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/liepajas-osta/index.php" style="left:45.77368469043494%;top:45.868032632586456%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel79" class="modal fade" id="modal79" tabindex="-1">
@@ -56,7 +56,7 @@
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal81" data-bs-toggle="modal" href="index.php" style="left:43.61285623235911%;top:69.0989862834541%;">
+</div><a class="map-popover" data-bs-target="#modal81" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/liepajas-osta/index.php" style="left:43.61285623235911%;top:69.0989862834541%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel81" class="modal fade" id="modal81" tabindex="-1">
@@ -70,7 +70,7 @@
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal82" data-bs-toggle="modal" href="index.php" style="left:36.587033828759004%;top:65.6933629237717%;">
+</div><a class="map-popover" data-bs-target="#modal82" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/liepajas-osta/index.php" style="left:36.587033828759004%;top:65.6933629237717%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel82" class="modal fade" id="modal82" tabindex="-1">
@@ -84,7 +84,7 @@
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal83" data-bs-toggle="modal" href="index.php" style="left:32.483815081608455%;top:52.30413952524212%;">
+</div><a class="map-popover" data-bs-target="#modal83" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/liepajas-osta/index.php" style="left:32.483815081608455%;top:52.30413952524212%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel83" class="modal fade" id="modal83" tabindex="-1">
@@ -144,7 +144,7 @@
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Scroll up" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../../img/round-right.svg"/></a>
+<a aria-label="Scroll up" href="/site/en/teritoriju-karte/map/liepajas-osta/index.php"><img alt="scroll-up" class="img-fluid" src="../../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

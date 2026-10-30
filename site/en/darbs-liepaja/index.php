@@ -40,7 +40,7 @@
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../invest-in-liepaja/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/investe-liepaja/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Invest in Liepaja
@@ -56,7 +56,7 @@
 						</a>
 <div class="sidebar-nested ps-md-4">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../about-port/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/par-ostu/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							About Port
@@ -64,7 +64,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../ferry-traffic/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/pramju-satiksme/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Ferry traffic
@@ -72,7 +72,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../cruise-ships/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/kruiza-kugi/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Cruising
@@ -80,7 +80,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../liepaja-marina/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/jahtu-osta/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Liepaja Marina
@@ -88,7 +88,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../oskars-kalpaks-bridge/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/oskara-kalpaka-tilts/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Oskars Kalpaks bridge
@@ -98,7 +98,7 @@
 </div>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../lsez-commercial-companies/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/kapitalsabiedribas/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Commercial Companies
@@ -106,7 +106,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../development-projects/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/attistibas-projekti/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Development projects
@@ -114,7 +114,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="active sidebar-nav-icon" href="index.php">
+<a aria-label="nosaukums" class="active sidebar-nav-icon" href="/site/en/darbs-liepaja/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Job vacancies
@@ -122,7 +122,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../map-of-territories/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/teritoriju-karte/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Map of territories
@@ -417,7 +417,7 @@ Please send your application and CV to: via-s@via-s.lv</p>
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Scroll up" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Scroll up" href="/site/en/darbs-liepaja/index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

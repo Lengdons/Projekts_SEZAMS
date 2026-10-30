@@ -51,7 +51,7 @@
 <h1 class="article-title">Repeated Ascending-Bid Auction for Property at Naglu Street 1</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>The Liepāja Special Economic Zone Authority, unified registration No. LV90000329402, is holding a repeated electronic ascending-bid auction for the property at Naglu iela 1, Liepāja, cadastral No. 17000220152, comprising a building with cadastral designation 17000220059027 and a land plot with a total area of 15,048 m<sup>2</sup>.</p><p>The starting price is EUR 295,000.00 (two hundred and ninety-five thousand euros and 00 cents), the bid increment is EUR 2,950.00 (two thousand nine hundred and fifty euros and 00 cents), and the auction security deposit is EUR 29,500.00 (twenty-nine thousand five hundred euros and 00 cents). Payment of the purchase price shall be made as follows:</p><ul><li>Within 10 working days after the preliminary agreement enters into force, the purchaser shall make an advance payment of 30% (thirty percent) of the purchase price.</li><li>The purchaser shall pay the remaining purchase price within two weeks after signing the purchase agreement.</li></ul><p>The auction begins on 19 June 2026 at 13:00 and ends on 20 July 2026 at 13:00.</p><p>Bidders may register for the auction from 19 June 2026 at 13:00 until 9 July 2026 at 23:59 on the electronic auction website: <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv</a>.</p><p>Anyone wishing to participate in the auction must pay a security deposit of 10% (ten percent) of the starting price of the auctioned property, i.e. EUR 29,500.00 (twenty-nine thousand five hundred euros and 00 cents), before the registration deadline. The deposit must be transferred to the LSEZ Authority's bank account: Liepāja Special Economic Zone Authority, unified registration No. LV90000329402, AS "SEB banka", account No. LV42UNLA0012000609480, with the payment reference "Auction security deposit for the property at Naglu iela 1".</p><p>The auction takes place electronically at: <a href="https://izsoles.ta.gov.lv/" target="_blank">https://izsoles.ta.gov.lv</a>. For information about the repeated real estate auction, call 29294267 or email <a href="mailto:raivo.spaks@lsez.lv">raivo.spaks@lsez.lv</a>.</p><p>Additional information: The auction rules are available on the <a href="../index.php">Liepāja SEZ procurement and auctions page</a>.</p></div>
+<div class="col"><div class="col-12 output"><p>The Liepāja Special Economic Zone Authority, unified registration No. LV90000329402, is holding a repeated electronic ascending-bid auction for the property at Naglu iela 1, Liepāja, cadastral No. 17000220152, comprising a building with cadastral designation 17000220059027 and a land plot with a total area of 15,048 m<sup>2</sup>.</p><p>The starting price is EUR 295,000.00 (two hundred and ninety-five thousand euros and 00 cents), the bid increment is EUR 2,950.00 (two thousand nine hundred and fifty euros and 00 cents), and the auction security deposit is EUR 29,500.00 (twenty-nine thousand five hundred euros and 00 cents). Payment of the purchase price shall be made as follows:</p><ul><li>Within 10 working days after the preliminary agreement enters into force, the purchaser shall make an advance payment of 30% (thirty percent) of the purchase price.</li><li>The purchaser shall pay the remaining purchase price within two weeks after signing the purchase agreement.</li></ul><p>The auction begins on 19 June 2026 at 13:00 and ends on 20 July 2026 at 13:00.</p><p>Bidders may register for the auction from 19 June 2026 at 13:00 until 9 July 2026 at 23:59 on the electronic auction website: <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv</a>.</p><p>Anyone wishing to participate in the auction must pay a security deposit of 10% (ten percent) of the starting price of the auctioned property, i.e. EUR 29,500.00 (twenty-nine thousand five hundred euros and 00 cents), before the registration deadline. The deposit must be transferred to the LSEZ Authority's bank account: Liepāja Special Economic Zone Authority, unified registration No. LV90000329402, AS "SEB banka", account No. LV42UNLA0012000609480, with the payment reference "Auction security deposit for the property at Naglu iela 1".</p><p>The auction takes place electronically at: <a href="https://izsoles.ta.gov.lv/" target="_blank">https://izsoles.ta.gov.lv</a>. For information about the repeated real estate auction, call 29294267 or email <a href="mailto:raivo.spaks@lsez.lv">raivo.spaks@lsez.lv</a>.</p><p>Additional information: The auction rules are available on the <a href="/site/en/iepirkumi-un-izsoles/index.php">Liepāja SEZ procurement and auctions page</a>.</p></div>
 </div>
 </div>
 </div>
@@ -217,11 +217,11 @@
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepāja SEZ Authority Holds an Electronic Ascending-Bid Auction for a Newly Created Property at Eksporta iela 3</h4>
-<a class="d-none d-md-block my-4" href="../liepaja-sez-authority-organizes-an-electronic-ascending-bid-auction-for-newly-created-real-estate-1/index.php">Read more</a>
+<a class="d-none d-md-block my-4" href="/site/en/iepirkumi-un-izsoles/liepaja-sez-authority-organizes-an-electronic-ascending-bid-auction-for-newly-created-real-estate-1/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">The Liepāja Special Economic Zone Authority, unified registration No. LV90000329402, is holding an electronic ascending-bid auction for a newly created property at Eksporta iela 3, Liepāja, comprising a land plot with a total area of 51,521 m² and 12 buildings.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../liepaja-sez-authority-organizes-an-electronic-ascending-bid-auction-for-newly-created-real-estate-1/index.php">Read more</a>
+<a class="d-block my-4" href="/site/en/iepirkumi-un-izsoles/liepaja-sez-authority-organizes-an-electronic-ascending-bid-auction-for-newly-created-real-estate-1/index.php">Read more</a>
 </div>
 </div>
 </div>
@@ -232,11 +232,11 @@
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Design, Construction and Design Supervision of the Reconstruction of Berth No. 46 at the Port of Liepāja</h4>
-<a class="d-none d-md-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
+<a class="d-none d-md-block my-4" href="/site/en/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Procurement subject: Design, construction and design supervision of the reconstruction of Berth No. 46 at the Port of Liepāja. IDENTIFICATION NUMBER: LSEZ 2026/12. Main CPV code: 45241500-3 (Quay wall construction work).</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
+<a class="d-block my-4" href="/site/en/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 </div>
 </div>
@@ -246,7 +246,7 @@
 <div class="prev">
 </div>
 <div class="next">
-<a aria-label="Next" class="next related-pagination" data-page="2" href="index.php">
+<a aria-label="Next" class="next related-pagination" data-page="2" href="/site/en/iepirkumi-un-izsoles/repeated-auction-with-ascending-bids-for-real-estate-on-naglu-street-1/index.php">
 
 							Next <img alt="Next" src="../../../img/round-right.svg"/>
 </a>
@@ -278,7 +278,7 @@
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Scroll up" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Scroll up" href="/site/en/iepirkumi-un-izsoles/repeated-auction-with-ascending-bids-for-real-estate-on-naglu-street-1/index.php"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

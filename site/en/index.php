@@ -52,7 +52,7 @@
 <li class="glide__slide jarallax-banner d-flex" style='background-image:url("https://liepaja-sez.lv/img/block/banner/25/1695811369_HEADER_HD_razoshana.webp")'>
 <span class="filler"></span>
 <div class="container d-flex z-2">
-<div class="content"><h5 class="animate__animated animate__fadeInUp">Liepaja Special Economic Zone</h5><p class="animate__animated animate__fadeInUp">Invest in Liepaja</p><a aria-label="Find out more" class="animate__animated animate__fadeInUp" href="invest-in-liepaja/index.php" target="">Find out more</a>
+<div class="content"><h5 class="animate__animated animate__fadeInUp">Liepaja Special Economic Zone</h5><p class="animate__animated animate__fadeInUp">Invest in Liepaja</p><a aria-label="Find out more" class="animate__animated animate__fadeInUp" href="/site/en/investe-liepaja/index.php" target="">Find out more</a>
 </div>
 </div>
 </li>
@@ -236,7 +236,7 @@ development of the city and the region, attracting new entrepreneurs, and suppor
 
 expansion of existing companies, creating new jobs with competitive salaries, increasing
 
-GDP and the amount of taxes paid.</p><a aria-label="Find out more" href="invest-in-liepaja/index.php" target="">Find out more</a>
+GDP and the amount of taxes paid.</p><a aria-label="Find out more" href="/site/en/investe-liepaja/index.php" target="">Find out more</a>
 </div>
 </div>
 </div>
@@ -252,7 +252,7 @@ world. The Port of Liepaja brings the essence and character of the city. Liepaja
 
 that have their own ports, think and live more broadly. The Port of Liepaja has a favorable
 
-geographical location between east and west.</p><a aria-label="Find out more" href="about-port/index.php" target="">Find out more</a>
+geographical location between east and west.</p><a aria-label="Find out more" href="/site/en/par-ostu/index.php" target="">Find out more</a>
 </div>
 </div>
 </div>
@@ -266,7 +266,7 @@ geographical location between east and west.</p><a aria-label="Find out more" hr
 
 and develops projects to promote establishment of new companies based on the basic
 
-principles of circular economy and technological growth.</p><a aria-label="Find out more" href="../en/development-projects/index.php" target="">Find out more</a>
+principles of circular economy and technological growth.</p><a aria-label="Find out more" href="/site/en/attistibas-projekti/index.php" target="">Find out more</a>
 </div>
 </div>
 </div>
@@ -284,7 +284,7 @@ city center, which allows tourists to easily enjoy the city's attractions. The c
 
 Rose Square and the Tourist Information Center are within a five-minute walking distance,
 
-and the beach itself is within a fifteen minute-walk.</p><a aria-label="Find out more" href="liepaja-marina/index.php" target="">Find out more</a>
+and the beach itself is within a fifteen minute-walk.</p><a aria-label="Find out more" href="/site/en/jahtu-osta/index.php" target="">Find out more</a>
 </div>
 </div>
 </div>
@@ -314,7 +314,7 @@ Karosta Canal is a busy shipping route, so the bridge is opened for ship traffic
 
 day. In order to find out whether Oskars Kalpaks Bridge is open, a webcam has been
 
-installed.</p><a aria-label="Find out more" href="oskars-kalpaks-bridge/index.php" target="">Find out more</a>
+installed.</p><a aria-label="Find out more" href="/site/en/oskara-kalpaka-tilts/index.php" target="">Find out more</a>
 </div>
 </div>
 </div>
@@ -332,33 +332,33 @@ installed.</p><a aria-label="Find out more" href="oskars-kalpaks-bridge/index.ph
 <div class="row">
 <div class="col-12 col-md-6 col-lg-4 news-single">
 <div>
-<a aria-label="Read more" href="home/the-kalpak-bridge-will-be-closed-to-traffic-for-three-days-as-part-of-an-international-film-project/index.php">
+<a aria-label="Read more" href="/site/en/sakums/the-kalpak-bridge-will-be-closed-to-traffic-for-three-days-as-part-of-an-international-film-project/index.php">
 <img alt="" class="img-fluid mb-2" src="../img/mod/news/326/1792137601_75_10.16.2026._kino_kalpaka_tilts.webp"/>
 </a>
 <span class="mb-1">16.10.2026.</span>
 <h3> O. Kalpakas Bridge will be closed to traffic for three days as part of an international film project
 </h3></div>
-<a aria-label="Read more" class="news_link mb-5" href="home/the-kalpak-bridge-will-be-closed-to-traffic-for-three-days-as-part-of-an-international-film-project/index.php">Read more</a>
+<a aria-label="Read more" class="news_link mb-5" href="/site/en/sakums/the-kalpak-bridge-will-be-closed-to-traffic-for-three-days-as-part-of-an-international-film-project/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-6 col-lg-4 news-single">
 <div>
-<a aria-label="Read more" href="home/auction-announced-for-property-at-eksporta-street-3-in-the-liepaja-industrial-park/index.php">
+<a aria-label="Read more" href="/site/en/sakums/auction-announced-for-property-at-eksporta-street-3-in-the-liepaja-industrial-park/index.php">
 <img alt="" class="img-fluid mb-2" src="../img/mod/news/324/1791277284_72_10.06.2026._LIP_izsole_Eksporta_iela.webp"/>
 </a>
 <span class="mb-1">06.10.2026.</span>
 <h3>Auction Announced for Property at Eksporta Street 3 in the Liepaja Industrial Park
 </h3></div>
-<a aria-label="Read more" class="news_link mb-5" href="home/auction-announced-for-property-at-eksporta-street-3-in-the-liepaja-industrial-park/index.php">Read more</a>
+<a aria-label="Read more" class="news_link mb-5" href="/site/en/sakums/auction-announced-for-property-at-eksporta-street-3-in-the-liepaja-industrial-park/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-6 col-lg-4 news-single">
 <div>
-<a aria-label="Read more" href="home/liepaja-industrial-park-development-continues-with-site-remediation/index.php">
+<a aria-label="Read more" href="/site/en/sakums/liepaja-industrial-park-development-continues-with-site-remediation/index.php">
 <img alt="" class="img-fluid mb-2" src="../img/mod/news/322/1790685711_I40A6032.webp"/>
 </a>
 <span class="mb-1">29.09.2026.</span>
 <h3>Liepaja Industrial Park Development Continues with Site Remediation
 </h3></div>
-<a aria-label="Read more" class="news_link mb-5" href="home/liepaja-industrial-park-development-continues-with-site-remediation/index.php">Read more</a>
+<a aria-label="Read more" class="news_link mb-5" href="/site/en/sakums/liepaja-industrial-park-development-continues-with-site-remediation/index.php">Read more</a>
 </div>
 </div>
 </div>
@@ -368,33 +368,33 @@ installed.</p><a aria-label="Find out more" href="oskars-kalpaks-bridge/index.ph
 <div class="row">
 <div class="col-12 col-md-6 col-lg-4 news-single">
 <div>
-<a aria-label="Read more" href="home/decisions-of-the-liepaja-sez-board-of-25-september/index.php">
+<a aria-label="Read more" href="/site/en/sakums/decisions-of-the-liepaja-sez-board-of-25-september/index.php">
 <img alt="" class="img-fluid mb-2" src="../img/mod/news/323/1790837289_70_09.28.2026._Brimer_vizualizacija.webp"/>
 </a>
 <span class="mb-1">28.09.2026.</span>
 <h3>Decisions of the Liepaja SEZ Board of 25 September
 </h3></div>
-<a aria-label="Read more" class="news_link mb-5" href="home/decisions-of-the-liepaja-sez-board-of-25-september/index.php">Read more</a>
+<a aria-label="Read more" class="news_link mb-5" href="/site/en/sakums/decisions-of-the-liepaja-sez-board-of-25-september/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-6 col-lg-4 news-single">
 <div>
-<a aria-label="Read more" href="home/liepaja-industrial-park-named-among-the-worlds-top-10-most-attractive-industrial-and-logis/index.php">
+<a aria-label="Read more" href="/site/en/sakums/liepaja-industrial-park-named-among-the-worlds-top-10-most-attractive-industrial-and-logis/index.php">
 <img alt="" class="img-fluid mb-2" src="../img/mod/news/319/1790069221_66_09.21.2026._LIP.webp"/>
 </a>
 <span class="mb-1">21.09.2026.</span>
 <h3>Liepaja Industrial Park Named Among the World’s Top 10 Most Attractive Industrial and Logistics Investment Projects
 </h3></div>
-<a aria-label="Read more" class="news_link mb-5" href="home/liepaja-industrial-park-named-among-the-worlds-top-10-most-attractive-industrial-and-logis/index.php">Read more</a>
+<a aria-label="Read more" class="news_link mb-5" href="/site/en/sakums/liepaja-industrial-park-named-among-the-worlds-top-10-most-attractive-industrial-and-logis/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-6 col-lg-4 news-single">
 <div>
-<a aria-label="Read more" href="home/grain-season-gets-off-to-a-slower-start-at-the-port-of-liepaja-this-year/index.php">
+<a aria-label="Read more" href="/site/en/sakums/grain-season-gets-off-to-a-slower-start-at-the-port-of-liepaja-this-year/index.php">
 <img alt="" class="img-fluid mb-2" src="../img/mod/news/317/1788948830_63_09.08.2026._1_LBT.webp"/>
 </a>
 <span class="mb-1">09.09.2026.</span>
 <h3>Grain season gets off to a slower start at the Port of Liepaja this year
 </h3></div>
-<a aria-label="Read more" class="news_link mb-5" href="home/grain-season-gets-off-to-a-slower-start-at-the-port-of-liepaja-this-year/index.php">Read more</a>
+<a aria-label="Read more" class="news_link mb-5" href="/site/en/sakums/grain-season-gets-off-to-a-slower-start-at-the-port-of-liepaja-this-year/index.php">Read more</a>
 </div>
 </div>
 </div>
@@ -404,33 +404,33 @@ installed.</p><a aria-label="Find out more" href="oskars-kalpaks-bridge/index.ph
 <div class="row">
 <div class="col-12 col-md-6 col-lg-4 news-single">
 <div>
-<a aria-label="Read more" href="home/port-services-in-the-port-of-liepaja-become-more-accessible/index.php">
+<a aria-label="Read more" href="/site/en/sakums/port-services-in-the-port-of-liepaja-become-more-accessible/index.php">
 <img alt="" class="img-fluid mb-2" src="../img/mod/news/316/1788941725_S9209229.webp"/>
 </a>
 <span class="mb-1">04.09.2026.</span>
 <h3>Port Services in the Port of Liepaja Become More Accessible
 </h3></div>
-<a aria-label="Read more" class="news_link mb-5" href="home/port-services-in-the-port-of-liepaja-become-more-accessible/index.php">Read more</a>
+<a aria-label="Read more" class="news_link mb-5" href="/site/en/sakums/port-services-in-the-port-of-liepaja-become-more-accessible/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-6 col-lg-4 news-single">
 <div>
-<a aria-label="Read more" href="home/seven-cruise-ships-4276-visitors-and-growing-demand-liepaja-strengthens-its-position-on-th/index.php">
+<a aria-label="Read more" href="/site/en/sakums/seven-cruise-ships-4276-visitors-and-growing-demand-liepaja-strengthens-its-position-on-th/index.php">
 <img alt="" class="img-fluid mb-2" src="../img/mod/news/315/1788766639_62_09.04.2026._kruīza kugis_3.1.webp"/>
 </a>
 <span class="mb-1">04.09.2026.</span>
 <h3>Seven Cruise Ships, 4,276 Visitors and Growing Demand: Liepaja Strengthens Its Position on the Baltic Cruise Map
 </h3></div>
-<a aria-label="Read more" class="news_link mb-5" href="home/seven-cruise-ships-4276-visitors-and-growing-demand-liepaja-strengthens-its-position-on-th/index.php">Read more</a>
+<a aria-label="Read more" class="news_link mb-5" href="/site/en/sakums/seven-cruise-ships-4276-visitors-and-growing-demand-liepaja-strengthens-its-position-on-th/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-6 col-lg-4 news-single">
 <div>
-<a aria-label="Read more" href="home/port-of-liepaja-continues-handling-grain-grown-by-latvian-farmers/index.php">
+<a aria-label="Read more" href="/site/en/sakums/port-of-liepaja-continues-handling-grain-grown-by-latvian-farmers/index.php">
 <img alt="" class="img-fluid mb-2" src="../img/mod/news/311/1788428596_61_09.02.2026._LBT.webp"/>
 </a>
 <span class="mb-1">02.09.2026.</span>
 <h3>Port of Liepaja Continues Handling Grain Grown by Latvian Farmers
 </h3></div>
-<a aria-label="Read more" class="news_link mb-5" href="home/port-of-liepaja-continues-handling-grain-grown-by-latvian-farmers/index.php">Read more</a>
+<a aria-label="Read more" class="news_link mb-5" href="/site/en/sakums/port-of-liepaja-continues-handling-grain-grown-by-latvian-farmers/index.php">Read more</a>
 </div>
 </div>
 </div>
@@ -442,7 +442,7 @@ installed.</p><a aria-label="Find out more" href="oskars-kalpaks-bridge/index.ph
 <div class="carousel slide newsMagnetCarousel nocontrast" data-bs-interval="9999999" data-bs-ride="carousel" data-bs-touch="true" id="newsMagnetCarousel69">
 <div class="carousel-inner">
 <div class="carousel-item active" style="background-color:#04103e;">
-<a href="board-meeting-decisions/index.php" target="">
+<a href="/site/en/valdes-sedes-lemumi/index.php" target="">
 <div class="carousel-caption"><img alt="Icon" class="img-fluid icon mb-4" src="../img/mod/magnet/35/1709199402_VALDEs_seede.svg"/>
 <h4>Board meeting</h4>
 <p>Deadline for the submission of documents for consideration at a meeting of the Liepāja SEZ Board</p>
@@ -480,7 +480,7 @@ installed.</p><a aria-label="Find out more" href="oskars-kalpaks-bridge/index.ph
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Scroll up" href="index.php"><img alt="scroll-up" class="img-fluid" src="../img/round-right.svg"/></a>
+<a aria-label="Scroll up" href="/site/en/index.php"><img alt="scroll-up" class="img-fluid" src="../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

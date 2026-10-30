@@ -40,7 +40,7 @@
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="active sidebar-nav-icon" href="index.php">
+<a aria-label="nosaukums" class="active sidebar-nav-icon" href="/site/en/investe-liepaja/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Invest in Liepaja
@@ -56,7 +56,7 @@
 						</a>
 <div class="sidebar-nested ps-md-4">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../about-port/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/par-ostu/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							About Port
@@ -64,7 +64,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../ferry-traffic/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/pramju-satiksme/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Ferry traffic
@@ -72,7 +72,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../cruise-ships/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/kruiza-kugi/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Cruising
@@ -80,7 +80,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../liepaja-marina/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/jahtu-osta/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Liepaja Marina
@@ -88,7 +88,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../oskars-kalpaks-bridge/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/oskara-kalpaka-tilts/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Oskars Kalpaks bridge
@@ -98,7 +98,7 @@
 </div>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../lsez-commercial-companies/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/kapitalsabiedribas/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Commercial Companies
@@ -106,7 +106,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../development-projects/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/attistibas-projekti/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Development projects
@@ -114,7 +114,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../job-vacancies/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/darbs-liepaja/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Job vacancies
@@ -122,7 +122,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../map-of-territories/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/teritoriju-karte/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Map of territories
@@ -366,7 +366,7 @@
 </div>
 <div aria-labelledby="heading5100" class="collapse" data-parent="#accordion" id="collapse5100">
 <div class="card-body">
-<p><strong>Development of the Liepaja Industrial Park is one of the most significant industrial development projects in Liepaja in recent years, which is implemented by the Liepaja Special Economic Zone Authority.</strong></p><p>The aim of the project is to transform the abandoned territory of the former steel plant Liepajas Metalurgs into a modern and sustainable industrial park that operates in the sectors defined in the Smart Specialization Strategy (RIS3), promoting increase of employment creating high added value for the City of Liepaja and the Latvian national economy as a whole.</p><p>The Liepaja Industrial Park is being built in the area between Brīvības Street, Meldru Street, Ezermalas Street, Parka Street and Zemnieku Street, and borders the Lake of Liepaja, which is a specially protected natural Area NATURA 2000.</p><p>Territories: <a href="../investe-liepaja/map/territories/index.php">https://liepaja-sez.lv/en/investe-liepaja/map/territories/</a></p><p><br/><strong>Contact: </strong>Laura Adamoviča, Project Manager<br/><strong>Phone:</strong> (+371) 20501905<br/><strong>E-mail: </strong>laura.adamovica@lsez.lv</p><br/>
+<p><strong>Development of the Liepaja Industrial Park is one of the most significant industrial development projects in Liepaja in recent years, which is implemented by the Liepaja Special Economic Zone Authority.</strong></p><p>The aim of the project is to transform the abandoned territory of the former steel plant Liepajas Metalurgs into a modern and sustainable industrial park that operates in the sectors defined in the Smart Specialization Strategy (RIS3), promoting increase of employment creating high added value for the City of Liepaja and the Latvian national economy as a whole.</p><p>The Liepaja Industrial Park is being built in the area between Brīvības Street, Meldru Street, Ezermalas Street, Parka Street and Zemnieku Street, and borders the Lake of Liepaja, which is a specially protected natural Area NATURA 2000.</p><p>Territories: <a href="/site/en/investe-liepaja/map/territories/index.php">https://liepaja-sez.lv/en/investe-liepaja/map/territories/</a></p><p><br/><strong>Contact: </strong>Laura Adamoviča, Project Manager<br/><strong>Phone:</strong> (+371) 20501905<br/><strong>E-mail: </strong>laura.adamovica@lsez.lv</p><br/>
 <img alt="" src="../../img/block/accordion/116/1711009171_lip.webp"/>
 </div>
 </div>
@@ -513,7 +513,7 @@
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Scroll up" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Scroll up" href="/site/en/investe-liepaja/index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

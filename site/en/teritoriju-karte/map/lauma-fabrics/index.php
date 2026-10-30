@@ -86,7 +86,7 @@
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Scroll up" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../../img/round-right.svg"/></a>
+<a aria-label="Scroll up" href="/site/en/teritoriju-karte/map/lauma-fabrics/index.php"><img alt="scroll-up" class="img-fluid" src="../../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

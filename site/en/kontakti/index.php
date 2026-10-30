@@ -47,7 +47,7 @@
 <div class="col-12 col-md-3 sidebar-nav">
 <div class="row">
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Management" class="d-flex align-items-center units current sidebar-nav-icon" data-block="49" data-id="10" href="index.php">
+<a aria-label="Management" class="d-flex align-items-center units current sidebar-nav-icon" data-block="49" data-id="10" href="/site/en/kontakti/index.php">
 <img alt="Management" src="../../img/round-right-blue.svg"/>
 
 										Management
@@ -55,7 +55,7 @@
 									</a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="CEO Bureau" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="22" href="index.php">
+<a aria-label="CEO Bureau" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="22" href="/site/en/kontakti/index.php">
 <img alt="CEO Bureau" src="../../img/round-right-blue.svg"/>
 
 										CEO Bureau
@@ -63,7 +63,7 @@
 									</a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="BUSINESS DEVELOPMENT DEPARTMENT" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="15" href="index.php">
+<a aria-label="BUSINESS DEVELOPMENT DEPARTMENT" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="15" href="/site/en/kontakti/index.php">
 <img alt="BUSINESS DEVELOPMENT DEPARTMENT" src="../../img/round-right-blue.svg"/>
 
 										BUSINESS DEVELOPMENT DEPARTMENT
@@ -71,7 +71,7 @@
 									</a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="HARBOR MASTER’S OFFICE" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="21" href="index.php">
+<a aria-label="HARBOR MASTER’S OFFICE" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="21" href="/site/en/kontakti/index.php">
 <img alt="HARBOR MASTER’S OFFICE" src="../../img/round-right-blue.svg"/>
 
 										HARBOR MASTER’S OFFICE
@@ -79,7 +79,7 @@
 									</a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="INFRASTRUCTURE DEPARTMENT" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="17" href="index.php">
+<a aria-label="INFRASTRUCTURE DEPARTMENT" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="17" href="/site/en/kontakti/index.php">
 <img alt="INFRASTRUCTURE DEPARTMENT" src="../../img/round-right-blue.svg"/>
 
 										INFRASTRUCTURE DEPARTMENT
@@ -87,7 +87,7 @@
 									</a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="LEGAL-ADMINISTRATIVE DEPARTMENT" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="11" href="index.php">
+<a aria-label="LEGAL-ADMINISTRATIVE DEPARTMENT" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="11" href="/site/en/kontakti/index.php">
 <img alt="LEGAL-ADMINISTRATIVE DEPARTMENT" src="../../img/round-right-blue.svg"/>
 
 										LEGAL-ADMINISTRATIVE DEPARTMENT
@@ -95,7 +95,7 @@
 									</a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="FINANCE DEPARTMENT" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="12" href="index.php">
+<a aria-label="FINANCE DEPARTMENT" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="12" href="/site/en/kontakti/index.php">
 <img alt="FINANCE DEPARTMENT" src="../../img/round-right-blue.svg"/>
 
 										FINANCE DEPARTMENT
@@ -103,7 +103,7 @@
 									</a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="PERSONNEL MANAGEMENT DEPARTMENT" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="24" href="index.php">
+<a aria-label="PERSONNEL MANAGEMENT DEPARTMENT" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="24" href="/site/en/kontakti/index.php">
 <img alt="PERSONNEL MANAGEMENT DEPARTMENT" src="../../img/round-right-blue.svg"/>
 
 										PERSONNEL MANAGEMENT DEPARTMENT
@@ -111,7 +111,7 @@
 									</a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="SECURITY AND ENVIRONMENT PROTECTION DEPARTMENT" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="25" href="index.php">
+<a aria-label="SECURITY AND ENVIRONMENT PROTECTION DEPARTMENT" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="25" href="/site/en/kontakti/index.php">
 <img alt="SECURITY AND ENVIRONMENT PROTECTION DEPARTMENT" src="../../img/round-right-blue.svg"/>
 
 										SECURITY AND ENVIRONMENT PROTECTION DEPARTMENT
@@ -119,7 +119,7 @@
 									</a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Internal audit department" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="26" href="index.php">
+<a aria-label="Internal audit department" class="d-flex align-items-center units sidebar-nav-icon" data-block="49" data-id="26" href="/site/en/kontakti/index.php">
 <img alt="Internal audit department" src="../../img/round-right-blue.svg"/>
 
 										Internal audit department
@@ -256,7 +256,7 @@
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Scroll up" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Scroll up" href="/site/en/kontakti/index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

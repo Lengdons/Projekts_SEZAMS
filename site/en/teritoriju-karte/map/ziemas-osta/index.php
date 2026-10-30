@@ -41,7 +41,7 @@
 <h2 class="map-title mb-5">Winter Port</h2>
 </div>
 <div class="col-12 nocontrast">
-<span id="map-block"><img id="img" src="../../../../img/mod/map/16/1707388062_Kartes_1920x1320_3_ziemasosta.webp"/><a class="map-popover" data-bs-target="#modal54" data-bs-toggle="modal" href="index.php" style="left:70.32461019421902%;top:53.39118538374045%;">
+<span id="map-block"><img id="img" src="../../../../img/mod/map/16/1707388062_Kartes_1920x1320_3_ziemasosta.webp"/><a class="map-popover" data-bs-target="#modal54" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/ziemas-osta/index.php" style="left:70.32461019421902%;top:53.39118538374045%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel54" class="modal fade" id="modal54" tabindex="-1">
@@ -56,7 +56,7 @@
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal55" data-bs-toggle="modal" href="index.php" style="left:57.46785811981398%;top:39.07399600709496%;">
+</div><a class="map-popover" data-bs-target="#modal55" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/ziemas-osta/index.php" style="left:57.46785811981398%;top:39.07399600709496%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel55" class="modal fade" id="modal55" tabindex="-1">
@@ -71,7 +71,7 @@
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal56" data-bs-toggle="modal" href="index.php" style="left:33.94273730281754%;top:43.581259329372244%;">
+</div><a class="map-popover" data-bs-target="#modal56" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/ziemas-osta/index.php" style="left:33.94273730281754%;top:43.581259329372244%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel56" class="modal fade" id="modal56" tabindex="-1">
@@ -86,7 +86,7 @@
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal57" data-bs-toggle="modal" href="index.php" style="left:36.69565217391305%;top:45.259165613147914%;">
+</div><a class="map-popover" data-bs-target="#modal57" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/ziemas-osta/index.php" style="left:36.69565217391305%;top:45.259165613147914%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel57" class="modal fade" id="modal57" tabindex="-1">
@@ -101,7 +101,7 @@
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal58" data-bs-toggle="modal" href="index.php" style="left:54.00291784444241%;top:32.84336729688813%;">
+</div><a class="map-popover" data-bs-target="#modal58" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/ziemas-osta/index.php" style="left:54.00291784444241%;top:32.84336729688813%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel58" class="modal fade" id="modal58" tabindex="-1">
@@ -116,7 +116,7 @@
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal59" data-bs-toggle="modal" href="index.php" style="left:19.353515090726724%;top:61.61031261848138%;">
+</div><a class="map-popover" data-bs-target="#modal59" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/ziemas-osta/index.php" style="left:19.353515090726724%;top:61.61031261848138%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel59" class="modal fade" id="modal59" tabindex="-1">
@@ -131,7 +131,7 @@
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal60" data-bs-toggle="modal" href="index.php" style="left:33.57800674751527%;top:23.43114094742675%;">
+</div><a class="map-popover" data-bs-target="#modal60" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/ziemas-osta/index.php" style="left:33.57800674751527%;top:23.43114094742675%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel60" class="modal fade" id="modal60" tabindex="-1">
@@ -146,7 +146,7 @@
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal61" data-bs-toggle="modal" href="index.php" style="left:16.435670648308562%;top:12.030416073431274%;">
+</div><a class="map-popover" data-bs-target="#modal61" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/ziemas-osta/index.php" style="left:16.435670648308562%;top:12.030416073431274%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel61" class="modal fade" id="modal61" tabindex="-1">
@@ -161,7 +161,7 @@
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal62" data-bs-toggle="modal" href="index.php" style="left:47.80249840430382%;top:69.16660701171094%;">
+</div><a class="map-popover" data-bs-target="#modal62" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/ziemas-osta/index.php" style="left:47.80249840430382%;top:69.16660701171094%;">
 <img src="../../../../img/mod/map/icons/2.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel62" class="modal fade" id="modal62" tabindex="-1">
@@ -221,7 +221,7 @@
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Scroll up" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../../img/round-right.svg"/></a>
+<a aria-label="Scroll up" href="/site/en/teritoriju-karte/map/ziemas-osta/index.php"><img alt="scroll-up" class="img-fluid" src="../../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

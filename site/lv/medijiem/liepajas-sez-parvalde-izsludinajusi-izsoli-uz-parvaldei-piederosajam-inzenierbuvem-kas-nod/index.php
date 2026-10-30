@@ -15,8 +15,8 @@
 <title>Liepājas SEZ pārvalde izsludinājusi izsoli uz pārvaldei piederošajām inženierbūvēm, kas nodrošina naftas notekūdeņu attīrīšanas iekārtas kompleksa funkciju veikšanu » SEZ</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
-<link href="https://liepaja-sez.lv/css/main.css?v=26" rel="stylesheet"/>
-<link href="https://liepaja-sez.lv/css/block/text/main.css?v=2" rel="stylesheet" type="text/css"/> <link href="../../../cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
+<link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
+<link href="/site/css/block/text/main__f67bbdbffc.css?v=2" rel="stylesheet" type="text/css"/> <link href="../../../cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
 <script>
 
 const html = document.querySelector("html");
@@ -51,13 +51,13 @@ html.classList.add(localStorage['contrast']);
 <h1 class="article-title">Liepājas SEZ pārvalde izsludinājusi izsoli uz pārvaldei piederošajām inženierbūvēm, kas nodrošina naftas notekūdeņu attīrīšanas iekārtas kompleksa funkciju veikšanu</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Liepājas SEZ pārvalde, lai uzlabotu sniegto pakalpojumu kvalitāti un nodrošinātu efektīvu pārvaldību, izsludinājusi izsoli uz pārvaldei piederošajām inženierbūvēm, kas nodrošina naftas notekūdeņu attīrīšanas iekārtas kompleksa funkciju veikšanu. Izsoles mērķis ir noteikt nomnieku, kurš piedāvās saimnieciski visizdevīgāko piedāvājumu, un nomas līguma darbības laikā pieņems un attīrīs Liepājas ostā ienākošo kuģu sanitāro maksu ietvaros nodotos atkritumus saskaņā ar Marpol I pielikumu, atbilstoši normatīvo aktu prasībām. Dalībnieki izsolei var pieteikties līdz 2025. gada 11. aprīlim.</p><p>Liepājas ostas Attīrīšanas iekārtas nodotas ekspluatācijā 2004. gadā, lai savāktu un attīrītu naftu saturošo notekūdeņus no ostā ienākošajiem kuģiem, vienlaikus rūpējoties par Baltijas jūras vides stāvokli.  To nosaka Ostas Atkritumu Pieņemšanas Direktīva un uzliek par pienākumu Liepājas SEZ pārvaldei pieņemt kuģu radītos atkritumus, tai skaitā piesārņotos ūdeņus, vienlaikus šī direktīva nereglamentē kārtību, kādā notiek piesārņoto ūdeņu attīrīšana.</p><p>Liepājas osta ir vienīgā osta Latvijā, kas pati nodrošina no kuģiem pieņemto piesārņoto ūdeņu attīrīšanu. Liepājas SEZ pārvaldes pamatfunkcija ir uzņēmējdarbības atbalsts un nodrošinājums, nevis saimnieciskās darbības veikšana. Liepājas SEZ pārvaldes funkciju auditā secināts, ka lai nodrošinātu rentablu Liepājas ostas Attīrīšanas iekārtu saimnieciski darbību nepieciešams veikt papildu pakalpojumus.  </p><p>Izanalizējot citu ostu pieredzi un ievērojot Publiskas personas finanšu līdzekļu un mantas izšķērdēšanas novēršanas likumā noteikto, Liepājas SEZ pārvalde izvēlējās citu, izdevīgāku risinājumu kuģu radīto piesārņoto ūdeņu attīrīšanai un nolēma izsludināt izsoli uz Liepājas ostas Attīrīšanas iekārtu nomu un pakalpojuma nodrošināšanu.</p><p>Vairāk informācijas: <a href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-specialas-ekonomiskas-zonas-parvaldes-valdijuma-esosa-nekustama-ipasuma-nomas-tie">https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-specialas-ekonomiskas-zonas-parvaldes-valdijuma-esosa-nekustama-ipasuma-nomas-tie</a></p></div>
+<div class="col"><div class="col-12 output"><p>Liepājas SEZ pārvalde, lai uzlabotu sniegto pakalpojumu kvalitāti un nodrošinātu efektīvu pārvaldību, izsludinājusi izsoli uz pārvaldei piederošajām inženierbūvēm, kas nodrošina naftas notekūdeņu attīrīšanas iekārtas kompleksa funkciju veikšanu. Izsoles mērķis ir noteikt nomnieku, kurš piedāvās saimnieciski visizdevīgāko piedāvājumu, un nomas līguma darbības laikā pieņems un attīrīs Liepājas ostā ienākošo kuģu sanitāro maksu ietvaros nodotos atkritumus saskaņā ar Marpol I pielikumu, atbilstoši normatīvo aktu prasībām. Dalībnieki izsolei var pieteikties līdz 2025. gada 11. aprīlim.</p><p>Liepājas ostas Attīrīšanas iekārtas nodotas ekspluatācijā 2004. gadā, lai savāktu un attīrītu naftu saturošo notekūdeņus no ostā ienākošajiem kuģiem, vienlaikus rūpējoties par Baltijas jūras vides stāvokli.  To nosaka Ostas Atkritumu Pieņemšanas Direktīva un uzliek par pienākumu Liepājas SEZ pārvaldei pieņemt kuģu radītos atkritumus, tai skaitā piesārņotos ūdeņus, vienlaikus šī direktīva nereglamentē kārtību, kādā notiek piesārņoto ūdeņu attīrīšana.</p><p>Liepājas osta ir vienīgā osta Latvijā, kas pati nodrošina no kuģiem pieņemto piesārņoto ūdeņu attīrīšanu. Liepājas SEZ pārvaldes pamatfunkcija ir uzņēmējdarbības atbalsts un nodrošinājums, nevis saimnieciskās darbības veikšana. Liepājas SEZ pārvaldes funkciju auditā secināts, ka lai nodrošinātu rentablu Liepājas ostas Attīrīšanas iekārtu saimnieciski darbību nepieciešams veikt papildu pakalpojumus.  </p><p>Izanalizējot citu ostu pieredzi un ievērojot Publiskas personas finanšu līdzekļu un mantas izšķērdēšanas novēršanas likumā noteikto, Liepājas SEZ pārvalde izvēlējās citu, izdevīgāku risinājumu kuģu radīto piesārņoto ūdeņu attīrīšanai un nolēma izsludināt izsoli uz Liepājas ostas Attīrīšanas iekārtu nomu un pakalpojuma nodrošināšanu.</p><p>Vairāk informācijas: <a href="/site/lv/iepirkumi-un-izsoles/liepajas-specialas-ekonomiskas-zonas-parvaldes-valdijuma-esosa-nekustama-ipasuma-nomas-tie/index.php">https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-specialas-ekonomiskas-zonas-parvaldes-valdijuma-esosa-nekustama-ipasuma-nomas-tie</a></p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/210/870_1741333231_12_03.04.2025._attirisanas iekartas.webp" style="width: 100%;"/>
-<a aria-label="Lejupielādēt" class="image-download" download="" href="https://liepaja-sez.lv/img/mod/news/210/original_1741333231_12_03.04.2025._attirisanas iekartas.webp">
+<a aria-label="Lejupielādēt" class="image-download" download="" href="/site/img/mod/news/210/original_1741333231_12_03.04.2025._attirisanas iekartas.webp">
 <img alt="Lejupielādēt" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
@@ -79,11 +79,11 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Starptautiska kino projekta ietvaros trīs dienas satiksmei būs slēgts O. Kalpaka tilts</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">No 16. – 24. oktobrim Liepāja uz īsu brīdi pārtaps par starptautiskas kinoindustrijas filmēšanas laukumu. Pilsētā tiks uzņemta pasaulē populārās “Millennium” grāmatu sērijas romāna “Meitene ar pūķa tetovējumu” ekranizācija, kuru producē kompānija “Left Bank Pictures”, kas pazīstama ar tādiem projektiem kā “The Crown” un “Dept Q”. Īpaša loma šajā projektā atvēlēta Oskara Kalpaka tiltam, kas izvēlēts kā viena no nozīmīgākajām filmēšanas lokācijām visā seriālā. Tilts trīs dienās uz filmēšanas laiku tiks slēgts gājējiem un autotransportam, kā arī tiks ierobežota kuģu satiksme.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/">Lasīt vairāk</a>
+<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>
@@ -94,11 +94,11 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Izsludina izsoli par nekustamo īpašumu Liepājas Industriālajā parkā - Eksporta ielā 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Turpinot izbūvēt Liepājas Industriālo parku bijušās rūpnīcas Liepājas metalurgs teritorijā, Liepājas speciālās ekonomiskās zonas (Liepājas SEZ) pārvalde izsludinājusi  izsoli par nekustamo īpašumu Eksporta ielā 3, kas atrodas Liepājas Industriālā parka teritorijā.  Šis ir nākamais solis, lai iesaistītu uzņēmējus industriālās teritorijas atjaunošanas un pārveidošanas procesā, piedāvājot iespēju iegādāties īpašumā ražošanas ēkas ar zemi.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/">Lasīt vairāk</a>
+<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>

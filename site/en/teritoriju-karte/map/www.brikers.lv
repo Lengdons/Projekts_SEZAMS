@@ -80,7 +80,7 @@
 							
 									<a href="" class="nav-link dropdown-toggle" id="language-controls1" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Valodas izvēle">
 										lv
-									</a><ul class="dropdown-menu text-center" aria-labelledby="language-controls1"><li><a class="dropdown-item" href="https://liepaja-sez.lv/en/">en</a></li></ul>						</li>
+									</a><ul class="dropdown-menu text-center" aria-labelledby="language-controls1"><li><a class="dropdown-item" href="/site/en//index.php">en</a></li></ul>						</li>
 											</ul>
 					<div class="brand-container">
 						<a class="navbar-brand" href="https://liepaja-sez.lv/">
@@ -94,7 +94,7 @@
 								
 										<a href="" class="nav-link dropdown-toggle" id="language-controls2" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Valodas izvēle">
 											lv
-										</a><ul class="dropdown-menu text-center" aria-labelledby="language-controls2"><li><a class="dropdown-item" href="https://liepaja-sez.lv/en/">en</a></li></ul>							</li>
+										</a><ul class="dropdown-menu text-center" aria-labelledby="language-controls2"><li><a class="dropdown-item" href="/site/en//index.php">en</a></li></ul>							</li>
 													</ul>
 						<button class="navbar-toggler nocontrast" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
 							<span class="navbar-toggler-icon"></span>

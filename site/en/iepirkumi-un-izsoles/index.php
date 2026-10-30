@@ -40,7 +40,7 @@
 <div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
 <div class="row">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Category" class="sidebar-nav-icon" href="../governance/index.php">
+<a aria-label="Category" class="sidebar-nav-icon" href="/site/en/parvaldiba/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Governance
@@ -48,7 +48,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Category" class="sidebar-nav-icon" href="../corporate-governance/index.php">
+<a aria-label="Category" class="sidebar-nav-icon" href="/site/en/korporativa-parvaldiba/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Corporate Governance
@@ -56,7 +56,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Category" class="active sidebar-nav-icon" href="index.php">
+<a aria-label="Category" class="active sidebar-nav-icon" href="/site/en/iepirkumi-un-izsoles/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Procurement and Auctions
@@ -72,7 +72,7 @@
 						</a>
 <div class="sidebar-nested ps-md-4">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Category" class="sidebar-nav-icon" href="../board-meeting-decisions/index.php">
+<a aria-label="Category" class="sidebar-nav-icon" href="/site/en/valdes-sedes-lemumi/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Board Meeting Decisions
@@ -80,7 +80,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Category" class="sidebar-nav-icon" href="../activity-reports-1/index.php">
+<a aria-label="Category" class="sidebar-nav-icon" href="/site/en/atskaites-par-darbibu/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Activity Reports
@@ -88,7 +88,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Category" class="sidebar-nav-icon" href="../port-statistics/index.php">
+<a aria-label="Category" class="sidebar-nav-icon" href="/site/en/ostas-statistika/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Port Statistics
@@ -107,15 +107,15 @@
 <h2>Liepāja SEZ Authority Holds an Electronic Ascending-Bid Auction for a Newly Created Property at Eksporta Street 3</h2>
 <span class="mb-3">06.10.2026.</span>
 </div>
-<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="electronic-auction-of-new-real-estate-at-eksporta-street-3/index.html">Read more</a>
+<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="/site/en/iepirkumi-un-izsoles/electronic-auction-of-new-real-estate-at-eksporta-street-3/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>The Liepāja Special Economic Zone Authority, unified registration No. LV90000329402, is holding an electronic ascending-bid auction for a newly created property at Eksporta Street 3, Liepāja, comprising a land plot with a total area of 51,521 m² and 12 buildings.</p>
-<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="electronic-auction-of-new-real-estate-at-eksporta-street-3/index.html">Read more</a>
+<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="/site/en/iepirkumi-un-izsoles/electronic-auction-of-new-real-estate-at-eksporta-street-3/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(../../img/mod/news/325/1791280647_72_10.06.2026._LIP_izsole_Eksporta_iela.webp)">
-<a aria-label="Read more" href="electronic-auction-of-new-real-estate-at-eksporta-street-3/index.html">
+<a aria-label="Read more" href="/site/en/iepirkumi-un-izsoles/electronic-auction-of-new-real-estate-at-eksporta-street-3/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/325/1791280647_72_10.06.2026._LIP_izsole_Eksporta_iela.webp"/>
 </a>
 </div>
@@ -127,15 +127,15 @@
 <h2>Design, Construction and Design Supervision of the Reconstruction of Berth No. 46 at the Port of Liepāja</h2>
 <span class="mb-3">23.09.2026.</span>
 </div>
-<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
+<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="/site/en/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>Procurement subject: Design, construction and design supervision of the reconstruction of Berth No. 46 at the Port of Liepāja. IDENTIFICATION NUMBER: LSEZ 2026/12. Main CPV code: 45241500-3 (Quay wall construction work).</p>
-<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
+<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="/site/en/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load">
-<a aria-label="Read more" href="design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">
+<a aria-label="Read more" href="/site/en/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/320/" style="display:none"/>
 </a>
 </div>
@@ -147,15 +147,15 @@
 <h2>Procurement: Purchase of Electricity</h2>
 <span class="mb-3">17.09.2026.</span>
 </div>
-<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="procurement-of-electricity/index.php">Read more</a>
+<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="/site/en/iepirkumi-un-izsoles/procurement-of-electricity/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>Procurement subject: Purchase of electricity. IDENTIFICATION NUMBER: LSEZ 2026/15. Main CPV code: 09310000-5 (Electricity).</p>
-<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="procurement-of-electricity/index.php">Read more</a>
+<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="/site/en/iepirkumi-un-izsoles/procurement-of-electricity/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load">
-<a aria-label="Read more" href="procurement-of-electricity/index.php">
+<a aria-label="Read more" href="/site/en/iepirkumi-un-izsoles/procurement-of-electricity/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/318/" style="display:none"/>
 </a>
 </div>
@@ -167,15 +167,15 @@
 <h2>Management of MARPOL Annex I Ship-Generated Waste at the Port of Liepāja</h2>
 <span class="mb-3">04.09.2026.</span>
 </div>
-<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="management-of-marpol-annex-i-ship-generated-waste-at-the-port-of-liepaja/index.php">Read more</a>
+<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="/site/en/iepirkumi-un-izsoles/management-of-marpol-annex-i-ship-generated-waste-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>Management of MARPOL Annex I ship-generated waste at the Port of Liepāja. IDENTIFICATION NUMBER: LSEZ 2026/11. Main CPV code: 90000000-7 (Sewage, refuse, cleaning and environmental services).</p>
-<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="management-of-marpol-annex-i-ship-generated-waste-at-the-port-of-liepaja/index.php">Read more</a>
+<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="/site/en/iepirkumi-un-izsoles/management-of-marpol-annex-i-ship-generated-waste-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load">
-<a aria-label="Read more" href="management-of-marpol-annex-i-ship-generated-waste-at-the-port-of-liepaja/index.php">
+<a aria-label="Read more" href="/site/en/iepirkumi-un-izsoles/management-of-marpol-annex-i-ship-generated-waste-at-the-port-of-liepaja/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/312/" style="display:none"/>
 </a>
 </div>
@@ -187,15 +187,15 @@
 <h2>Liepāja SEZ Authority Holds an Electronic Ascending-Bid Auction for a Newly Created Property at Dūmu Street 6</h2>
 <span class="mb-3">04.08.2026.</span>
 </div>
-<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="electronic-auction-of-new-real-estate-at-dumu-street-6/index.html">Read more</a>
+<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="/site/en/iepirkumi-un-izsoles/electronic-auction-of-new-real-estate-at-dumu-street-6/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>The Liepāja Special Economic Zone Authority, unified registration No. LV90000329402, is holding an electronic ascending-bid auction for a newly created property at Dūmu Street 6, Liepāja, comprising a building with cadastral designation 17000220059068 and a land plot with cadastral designation 17000220351, with a total area of 46,766 m².</p>
-<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="electronic-auction-of-new-real-estate-at-dumu-street-6/index.html">Read more</a>
+<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="/site/en/iepirkumi-un-izsoles/electronic-auction-of-new-real-estate-at-dumu-street-6/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(../../img/mod/news/301/1785928881_Foto_2.webp)">
-<a aria-label="Read more" href="electronic-auction-of-new-real-estate-at-dumu-street-6/index.html">
+<a aria-label="Read more" href="/site/en/iepirkumi-un-izsoles/electronic-auction-of-new-real-estate-at-dumu-street-6/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/301/1785928881_Foto_2.webp"/>
 </a>
 </div>
@@ -207,15 +207,15 @@
 <h2>Repeated Ascending-Bid Auction for Property on Naglu Street</h2>
 <span class="mb-3">25.06.2026.</span>
 </div>
-<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="repeated-auction-with-ascending-bids-for-real-estate-on-naglu-street/index.php">Read more</a>
+<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="/site/en/iepirkumi-un-izsoles/repeated-auction-with-ascending-bids-for-real-estate-on-naglu-street/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>The Liepāja Special Economic Zone Authority, unified registration No. LV90000329402, is holding a repeated electronic ascending-bid auction for the property at Naglu Street 1, Liepāja, cadastral No. 17000220152, comprising a building with cadastral designation 17000220059027 and a land plot with a total area of 15,048 m².</p>
-<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="repeated-auction-with-ascending-bids-for-real-estate-on-naglu-street/index.php">Read more</a>
+<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="/site/en/iepirkumi-un-izsoles/repeated-auction-with-ascending-bids-for-real-estate-on-naglu-street/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(../../img/mod/news/297/1782376240_44_06.18.2026._LIP.webp)">
-<a aria-label="Read more" href="repeated-auction-with-ascending-bids-for-real-estate-on-naglu-street/index.php">
+<a aria-label="Read more" href="/site/en/iepirkumi-un-izsoles/repeated-auction-with-ascending-bids-for-real-estate-on-naglu-street/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/297/1782376240_44_06.18.2026._LIP.webp"/>
 </a>
 </div>
@@ -227,15 +227,15 @@
 <h2>Railway Repairs for the Needs of the Liepāja Special Economic Zone Authority</h2>
 <span class="mb-3">19.06.2026.</span>
 </div>
-<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="railway-repair-for-the-needs-of-the-liepaja-special-economic-zone-authority/index.php">Read more</a>
+<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="/site/en/iepirkumi-un-izsoles/railway-repair-for-the-needs-of-the-liepaja-special-economic-zone-authority/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>Procurement subject: Railway repairs for the needs of the Liepāja Special Economic Zone Authority. IDENTIFICATION NUMBER: LSEZ 2026/10.</p>
-<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="railway-repair-for-the-needs-of-the-liepaja-special-economic-zone-authority/index.php">Read more</a>
+<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="/site/en/iepirkumi-un-izsoles/railway-repair-for-the-needs-of-the-liepaja-special-economic-zone-authority/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load">
-<a aria-label="Read more" href="railway-repair-for-the-needs-of-the-liepaja-special-economic-zone-authority/index.php">
+<a aria-label="Read more" href="/site/en/iepirkumi-un-izsoles/railway-repair-for-the-needs-of-the-liepaja-special-economic-zone-authority/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/295/" style="display:none"/>
 </a>
 </div>
@@ -247,15 +247,15 @@
 <h2>Repeated Ascending-Bid Auction for Property at Naglu Street 1</h2>
 <span class="mb-3">17.06.2026.</span>
 </div>
-<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="repeated-auction-with-ascending-bids-for-real-estate-on-naglu-street-1/index.php">Read more</a>
+<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="/site/en/iepirkumi-un-izsoles/repeated-auction-with-ascending-bids-for-real-estate-on-naglu-street-1/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>The Liepāja Special Economic Zone Authority, unified registration No. LV90000329402, is holding a repeated electronic ascending-bid auction for the property at Naglu Street 1, Liepāja, cadastral No. 17000220152, comprising a building with cadastral designation 17000220059027 and a land plot with a total area of 15,048 m².</p>
-<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="repeated-auction-with-ascending-bids-for-real-estate-on-naglu-street-1/index.php">Read more</a>
+<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="/site/en/iepirkumi-un-izsoles/repeated-auction-with-ascending-bids-for-real-estate-on-naglu-street-1/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(../../img/mod/news/293/1781784161_original_1771406162__R1A9987.webp)">
-<a aria-label="Read more" href="repeated-auction-with-ascending-bids-for-real-estate-on-naglu-street-1/index.php">
+<a aria-label="Read more" href="/site/en/iepirkumi-un-izsoles/repeated-auction-with-ascending-bids-for-real-estate-on-naglu-street-1/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/293/1781784161_original_1771406162__R1A9987.webp"/>
 </a>
 </div>
@@ -267,15 +267,15 @@
 <h2>Construction Supervision of Eksporta Street Infrastructure and Remediation Works in Liepāja Industrial Park</h2>
 <span class="mb-3">13.05.2026.</span>
 </div>
-<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="construction-supervision-eksporta-street-infrastructure-remediation-liepaja-industrial-park/index.html">Read more</a>
+<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="/site/en/iepirkumi-un-izsoles/construction-supervision-eksporta-street-infrastructure-remediation-liepaja-industrial-park/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>Procurement subject: Construction supervision of Eksporta Street infrastructure construction and remediation works within the Liepāja Industrial Park. IDENTIFICATION NUMBER: LSEZ 2026/7. Main CPV code: 71247000-1 (Supervision of building work).</p>
-<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="construction-supervision-eksporta-street-infrastructure-remediation-liepaja-industrial-park/index.html">Read more</a>
+<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="/site/en/iepirkumi-un-izsoles/construction-supervision-eksporta-street-infrastructure-remediation-liepaja-industrial-park/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load">
-<a aria-label="Read more" href="construction-supervision-eksporta-street-infrastructure-remediation-liepaja-industrial-park/index.html">
+<a aria-label="Read more" href="/site/en/iepirkumi-un-izsoles/construction-supervision-eksporta-street-infrastructure-remediation-liepaja-industrial-park/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/314/" style="display:none"/>
 </a>
 </div>
@@ -287,15 +287,15 @@
 <h2>Construction of Eksporta Street Infrastructure and Remediation Works in Liepāja Industrial Park</h2>
 <span class="mb-3">22.03.2026.</span>
 </div>
-<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="construction-of-eksporta-street-infrastructure-and-remediation-works/index.html">Read more</a>
+<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="/site/en/iepirkumi-un-izsoles/construction-of-eksporta-street-infrastructure-and-remediation-works/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>Procurement subject: Construction of Eksporta Street infrastructure and remediation works within the Liepāja Industrial Park. IDENTIFICATION NUMBER: LSEZ 2026/3. Main CPV code: 45233120-6 (Road construction works).</p>
-<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="construction-of-eksporta-street-infrastructure-and-remediation-works/index.html">Read more</a>
+<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="/site/en/iepirkumi-un-izsoles/construction-of-eksporta-street-infrastructure-and-remediation-works/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load">
-<a aria-label="Read more" href="construction-of-eksporta-street-infrastructure-and-remediation-works/index.html">
+<a aria-label="Read more" href="/site/en/iepirkumi-un-izsoles/construction-of-eksporta-street-infrastructure-and-remediation-works/index.php">
 <img alt="" class="img-fluid" src="../../img/mod/news/313/" style="display:none"/>
 </a>
 </div>
@@ -304,7 +304,7 @@
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev d-none" data-block="9" data-page="" data-per-page="10" data-topic="16" href="0/index.php">
+<a class="news-list-pagination prev d-none" data-block="9" data-page="" data-per-page="10" data-topic="16" href="/site/en/iepirkumi-un-izsoles/0/index.php">
 <img alt="Atpakaļ" src="../../img/round-right.svg"/>
 
 								Atpakaļ
@@ -312,7 +312,7 @@
 							</a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="9" data-page="2" data-per-page="10" data-topic="16" href="2/index.php">
+<a class="news-list-pagination next" data-block="9" data-page="2" data-per-page="10" data-topic="16" href="/site/en/jaunumi-1/2/index.php">
 
 								Next <img alt="Atpakaļ" src="../../img/round-right.svg"/>
 </a>
@@ -357,7 +357,7 @@
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Scroll up" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Scroll up" href="/site/en/iepirkumi-un-izsoles/index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

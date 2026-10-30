@@ -69,9 +69,9 @@
 <div class="collapse navbar-collapse" id="navbar">
 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
 <li class="nav-item">
-<a class="nav-link active" href="/site/en//site/en/index.php">Home</a>
+<a class="nav-link active" href="/site/en/index.php">Home</a>
 </li><li class="nav-item dropdown">
-<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="/site/en/liepaja-sez/index.php" role="button">
+<a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="/site/en/liepajas-sez/index.php" role="button">
 
 									Liepaja SEZ
 
@@ -80,7 +80,7 @@
 <a class="dropdown-item" href="/site/en/investe-liepaja/index.php">Invest in Liepaja</a>
 </li>
 <li class="dropend">
-<a class="dropdown-item dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="/site/en/port/index.php">
+<a class="dropdown-item dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="/site/en/osta/index.php">
 
 									Port
 

@@ -41,7 +41,7 @@
 <h2 class="map-title mb-5">Karosta Industrial Park</h2>
 </div>
 <div class="col-12 nocontrast">
-<span id="map-block"><img id="img" src="../../../../img/mod/map/19/1709029359_Kartes_1920x1320_4_karostas_ind_parks.webp"/><a class="map-popover" data-bs-target="#modal70" data-bs-toggle="modal" href="index.php" style="left:27.304347826086957%;top:42.825537294563844%;">
+<span id="map-block"><img id="img" src="../../../../img/mod/map/19/1709029359_Kartes_1920x1320_4_karostas_ind_parks.webp"/><a class="map-popover" data-bs-target="#modal70" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/karostas-industrialais-parks/index.php" style="left:27.304347826086957%;top:42.825537294563844%;">
 <img src="../../../../img/mod/map/icons/3.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel70" class="modal fade" id="modal70" tabindex="-1">
@@ -56,7 +56,7 @@
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal71" data-bs-toggle="modal" href="index.php" style="left:49.51217288228321%;top:45.73546606428418%;">
+</div><a class="map-popover" data-bs-target="#modal71" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/karostas-industrialais-parks/index.php" style="left:49.51217288228321%;top:45.73546606428418%;">
 <img src="../../../../img/mod/map/icons/3.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel71" class="modal fade" id="modal71" tabindex="-1">
@@ -71,7 +71,7 @@
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal72" data-bs-toggle="modal" href="index.php" style="left:41.21455274915656%;top:34.99757403180007%;">
+</div><a class="map-popover" data-bs-target="#modal72" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/karostas-industrialais-parks/index.php" style="left:41.21455274915656%;top:34.99757403180007%;">
 <img src="../../../../img/mod/map/icons/3.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel72" class="modal fade" id="modal72" tabindex="-1">
@@ -86,7 +86,7 @@
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal78" data-bs-toggle="modal" href="index.php" style="left:58.35688884836326%;top:44.1446672446569%;">
+</div><a class="map-popover" data-bs-target="#modal78" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/karostas-industrialais-parks/index.php" style="left:58.35688884836326%;top:44.1446672446569%;">
 <img src="../../../../img/mod/map/icons/3.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel78" class="modal fade" id="modal78" tabindex="-1">
@@ -101,7 +101,7 @@
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal91" data-bs-toggle="modal" href="index.php" style="left:62.64247287316495%;top:28.76694532159324%;">
+</div><a class="map-popover" data-bs-target="#modal91" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/karostas-industrialais-parks/index.php" style="left:62.64247287316495%;top:28.76694532159324%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel91" class="modal fade" id="modal91" tabindex="-1">
@@ -116,7 +116,7 @@
 </div>
 </div>
 </div>
-</div><a class="map-popover" data-bs-target="#modal92" data-bs-toggle="modal" href="index.php" style="left:69.50396644478892%;top:68.50708828383699%;">
+</div><a class="map-popover" data-bs-target="#modal92" data-bs-toggle="modal" href="/site/en/teritoriju-karte/map/karostas-industrialais-parks/index.php" style="left:69.50396644478892%;top:68.50708828383699%;">
 <img src="../../../../img/mod/map/icons/1.svg"/>
 </a>
 <div aria-hidden="true" aria-labelledby="modalLabel92" class="modal fade" id="modal92" tabindex="-1">
@@ -176,7 +176,7 @@
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Scroll up" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../../img/round-right.svg"/></a>
+<a aria-label="Scroll up" href="/site/en/teritoriju-karte/map/karostas-industrialais-parks/index.php"><img alt="scroll-up" class="img-fluid" src="../../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

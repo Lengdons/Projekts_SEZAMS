@@ -79,11 +79,11 @@
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4></h4>
-<a class="d-none d-md-block my-4" href="../index.php">Read more</a>
+<a class="d-none d-md-block my-4" href="/site/en/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9"></div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../index.php">Read more</a>
+<a class="d-block my-4" href="/site/en/index.php">Read more</a>
 </div>
 </div>
 </div>
@@ -94,11 +94,11 @@
 <div class="col-12 mt-4"><span class="date">29.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepaja Industrial Park Development Continues with Site Remediation</h4>
-<a class="d-none d-md-block my-4" href="../liepaja-industrial-park-development-continues-with-site-remediation/index.php">Read more</a>
+<a class="d-none d-md-block my-4" href="/site/en/sakums/liepaja-industrial-park-development-continues-with-site-remediation/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">The Liepaja Special Economic Zone Authority continues the transformation of the former steelworks “Liepajas metalurgs” industrial site by implementing the project “Development of the Liepaja Industrial Park Area – Phase 2.” The project involves redevelopment and remediation of a historically contaminated industrial site and construction of modern infrastructure required for business operations. The project is being implemented under the European Union Cohesion Policy Program 2021–2027, supporting the transition towards a climate-neutral economy and mitigating the socio-economic impacts associated with this transition in the Kurzeme region.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../liepaja-industrial-park-development-continues-with-site-remediation/index.php">Read more</a>
+<a class="d-block my-4" href="/site/en/sakums/liepaja-industrial-park-development-continues-with-site-remediation/index.php">Read more</a>
 </div>
 </div>
 </div>
@@ -108,7 +108,7 @@
 <div class="prev">
 </div>
 <div class="next">
-<a aria-label="Next" class="next related-pagination" data-page="2" href="index.php">
+<a aria-label="Next" class="next related-pagination" data-page="2" href="/site/en/sakums/auction-announced-for-property-at-eksporta-street-3-in-the-liepaja-industrial-park/index.php">
 
 							Next <img alt="Next" src="../../../img/round-right.svg"/>
 </a>
@@ -140,7 +140,7 @@
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Scroll up" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Scroll up" href="/site/en/sakums/auction-announced-for-property-at-eksporta-street-3-in-the-liepaja-industrial-park/index.php"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

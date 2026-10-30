@@ -42,7 +42,7 @@
 <div class="col-12 col-lg-3 mt-5 sidebar-nav ps-0">
 <div class="row document-categories">
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="The Liepaja port regulations" class="d-flex align-items-center dc sidebar-nav-icon" data-value="57" href="https://liepaja-sez.lv/en/documents/57">
+<a aria-label="The Liepaja port regulations" class="d-flex align-items-center dc sidebar-nav-icon" data-value="57" href="/site/en/dokumenti/57/index.php">
 <img alt="The Liepaja port regulations" src="https://liepaja-sez.lv/img/round-right-blue.svg"/>
 
 												The Liepaja port regulations
@@ -50,7 +50,7 @@
 											</a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Port fees in the port of Liepaja" class="d-flex align-items-center dc sidebar-nav-icon" data-value="58" href="https://liepaja-sez.lv/en/documents/58">
+<a aria-label="Port fees in the port of Liepaja" class="d-flex align-items-center dc sidebar-nav-icon" data-value="58" href="/site/en/dokumenti/58/index.php">
 <img alt="Port fees in the port of Liepaja" src="https://liepaja-sez.lv/img/round-right-blue.svg"/>
 
 												Port fees in the port of Liepaja
@@ -58,7 +58,7 @@
 											</a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Orders of the Harbor master" class="d-flex align-items-center dc sidebar-nav-icon" data-value="17" href="https://liepaja-sez.lv/en/documents/17">
+<a aria-label="Orders of the Harbor master" class="d-flex align-items-center dc sidebar-nav-icon" data-value="17" href="/site/en/dokumenti/17/index.php">
 <img alt="Orders of the Harbor master" src="https://liepaja-sez.lv/img/round-right-blue.svg"/>
 
 												Orders of the Harbor master
@@ -66,7 +66,7 @@
 											</a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Documents for concluding an operating agreement" class="d-flex align-items-center dc sidebar-nav-icon" data-value="8" href="https://liepaja-sez.lv/en/documents/8">
+<a aria-label="Documents for concluding an operating agreement" class="d-flex align-items-center dc sidebar-nav-icon" data-value="8" href="/site/en/dokumenti/8/index.php">
 <img alt="Documents for concluding an operating agreement" src="https://liepaja-sez.lv/img/round-right-blue.svg"/>
 
 												Documents for concluding an operating agreement
@@ -74,7 +74,7 @@
 											</a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Documents for concluding a land lease and granting building rights" class="d-flex align-items-center dc sidebar-nav-icon" data-value="51" href="https://liepaja-sez.lv/en/documents/51">
+<a aria-label="Documents for concluding a land lease and granting building rights" class="d-flex align-items-center dc sidebar-nav-icon" data-value="51" href="/site/en/dokumenti/51/index.php">
 <img alt="Documents for concluding a land lease and granting building rights" src="https://liepaja-sez.lv/img/round-right-blue.svg"/>
 
 												Documents for concluding a land lease and granting building rights
@@ -82,7 +82,7 @@
 											</a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Port of Liepaja regime rules " class="d-flex align-items-center dc sidebar-nav-icon" data-value="32" href="https://liepaja-sez.lv/en/documents/32">
+<a aria-label="Port of Liepaja regime rules " class="d-flex align-items-center dc sidebar-nav-icon" data-value="32" href="/site/en/dokumenti/32/index.php">
 <img alt="Port of Liepaja regime rules " src="https://liepaja-sez.lv/img/round-right-blue.svg"/>
 
 												Port of Liepaja regime rules 
@@ -90,7 +90,7 @@
 											</a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Contingency plan in case of pollution" class="d-flex align-items-center dc sidebar-nav-icon" data-value="37" href="https://liepaja-sez.lv/en/documents/37">
+<a aria-label="Contingency plan in case of pollution" class="d-flex align-items-center dc sidebar-nav-icon" data-value="37" href="/site/en/dokumenti/37/index.php">
 <img alt="Contingency plan in case of pollution" src="https://liepaja-sez.lv/img/round-right-blue.svg"/>
 
 												Contingency plan in case of pollution

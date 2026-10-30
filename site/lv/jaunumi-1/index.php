@@ -6,17 +6,24 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
 <link href="../../favicon.ico" rel="icon" type="image/x-icon"/>
-<meta content="website" property="og:type"/>
-<meta content="https://liepaja-sez.lv/lv/jaunumi-1/" property="og:url"/>
+<meta content="Jaunumi" name="description"/><meta content="jaunumi, aktualitātes" name="keywords"/><meta content="follow, index" name="robots"/><meta content="website" property="og:type"/>
+<meta content="https://liepaja-sez.lv/lv/medijiem/" property="og:url"/>
 <meta content="Sākums" property="og:title"/>
-<meta content="Liepājas SEZ" property="og:site_name"/>
+<meta content="Liepājas SEZ" property="og:site_name"/><meta content="Jaunumi" property="og:description"/>
+<meta content="Jaunumi" name="twitter:card"/>
 <meta content="@liepajaSEZ" name="twitter:site"/>
 <meta content="@liepajaSEZ" name="twitter:creator"/>
 <title>Sākums » SEZ</title>
 <link href="../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../css/bootstrap.min.css" rel="stylesheet"/>
-<link href="../../css/main__40614cace7.css" rel="stylesheet"/>
-<link href="../../css/block/mod_news/main__1d365e2dc4.css" rel="stylesheet" type="text/css"/> <link href="../../cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
+<link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
+<link href="/site/css/block/mod_news/main__1d365e2dc4.css?v=1" rel="stylesheet" type="text/css"/> <link href="../../cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
+<style>
+.blur-load img {
+opacity: 1 !important;
+visibility: visible !important;
+}
+</style>
 <script>
 
 const html = document.querySelector("html");
@@ -36,7 +43,37 @@ html.classList.add(localStorage['contrast']);
 <div class="spacer"></div>
 <main class="pb-5">
 <div class="container pt-3">
-<div class="mod_news my-5"><h1 class="block-title mb-5">Notikumi<span></span></h1><div class="block-news-list" data-block="6">
+<div class="row">
+<div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
+<div class="row">
+<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<a aria-label="nosaukums" class="active sidebar-nav-icon" href="index.php">
+<img alt="Category" src="../../img/round-right-blue.svg"/>
+
+Medijiem
+
+</a>
+</div>
+<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="../foto/index.php">
+<img alt="Category" src="../../img/round-right-blue.svg"/>
+
+Foto
+
+</a>
+</div>
+<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="../valdes-sedes/index.php">
+<img alt="Category" src="../../img/round-right-blue.svg"/>
+
+Valdes sēdes
+
+</a>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-9 side-right">
+<div class="mod_news my-5"><h1 class="block-title mb-5">Jaunumi<span></span></h1><div class="block-news-list" data-block="2">
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
@@ -160,7 +197,7 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev d-none" data-block="6" data-page="" data-per-page="6" data-topic="14" href="0/index.php">
+<a class="news-list-pagination prev d-none" data-block="2" data-page="" data-per-page="6" data-topic="14" href="0/index.php">
 <img alt="Atpakaļ" src="../../img/round-right.svg"/>
 
 Atpakaļ
@@ -168,10 +205,21 @@ Atpakaļ
 </a>
 </div>
 <div>
-<a class="news-list-pagination next" data-block="6" data-page="2" data-per-page="6" data-topic="14" href="2/index.php">
+<a class="news-list-pagination next" data-block="2" data-page="2" data-per-page="6" data-topic="14" href="2/index.php">
 
 Tālāk <img alt="Atpakaļ" src="../../img/round-right.svg"/>
 </a>
+</div>
+</div>
+</div>
+</div>
+<div class="container my-4">
+<div class="row">
+<div class="col-12 useful" id="useful-p">
+<span class="me-2">Vai informācija bija noderīga?</span>
+<button class="useful-btn" data-table-id="21" data-table-name="mod_menu" data-value="1">Jā </button>
+<button class="useful-btn" data-table-id="21" data-table-name="mod_menu" data-value="0">Nē </button>
+</div>
 </div>
 </div>
 </div>
@@ -232,7 +280,7 @@ gtag('config', 'G-6QTXK76SH0');
 <script src="../../js/jarallax.min__cc5fd325af.js"></script>
 <script src="../../js/bootstrap.bundle.min.js"></script>
 <script src="../../js/main__7152e3fda1.js"></script>
-<script src="../../js/block/news_list/main__1d365e2dc4.js"></script> <script defer="" src="../../cc/src/cookieconsent.js"></script>
+<script src="../../js/block/useful/main__1d365e2dc4.js"></script><script src="../../js/block/news_list/main__1d365e2dc4.js"></script> <script defer="" src="../../cc/src/cookieconsent.js"></script>
 <script defer="" src="../../cc/demo/app2__251c29cb24.js"></script>
 </footer>
 </body>

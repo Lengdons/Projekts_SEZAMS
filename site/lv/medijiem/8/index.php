@@ -16,8 +16,8 @@
 <title>Sākums » SEZ</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
-<link href="https://liepaja-sez.lv/css/main.css?v=26" rel="stylesheet"/>
-<link href="https://liepaja-sez.lv/css/block/mod_news/main.css?v=1" rel="stylesheet" type="text/css"/> <link href="../../../cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
+<link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
+<link href="/site/css/block/mod_news/main__1d365e2dc4.css?v=1" rel="stylesheet" type="text/css"/> <link href="../../../cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
 <script>
 
 const html = document.querySelector("html");
@@ -49,7 +49,7 @@ Medijiem
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="https://liepaja-sez.lv/lv/foto/">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/lv/foto/index.php">
 <img alt="Category" src="../../../img/round-right-blue.svg"/>
 
 Foto
@@ -57,7 +57,7 @@ Foto
 </a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="https://liepaja-sez.lv/lv/valdes-sedes/">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/lv/valdes-sedes/index.php">
 <img alt="Category" src="../../../img/round-right-blue.svg"/>
 
 Valdes sēdes

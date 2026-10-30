@@ -15,8 +15,8 @@
 <title>Paraksta paziņojumu par Liepājas Ilgtspējīgas industrijas centra izveidi » SEZ</title>
 <link href="../../../css/jarallax.min.css" rel="stylesheet"/>
 <link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
-<link href="https://liepaja-sez.lv/css/main.css?v=26" rel="stylesheet"/>
-<link href="https://liepaja-sez.lv/css/block/text/main.css?v=2" rel="stylesheet" type="text/css"/><link href="https://liepaja-sez.lv/css/block/news_documents/main.css?v=1" rel="stylesheet" type="text/css"/> <link href="../../../cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
+<link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
+<link href="/site/css/block/text/main__f67bbdbffc.css?v=2" rel="stylesheet" type="text/css"/><link href="/site/css/block/news_documents/main__1d365e2dc4.css?v=1" rel="stylesheet" type="text/css"/> <link href="../../../cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
 <script>
 
 const html = document.querySelector("html");
@@ -61,14 +61,14 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">19. novembris, 2024</div>
 <div class="category mb-2">Dokumenti medijiem</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/246/1732020031_2024.11.19._Joint Statement_FINAL_web_LV.pdf" target="_blank">
+<a aria-label="Dokuments" href="/site/doc/mod/document/246/1732020031_2024.11.19._Joint Statement_FINAL_web_LV.pdf" target="_blank">
 
 Kopīgs paziņojums
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1732020031_2024.11.19._Joint Statement_FINAL_web_LV.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/246/1732020031_2024.11.19._Joint Statement_FINAL_web_LV.pdf" target="_blank">
+<a aria-label="1732020031_2024.11.19._Joint Statement_FINAL_web_LV.pdf" class="document" href="/site/doc/mod/document/246/1732020031_2024.11.19._Joint Statement_FINAL_web_LV.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -76,7 +76,7 @@ Kopīgs paziņojums
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/185/870_1732017766_Joint Statement_SLAIDS_weblapai-2.webp" style="width: 100%;"/>
-<a aria-label="Lejupielādēt" class="image-download" download="" href="https://liepaja-sez.lv/img/mod/news/185/original_1732017766_Joint Statement_SLAIDS_weblapai-2.webp">
+<a aria-label="Lejupielādēt" class="image-download" download="" href="/site/img/mod/news/185/original_1732017766_Joint Statement_SLAIDS_weblapai-2.webp">
 <img alt="Lejupielādēt" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>
@@ -98,11 +98,11 @@ Kopīgs paziņojums
 <div class="col-12 mt-4"><span class="date">16.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Starptautiska kino projekta ietvaros trīs dienas satiksmei būs slēgts O. Kalpaka tilts</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">No 16. – 24. oktobrim Liepāja uz īsu brīdi pārtaps par starptautiskas kinoindustrijas filmēšanas laukumu. Pilsētā tiks uzņemta pasaulē populārās “Millennium” grāmatu sērijas romāna “Meitene ar pūķa tetovējumu” ekranizācija, kuru producē kompānija “Left Bank Pictures”, kas pazīstama ar tādiem projektiem kā “The Crown” un “Dept Q”. Īpaša loma šajā projektā atvēlēta Oskara Kalpaka tiltam, kas izvēlēts kā viena no nozīmīgākajām filmēšanas lokācijām visā seriālā. Tilts trīs dienās uz filmēšanas laiku tiks slēgts gājējiem un autotransportam, kā arī tiks ierobežota kuģu satiksme.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/">Lasīt vairāk</a>
+<a class="d-block my-4" href="/site/lv/medijiem/tris-dienas-satiksmei-bus-slegts-okalpaka-tilts-starptautiska-kino-projekta-ietvaros/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>
@@ -113,11 +113,11 @@ Kopīgs paziņojums
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Izsludina izsoli par nekustamo īpašumu Liepājas Industriālajā parkā - Eksporta ielā 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Turpinot izbūvēt Liepājas Industriālo parku bijušās rūpnīcas Liepājas metalurgs teritorijā, Liepājas speciālās ekonomiskās zonas (Liepājas SEZ) pārvalde izsludinājusi  izsoli par nekustamo īpašumu Eksporta ielā 3, kas atrodas Liepājas Industriālā parka teritorijā.  Šis ir nākamais solis, lai iesaistītu uzņēmējus industriālās teritorijas atjaunošanas un pārveidošanas procesā, piedāvājot iespēju iegādāties īpašumā ražošanas ēkas ar zemi.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/">Lasīt vairāk</a>
+<a class="d-block my-4" href="/site/lv/medijiem/izsludina-izsoli-par-nekustamo-ipasumu-liepajas-industrialaja-parka-eksporta-iela-3/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>

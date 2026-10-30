@@ -74,11 +74,11 @@
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepāja SEZ Authority Holds an Electronic Ascending-Bid Auction for Newly Created Real Estate at Eksporta Street 3</h4>
-<a class="d-none d-md-block my-4" href="../liepaja-sez-authority-organizes-an-electronic-ascending-bid-auction-for-newly-created-real-estate-1/index.php">Read more</a>
+<a class="d-none d-md-block my-4" href="/site/en/iepirkumi-un-izsoles/liepaja-sez-authority-organizes-an-electronic-ascending-bid-auction-for-newly-created-real-estate-1/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">The Liepāja Special Economic Zone Authority, registration No. LV90000329402, is holding an electronic ascending-bid auction for a newly created property at Eksporta iela 3, Liepāja, comprising a land plot with a total area of 51,521 m² and 12 buildings.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../liepaja-sez-authority-organizes-an-electronic-ascending-bid-auction-for-newly-created-real-estate-1/index.php">Read more</a>
+<a class="d-block my-4" href="/site/en/iepirkumi-un-izsoles/liepaja-sez-authority-organizes-an-electronic-ascending-bid-auction-for-newly-created-real-estate-1/index.php">Read more</a>
 </div>
 </div>
 </div>
@@ -89,11 +89,11 @@
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Design, Construction and Design Supervision of the Reconstruction of Berth No. 46 at the Port of Liepāja</h4>
-<a class="d-none d-md-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
+<a class="d-none d-md-block my-4" href="/site/en/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Procurement subject: Design, construction and design supervision of the reconstruction of Berth No. 46 at the Port of Liepāja. Identification No. LSEZ 2026/12. Main CPV code: 45241500-3 (Quay wall construction work).</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
+<a class="d-block my-4" href="/site/en/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 </div>
 </div>
@@ -134,7 +134,7 @@
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Scroll up" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Scroll up" href="/site/en/iepirkumi-un-izsoles/gaz-vehicle-auction-results/index.php"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

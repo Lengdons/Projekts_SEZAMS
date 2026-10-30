@@ -79,11 +79,11 @@
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Design, Construction and Design Supervision of the Reconstruction of Berth No. 46 at the Port of Liepāja</h4>
-<a class="d-none d-md-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
+<a class="d-none d-md-block my-4" href="/site/en/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Procurement subject: Design, construction and design supervision of the reconstruction of Berth No. 46 at the Port of Liepāja. Identification No. LSEZ 2026/12. Main CPV code: 45241500-3 (Quay wall construction work).</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
+<a class="d-block my-4" href="/site/en/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 </div>
 </div>
@@ -94,7 +94,7 @@
 <div class="col-12 mt-4"><span class="date">17.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Iepirkuma priekšmets:  Elektroenerģijas iegāde </h4>
-<a class="d-none d-md-block my-4" href="../iepirkuma-prieksmets-elektroenergijas-iegade/index.php">Read more</a>
+<a class="d-none d-md-block my-4" href="/site/en/iepirkumi-un-izsoles/iepirkuma-prieksmets-elektroenergijas-iegade/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Iepirkuma priekšmets: 
 
@@ -106,7 +106,7 @@ Galvenais CPV kods: 09310000-5 (Elektrība)
 
 </div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="../iepirkuma-prieksmets-elektroenergijas-iegade/index.php">Read more</a>
+<a class="d-block my-4" href="/site/en/iepirkumi-un-izsoles/iepirkuma-prieksmets-elektroenergijas-iegade/index.php">Read more</a>
 </div>
 </div>
 </div>
@@ -116,7 +116,7 @@ Galvenais CPV kods: 09310000-5 (Elektrība)
 <div class="prev">
 </div>
 <div class="next">
-<a aria-label="Tālāk" class="next related-pagination" data-page="2" href="index.php">
+<a aria-label="Tālāk" class="next related-pagination" data-page="2" href="/site/en/iepirkumi-un-izsoles/electronic-auction-of-new-real-estate-at-eksporta-street-3/index.php">
 
 							Next <img alt="Tālāk" src="../../../img/round-right.svg"/>
 </a>
@@ -148,7 +148,7 @@ Galvenais CPV kods: 09310000-5 (Elektrība)
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Scroll up" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
+<a aria-label="Scroll up" href="/site/en/iepirkumi-un-izsoles/electronic-auction-of-new-real-estate-at-eksporta-street-3/index.php"><img alt="scroll-up" class="img-fluid" src="../../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>

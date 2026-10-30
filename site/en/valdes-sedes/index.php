@@ -43,15 +43,15 @@
 <h2>Liepāja SEZ Board Meeting Will Take Place on 28 October</h2>
 <span class="mb-3">28.09.2026.</span>
 </div>
-<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="liepajas-sez-valdes-sede-notiks-28-oktobri/index.php">Read more</a>
+<a aria-label="Read more" class="mb-3 news_link d-none d-md-block" href="/site/en/valdes-sedes/liepajas-sez-valdes-sede-notiks-28-oktobri/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>Deadline for submitting documents for consideration at the board meeting: 12 October 2026.</p>
-<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="liepajas-sez-valdes-sede-notiks-28-oktobri/index.php">Read more</a>
+<a aria-label="Read more" class="my-3 news_link d-block d-md-none" href="/site/en/valdes-sedes/liepajas-sez-valdes-sede-notiks-28-oktobri/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/110/)">
-<a aria-label="Read more" href="liepajas-sez-valdes-sede-notiks-28-oktobri/index.php">
+<a aria-label="Read more" href="/site/en/valdes-sedes/liepajas-sez-valdes-sede-notiks-28-oktobri/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/110/"/>
 </a>
 </div>
@@ -60,7 +60,7 @@
 <div class="row">
 <div class="col-12 paginator mt-4">
 <div>
-<a class="news-list-pagination prev d-none" data-block="11" data-page="" data-per-page="1" data-topic="19" href="0/index.php">
+<a class="news-list-pagination prev d-none" data-block="11" data-page="" data-per-page="1" data-topic="19" href="/site/en/valdes-sedes/0/index.php">
 <img alt="Previous" src="../../img/round-right.svg"/>
 
 								Previous
@@ -68,7 +68,7 @@
 							</a>
 </div>
 <div>
-<a class="news-list-pagination next d-none" data-block="11" data-page="" data-per-page="1" data-topic="19" href="2/index.php">
+<a class="news-list-pagination next d-none" data-block="11" data-page="" data-per-page="1" data-topic="19" href="/site/en/jaunumi-1/2/index.php">
 
 								Next <img alt="Previous" src="../../img/round-right.svg"/>
 </a>
@@ -80,7 +80,7 @@
 <div class="row">
 <div class="col-12 col-lg-3 mt-5 sidebar-nav ps-0">
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../news/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/medijiem/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							For the Media
@@ -88,7 +88,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../photos/index.php">
+<a aria-label="nosaukums" class="sidebar-nav-icon" href="/site/en/foto/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Photos
@@ -96,7 +96,7 @@
 						</a>
 </div>
 <div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="active sidebar-nav-icon" href="index.php">
+<a aria-label="nosaukums" class="active sidebar-nav-icon" href="/site/en/valdes-sedes/index.php">
 <img alt="Category" src="../../img/round-right-blue.svg"/>
 
 							Board Meetings
@@ -430,7 +430,7 @@
 <div class="prev">
 </div>
 <div class="next">
-<a aria-label="Next" class="next docs-pagination" data-page="2" href="index.php">
+<a aria-label="Next" class="next docs-pagination" data-page="2" href="/site/en/valdes-sedes/index.php">
 
 							Next <img alt="Next" src="../../img/round-right.svg"/>
 </a>
@@ -474,7 +474,7 @@
 <div class="col-12 col-md-8 col-lg-1">
 <div class="row">
 <div class="col up">
-<a aria-label="Scroll up" href="index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
+<a aria-label="Scroll up" href="/site/en/valdes-sedes/index.php"><img alt="scroll-up" class="img-fluid" src="../../img/round-right.svg"/></a>
 </div>
 </div>
 </div>
