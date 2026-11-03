@@ -46,7 +46,7 @@
 <h1 class="article-title">Open Tender: Maintenance Dredging of the Port of Liepāja Navigation Channels and Harbour Basin (LSEZ2021/70/K)</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p><strong>Procurement subject:</strong> Maintenance dredging works to maintain the designed depths of the navigation channels and harbour basin of the Port of Liepāja from <strong>15 September 2021 to 15 September 2022</strong>, with the possibility of extending the contract by up to one year, in accordance with the Technical Specification.</p><p>Tenders must be submitted electronically through the EIS e-tender subsystem by <strong>16 August 2021 at 10:00</strong>.</p><p>Interested suppliers may consult and obtain the procurement documents electronically, free of charge, from the Liepāja Special Economic Zone Authority website <a href="http://www.liepaja-sez.lv/lv/parvalde/iepirkumi">http://www.liepaja-sez.lv/lv/parvalde/iepirkumi</a> and from EIS at <a href="https://www.eis.gov.lv/EKEIS/Supplier/Procurement/60359">https://www.eis.gov.lv/EKEIS/Supplier/Procurement/60359</a>.</p><p>The procurement documents may also be consulted in printed form, free of charge, at the Liepāja Special Economic Zone Authority, in the Procurement Specialist's office (ground floor), Fēniksa Street 4, Liepāja, until <strong>16 August 2021 at 10:00</strong>. Office hours are 08:00–12:00 and 13:00–16:30 on working days, and until 16:00 on Fridays. Alltors must arrange a time in advance with the contracting authority's contact person.</p><p>Direct, unrestricted and free access to the full procurement documentation: <a href="https://www.eis.gov.lv/EKEIS/Supplier/Procurement/60359">https://www.eis.gov.lv/EKEIS/Supplier/Procurement/60359</a>.</p></div>
+<div class="col"><div class="col-12 output"><p><strong>Procurement subject:</strong> Maintenance dredging works to maintain the designed depths of the navigation channels and harbour basin of the Port of Liepāja from <strong>15 September 2021 to 15 September 2022</strong>, with the possibility of extending the contract by up to one year, in accordance with the Technical Specification.</p><p>Tenders must be submitted electronically through the EIS e-tender subsystem by <strong>16 August 2021 at 10:00</strong>.</p><p>Interested suppliers may consult and obtain the procurement documents electronically, free of charge, from the Liepāja Special Economic Zone Authority website <a href="../index.php">http://www.liepaja-sez.lv/lv/parvalde/iepirkumi</a> and from EIS at <a href="https://www.eis.gov.lv/EKEIS/Supplier/Procurement/60359">https://www.eis.gov.lv/EKEIS/Supplier/Procurement/60359</a>.</p><p>The procurement documents may also be consulted in printed form, free of charge, at the Liepāja Special Economic Zone Authority, in the Procurement Specialist's office (ground floor), Fēniksa Street 4, Liepāja, until <strong>16 August 2021 at 10:00</strong>. Office hours are 08:00–12:00 and 13:00–16:30 on working days, and until 16:00 on Fridays. Alltors must arrange a time in advance with the contracting authority's contact person.</p><p>Direct, unrestricted and free access to the full procurement documentation: <a href="https://www.eis.gov.lv/EKEIS/Supplier/Procurement/60359">https://www.eis.gov.lv/EKEIS/Supplier/Procurement/60359</a>.</p></div>
 </div>
 </div>
 </div><h1 class="block-title mt-3">Paziņojums<span></span></h1>
@@ -56,12 +56,12 @@
 <div class="document-info py-3">
 <div class="date">15. July, 2021</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/103/1704364620_paziņojums.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/103/1704364620_pazi%C5%86ojums.pdf" target="_blank">
 									Paziņojums
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1704364620_paziņojums.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/103/1704364620_paziņojums.pdf" target="_blank">
+<a aria-label="1704364620_paziņojums.pdf" class="document" href="../../../doc/mod/document/103/1704364620_pazi%C5%86ojums.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -91,11 +91,11 @@
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepāja SEZ Authority Holds an Electronic Ascending-Bid Auction for Newly Created Property at Eksporta Street 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/electronic-auction-of-new-real-estate-at-eksporta-street-3/">Read more</a>
+<a class="d-none d-md-block my-4" href="../electronic-auction-of-new-real-estate-at-eksporta-street-3/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">The Liepāja SEZ Authority is organising an electronic ascending-bid auction for new property at Eksporta Street 3, Liepāja, comprising a land plot measuring 51,521 m² and 12 buildings.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/electronic-auction-of-new-real-estate-at-eksporta-street-3/">Read more</a>
+<a class="d-block my-4" href="../electronic-auction-of-new-real-estate-at-eksporta-street-3/index.php">Read more</a>
 </div>
 </div>
 </div>
@@ -106,11 +106,11 @@
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Design, Construction and Design Supervision of the Reconstruction of Berth No. 46 at the Port of Liepāja</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-none d-md-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Procurement subject: Design, construction and design supervision of the reconstruction of Berth No. 46 at the Port of Liepāja. Identification No. LSEZ 2026/12. Main CPV code: 45241500-3 (Quay wall construction work).</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 </div>
 </div>

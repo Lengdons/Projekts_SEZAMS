@@ -46,7 +46,7 @@
 <h1 class="article-title">Electronic Ascending-Bid Auction of Property at Brīvības Street 98 (Auction Closed)</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p><strong>Regarding the results of the property auction:</strong></p><p>On 11 September 2025, the electronic auction of the property at Brīvības Street 98, Liepāja, organised by the Liepāja Special Economic Zone Authority, ended.</p><p>On 8 October 2025, the Board of the Liepāja Special Economic Zone adopted Decision No. 104 approving Act No. 4184890/0/2025-AKT, prepared by the Court Administration on 9 September 2025, declaring the auction unsuccessful.</p><p>____________________________________________</p><p>The Liepāja Special Economic Zone Authority, registration No. LV90000329402, is holding an electronic ascending-bid auction for property at Brīvības Street 98, Liepāja, cadastral designation 17000220152, comprising a building with cadastral designation 17000220059027 and a land plot measuring approximately 15,046 m<sup>2</sup> (to be confirmed after surveying).</p><p>The starting price is EUR 295,000.00 (two hundred and ninety-five thousand euros); the bidding increment is EUR 2,950.00 (two thousand nine hundred and fifty euros); and the auction security deposit is EUR 29,500.00 (twenty-nine thousand five hundred euros). Payment terms:</p><ul><li>The buyer shall pay an advance of 30% of the purchase price within 10 working days after the preliminary agreement enters into force.</li><li>The remaining purchase price shall be paid within two weeks after conclusion of the purchase agreement.</li></ul><p>The auction begins on <strong>7 August 2025 at 13:00</strong> and ends on <strong>8 September 2025 at 13:00</strong>.</p><p>Prospective bidders may register from 7 August 2025 at 13:00 until 27 August 2025 at 23:59 via <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>.</p><p>Before the registration deadline, anyone wishing to participate must pay a security deposit of 10% of the starting price, i.e. EUR 29,500.00, to: Liepāja Special Economic Zone Authority, registration No. LV90000329402, AS "SEB banka", account No. LV42UNLA0012000609480. Payment reference: "Auction security deposit for property at Brīvības Street 98".</p><p>The auction takes place electronically at <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>. For information, call 29294267 or email <a href="mailto:raivo.spaks@lsez.lv">raivo.spaks@lsez.lv</a>.</p><p>Additional information: Auction regulations are available at <a href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/">https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/</a>.</p></div>
+<div class="col"><div class="col-12 output"><p><strong>Regarding the results of the property auction:</strong></p><p>On 11 September 2025, the electronic auction of the property at Brīvības Street 98, Liepāja, organised by the Liepāja Special Economic Zone Authority, ended.</p><p>On 8 October 2025, the Board of the Liepāja Special Economic Zone adopted Decision No. 104 approving Act No. 4184890/0/2025-AKT, prepared by the Court Administration on 9 September 2025, declaring the auction unsuccessful.</p><p>____________________________________________</p><p>The Liepāja Special Economic Zone Authority, registration No. LV90000329402, is holding an electronic ascending-bid auction for property at Brīvības Street 98, Liepāja, cadastral designation 17000220152, comprising a building with cadastral designation 17000220059027 and a land plot measuring approximately 15,046 m<sup>2</sup> (to be confirmed after surveying).</p><p>The starting price is EUR 295,000.00 (two hundred and ninety-five thousand euros); the bidding increment is EUR 2,950.00 (two thousand nine hundred and fifty euros); and the auction security deposit is EUR 29,500.00 (twenty-nine thousand five hundred euros). Payment terms:</p><ul><li>The buyer shall pay an advance of 30% of the purchase price within 10 working days after the preliminary agreement enters into force.</li><li>The remaining purchase price shall be paid within two weeks after conclusion of the purchase agreement.</li></ul><p>The auction begins on <strong>7 August 2025 at 13:00</strong> and ends on <strong>8 September 2025 at 13:00</strong>.</p><p>Prospective bidders may register from 7 August 2025 at 13:00 until 27 August 2025 at 23:59 via <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>.</p><p>Before the registration deadline, anyone wishing to participate must pay a security deposit of 10% of the starting price, i.e. EUR 29,500.00, to: Liepāja Special Economic Zone Authority, registration No. LV90000329402, AS "SEB banka", account No. LV42UNLA0012000609480. Payment reference: "Auction security deposit for property at Brīvības Street 98".</p><p>The auction takes place electronically at <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>. For information, call 29294267 or email <a href="mailto:raivo.spaks@lsez.lv">raivo.spaks@lsez.lv</a>.</p><p>Additional information: Auction regulations are available at <a href="../index.php">https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/</a>.</p></div>
 </div>
 </div>
 </div><h1 class="block-title mt-3">Pielikumi<span></span></h1>
@@ -56,12 +56,12 @@
 <div class="document-info py-3">
 <div class="date">6. August, 2025</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/299/1754460594_Pielikums_1_Pieteikums_Izsolei_28072025.docx" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/299/1754460594_Pielikums_1_Pieteikums_Izsolei_28072025.docx" target="_blank">
 									Pieteikums dalībai izsolē
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1754460594_Pielikums_1_Pieteikums_Izsolei_28072025.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/299/1754460594_Pielikums_1_Pieteikums_Izsolei_28072025.docx" target="_blank">
+<a aria-label="1754460594_Pielikums_1_Pieteikums_Izsolei_28072025.docx" class="document" href="../../../doc/mod/document/299/1754460594_Pielikums_1_Pieteikums_Izsolei_28072025.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -71,12 +71,12 @@
 <div class="document-info py-3">
 <div class="date">6. August, 2025</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/300/1754460648_Izsoles_Noteikumi_Brivibas_98.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/300/1754460648_Izsoles_Noteikumi_Brivibas_98.pdf" target="_blank">
 									Elektroniskās izsoles noteikumi
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1754460648_Izsoles_Noteikumi_Brivibas_98.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/300/1754460648_Izsoles_Noteikumi_Brivibas_98.pdf" target="_blank">
+<a aria-label="1754460648_Izsoles_Noteikumi_Brivibas_98.pdf" class="document" href="../../../doc/mod/document/300/1754460648_Izsoles_Noteikumi_Brivibas_98.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -86,12 +86,12 @@
 <div class="document-info py-3">
 <div class="date">6. August, 2025</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/302/1754460808_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/302/1754460808_Vertejums_Liepaja_Brivibas_iela_98%20d.d.pdf" target="_blank">
 									Objektu vērtējums
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1754460808_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/302/1754460808_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf" target="_blank">
+<a aria-label="1754460808_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf" class="document" href="../../../doc/mod/document/302/1754460808_Vertejums_Liepaja_Brivibas_iela_98%20d.d.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -101,12 +101,12 @@
 <div class="document-info py-3">
 <div class="date">6. August, 2025</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/301/1754460751_Pielikums_4_Objektu_veidojosa_zemes_iericibas_projekta_plans_Brivibas_98.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/301/1754460751_Pielikums_4_Objektu_veidojosa_zemes_iericibas_projekta_plans_Brivibas_98.pdf" target="_blank">
 									Objektu plāns
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1754460751_Pielikums_4_Objektu_veidojosa_zemes_iericibas_projekta_plans_Brivibas_98.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/301/1754460751_Pielikums_4_Objektu_veidojosa_zemes_iericibas_projekta_plans_Brivibas_98.pdf" target="_blank">
+<a aria-label="1754460751_Pielikums_4_Objektu_veidojosa_zemes_iericibas_projekta_plans_Brivibas_98.pdf" class="document" href="../../../doc/mod/document/301/1754460751_Pielikums_4_Objektu_veidojosa_zemes_iericibas_projekta_plans_Brivibas_98.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -116,12 +116,12 @@
 <div class="document-info py-3">
 <div class="date">6. August, 2025</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/303/1754460918_Pielikums_5_Jaunveidojama_objekta_plans_Brivibas_98.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/303/1754460918_Pielikums_5_Jaunveidojama_objekta_plans_Brivibas_98.pdf" target="_blank">
 									Jaunveidojamā īpašuma plāns
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1754460918_Pielikums_5_Jaunveidojama_objekta_plans_Brivibas_98.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/303/1754460918_Pielikums_5_Jaunveidojama_objekta_plans_Brivibas_98.pdf" target="_blank">
+<a aria-label="1754460918_Pielikums_5_Jaunveidojama_objekta_plans_Brivibas_98.pdf" class="document" href="../../../doc/mod/document/303/1754460918_Pielikums_5_Jaunveidojama_objekta_plans_Brivibas_98.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -134,37 +134,37 @@
 </div>
 <div class="carousel-inner">
 <div class="carousel-item active" data-zmh="group0" style="">
-<a data-caption="" data-fancybox="image0" href="https://liepaja-sez.lv/img/block/news-banner/29/1920_1754462128__R1A9987.webp">
+<a data-caption="" data-fancybox="image0" href="../../../img/block/news-banner/29/1920_1754462128__R1A9987.webp">
 <img alt="Slide1" class="img-fluid" data-zmh="group0" src="https://liepaja-sez.lv/img/block/news-banner/29/1754462128__R1A9987.webp"/>
 </a>
 </div>
 <div class="carousel-item" data-zmh="group1" style="">
-<a data-caption="" data-fancybox="image1" href="https://liepaja-sez.lv/img/block/news-banner/30/1920_1754462161__R1A9980.webp">
+<a data-caption="" data-fancybox="image1" href="../../../img/block/news-banner/30/1920_1754462161__R1A9980.webp">
 <img alt="Slide2" class="img-fluid" data-zmh="group1" src="https://liepaja-sez.lv/img/block/news-banner/30/1754462161__R1A9980.webp"/>
 </a>
 </div>
 <div class="carousel-item" data-zmh="group2" style="">
-<a data-caption="" data-fancybox="image2" href="https://liepaja-sez.lv/img/block/news-banner/31/1920_1754462208__R1A9984.webp">
+<a data-caption="" data-fancybox="image2" href="../../../img/block/news-banner/31/1920_1754462208__R1A9984.webp">
 <img alt="Slide3" class="img-fluid" data-zmh="group2" src="https://liepaja-sez.lv/img/block/news-banner/31/1754462208__R1A9984.webp"/>
 </a>
 </div>
 <div class="carousel-item" data-zmh="group3" style="">
-<a data-caption="" data-fancybox="image3" href="https://liepaja-sez.lv/img/block/news-banner/32/1920_1754462358_DJI_0055_1.webp">
+<a data-caption="" data-fancybox="image3" href="../../../img/block/news-banner/32/1920_1754462358_DJI_0055_1.webp">
 <img alt="Slide4" class="img-fluid" data-zmh="group3" src="https://liepaja-sez.lv/img/block/news-banner/32/1754462358_DJI_0055_1.webp"/>
 </a>
 </div>
 <div class="carousel-item" data-zmh="group4" style="">
-<a data-caption="" data-fancybox="image4" href="https://liepaja-sez.lv/img/block/news-banner/33/1920_1754462423_IMG-20250731-WA0014.webp">
+<a data-caption="" data-fancybox="image4" href="../../../img/block/news-banner/33/1920_1754462423_IMG-20250731-WA0014.webp">
 <img alt="Slide5" class="img-fluid" data-zmh="group4" src="https://liepaja-sez.lv/img/block/news-banner/33/1754462423_IMG-20250731-WA0014.webp"/>
 </a>
 </div>
 <div class="carousel-item" data-zmh="group5" style="">
-<a data-caption="" data-fancybox="image5" href="https://liepaja-sez.lv/img/block/news-banner/34/1920_1754462465_IMG-20250731-WA0018.webp">
+<a data-caption="" data-fancybox="image5" href="../../../img/block/news-banner/34/1920_1754462465_IMG-20250731-WA0018.webp">
 <img alt="Slide6" class="img-fluid" data-zmh="group5" src="https://liepaja-sez.lv/img/block/news-banner/34/1754462465_IMG-20250731-WA0018.webp"/>
 </a>
 </div>
 <div class="carousel-item" data-zmh="group6" style="">
-<a data-caption="" data-fancybox="image6" href="https://liepaja-sez.lv/img/block/news-banner/35/1920_1754462584__R1A9991.webp">
+<a data-caption="" data-fancybox="image6" href="../../../img/block/news-banner/35/1920_1754462584__R1A9991.webp">
 <img alt="Slide7" class="img-fluid" data-zmh="group6" src="https://liepaja-sez.lv/img/block/news-banner/35/1754462584__R1A9991.webp"/>
 </a>
 </div>
@@ -198,11 +198,11 @@
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepāja SEZ Authority Holds an Electronic Ascending-Bid Auction for Newly Created Property at Eksporta Street 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/electronic-auction-of-new-real-estate-at-eksporta-street-3/">Read more</a>
+<a class="d-none d-md-block my-4" href="../electronic-auction-of-new-real-estate-at-eksporta-street-3/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">The Liepāja SEZ Authority is organising an electronic ascending-bid auction for new property at Eksporta Street 3, Liepāja, comprising a land plot measuring 51,521 m² and 12 buildings.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/electronic-auction-of-new-real-estate-at-eksporta-street-3/">Read more</a>
+<a class="d-block my-4" href="../electronic-auction-of-new-real-estate-at-eksporta-street-3/index.php">Read more</a>
 </div>
 </div>
 </div>
@@ -213,11 +213,11 @@
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Design, Construction and Design Supervision of the Reconstruction of Berth No. 46 at the Port of Liepāja</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-none d-md-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Procurement subject: Design, construction and design supervision of the reconstruction of Berth No. 46 at the Port of Liepāja. Identification No. LSEZ 2026/12. Main CPV code: 45241500-3 (Quay wall construction work).</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 </div>
 </div>

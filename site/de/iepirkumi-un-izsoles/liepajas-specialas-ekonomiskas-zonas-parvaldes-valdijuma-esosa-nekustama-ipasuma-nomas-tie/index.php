@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">2. Juni 2025</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/277/1749022049_Piel_2_Nomas_ligums_ar 02.06.2025 grozījumiem_ LSEZ_IZS_2025_1_noma.docx" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/277/1749022049_Piel_2_Nomas_ligums_ar%2002.06.2025%20groz%C4%ABjumiem_%20LSEZ_IZS_2025_1_noma.docx" target="_blank" aria-label="Dokument">
 Immobilienmietvertrag mit Änderungen vom 2. Juni 2025
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/277/1749022049_Piel_2_Nomas_ligums_ar 02.06.2025 grozījumiem_ LSEZ_IZS_2025_1_noma.docx" target="_blank" aria-label="1749022049_Piel_2_Nomas_ligums_ar 02.06.2025 grozījumiem_ LSEZ_IZS_2025_1_noma.docx">
+<a class="document" href="../../../doc/mod/document/277/1749022049_Piel_2_Nomas_ligums_ar%2002.06.2025%20groz%C4%ABjumiem_%20LSEZ_IZS_2025_1_noma.docx" target="_blank" aria-label="1749022049_Piel_2_Nomas_ligums_ar 02.06.2025 grozījumiem_ LSEZ_IZS_2025_1_noma.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -80,12 +80,12 @@ Immobilienmietvertrag mit Änderungen vom 2. Juni 2025
 <div class="document-info py-3">
 <div class="date">28. Februar 2025</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/262/1740729644_Piel_2_Nomas_ligums_LSEZ_IZS_2025_1_noma.docx" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/262/1740729644_Piel_2_Nomas_ligums_LSEZ_IZS_2025_1_noma.docx" target="_blank" aria-label="Dokument">
 Mietvertrag
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/262/1740729644_Piel_2_Nomas_ligums_LSEZ_IZS_2025_1_noma.docx" target="_blank" aria-label="1740729644_Piel_2_Nomas_ligums_LSEZ_IZS_2025_1_noma.docx">
+<a class="document" href="../../../doc/mod/document/262/1740729644_Piel_2_Nomas_ligums_LSEZ_IZS_2025_1_noma.docx" target="_blank" aria-label="1740729644_Piel_2_Nomas_ligums_LSEZ_IZS_2025_1_noma.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -95,12 +95,12 @@ Mietvertrag
 <div class="document-info py-3">
 <div class="date">28. Februar 2025</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/263/1740729720_Pazinojums_par_izsoli_LSEZ_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/263/1740729720_Pazinojums_par_izsoli_LSEZ_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="Dokument">
 Ausschreibung
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/263/1740729720_Pazinojums_par_izsoli_LSEZ_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="1740729720_Pazinojums_par_izsoli_LSEZ_IZS_2025_1_att_iek_noma.docx">
+<a class="document" href="../../../doc/mod/document/263/1740729720_Pazinojums_par_izsoli_LSEZ_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="1740729720_Pazinojums_par_izsoli_LSEZ_IZS_2025_1_att_iek_noma.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -110,12 +110,12 @@ Ausschreibung
 <div class="document-info py-3">
 <div class="date">28. Februar 2025</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/257/1740729307_Izsoles_Noteikumi_LSEZ_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/257/1740729307_Izsoles_Noteikumi_LSEZ_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="Dokument">
 Auktionsregeln
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/257/1740729307_Izsoles_Noteikumi_LSEZ_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="1740729307_Izsoles_Noteikumi_LSEZ_IZS_2025_1_att_iek_noma.docx">
+<a class="document" href="../../../doc/mod/document/257/1740729307_Izsoles_Noteikumi_LSEZ_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="1740729307_Izsoles_Noteikumi_LSEZ_IZS_2025_1_att_iek_noma.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -125,12 +125,12 @@ Auktionsregeln
 <div class="document-info py-3">
 <div class="date">28. Februar 2025</div>
 <div class="category mb-2">Alle</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/259/1740729432_Piel_4_pieteikums_LSEZ_IZS_2025_1_attirisana_noma.docx" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/259/1740729432_Piel_4_pieteikums_LSEZ_IZS_2025_1_attirisana_noma.docx" target="_blank" aria-label="Dokument">
 Antrag auf Teilnahme an einer Auktion
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/259/1740729432_Piel_4_pieteikums_LSEZ_IZS_2025_1_attirisana_noma.docx" target="_blank" aria-label="1740729432_Piel_4_pieteikums_LSEZ_IZS_2025_1_attirisana_noma.docx">
+<a class="document" href="../../../doc/mod/document/259/1740729432_Piel_4_pieteikums_LSEZ_IZS_2025_1_attirisana_noma.docx" target="_blank" aria-label="1740729432_Piel_4_pieteikums_LSEZ_IZS_2025_1_attirisana_noma.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -140,12 +140,12 @@ Antrag auf Teilnahme an einer Auktion
 <div class="document-info py-3">
 <div class="date">28. Februar 2025</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/260/1740729512_Piel_1 Pulvera iela 29_noma A4 (3).pdf" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/260/1740729512_Piel_1%20Pulvera%20iela%2029_noma%20A4%20%283%29.pdf" target="_blank" aria-label="Dokument">
 Landgrenzen
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/260/1740729512_Piel_1 Pulvera iela 29_noma A4 (3).pdf" target="_blank" aria-label="1740729512_Piel_1 Pulvera iela 29_noma A4 (3).pdf">
+<a class="document" href="../../../doc/mod/document/260/1740729512_Piel_1%20Pulvera%20iela%2029_noma%20A4%20%283%29.pdf" target="_blank" aria-label="1740729512_Piel_1 Pulvera iela 29_noma A4 (3).pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -155,12 +155,12 @@ Landgrenzen
 <div class="document-info py-3">
 <div class="date">28. Februar 2025</div>
 <div class="category mb-2">Alle</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/258/1740729389_Piel_3_PL_saraksts_LSEZ_IZS_2025_1_attirisanas.xls" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/258/1740729389_Piel_3_PL_saraksts_LSEZ_IZS_2025_1_attirisanas.xls" target="_blank" aria-label="Dokument">
 Sachanlagen und immaterielle Investitionen
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/258/1740729389_Piel_3_PL_saraksts_LSEZ_IZS_2025_1_attirisanas.xls" target="_blank" aria-label="1740729389_Piel_3_PL_saraksts_LSEZ_IZS_2025_1_attirisanas.xls">
+<a class="document" href="../../../doc/mod/document/258/1740729389_Piel_3_PL_saraksts_LSEZ_IZS_2025_1_attirisanas.xls" target="_blank" aria-label="1740729389_Piel_3_PL_saraksts_LSEZ_IZS_2025_1_attirisanas.xls">
 <i class="bi bi-file-earmark-excel"></i>
 </a>
 </div>
@@ -170,12 +170,12 @@ Sachanlagen und immaterielle Investitionen
 <div class="document-info py-3">
 <div class="date">28. Februar 2025</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/261/1740729581_Piel_5_apliec_reputacija_LSEZ_IZS_2025_1_attirisana_noma.docx" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/261/1740729581_Piel_5_apliec_reputacija_LSEZ_IZS_2025_1_attirisana_noma.docx" target="_blank" aria-label="Dokument">
 Nachweis
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/261/1740729581_Piel_5_apliec_reputacija_LSEZ_IZS_2025_1_attirisana_noma.docx" target="_blank" aria-label="1740729581_Piel_5_apliec_reputacija_LSEZ_IZS_2025_1_attirisana_noma.docx">
+<a class="document" href="../../../doc/mod/document/261/1740729581_Piel_5_apliec_reputacija_LSEZ_IZS_2025_1_attirisana_noma.docx" target="_blank" aria-label="1740729581_Piel_5_apliec_reputacija_LSEZ_IZS_2025_1_attirisana_noma.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -183,7 +183,7 @@ Nachweis
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/208/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/208/original_" aria-label="Herunterladen" download>
+<a class="image-download"  aria-label="Herunterladen" download href="https://liepaja-sez.lv/img/mod/news/208/original_">
 <img class="download-icon" alt="Herunterladen" src="https://liepaja-sez.lv/img/dl.svg"/>
 </a>
 </div>

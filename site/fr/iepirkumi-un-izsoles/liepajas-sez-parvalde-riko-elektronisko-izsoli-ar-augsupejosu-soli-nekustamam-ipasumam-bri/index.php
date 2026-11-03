@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">28 juillet 2025</div>
 <div class="category mb-2">Tout le monde</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/287/1753692151_02_Pielikums_1_Pieteikums_Dalibai_Izsole_Brivibas_98A.docx" target="_blank" aria-label="Documenter">
+<a href="../../../doc/mod/document/287/1753692151_02_Pielikums_1_Pieteikums_Dalibai_Izsole_Brivibas_98A.docx" target="_blank" aria-label="Documenter">
 Demande de participation aux enchères pour la rue Brivibi 98A
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/287/1753692151_02_Pielikums_1_Pieteikums_Dalibai_Izsole_Brivibas_98A.docx" target="_blank" aria-label="1753692151_02_Pielikums_1_Pieteikums_Dalibai_Izsole_Brivibas_98A.docx">
+<a class="document" href="../../../doc/mod/document/287/1753692151_02_Pielikums_1_Pieteikums_Dalibai_Izsole_Brivibas_98A.docx" target="_blank" aria-label="1753692151_02_Pielikums_1_Pieteikums_Dalibai_Izsole_Brivibas_98A.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>							
 </div>
@@ -80,12 +80,12 @@ Demande de participation aux enchères pour la rue Brivibi 98A
 <div class="document-info py-3">
 <div class="date">31 juillet 2025</div>
 <div class="category mb-2">Marchés publics et ventes aux enchères</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/291/1753949379_01_Izsoles_Noteikumi_red_31072025.pdf" target="_blank" aria-label="Documenter">
+<a href="../../../doc/mod/document/291/1753949379_01_Izsoles_Noteikumi_red_31072025.pdf" target="_blank" aria-label="Documenter">
 Règles d'enchères pour Brivibas iela 98A
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/291/1753949379_01_Izsoles_Noteikumi_red_31072025.pdf" target="_blank" aria-label="1753949379_01_Izsoles_Noteikumi_red_31072025.pdf">
+<a class="document" href="../../../doc/mod/document/291/1753949379_01_Izsoles_Noteikumi_red_31072025.pdf" target="_blank" aria-label="1753949379_01_Izsoles_Noteikumi_red_31072025.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -95,12 +95,12 @@ Règles d'enchères pour Brivibas iela 98A
 <div class="document-info py-3">
 <div class="date">28 juillet 2025</div>
 <div class="category mb-2">Tout le monde</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/288/1753692198_05Brivibas98AZIPplans.pdf" target="_blank" aria-label="Documenter">
+<a href="../../../doc/mod/document/288/1753692198_05Brivibas98AZIPplans.pdf" target="_blank" aria-label="Documenter">
 Plan de la rue Brivibas 98A
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/288/1753692198_05Brivibas98AZIPplans.pdf" target="_blank" aria-label="1753692198_05Brivibas98AZIPplans.pdf">
+<a class="document" href="../../../doc/mod/document/288/1753692198_05Brivibas98AZIPplans.pdf" target="_blank" aria-label="1753692198_05Brivibas98AZIPplans.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -110,12 +110,12 @@ Plan de la rue Brivibas 98A
 <div class="document-info py-3">
 <div class="date">28 juillet 2025</div>
 <div class="category mb-2">Tout le monde</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/289/1753692301_06_Pielikums_Brivibas_98A_jaunais_ipasums.pdf" target="_blank" aria-label="Documenter">
+<a href="../../../doc/mod/document/289/1753692301_06_Pielikums_Brivibas_98A_jaunais_ipasums.pdf" target="_blank" aria-label="Documenter">
 Schéma du hangar Brivibas iela 98A
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/289/1753692301_06_Pielikums_Brivibas_98A_jaunais_ipasums.pdf" target="_blank" aria-label="1753692301_06_Pielikums_Brivibas_98A_jaunais_ipasums.pdf">
+<a class="document" href="../../../doc/mod/document/289/1753692301_06_Pielikums_Brivibas_98A_jaunais_ipasums.pdf" target="_blank" aria-label="1753692301_06_Pielikums_Brivibas_98A_jaunais_ipasums.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -125,12 +125,12 @@ Schéma du hangar Brivibas iela 98A
 <div class="document-info py-3">
 <div class="date">28 juillet 2025</div>
 <div class="category mb-2">Tout le monde</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/290/1753692326_VertejumsLiepajaBrivibasiela98A.pdf" target="_blank" aria-label="Documenter">
+<a href="../../../doc/mod/document/290/1753692326_VertejumsLiepajaBrivibasiela98A.pdf" target="_blank" aria-label="Documenter">
 Classement Liberté 98A
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/290/1753692326_VertejumsLiepajaBrivibasiela98A.pdf" target="_blank" aria-label="1753692326_VertejumsLiepajaBrivibasiela98A.pdf">
+<a class="document" href="../../../doc/mod/document/290/1753692326_VertejumsLiepajaBrivibasiela98A.pdf" target="_blank" aria-label="1753692326_VertejumsLiepajaBrivibasiela98A.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -138,7 +138,7 @@ Classement Liberté 98A
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/233/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/233/original_" aria-label="Télécharger" download>
+<a class="image-download"  aria-label="Télécharger" download href="https://liepaja-sez.lv/img/mod/news/233/original_">
 <img class="download-icon" alt="Télécharger" src="https://liepaja-sez.lv/img/dl.svg"/>	
 </a>															
 </div>

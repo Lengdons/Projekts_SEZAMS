@@ -47,7 +47,7 @@
 <h1 class="article-title">Liepāja Special Economic Zone Authority Holds an Electronic Ascending-Bid Auction for a VW Passat Sedan (2006)</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>The auction begins on <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv/</a> on 17 February 2024 at 13:00 and ends on 8 March 2024 at 13:00.</p><p>Bidder registration is open from 17 February 2024 at 13:00 until 27 February 2024 at 23:59 on the electronic auction website <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv/</a>.</p><p>The vehicle may be inspected until 27 February 2024 by arranging a visit in advance by calling 29426284 (Ainars).</p><p>The auction rules are available on the website <a href="https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi</a>.</p></div>
+<div class="col"><div class="col-12 output"><p>The auction begins on <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv/</a> on 17 February 2024 at 13:00 and ends on 8 March 2024 at 13:00.</p><p>Bidder registration is open from 17 February 2024 at 13:00 until 27 February 2024 at 23:59 on the electronic auction website <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv/</a>.</p><p>The vehicle may be inspected until 27 February 2024 by arranging a visit in advance by calling 29426284 (Ainars).</p><p>The auction rules are available on the website <a href="../index.php">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi</a>.</p></div>
 </div>
 </div>
 </div><h1 class="block-title mt-3">Noteikumi<span></span></h1>
@@ -57,12 +57,12 @@
 <div class="document-info py-3">
 <div class="date">16. februāris, 2024</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/177/1708183605_Izsoles_Noteikumi_Ligums_Sedan_.docx" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/177/1708183605_Izsoles_Noteikumi_Ligums_Sedan_.docx" target="_blank">
 									Izsoles  noteikumi
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1708183605_Izsoles_Noteikumi_Ligums_Sedan_.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/177/1708183605_Izsoles_Noteikumi_Ligums_Sedan_.docx" target="_blank">
+<a aria-label="1708183605_Izsoles_Noteikumi_Ligums_Sedan_.docx" class="document" href="../../../doc/mod/document/177/1708183605_Izsoles_Noteikumi_Ligums_Sedan_.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>

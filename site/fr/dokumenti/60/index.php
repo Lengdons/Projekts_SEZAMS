@@ -115,14 +115,14 @@ Plan d'action en cas de contamination imprévue
 <div class="document-info">
 <div class="date">1 avril 2026</div>
 <div class="category">Gouvernance d'entreprise</div>
-<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/357/1775023725_pdfpro_merged.pdf" target="_blank">
+<a aria-label="Documenter" href="../../../doc/mod/document/357/1775023725_pdfpro_merged.pdf" target="_blank">
 
 Politique qualité et certificat ISO 9001:2015
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1775023725_pdfpro_merged.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/357/1775023725_pdfpro_merged.pdf" target="_blank">
+<a aria-label="1775023725_pdfpro_merged.pdf" class="document" href="../../../doc/mod/document/357/1775023725_pdfpro_merged.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -131,14 +131,14 @@ Politique qualité et certificat ISO 9001:2015
 <div class="document-info">
 <div class="date">10 février 2026</div>
 <div class="category">Gouvernance d'entreprise</div>
-<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/344/1770721733_Kvalitātes politika_mājas lapai.pdf" target="_blank">
+<a aria-label="Documenter" href="../../../doc/mod/document/344/1770721733_Kvalit%C4%81tes%20politika_m%C4%81jas%20lapai.pdf" target="_blank">
 
 Politique qualité et certificat ISO 9001:2015 
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1770721733_Kvalitātes politika_mājas lapai.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/344/1770721733_Kvalitātes politika_mājas lapai.pdf" target="_blank">
+<a aria-label="1770721733_Kvalitātes politika_mājas lapai.pdf" class="document" href="../../../doc/mod/document/344/1770721733_Kvalit%C4%81tes%20politika_m%C4%81jas%20lapai.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -147,14 +147,14 @@ Politique qualité et certificat ISO 9001:2015
 <div class="document-info">
 <div class="date">29 février 2024</div>
 <div class="category">Gouvernance d'entreprise</div>
-<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/224/1718103373_etikas_kodekss.pdf" target="_blank">
+<a aria-label="Documenter" href="../../../doc/mod/document/224/1718103373_etikas_kodekss.pdf" target="_blank">
 
 Code d'éthique
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1718103373_etikas_kodekss.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/224/1718103373_etikas_kodekss.pdf" target="_blank">
+<a aria-label="1718103373_etikas_kodekss.pdf" class="document" href="../../../doc/mod/document/224/1718103373_etikas_kodekss.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -163,14 +163,14 @@ Code d'éthique
 <div class="document-info">
 <div class="date">21 août 2020</div>
 <div class="category">Gouvernance d'entreprise</div>
-<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/225/1718115346_trauksmes-celsana.pdf" target="_blank">
+<a aria-label="Documenter" href="../../../doc/mod/document/225/1718115346_trauksmes-celsana.pdf" target="_blank">
 
 Règles internes de dénonciation
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1718115346_trauksmes-celsana.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/225/1718115346_trauksmes-celsana.pdf" target="_blank">
+<a aria-label="1718115346_trauksmes-celsana.pdf" class="document" href="../../../doc/mod/document/225/1718115346_trauksmes-celsana.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -179,14 +179,14 @@ Règles internes de dénonciation
 <div class="document-info">
 <div class="date">14 novembre 2019</div>
 <div class="category">Gouvernance d'entreprise</div>
-<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/223/1718103304_interesu-noversanas-politika.pdf" target="_blank">
+<a aria-label="Documenter" href="../../../doc/mod/document/223/1718103304_interesu-noversanas-politika.pdf" target="_blank">
 
 Sur la politique de prévention des conflits d'intérêts
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1718103304_interesu-noversanas-politika.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/223/1718103304_interesu-noversanas-politika.pdf" target="_blank">
+<a aria-label="1718103304_interesu-noversanas-politika.pdf" class="document" href="../../../doc/mod/document/223/1718103304_interesu-noversanas-politika.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -195,14 +195,14 @@ Sur la politique de prévention des conflits d'intérêts
 <div class="document-info">
 <div class="date">16 octobre 2019</div>
 <div class="category">Gouvernance d'entreprise</div>
-<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/222/1718103075_pretkorupcijas_politika.pdf" target="_blank">
+<a aria-label="Documenter" href="../../../doc/mod/document/222/1718103075_pretkorupcijas_politika.pdf" target="_blank">
 
 Politique anti-corruption
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1718103075_pretkorupcijas_politika.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/222/1718103075_pretkorupcijas_politika.pdf" target="_blank">
+<a aria-label="1718103075_pretkorupcijas_politika.pdf" class="document" href="../../../doc/mod/document/222/1718103075_pretkorupcijas_politika.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -211,14 +211,14 @@ Politique anti-corruption
 <div class="document-info">
 <div class="date">23 août 2019</div>
 <div class="category">Gouvernance d'entreprise</div>
-<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/221/1718103016_atalgojums.pdf" target="_blank">
+<a aria-label="Documenter" href="../../../doc/mod/document/221/1718103016_atalgojums.pdf" target="_blank">
 
 Rémunération
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1718103016_atalgojums.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/221/1718103016_atalgojums.pdf" target="_blank">
+<a aria-label="1718103016_atalgojums.pdf" class="document" href="../../../doc/mod/document/221/1718103016_atalgojums.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -227,14 +227,14 @@ Rémunération
 <div class="document-info">
 <div class="date">13 janvier 2015</div>
 <div class="category">Gouvernance d'entreprise</div>
-<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/335/1764858280_14_MARKETINGA_UN_KOMUNIKACIJU_PLANS(4).pdf" target="_blank">
+<a aria-label="Documenter" href="../../../doc/mod/document/335/1764858280_14_MARKETINGA_UN_KOMUNIKACIJU_PLANS%284%29.pdf" target="_blank">
 
 Plan marketing et communication
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1764858280_14_MARKETINGA_UN_KOMUNIKACIJU_PLANS(4).pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/335/1764858280_14_MARKETINGA_UN_KOMUNIKACIJU_PLANS(4).pdf" target="_blank">
+<a aria-label="1764858280_14_MARKETINGA_UN_KOMUNIKACIJU_PLANS(4).pdf" class="document" href="../../../doc/mod/document/335/1764858280_14_MARKETINGA_UN_KOMUNIKACIJU_PLANS%284%29.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>

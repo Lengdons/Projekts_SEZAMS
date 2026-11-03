@@ -115,14 +115,14 @@ Plan d'action en cas de contamination imprévue
 <div class="document-info">
 <div class="date">11 septembre 2026</div>
 <div class="category">Ordres de la capitainerie du port</div>
-<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/210/1789367548_8_4_3_11_09_2026_Par pielaujamiem kugu parametriem.pdf" target="_blank">
+<a aria-label="Documenter" href="../../../doc/mod/document/210/1789367548_8_4_3_11_09_2026_Par%20pielaujamiem%20kugu%20parametriem.pdf" target="_blank">
 
 Paramètres de navire autorisés dans le port de Liepāja
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1789367548_8_4_3_11_09_2026_Par pielaujamiem kugu parametriem.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/210/1789367548_8_4_3_11_09_2026_Par pielaujamiem kugu parametriem.pdf" target="_blank">
+<a aria-label="1789367548_8_4_3_11_09_2026_Par pielaujamiem kugu parametriem.pdf" class="document" href="../../../doc/mod/document/210/1789367548_8_4_3_11_09_2026_Par%20pielaujamiem%20kugu%20parametriem.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>

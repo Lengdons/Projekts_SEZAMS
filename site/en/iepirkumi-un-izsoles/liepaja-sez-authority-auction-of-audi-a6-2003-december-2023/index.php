@@ -46,13 +46,13 @@
 <h1 class="article-title">Liepāja SEZ Authority Announces an Electronic Auction of an Audi A6 (2003)</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>The Liepāja Special Economic Zone Authority is organising the disposal of an <strong>Audi A6 vehicle (model year 2003)</strong> through an electronic ascending-bid auction.</p><p>The auction takes place on the electronic auction website <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>.</p><p>The auction begins on <strong>12 December 2023 at 13:00</strong> and ends on <strong>2 January 2024 at 13:00</strong>.</p><p>Bidder registration is open from <strong>12 December 2023 at 13:00</strong> until <strong>22 December 2023 at 23:59</strong> on the electronic auction website <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>.</p><p>Prospective bidders may inspect the vehicle until <strong>22 December 2023</strong>, by arranging a visit in advance by telephone at <strong>29426284</strong> (Ainars).</p><p>The auction rules are available on the website: <a href="https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi</a>.</p></div>
+<div class="col"><div class="col-12 output"><p>The Liepāja Special Economic Zone Authority is organising the disposal of an <strong>Audi A6 vehicle (model year 2003)</strong> through an electronic ascending-bid auction.</p><p>The auction takes place on the electronic auction website <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>.</p><p>The auction begins on <strong>12 December 2023 at 13:00</strong> and ends on <strong>2 January 2024 at 13:00</strong>.</p><p>Bidder registration is open from <strong>12 December 2023 at 13:00</strong> until <strong>22 December 2023 at 23:59</strong> on the electronic auction website <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>.</p><p>Prospective bidders may inspect the vehicle until <strong>22 December 2023</strong>, by arranging a visit in advance by telephone at <strong>29426284</strong> (Ainars).</p><p>The auction rules are available on the website: <a href="../index.php">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi</a>.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/80/870_1705048121_audi-1.webp" style="width: 100%;"/>
-<a aria-label="Lejupielādēt" class="image-download" download="" href="https://liepaja-sez.lv/img/mod/news/80/original_1705048121_audi-1.webp">
+<a aria-label="Lejupielādēt" class="image-download" download="" href="../../../img/mod/news/80/original_1705048121_audi-1.webp">
 <img alt="Lejupielādēt" class="download-icon" src="https://liepaja-sez.lv/img/dl.svg"/>
 </a>
 </div>
@@ -89,11 +89,11 @@
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Design, Construction and Design Supervision of the Reconstruction of Berth No. 46 at the Port of Liepāja</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-none d-md-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Procurement subject: Design, construction and design supervision of the reconstruction of Berth No. 46 at the Port of Liepāja. Identification No. LSEZ 2026/12. Main CPV code: 45241500-3 (Quay wall construction work).</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 </div>
 </div>

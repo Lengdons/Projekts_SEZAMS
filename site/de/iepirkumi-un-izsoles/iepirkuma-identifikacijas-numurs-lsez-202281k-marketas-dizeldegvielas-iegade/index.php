@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">22. April 2023</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/90/1704288844_nolikums.pdf" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/90/1704288844_nolikums.pdf" target="_blank" aria-label="Dokument">
 Verordnung
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/90/1704288844_nolikums.pdf" target="_blank" aria-label="1704288844_nolikums.pdf">
+<a class="document" href="../../../doc/mod/document/90/1704288844_nolikums.pdf" target="_blank" aria-label="1704288844_nolikums.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -80,12 +80,12 @@ Verordnung
 <div class="document-info py-3">
 <div class="date">22. April 2023</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/91/1704288886_lēmums.pdf" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/91/1704288886_l%C4%93mums.pdf" target="_blank" aria-label="Dokument">
 Entscheidung
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/91/1704288886_lēmums.pdf" target="_blank" aria-label="1704288886_lēmums.pdf">
+<a class="document" href="../../../doc/mod/document/91/1704288886_l%C4%93mums.pdf" target="_blank" aria-label="1704288886_lēmums.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -93,7 +93,7 @@ Entscheidung
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/50/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/50/original_" aria-label="Herunterladen" download>
+<a class="image-download"  aria-label="Herunterladen" download href="https://liepaja-sez.lv/img/mod/news/50/original_">
 <img class="download-icon" alt="Herunterladen" src="https://liepaja-sez.lv/img/dl.svg"/>
 </a>
 </div>

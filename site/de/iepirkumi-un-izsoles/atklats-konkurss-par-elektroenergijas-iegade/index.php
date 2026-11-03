@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">25. Oktober 2021</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/95/1704363327_paziņojums.pdf" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/95/1704363327_pazi%C5%86ojums.pdf" target="_blank" aria-label="Dokument">
 Mitteilung
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/95/1704363327_paziņojums.pdf" target="_blank" aria-label="1704363327_paziņojums.pdf">
+<a class="document" href="../../../doc/mod/document/95/1704363327_pazi%C5%86ojums.pdf" target="_blank" aria-label="1704363327_paziņojums.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -80,12 +80,12 @@ Mitteilung
 <div class="document-info py-3">
 <div class="date">25. Oktober 2021</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/96/1704363600_paziņojums_ii.pdf" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/96/1704363600_pazi%C5%86ojums_ii.pdf" target="_blank" aria-label="Dokument">
 Mitteilung II
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/96/1704363600_paziņojums_ii.pdf" target="_blank" aria-label="1704363600_paziņojums_ii.pdf">
+<a class="document" href="../../../doc/mod/document/96/1704363600_pazi%C5%86ojums_ii.pdf" target="_blank" aria-label="1704363600_paziņojums_ii.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -95,12 +95,12 @@ Mitteilung II
 <div class="document-info py-3">
 <div class="date">25. Oktober 2021</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/97/1704363652_nolikuma_grozījumi..doc" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/97/1704363652_nolikuma_groz%C4%ABjumi..doc" target="_blank" aria-label="Dokument">
 Änderung der Verordnung
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/97/1704363652_nolikuma_grozījumi..doc" target="_blank" aria-label="1704363652_nolikuma_grozījumi..doc">
+<a class="document" href="../../../doc/mod/document/97/1704363652_nolikuma_groz%C4%ABjumi..doc" target="_blank" aria-label="1704363652_nolikuma_grozījumi..doc">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -110,12 +110,12 @@ Mitteilung II
 <div class="document-info py-3">
 <div class="date">25. Oktober 2021</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/98/1704363701_nolikuma_grozījumi_nr.2..doc" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/98/1704363701_nolikuma_groz%C4%ABjumi_nr.2..doc" target="_blank" aria-label="Dokument">
 Änderung der Verordnung Nr. 2
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/98/1704363701_nolikuma_grozījumi_nr.2..doc" target="_blank" aria-label="1704363701_nolikuma_grozījumi_nr.2..doc">
+<a class="document" href="../../../doc/mod/document/98/1704363701_nolikuma_groz%C4%ABjumi_nr.2..doc" target="_blank" aria-label="1704363701_nolikuma_grozījumi_nr.2..doc">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -125,12 +125,12 @@ Mitteilung II
 <div class="document-info py-3">
 <div class="date">25. Oktober 2021</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/99/1704363776_pretendentu_iesniegto_finanšu_piedāvājumu_apkopojums.docx" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/99/1704363776_pretendentu_iesniegto_finan%C5%A1u_pied%C4%81v%C4%81jumu_apkopojums.docx" target="_blank" aria-label="Dokument">
 Zusammenfassung der von den Bietern eingereichten Finanzangebote
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/99/1704363776_pretendentu_iesniegto_finanšu_piedāvājumu_apkopojums.docx" target="_blank" aria-label="1704363776_pretendentu_iesniegto_finanšu_piedāvājumu_apkopojums.docx">
+<a class="document" href="../../../doc/mod/document/99/1704363776_pretendentu_iesniegto_finan%C5%A1u_pied%C4%81v%C4%81jumu_apkopojums.docx" target="_blank" aria-label="1704363776_pretendentu_iesniegto_finanšu_piedāvājumu_apkopojums.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -138,7 +138,7 @@ Zusammenfassung der von den Bietern eingereichten Finanzangebote
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/57/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/57/original_" aria-label="Herunterladen" download>
+<a class="image-download"  aria-label="Herunterladen" download href="https://liepaja-sez.lv/img/mod/news/57/original_">
 <img class="download-icon" alt="Herunterladen" src="https://liepaja-sez.lv/img/dl.svg"/>
 </a>
 </div>

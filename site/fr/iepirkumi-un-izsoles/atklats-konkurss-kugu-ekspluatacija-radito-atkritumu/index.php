@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">12 janvier 2021</div>
 <div class="category mb-2">Marchés publics et ventes aux enchères</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/111/" target="_blank" aria-label="Documenter">
+<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/111/" target="_blank">
 Notification
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/111/" target="_blank" aria-label="">
+<a class="document" aria-label="" href="https://liepaja-sez.lv/doc/mod/document/111/" target="_blank">
 <i class="bi bi-file-earmark"></i>
 </a>							
 </div>
@@ -80,12 +80,12 @@ Notification
 <div class="document-info py-3">
 <div class="date">12 janvier 2021</div>
 <div class="category mb-2">Marchés publics et ventes aux enchères</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/112/" target="_blank" aria-label="Documenter">
+<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/112/" target="_blank">
 Message
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/112/" target="_blank" aria-label="">
+<a class="document" aria-label="" href="https://liepaja-sez.lv/doc/mod/document/112/" target="_blank">
 <i class="bi bi-file-earmark"></i>
 </a>							
 </div>
@@ -95,12 +95,12 @@ Message
 <div class="document-info py-3">
 <div class="date">12 janvier 2021</div>
 <div class="category mb-2">Marchés publics et ventes aux enchères</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/113/1704365929_paziņojums_par_iepirkuma_pārtraukšanu.pdf" target="_blank" aria-label="Documenter">
+<a href="../../../doc/mod/document/113/1704365929_pazi%C5%86ojums_par_iepirkuma_p%C4%81rtrauk%C5%A1anu.pdf" target="_blank" aria-label="Documenter">
 Avis de résiliation du marché
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/113/1704365929_paziņojums_par_iepirkuma_pārtraukšanu.pdf" target="_blank" aria-label="1704365929_paziņojums_par_iepirkuma_pārtraukšanu.pdf">
+<a class="document" href="../../../doc/mod/document/113/1704365929_pazi%C5%86ojums_par_iepirkuma_p%C4%81rtrauk%C5%A1anu.pdf" target="_blank" aria-label="1704365929_paziņojums_par_iepirkuma_pārtraukšanu.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -108,7 +108,7 @@ Avis de résiliation du marché
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/71/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/71/original_" aria-label="Télécharger" download>
+<a class="image-download"  aria-label="Télécharger" download href="https://liepaja-sez.lv/img/mod/news/71/original_">
 <img class="download-icon" alt="Télécharger" src="https://liepaja-sez.lv/img/dl.svg"/>	
 </a>															
 </div>

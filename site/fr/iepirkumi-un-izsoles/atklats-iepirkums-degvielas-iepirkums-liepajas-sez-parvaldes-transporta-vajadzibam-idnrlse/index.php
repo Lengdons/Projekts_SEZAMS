@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">14 décembre 2023</div>
 <div class="category mb-2">Marchés publics et ventes aux enchères</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/85/1704287405_nolikums.docx" target="_blank" aria-label="Documenter">
+<a href="../../../doc/mod/document/85/1704287405_nolikums.docx" target="_blank" aria-label="Documenter">
 Règlements
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/85/1704287405_nolikums.docx" target="_blank" aria-label="1704287405_nolikums.docx">
+<a class="document" href="../../../doc/mod/document/85/1704287405_nolikums.docx" target="_blank" aria-label="1704287405_nolikums.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>							
 </div>
@@ -78,7 +78,7 @@ Règlements
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/43/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/43/original_" aria-label="Télécharger" download>
+<a class="image-download"  aria-label="Télécharger" download href="https://liepaja-sez.lv/img/mod/news/43/original_">
 <img class="download-icon" alt="Télécharger" src="https://liepaja-sez.lv/img/dl.svg"/>	
 </a>															
 </div>

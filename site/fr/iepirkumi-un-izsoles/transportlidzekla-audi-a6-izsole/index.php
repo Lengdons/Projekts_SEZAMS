@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">26 février 2024</div>
 <div class="category mb-2">Marchés publics et ventes aux enchères</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/182/1708947088_Izsoles_Nolikums_AudiA6_26022024.pdf" target="_blank" aria-label="Documenter">
+<a href="../../../doc/mod/document/182/1708947088_Izsoles_Nolikums_AudiA6_26022024.pdf" target="_blank" aria-label="Documenter">
 Règles des enchères pour l'Audi A6
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/182/1708947088_Izsoles_Nolikums_AudiA6_26022024.pdf" target="_blank" aria-label="1708947088_Izsoles_Nolikums_AudiA6_26022024.pdf">
+<a class="document" href="../../../doc/mod/document/182/1708947088_Izsoles_Nolikums_AudiA6_26022024.pdf" target="_blank" aria-label="1708947088_Izsoles_Nolikums_AudiA6_26022024.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -78,7 +78,7 @@ Règles des enchères pour l'Audi A6
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/112/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/112/original_" aria-label="Télécharger" download>
+<a class="image-download"  aria-label="Télécharger" download href="https://liepaja-sez.lv/img/mod/news/112/original_">
 <img class="download-icon" alt="Télécharger" src="https://liepaja-sez.lv/img/dl.svg"/>	
 </a>															
 </div>

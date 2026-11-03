@@ -115,14 +115,14 @@ Plan d'action en cas de contamination imprévue
 <div class="document-info">
 <div class="date">4 juin 2024</div>
 <div class="category">Plan d'action en cas de contamination imprévue</div>
-<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/150/1723464984_LSEZ_drosibas_plans_2024.pdf" target="_blank">
+<a aria-label="Documenter" href="../../../doc/mod/document/150/1723464984_LSEZ_drosibas_plans_2024.pdf" target="_blank">
 
 Plan d'action en cas de contamination imprévue
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1723464984_LSEZ_drosibas_plans_2024.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/150/1723464984_LSEZ_drosibas_plans_2024.pdf" target="_blank">
+<a aria-label="1723464984_LSEZ_drosibas_plans_2024.pdf" class="document" href="../../../doc/mod/document/150/1723464984_LSEZ_drosibas_plans_2024.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>

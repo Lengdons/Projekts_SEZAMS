@@ -47,12 +47,12 @@
 <div class="document-info py-3">
 <div class="date">28. August, 2025</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/320/1756367201_1754027017_Izsoles_Noteikumi_29072025 labots.docx" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/320/1756367201_1754027017_Izsoles_Noteikumi_29072025%20labots.docx" target="_blank">
 									Izsoles noteikumi (ar 27.08.2025. grozījumiem)
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1756367201_1754027017_Izsoles_Noteikumi_29072025 labots.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/320/1756367201_1754027017_Izsoles_Noteikumi_29072025 labots.docx" target="_blank">
+<a aria-label="1756367201_1754027017_Izsoles_Noteikumi_29072025 labots.docx" class="document" href="../../../doc/mod/document/320/1756367201_1754027017_Izsoles_Noteikumi_29072025%20labots.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -62,12 +62,12 @@
 <div class="document-info py-3">
 <div class="date">28. August, 2025</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/321/1756367231_1754026748_Piel_2_Nomas_ligums_IZS_2025_2 labots.docx" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/321/1756367231_1754026748_Piel_2_Nomas_ligums_IZS_2025_2%20labots.docx" target="_blank">
 									Nomas līgums (ar 27.08.2025. grozījumiem)
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1756367231_1754026748_Piel_2_Nomas_ligums_IZS_2025_2 labots.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/321/1756367231_1754026748_Piel_2_Nomas_ligums_IZS_2025_2 labots.docx" target="_blank">
+<a aria-label="1756367231_1754026748_Piel_2_Nomas_ligums_IZS_2025_2 labots.docx" class="document" href="../../../doc/mod/document/321/1756367231_1754026748_Piel_2_Nomas_ligums_IZS_2025_2%20labots.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -77,12 +77,12 @@
 <div class="document-info py-3">
 <div class="date">1. August, 2025</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/295/1754026833_Piel_3_PL_saraksts_attīrīšanas.xls" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/295/1754026833_Piel_3_PL_saraksts_att%C4%ABr%C4%AB%C5%A1anas.xls" target="_blank">
 									Pamatlīdzekļi un nemateriālie ieguldījumi
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1754026833_Piel_3_PL_saraksts_attīrīšanas.xls" class="document" href="https://liepaja-sez.lv/doc/mod/document/295/1754026833_Piel_3_PL_saraksts_attīrīšanas.xls" target="_blank">
+<a aria-label="1754026833_Piel_3_PL_saraksts_attīrīšanas.xls" class="document" href="../../../doc/mod/document/295/1754026833_Piel_3_PL_saraksts_att%C4%ABr%C4%AB%C5%A1anas.xls" target="_blank">
 <i class="bi bi-file-earmark-excel"></i>
 </a>
 </div>
@@ -92,12 +92,12 @@
 <div class="document-info py-3">
 <div class="date">1. August, 2025</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/298/1754027146_Piel_4_pieteikums_IZS_2025_1_att_iek_noma.docx" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/298/1754027146_Piel_4_pieteikums_IZS_2025_1_att_iek_noma.docx" target="_blank">
 									Pieteikums izsolei
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1754027146_Piel_4_pieteikums_IZS_2025_1_att_iek_noma.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/298/1754027146_Piel_4_pieteikums_IZS_2025_1_att_iek_noma.docx" target="_blank">
+<a aria-label="1754027146_Piel_4_pieteikums_IZS_2025_1_att_iek_noma.docx" class="document" href="../../../doc/mod/document/298/1754027146_Piel_4_pieteikums_IZS_2025_1_att_iek_noma.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -107,12 +107,12 @@
 <div class="document-info py-3">
 <div class="date">1. August, 2025</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/297/1754027083_Piel_5_apliec_reputacija_IZS_2025_1_att_iek_noma.docx" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/297/1754027083_Piel_5_apliec_reputacija_IZS_2025_1_att_iek_noma.docx" target="_blank">
 									Apliecinājums
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1754027083_Piel_5_apliec_reputacija_IZS_2025_1_att_iek_noma.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/297/1754027083_Piel_5_apliec_reputacija_IZS_2025_1_att_iek_noma.docx" target="_blank">
+<a aria-label="1754027083_Piel_5_apliec_reputacija_IZS_2025_1_att_iek_noma.docx" class="document" href="../../../doc/mod/document/297/1754027083_Piel_5_apliec_reputacija_IZS_2025_1_att_iek_noma.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -122,12 +122,12 @@
 <div class="document-info py-3">
 <div class="date">1. August, 2025</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/292/1754026608_Piel_1 Pulvera iela 29_noma A4.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/292/1754026608_Piel_1%20Pulvera%20iela%2029_noma%20A4.pdf" target="_blank">
 									Pulvera iela 29, plāns
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1754026608_Piel_1 Pulvera iela 29_noma A4.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/292/1754026608_Piel_1 Pulvera iela 29_noma A4.pdf" target="_blank">
+<a aria-label="1754026608_Piel_1 Pulvera iela 29_noma A4.pdf" class="document" href="../../../doc/mod/document/292/1754026608_Piel_1%20Pulvera%20iela%2029_noma%20A4.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -157,11 +157,11 @@
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepāja SEZ Authority Holds an Electronic Ascending-Bid Auction for Newly Created Property at Eksporta Street 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/electronic-auction-of-new-real-estate-at-eksporta-street-3/">Read more</a>
+<a class="d-none d-md-block my-4" href="../electronic-auction-of-new-real-estate-at-eksporta-street-3/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">The Liepāja SEZ Authority is organising an electronic ascending-bid auction for new property at Eksporta Street 3, Liepāja, comprising a land plot measuring 51,521 m² and 12 buildings.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/electronic-auction-of-new-real-estate-at-eksporta-street-3/">Read more</a>
+<a class="d-block my-4" href="../electronic-auction-of-new-real-estate-at-eksporta-street-3/index.php">Read more</a>
 </div>
 </div>
 </div>
@@ -172,11 +172,11 @@
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Design, Construction and Design Supervision of the Reconstruction of Berth No. 46 at the Port of Liepāja</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-none d-md-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Procurement subject: Design, construction and design supervision of the reconstruction of Berth No. 46 at the Port of Liepāja. Identification No. LSEZ 2026/12. Main CPV code: 45241500-3 (Quay wall construction work).</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 </div>
 </div>

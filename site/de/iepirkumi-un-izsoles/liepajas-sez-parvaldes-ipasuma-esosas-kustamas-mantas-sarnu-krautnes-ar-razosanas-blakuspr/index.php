@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">8. September 2025</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/323/1757329013_Sludinajums_IZS_2025_7_sarnu_krautne.docx" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/323/1757329013_Sludinajums_IZS_2025_7_sarnu_krautne.docx" target="_blank" aria-label="Dokument">
 Predigt
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/323/1757329013_Sludinajums_IZS_2025_7_sarnu_krautne.docx" target="_blank" aria-label="1757329013_Sludinajums_IZS_2025_7_sarnu_krautne.docx">
+<a class="document" href="../../../doc/mod/document/323/1757329013_Sludinajums_IZS_2025_7_sarnu_krautne.docx" target="_blank" aria-label="1757329013_Sludinajums_IZS_2025_7_sarnu_krautne.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -80,12 +80,12 @@ Predigt
 <div class="document-info py-3">
 <div class="date">8. September 2025</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/324/1757329034_Noteikumi_LSEZ_IZS_2025_7_piegruzota_grunts_IZS_TA.docx" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/324/1757329034_Noteikumi_LSEZ_IZS_2025_7_piegruzota_grunts_IZS_TA.docx" target="_blank" aria-label="Dokument">
 Regeln
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/324/1757329034_Noteikumi_LSEZ_IZS_2025_7_piegruzota_grunts_IZS_TA.docx" target="_blank" aria-label="1757329034_Noteikumi_LSEZ_IZS_2025_7_piegruzota_grunts_IZS_TA.docx">
+<a class="document" href="../../../doc/mod/document/324/1757329034_Noteikumi_LSEZ_IZS_2025_7_piegruzota_grunts_IZS_TA.docx" target="_blank" aria-label="1757329034_Noteikumi_LSEZ_IZS_2025_7_piegruzota_grunts_IZS_TA.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -93,7 +93,7 @@ Regeln
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/246/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/246/original_" aria-label="Herunterladen" download>
+<a class="image-download"  aria-label="Herunterladen" download href="https://liepaja-sez.lv/img/mod/news/246/original_">
 <img class="download-icon" alt="Herunterladen" src="https://liepaja-sez.lv/img/dl.svg"/>
 </a>
 </div>

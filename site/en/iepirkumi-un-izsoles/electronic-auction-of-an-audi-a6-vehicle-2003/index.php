@@ -47,7 +47,7 @@
 <h1 class="article-title">Electronic Auction of an Audi A6 Vehicle (2003)</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>The auction price is subject to value added tax. All prospective bidders must pay a security deposit of 10% of the auction starting price, i.e. EUR 45, by 23:59 on 7 March 2024, with the payment reference “Security deposit for the Audi A6 vehicle auction”, using the following payment details:</p><p>Liepāja Special Economic Zone Authority, unified registration No. LV90000329402, AS “Swedbank”, account No. LV12HABA0001407037000. Bidders must also request authorisation to participate in the auction.</p><p>The auction takes place on the electronic auction website <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv</a>.</p><p>The auction opens on <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv</a> on 26 February 2024 at 13:00 and closes on 18 March 2024 at 13:00.</p><p>Bidder registration is open from 26 February 2024 at 13:00 until 7 March 2024 at 23:59 on the electronic auction website <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv</a>.</p><p>The vehicle offered at auction may be inspected until 7 March 2024 by arranging an appointment in advance by telephone on 29426284 (Ainars).</p><p>The auction rules are available at <a href="https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi</a>.</p></div>
+<div class="col"><div class="col-12 output"><p>The auction price is subject to value added tax. All prospective bidders must pay a security deposit of 10% of the auction starting price, i.e. EUR 45, by 23:59 on 7 March 2024, with the payment reference “Security deposit for the Audi A6 vehicle auction”, using the following payment details:</p><p>Liepāja Special Economic Zone Authority, unified registration No. LV90000329402, AS “Swedbank”, account No. LV12HABA0001407037000. Bidders must also request authorisation to participate in the auction.</p><p>The auction takes place on the electronic auction website <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv</a>.</p><p>The auction opens on <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv</a> on 26 February 2024 at 13:00 and closes on 18 March 2024 at 13:00.</p><p>Bidder registration is open from 26 February 2024 at 13:00 until 7 March 2024 at 23:59 on the electronic auction website <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv</a>.</p><p>The vehicle offered at auction may be inspected until 7 March 2024 by arranging an appointment in advance by telephone on 29426284 (Ainars).</p><p>The auction rules are available at <a href="../index.php">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi</a>.</p></div>
 </div>
 </div>
 </div><h1 class="block-title mt-3">Izsoles noteikumi<span></span></h1>
@@ -57,12 +57,12 @@
 <div class="document-info py-3">
 <div class="date">26. februāris, 2024</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/182/1708947088_Izsoles_Nolikums_AudiA6_26022024.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/182/1708947088_Izsoles_Nolikums_AudiA6_26022024.pdf" target="_blank">
 									Audi A6 izsoles noteikumi
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1708947088_Izsoles_Nolikums_AudiA6_26022024.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/182/1708947088_Izsoles_Nolikums_AudiA6_26022024.pdf" target="_blank">
+<a aria-label="1708947088_Izsoles_Nolikums_AudiA6_26022024.pdf" class="document" href="../../../doc/mod/document/182/1708947088_Izsoles_Nolikums_AudiA6_26022024.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>

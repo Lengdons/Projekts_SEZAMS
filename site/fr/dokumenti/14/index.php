@@ -115,14 +115,14 @@ Plan d'action en cas de contamination imprévue
 <div class="document-info">
 <div class="date">26 juillet 2024</div>
 <div class="category">Plan de développement</div>
-<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/197/1724752435_LSEZ_attistibas_plans.pdf" target="_blank">
+<a aria-label="Documenter" href="../../../doc/mod/document/197/1724752435_LSEZ_attistibas_plans.pdf" target="_blank">
 
 Plan de développement de la ZES de Liepāja pour 2023-2035
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1724752435_LSEZ_attistibas_plans.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/197/1724752435_LSEZ_attistibas_plans.pdf" target="_blank">
+<a aria-label="1724752435_LSEZ_attistibas_plans.pdf" class="document" href="../../../doc/mod/document/197/1724752435_LSEZ_attistibas_plans.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>

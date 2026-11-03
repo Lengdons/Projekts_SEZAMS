@@ -115,14 +115,14 @@ Notfallplan bei unvorhergesehenen Umweltverschmutzungen
 <div class="document-info">
 <div class="date">10. September 2025</div>
 <div class="category">Prüfprotokoll zur Einhaltung der Barrierefreiheitsanforderungen</div>
-<a aria-label="Dokument" href="https://liepaja-sez.lv/doc/mod/document/325/1757496874_Piekļūstamības prasību izvērtēšanas protokols.pdf" target="_blank">
+<a aria-label="Dokument" href="../../../doc/mod/document/325/1757496874_Piek%C4%BC%C5%ABstam%C4%ABbas%20pras%C4%ABbu%20izv%C4%93rt%C4%93%C5%A1anas%20protokols.pdf" target="_blank">
 
 Prüfprotokoll zur Einhaltung der Barrierefreiheitsanforderungen
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1757496874_Piekļūstamības prasību izvērtēšanas protokols.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/325/1757496874_Piekļūstamības prasību izvērtēšanas protokols.pdf" target="_blank">
+<a aria-label="1757496874_Piekļūstamības prasību izvērtēšanas protokols.pdf" class="document" href="../../../doc/mod/document/325/1757496874_Piek%C4%BC%C5%ABstam%C4%ABbas%20pras%C4%ABbu%20izv%C4%93rt%C4%93%C5%A1anas%20protokols.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>

@@ -55,7 +55,7 @@ html.classList.add(localStorage['contrast']);
 <h1 class="article-title">Dismantling of Port quay No 1 of Liepāja, OPEN WETTBEWERB LSEZ2021/67/K</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Gegenstand der Beschaffung: Ausführung von Abbrucharbeiten im Hafen von Liepāja No.1 gemäß den Anforderungen dieses Vergabeverfahrensdokuments und behördlichen Erlassen.</p><p>&nbsp;</p><p>Die Bauarbeiten werden im Rahmen eines Projekts durchgeführt und finanziert, das gemäß dem operationellen Programm "Wachstum und Beschäftigung" 6.1.1 durchgeführt wird. Erhöhung des Sicherheitsniveaus großer Häfen und Verbesserung der Mobilität des Verkehrsnetzes im Rahmen des spezifischen Förderziels.</p><p>&nbsp;</p><p>Der interessierte Lieferant kann die Beschaffungsunterlagen elektronisch auf der Website der Liepāja Special Economic Zone Authority kostenlos konsultieren und erhalten <a href="https://liepaja-sez.lv/mgmt/purchases/107/Iepirkuma%20priek%C5%A1mets:%20Liep%C4%81jas%20ostas%20piest%C4%81tnes%20Nr.1%20nojauk%C5%A1anas%20b%C5%ABvdarbu%20izpilde%20%20saska%C5%86%C4%81%20ar%20%C5%A1%C4%AB%20iepirkuma%20proced%C5%ABras%20dokumentu%20un%20normat%C4%ABvo%20aktu%20pras%C4%ABb%C4%81m.%20%20%20%20%20B%C5%ABvdarbi%20tiks%20veikti%20un%20finans%C4%93ti%20projekta%20ietvaros,%20kura%20realiz%C4%81cija%20notiek%20saska%C5%86%C4%81%20ar%20darb%C4%ABbas%20programmas%20%E2%80%9CIzaugsme%20un%20nodarbin%C4%81t%C4%ABba%E2%80%9D%206.1.1.%20specifisk%C4%81%20atbalsta%20m%C4%93r%C4%B7a%20%E2%80%9CPalielin%C4%81t%20lielo%20ostu%20dro%C5%A1%C4%ABbas%20l%C4%ABmeni%20un%20uzlabot%20transporta%20t%C4%ABkla%20mobilit%C4%81ti%E2%80%9D%20ietvaros.%20%20%20%20%20%20%20%20Ar%20Iepirkuma%20dokumentiem%20Ieinteres%C4%93tais%20pieg%C4%81d%C4%81t%C4%81js%20var%20iepaz%C4%ABties%20un%20sa%C5%86emt%20tos%20elektroniski%20bez%20maksas%20Liep%C4%81jas">http://www.liepaja-sez.lv/lv/parvalde/iepirkumi</a> und dem EIS <a href="https://liepaja-sez.lv/mgmt/purchases/107/www.eis.gov.lv">www.eis.gov.lv</a>, sowie kennenlernen Sie die Beschaffungsunterlagen in gedruckter Form kostenlos bei Liepāja Spezialwirtschaftszone Verwaltung im Kabinett der Beschaffungsspezialist (1auf dem Boden), Feniksa Street 4, Liepāja to 2. Juli 2021 Uhr10.00Geschehen zu Brüssel an den Arbeitstagen ab Uhr. 8.00 bis 12.00 und von 13.00 bis 16.30Geschehen zu Brüssel am Freitag um Uhr16.00, im Einvernehmen mit der Kontaktperson des Kunden zum Zeitpunkt des Besuchs.</p></div>
+<div class="col"><div class="col-12 output"><p>Gegenstand der Beschaffung: Ausführung von Abbrucharbeiten im Hafen von Liepāja No.1 gemäß den Anforderungen dieses Vergabeverfahrensdokuments und behördlichen Erlassen.</p><p>&nbsp;</p><p>Die Bauarbeiten werden im Rahmen eines Projekts durchgeführt und finanziert, das gemäß dem operationellen Programm "Wachstum und Beschäftigung" 6.1.1 durchgeführt wird. Erhöhung des Sicherheitsniveaus großer Häfen und Verbesserung der Mobilität des Verkehrsnetzes im Rahmen des spezifischen Förderziels.</p><p>&nbsp;</p><p>Der interessierte Lieferant kann die Beschaffungsunterlagen elektronisch auf der Website der Liepāja Special Economic Zone Authority kostenlos konsultieren und erhalten <a href="https://liepaja-sez.lv/mgmt/purchases/107/Iepirkuma%20priek%C5%A1mets:%20Liep%C4%81jas%20ostas%20piest%C4%81tnes%20Nr.1%20nojauk%C5%A1anas%20b%C5%ABvdarbu%20izpilde%20%20saska%C5%86%C4%81%20ar%20%C5%A1%C4%AB%20iepirkuma%20proced%C5%ABras%20dokumentu%20un%20normat%C4%ABvo%20aktu%20pras%C4%ABb%C4%81m.%20%20%20%20%20B%C5%ABvdarbi%20tiks%20veikti%20un%20finans%C4%93ti%20projekta%20ietvaros,%20kura%20realiz%C4%81cija%20notiek%20saska%C5%86%C4%81%20ar%20darb%C4%ABbas%20programmas%20%E2%80%9CIzaugsme%20un%20nodarbin%C4%81t%C4%ABba%E2%80%9D%206.1.1.%20specifisk%C4%81%20atbalsta%20m%C4%93r%C4%B7a%20%E2%80%9CPalielin%C4%81t%20lielo%20ostu%20dro%C5%A1%C4%ABbas%20l%C4%ABmeni%20un%20uzlabot%20transporta%20t%C4%ABkla%20mobilit%C4%81ti%E2%80%9D%20ietvaros.%20%20%20%20%20%20%20%20Ar%20Iepirkuma%20dokumentiem%20Ieinteres%C4%93tais%20pieg%C4%81d%C4%81t%C4%81js%20var%20iepaz%C4%ABties%20un%20sa%C5%86emt%20tos%20elektroniski%20bez%20maksas%20Liep%C4%81jas">http://www.liepaja-sez.lv/lv/parvalde/iepirkumi</a> und dem EIS <a href="https://www.eis.gov.lv/">www.eis.gov.lv</a>, sowie kennenlernen Sie die Beschaffungsunterlagen in gedruckter Form kostenlos bei Liepāja Spezialwirtschaftszone Verwaltung im Kabinett der Beschaffungsspezialist (1auf dem Boden), Feniksa Street 4, Liepāja to 2. Juli 2021 Uhr10.00Geschehen zu Brüssel an den Arbeitstagen ab Uhr. 8.00 bis 12.00 und von 13.00 bis 16.30Geschehen zu Brüssel am Freitag um Uhr16.00, im Einvernehmen mit der Kontaktperson des Kunden zum Zeitpunkt des Besuchs.</p></div>
 </div>
 </div>
 </div><h1 class="block-title mt-3">Mitteilung<span></span></h1>
@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">2. Juni 2021</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/104/" target="_blank" aria-label="Dokument">
+<a aria-label="Dokument" href="https://liepaja-sez.lv/doc/mod/document/104/" target="_blank">
 Mitteilung
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/104/" target="_blank" aria-label="">
+<a class="document" aria-label="" href="https://liepaja-sez.lv/doc/mod/document/104/" target="_blank">
 <i class="bi bi-file-earmark"></i>
 </a>
 </div>
@@ -78,7 +78,7 @@ Mitteilung
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/66/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/66/original_" aria-label="Herunterladen" download>
+<a class="image-download"  aria-label="Herunterladen" download href="https://liepaja-sez.lv/img/mod/news/66/original_">
 <img class="download-icon" alt="Herunterladen" src="https://liepaja-sez.lv/img/dl.svg"/>
 </a>
 </div>

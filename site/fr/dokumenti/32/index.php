@@ -115,14 +115,14 @@ Plan d'action en cas de contamination imprévue
 <div class="document-info">
 <div class="date">1 mai 2026</div>
 <div class="category">Règlement du régime portuaire de Liepāja</div>
-<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/280/1780983602_1750834817_Pieteikums zemūdens darbu atļaujai ostas akvatorijā.docx" target="_blank">
+<a aria-label="Documenter" href="../../../doc/mod/document/280/1780983602_1750834817_Pieteikums%20zemu%CC%84dens%20darbu%20atl%CC%A7aujai%20ostas%20akvatorija%CC%84.docx" target="_blank">
 
 Demande de permis de travaux sous-marins dans la zone portuaire
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1780983602_1750834817_Pieteikums zemūdens darbu atļaujai ostas akvatorijā.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/280/1780983602_1750834817_Pieteikums zemūdens darbu atļaujai ostas akvatorijā.docx" target="_blank">
+<a aria-label="1780983602_1750834817_Pieteikums zemūdens darbu atļaujai ostas akvatorijā.docx" class="document" href="../../../doc/mod/document/280/1780983602_1750834817_Pieteikums%20zemu%CC%84dens%20darbu%20atl%CC%A7aujai%20ostas%20akvatorija%CC%84.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>

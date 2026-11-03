@@ -46,7 +46,7 @@
 <h1 class="article-title">Electronic Ascending-Bid Auction of 130 Marine Fenders</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>The Liepāja Special Economic Zone Authority is organising an electronic ascending-bid auction for the disposal of movable property it owns: <strong>130 marine fenders</strong>.</p><p>The items are offered in four lots: three lots of 40 fenders each and one lot of 10 fenders. Individual fenders are not sold separately.</p><p><strong>Starting prices:</strong></p><ul><li>One lot containing 40 fenders: <strong>EUR 4,800.00</strong> (four thousand eight hundred euros).</li><li>One lot containing 10 fenders: <strong>EUR 1,200.00</strong> (one thousand two hundred euros).</li></ul><p><strong>Bid increments:</strong></p><ul><li>One lot of 40 fenders: EUR 150.00 (one hundred and fifty euros).</li><li>One lot of 10 fenders: EUR 40.00 (forty euros).</li></ul><p>Value-added tax is payable on the auction price.</p><p>The security deposit is <strong>10% of the starting price of each lot</strong>: EUR 480.00 for a lot of 40 fenders or EUR 120.00 for a lot of 10 fenders. Within 20 days of the auction start date, a prospective bidder must transfer the deposit to the Liepāja Special Economic Zone Authority, registration No. 90000329402, AS "Swedbank", account No. LV12HABA0001407037000, using the payment reference "Security deposit for fender auction", and submit an authorisation request at <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>.</p><p>The auction takes place at <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>. It starts on <strong>9 September 2024 at 13:00</strong> and ends on <strong>30 September 2024 at 13:00</strong>.</p><p>Bidder registration is open from 9 September 2024 at 13:00 until 19 September 2024 at 23:59 at <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>.</p><p>The fenders can be inspected at Sliežu Street 9, Liepāja, by prior arrangement with Viesturs Romanovs, Deputy Head of the Authority's Infrastructure Department; tel. 26795153, email <a href="mailto:viesturs.romanovs@lsez.lv">viesturs.romanovs@lsez.lv</a>.</p><p>Auction regulations are available at <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a> and <a href="https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi</a>.</p></div>
+<div class="col"><div class="col-12 output"><p>The Liepāja Special Economic Zone Authority is organising an electronic ascending-bid auction for the disposal of movable property it owns: <strong>130 marine fenders</strong>.</p><p>The items are offered in four lots: three lots of 40 fenders each and one lot of 10 fenders. Individual fenders are not sold separately.</p><p><strong>Starting prices:</strong></p><ul><li>One lot containing 40 fenders: <strong>EUR 4,800.00</strong> (four thousand eight hundred euros).</li><li>One lot containing 10 fenders: <strong>EUR 1,200.00</strong> (one thousand two hundred euros).</li></ul><p><strong>Bid increments:</strong></p><ul><li>One lot of 40 fenders: EUR 150.00 (one hundred and fifty euros).</li><li>One lot of 10 fenders: EUR 40.00 (forty euros).</li></ul><p>Value-added tax is payable on the auction price.</p><p>The security deposit is <strong>10% of the starting price of each lot</strong>: EUR 480.00 for a lot of 40 fenders or EUR 120.00 for a lot of 10 fenders. Within 20 days of the auction start date, a prospective bidder must transfer the deposit to the Liepāja Special Economic Zone Authority, registration No. 90000329402, AS "Swedbank", account No. LV12HABA0001407037000, using the payment reference "Security deposit for fender auction", and submit an authorisation request at <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>.</p><p>The auction takes place at <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>. It starts on <strong>9 September 2024 at 13:00</strong> and ends on <strong>30 September 2024 at 13:00</strong>.</p><p>Bidder registration is open from 9 September 2024 at 13:00 until 19 September 2024 at 23:59 at <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>.</p><p>The fenders can be inspected at Sliežu Street 9, Liepāja, by prior arrangement with Viesturs Romanovs, Deputy Head of the Authority's Infrastructure Department; tel. 26795153, email <a href="mailto:viesturs.romanovs@lsez.lv">viesturs.romanovs@lsez.lv</a>.</p><p>Auction regulations are available at <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a> and <a href="../index.php">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi</a>.</p></div>
 </div>
 </div>
 </div>
@@ -74,11 +74,11 @@
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepāja SEZ Authority Holds an Electronic Ascending-Bid Auction for Newly Created Property at Eksporta Street 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/electronic-auction-of-new-real-estate-at-eksporta-street-3/">Read more</a>
+<a class="d-none d-md-block my-4" href="../electronic-auction-of-new-real-estate-at-eksporta-street-3/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">The Liepāja SEZ Authority is organising an electronic ascending-bid auction for new property at Eksporta Street 3, Liepāja, comprising a land plot measuring 51,521 m² and 12 buildings.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/electronic-auction-of-new-real-estate-at-eksporta-street-3/">Read more</a>
+<a class="d-block my-4" href="../electronic-auction-of-new-real-estate-at-eksporta-street-3/index.php">Read more</a>
 </div>
 </div>
 </div>
@@ -89,11 +89,11 @@
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Design, Construction and Design Supervision of the Reconstruction of Berth No. 46 at the Port of Liepāja</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-none d-md-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Procurement subject: Design, construction and design supervision of the reconstruction of Berth No. 46 at the Port of Liepāja. Identification No. LSEZ 2026/12. Main CPV code: 45241500-3 (Quay wall construction work).</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 </div>
 </div>

@@ -115,14 +115,14 @@ Plan d'action en cas de contamination imprévue
 <div class="document-info">
 <div class="date">17 juillet 2025</div>
 <div class="category">Documents d'octroi du bail et du droit à la construction</div>
-<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/232/1753338747_LSEZ apbūves tiesības rezervēšanas un piešķiršanas kārtība.pdf" target="_blank">
+<a aria-label="Documenter" href="../../../doc/mod/document/232/1753338747_LSEZ%20apb%C5%ABves%20ties%C4%ABbas%20rezerv%C4%93%C5%A1anas%20un%20pie%C5%A1%C4%B7ir%C5%A1anas%20k%C4%81rt%C4%ABba.pdf" target="_blank">
 
 La procédure de réservation des droits de construction et d'octroi des droits de construction pour les biens immobiliers sur le territoire de la zone économique spéciale de Liepāja
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1753338747_LSEZ apbūves tiesības rezervēšanas un piešķiršanas kārtība.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/232/1753338747_LSEZ apbūves tiesības rezervēšanas un piešķiršanas kārtība.pdf" target="_blank">
+<a aria-label="1753338747_LSEZ apbūves tiesības rezervēšanas un piešķiršanas kārtība.pdf" class="document" href="../../../doc/mod/document/232/1753338747_LSEZ%20apb%C5%ABves%20ties%C4%ABbas%20rezerv%C4%93%C5%A1anas%20un%20pie%C5%A1%C4%B7ir%C5%A1anas%20k%C4%81rt%C4%ABba.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -131,14 +131,14 @@ La procédure de réservation des droits de construction et d'octroi des droits 
 <div class="document-info">
 <div class="date">26 juillet 2024</div>
 <div class="category">Documents d'octroi du bail et du droit à la construction</div>
-<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/228/1729586930_LIP apbūves tiesības rezervēšanas un piešķiršanas kārtība-1.pdf" target="_blank">
+<a aria-label="Documenter" href="../../../doc/mod/document/228/1729586930_LIP%20apb%C5%ABves%20ties%C4%ABbas%20rezerv%C4%93%C5%A1anas%20un%20pie%C5%A1%C4%B7ir%C5%A1anas%20k%C4%81rt%C4%ABba-1.pdf" target="_blank">
 
 La procédure de réservation des droits de construction et d'octroi des droits de construction pour les biens immobiliers situés sur le territoire du parc industriel de Liepāja
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1729586930_LIP apbūves tiesības rezervēšanas un piešķiršanas kārtība-1.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/228/1729586930_LIP apbūves tiesības rezervēšanas un piešķiršanas kārtība-1.pdf" target="_blank">
+<a aria-label="1729586930_LIP apbūves tiesības rezervēšanas un piešķiršanas kārtība-1.pdf" class="document" href="../../../doc/mod/document/228/1729586930_LIP%20apb%C5%ABves%20ties%C4%ABbas%20rezerv%C4%93%C5%A1anas%20un%20pie%C5%A1%C4%B7ir%C5%A1anas%20k%C4%81rt%C4%ABba-1.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -147,14 +147,14 @@ La procédure de réservation des droits de construction et d'octroi des droits 
 <div class="document-info">
 <div class="date">26 juillet 2024</div>
 <div class="category">Documents d'octroi du bail et du droit à la construction</div>
-<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/229/1721978231_Īpašie nosacījumi komercdarbības veikšanai Liepājas industriālā parka teritorijā.pdf" target="_blank">
+<a aria-label="Documenter" href="../../../doc/mod/document/229/1721978231_%C4%AApa%C5%A1ie%20nosac%C4%ABjumi%20komercdarb%C4%ABbas%20veik%C5%A1anai%20Liep%C4%81jas%20industri%C4%81l%C4%81%20parka%20teritorij%C4%81.pdf" target="_blank">
 
 Conditions particulières pour exercer des activités commerciales sur le territoire du parc industriel de Liepāja
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1721978231_Īpašie nosacījumi komercdarbības veikšanai Liepājas industriālā parka teritorijā.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/229/1721978231_Īpašie nosacījumi komercdarbības veikšanai Liepājas industriālā parka teritorijā.pdf" target="_blank">
+<a aria-label="1721978231_Īpašie nosacījumi komercdarbības veikšanai Liepājas industriālā parka teritorijā.pdf" class="document" href="../../../doc/mod/document/229/1721978231_%C4%AApa%C5%A1ie%20nosac%C4%ABjumi%20komercdarb%C4%ABbas%20veik%C5%A1anai%20Liep%C4%81jas%20industri%C4%81l%C4%81%20parka%20teritorij%C4%81.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -163,14 +163,14 @@ Conditions particulières pour exercer des activités commerciales sur le territ
 <div class="document-info">
 <div class="date">26 juillet 2024</div>
 <div class="category">Documents d'octroi du bail et du droit à la construction</div>
-<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/230/1721978295_LIP iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" target="_blank">
+<a aria-label="Documenter" href="../../../doc/mod/document/230/1721978295_LIP%20iesniegums%20apb%C5%ABves%20ties%C4%ABbas%20rezerv%C4%93%C5%A1anai%20un%20pie%C5%A1%C4%B7ir%C5%A1anai.docx" target="_blank">
 
 Remise d'un accord sur la réservation de droits de construction ou l'attribution de droits de construction sur le territoire du parc industriel de Liepāja
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1721978295_LIP iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/230/1721978295_LIP iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" target="_blank">
+<a aria-label="1721978295_LIP iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" class="document" href="../../../doc/mod/document/230/1721978295_LIP%20iesniegums%20apb%C5%ABves%20ties%C4%ABbas%20rezerv%C4%93%C5%A1anai%20un%20pie%C5%A1%C4%B7ir%C5%A1anai.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -179,14 +179,14 @@ Remise d'un accord sur la réservation de droits de construction ou l'attributio
 <div class="document-info">
 <div class="date">26 juillet 2024</div>
 <div class="category">Documents d'octroi du bail et du droit à la construction</div>
-<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/231/1721978390_Pielikums_Nr_1.pdf" target="_blank">
+<a aria-label="Documenter" href="../../../doc/mod/document/231/1721978390_Pielikums_Nr_1.pdf" target="_blank">
 
 Plan du territoire du parc industriel de Liepāja
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1721978390_Pielikums_Nr_1.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/231/1721978390_Pielikums_Nr_1.pdf" target="_blank">
+<a aria-label="1721978390_Pielikums_Nr_1.pdf" class="document" href="../../../doc/mod/document/231/1721978390_Pielikums_Nr_1.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -195,14 +195,14 @@ Plan du territoire du parc industriel de Liepāja
 <div class="document-info">
 <div class="date">26 juillet 2024</div>
 <div class="category">Documents d'octroi du bail et du droit à la construction</div>
-<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/233/1731307263_LSEZ iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" target="_blank">
+<a aria-label="Documenter" href="../../../doc/mod/document/233/1731307263_LSEZ%20iesniegums%20apb%C5%ABves%20ties%C4%ABbas%20rezerv%C4%93%C5%A1anai%20un%20pie%C5%A1%C4%B7ir%C5%A1anai.docx" target="_blank">
 
 Présentation d'un accord sur la réserve de droits de construction ou l'attribution de droits de construction sur le territoire de la zone économique spéciale de Liepāja
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1731307263_LSEZ iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/233/1731307263_LSEZ iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" target="_blank">
+<a aria-label="1731307263_LSEZ iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" class="document" href="../../../doc/mod/document/233/1731307263_LSEZ%20iesniegums%20apb%C5%ABves%20ties%C4%ABbas%20rezerv%C4%93%C5%A1anai%20un%20pie%C5%A1%C4%B7ir%C5%A1anai.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>

@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">8 avril 2022</div>
 <div class="category mb-2">Marchés publics et ventes aux enchères</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/92/1704362423_paziņojums_1.lpp.webp" target="_blank" aria-label="Documenter">
+<a href="../../../doc/mod/document/92/1704362423_pazi%C5%86ojums_1.lpp.webp" target="_blank" aria-label="Documenter">
 Avis p. 1
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/92/1704362423_paziņojums_1.lpp.webp" target="_blank" aria-label="1704362423_paziņojums_1.lpp.webp">
+<a class="document" href="../../../doc/mod/document/92/1704362423_pazi%C5%86ojums_1.lpp.webp" target="_blank" aria-label="1704362423_paziņojums_1.lpp.webp">
 <i class="bi bi-file-earmark-image"></i>
 </a>							
 </div>
@@ -80,12 +80,12 @@ Avis p. 1
 <div class="document-info py-3">
 <div class="date">8 avril 2023</div>
 <div class="category mb-2">Marchés publics et ventes aux enchères</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/93/1704362463_paziņojums_2.lpp.webp" target="_blank" aria-label="Documenter">
+<a href="../../../doc/mod/document/93/1704362463_pazi%C5%86ojums_2.lpp.webp" target="_blank" aria-label="Documenter">
 Avis p. 2
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/93/1704362463_paziņojums_2.lpp.webp" target="_blank" aria-label="1704362463_paziņojums_2.lpp.webp">
+<a class="document" href="../../../doc/mod/document/93/1704362463_pazi%C5%86ojums_2.lpp.webp" target="_blank" aria-label="1704362463_paziņojums_2.lpp.webp">
 <i class="bi bi-file-earmark-image"></i>
 </a>							
 </div>
@@ -93,7 +93,7 @@ Avis p. 2
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/52/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/52/original_" aria-label="Télécharger" download>
+<a class="image-download"  aria-label="Télécharger" download href="https://liepaja-sez.lv/img/mod/news/52/original_">
 <img class="download-icon" alt="Télécharger" src="https://liepaja-sez.lv/img/dl.svg"/>	
 </a>															
 </div>

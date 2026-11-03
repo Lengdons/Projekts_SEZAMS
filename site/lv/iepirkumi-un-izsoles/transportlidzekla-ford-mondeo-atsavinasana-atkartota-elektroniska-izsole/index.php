@@ -55,13 +55,13 @@ html.classList.add(localStorage['contrast']);
 <h1 class="article-title">Transportlīdzekļa Ford Mondeo atsavināšana – atkārtotā elektroniskā izsole ar augšupejošu soli.</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Liepājas speciālās ekonomiskās zonas pārvalde organizē transportlīdzekļa Ford Mondeo (2004. izlaiduma gads) atsavināšanu – atkārtotā elektroniskā izsole ar augšupejošu soli.</p><p>Sākumcena – 450.00 EUR, izsoles solis – 25.00 EUR.</p><p>Izsoles cena apliekama ar pievienotās vērtības nodokli. Visiem izsole pretendentiem līdz 2024. gada 26. augustam, plkst. 23:59 jāiemaksā nodrošinājums 10% apmērā no izsoles sākumcenas, t.i., 45.00 EUR ar atzīmi "Transportlīdzekļa Ford Mondeo izsoles nodrošinājums ", saskaņā ar maksājuma rekvizītiem:</p><p>Liepājas speciālās ekonomiskās zonas pārvalde, vienotais reģistrācijas Nr.LV90000329402, AS “Swedbank”, konta Nr. LV12HABA0001407037000 un jālūdz autorizēt izsolei.</p><p>Izsole notiek elektronisko izsoļu vietnē&nbsp;<a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a></p><p>Izsole sākas elektronisko izsoļu vietnē&nbsp;<a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>&nbsp;2024. gada 16. augustā plkst. 13:00 un noslēdzas 2024. gada 05. septembrī plkst. 13:00.</p><p>Pretendentu reģistrācija notiek no 2024. gada 16. augusta plkst. 13:00 līdz 2024. gada 26. augustam plkst. 23:59 elektronisko izsoļu vietnē&nbsp;<a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a></p><p>Ar izsoles transportlīdzekli var iepazīties līdz 2024. gada 26. augustam, iepriekš sazinoties pa tālruni 29426284 (Ainars).</p><p>Izsoles noteikumi pieejami mājaslapā&nbsp;<a href="https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi</a>&nbsp;</p><p>Automašīnas vērtējums: <a href="https://liepaja-sez.lv/doc/mod/file/izsoles/Ford_Mondeo_Vertejums_2023.pdf">https://liepaja-sez.lv/doc/mod/file/izsoles/Ford_Mondeo_Vertejums_2023.pdf</a></p><p>Izsoles nolikums: <a href="https://liepaja-sez.lv/doc/mod/file/izsoles/Izsoles_Nolikums_Ford_Mondeo_13082024.docx">https://liepaja-sez.lv/doc/mod/file/izsoles/Izsoles_Nolikums_Ford_Mondeo_13082024.docx</a></p></div>
+<div class="col"><div class="col-12 output"><p>Liepājas speciālās ekonomiskās zonas pārvalde organizē transportlīdzekļa Ford Mondeo (2004. izlaiduma gads) atsavināšanu – atkārtotā elektroniskā izsole ar augšupejošu soli.</p><p>Sākumcena – 450.00 EUR, izsoles solis – 25.00 EUR.</p><p>Izsoles cena apliekama ar pievienotās vērtības nodokli. Visiem izsole pretendentiem līdz 2024. gada 26. augustam, plkst. 23:59 jāiemaksā nodrošinājums 10% apmērā no izsoles sākumcenas, t.i., 45.00 EUR ar atzīmi "Transportlīdzekļa Ford Mondeo izsoles nodrošinājums ", saskaņā ar maksājuma rekvizītiem:</p><p>Liepājas speciālās ekonomiskās zonas pārvalde, vienotais reģistrācijas Nr.LV90000329402, AS “Swedbank”, konta Nr. LV12HABA0001407037000 un jālūdz autorizēt izsolei.</p><p>Izsole notiek elektronisko izsoļu vietnē&nbsp;<a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a></p><p>Izsole sākas elektronisko izsoļu vietnē&nbsp;<a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>&nbsp;2024. gada 16. augustā plkst. 13:00 un noslēdzas 2024. gada 05. septembrī plkst. 13:00.</p><p>Pretendentu reģistrācija notiek no 2024. gada 16. augusta plkst. 13:00 līdz 2024. gada 26. augustam plkst. 23:59 elektronisko izsoļu vietnē&nbsp;<a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a></p><p>Ar izsoles transportlīdzekli var iepazīties līdz 2024. gada 26. augustam, iepriekš sazinoties pa tālruni 29426284 (Ainars).</p><p>Izsoles noteikumi pieejami mājaslapā&nbsp;<a href="../index.php">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi</a>&nbsp;</p><p>Automašīnas vērtējums: <a href="../../../doc/mod/file/izsoles/Ford_Mondeo_Vertejums_2023.pdf">https://liepaja-sez.lv/doc/mod/file/izsoles/Ford_Mondeo_Vertejums_2023.pdf</a></p><p>Izsoles nolikums: <a href="../../../doc/mod/file/izsoles/Izsoles_Nolikums_Ford_Mondeo_13082024.docx">https://liepaja-sez.lv/doc/mod/file/izsoles/Izsoles_Nolikums_Ford_Mondeo_13082024.docx</a></p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/157/870_1723799735_Ford_2.webp"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/157/original_1723799735_Ford_2.webp" aria-label="Lejupielādēt" download>
+<a class="image-download" href="../../../img/mod/news/157/original_1723799735_Ford_2.webp" aria-label="Lejupielādēt" download>
 <img class="download-icon" alt="Lejupielādēt" src="https://liepaja-sez.lv/img/dl.svg"/>	
 </a>															
 </div>
@@ -83,11 +83,11 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas SEZ pārvalde rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Liepājas speciālās ekonomiskās zonas pārvalde, vienotais reģistrācijas Nr.LV90000329402, rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3, Liepājā, kas sastāvēs no zemes vienības ar kopējo platību 51521 m2 un 12 būvēm.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>
@@ -98,7 +98,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Iepirkuma priekšmets: 
 Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība
@@ -106,7 +106,7 @@ IDENTIFIKĀCIJAS NUMURS LSEZ 2026/12
 Galvenais CPV kods: 45241500-3 (Kuģu piestātnes būvdarbi). 
 </div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>

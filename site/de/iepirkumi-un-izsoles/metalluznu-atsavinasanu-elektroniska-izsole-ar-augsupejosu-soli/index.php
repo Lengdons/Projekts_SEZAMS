@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">2. Dezember 2025</div>
 <div class="category mb-2">Alle</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/333/1764669453_G-25-201_LSEZ_Metāli_vērtejuma_atskaite.edoc" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/333/1764669453_G-25-201_LSEZ_Met%C4%81li_v%C4%93rtejuma_atskaite.edoc" target="_blank" aria-label="Dokument">
 Bericht über die Bewertung von Metallen
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/333/1764669453_G-25-201_LSEZ_Metāli_vērtejuma_atskaite.edoc" target="_blank" aria-label="1764669453_G-25-201_LSEZ_Metal_value_report.edoc">
+<a class="document" href="../../../doc/mod/document/333/1764669453_G-25-201_LSEZ_Met%C4%81li_v%C4%93rtejuma_atskaite.edoc" target="_blank" aria-label="1764669453_G-25-201_LSEZ_Metal_value_report.edoc">
 <i class="bi bi-file-earmark"></i>
 </a>
 </div>
@@ -80,12 +80,12 @@ Bericht über die Bewertung von Metallen
 <div class="document-info py-3">
 <div class="date">2. Dezember 2025</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/334/1764669483_Noteikumi_IZS_2025_9_metalluzni_LIP.docx" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/334/1764669483_Noteikumi_IZS_2025_9_metalluzni_LIP.docx" target="_blank" aria-label="Dokument">
 Regeln
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/334/1764669483_Noteikumi_IZS_2025_9_metalluzni_LIP.docx" target="_blank" aria-label="1764669483_Noteikumi_IZS_2025_9_metalluzni_LIP.docx">
+<a class="document" href="../../../doc/mod/document/334/1764669483_Noteikumi_IZS_2025_9_metalluzni_LIP.docx" target="_blank" aria-label="1764669483_Noteikumi_IZS_2025_9_metalluzni_LIP.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -93,7 +93,7 @@ Regeln
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/266/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/266/original_" aria-label="Herunterladen" download>
+<a class="image-download"  aria-label="Herunterladen" download href="https://liepaja-sez.lv/img/mod/news/266/original_">
 <img class="download-icon" alt="Herunterladen" src="https://liepaja-sez.lv/img/dl.svg"/>
 </a>
 </div>

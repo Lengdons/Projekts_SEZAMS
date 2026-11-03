@@ -55,13 +55,13 @@ html.classList.add(localStorage['contrast']);
 <h1 class="article-title">Transportlīdzekļa VW Transporter izsole</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p><strong>“Kustamās mantas - transportlīdzekļa VW Transporter atsavināšana”</strong></p><p>Identifikācijas numurs LSEZ IZS 2025/8</p><p>Izsoles nosolītājs: &nbsp;Martins Haralds Klāks</p><p>Cena: 2589.40 EUR&nbsp;</p><p>___________________________</p><p>Liepājas speciālās ekonomiskās zonas pārvalde&nbsp;(turpmāk – Pārvalde) organizē&nbsp;īpašumā esošas kustamas mantas - transportlīdzekļa VW Transporter (2007. izlaiduma gads), atsavināšanu elektroniskā izsolē ar augšupejošu soli.</p><p>Izsoles sākuma cena (nosacītā cena): 1680.00 EUR, neskaitot pievienotās vērtības nodokli.</p><p>Izsoles solis noteikts: 20,00 EUR (divdesmit <i>euro</i> un 0 centi).</p><p>Izsoles&nbsp;nodrošinājums: 10 % no kopējās preces cenas – 168.00 EUR (viens simts sešdesmit astoņi <i>euro</i> un 00 centi), neskaitot pievienotās vērtības nodokli. Izsoles nodrošinājums 20 (divdesmit) dienu laikā no izsoles sākuma datuma personai, kura vēlas piedalīties izsolē, jāpārskaita Pārvaldei, vienotais reģistrācijas Nr.LV90000329402, AS “Swedbank”, konta Nr.LV12HABA0001407037000. Maksājuma paziņojumā norāda “Nodrošinājums transportlīdzekļa VW Transporter&nbsp;izsolei, id.nr. LSEZ IZS 2025/8” un jānosūta lūgums par autorizāciju izsolei izsoļu vietnē&nbsp;<a href="https://izsoles.ta.gov.lv/" target="_blank">https://izsoles.ta.gov.lv</a>.</p><p>Izsole notiek elektronisko izsoļu vietnē&nbsp;<a href="https://izsoles.ta.gov.lv/" target="_blank">https://izsoles.ta.gov.lv</a>.</p><p>Izsole sākas elektronisko izsoļu vietnē&nbsp;19.08.2025. plkst. 13:00.</p><p>Ar kustamo mantu ir iespējams iepazīties dabā un veikt kontroles novērtējumu, iepriekš sazinoties ar Autotransporta tehniskā nodrošinājuma speciālistu (automobiļa vadītāju) Ainaru Šteinbergu, tālrunis: 29426284, e-pasts:&nbsp;<a href="mailto:ainars.steinbergs@lsez.lv">ainars.steinbergs@lsez.lv</a>.</p><p>Izsoles noteikumi Pretendenti Noteikumus var saņemt lejupielādējot tos no Pārvaldes mājas lapas&nbsp;<a href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/">https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/</a> sadaļā “Iepirkumi un izsoles” vai iesniedzot rakstveida iesniegumu, nosūtot to uz e-pastu&nbsp;<a href="mailto:lsez@lsez.lv">lsez@lsez.lv</a>.</p></div>
+<div class="col"><div class="col-12 output"><p><strong>“Kustamās mantas - transportlīdzekļa VW Transporter atsavināšana”</strong></p><p>Identifikācijas numurs LSEZ IZS 2025/8</p><p>Izsoles nosolītājs: &nbsp;Martins Haralds Klāks</p><p>Cena: 2589.40 EUR&nbsp;</p><p>___________________________</p><p>Liepājas speciālās ekonomiskās zonas pārvalde&nbsp;(turpmāk – Pārvalde) organizē&nbsp;īpašumā esošas kustamas mantas - transportlīdzekļa VW Transporter (2007. izlaiduma gads), atsavināšanu elektroniskā izsolē ar augšupejošu soli.</p><p>Izsoles sākuma cena (nosacītā cena): 1680.00 EUR, neskaitot pievienotās vērtības nodokli.</p><p>Izsoles solis noteikts: 20,00 EUR (divdesmit <i>euro</i> un 0 centi).</p><p>Izsoles&nbsp;nodrošinājums: 10 % no kopējās preces cenas – 168.00 EUR (viens simts sešdesmit astoņi <i>euro</i> un 00 centi), neskaitot pievienotās vērtības nodokli. Izsoles nodrošinājums 20 (divdesmit) dienu laikā no izsoles sākuma datuma personai, kura vēlas piedalīties izsolē, jāpārskaita Pārvaldei, vienotais reģistrācijas Nr.LV90000329402, AS “Swedbank”, konta Nr.LV12HABA0001407037000. Maksājuma paziņojumā norāda “Nodrošinājums transportlīdzekļa VW Transporter&nbsp;izsolei, id.nr. LSEZ IZS 2025/8” un jānosūta lūgums par autorizāciju izsolei izsoļu vietnē&nbsp;<a href="https://izsoles.ta.gov.lv/" target="_blank">https://izsoles.ta.gov.lv</a>.</p><p>Izsole notiek elektronisko izsoļu vietnē&nbsp;<a href="https://izsoles.ta.gov.lv/" target="_blank">https://izsoles.ta.gov.lv</a>.</p><p>Izsole sākas elektronisko izsoļu vietnē&nbsp;19.08.2025. plkst. 13:00.</p><p>Ar kustamo mantu ir iespējams iepazīties dabā un veikt kontroles novērtējumu, iepriekš sazinoties ar Autotransporta tehniskā nodrošinājuma speciālistu (automobiļa vadītāju) Ainaru Šteinbergu, tālrunis: 29426284, e-pasts:&nbsp;<a href="mailto:ainars.steinbergs@lsez.lv">ainars.steinbergs@lsez.lv</a>.</p><p>Izsoles noteikumi Pretendenti Noteikumus var saņemt lejupielādējot tos no Pārvaldes mājas lapas&nbsp;<a href="../index.php">https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/</a> sadaļā “Iepirkumi un izsoles” vai iesniedzot rakstveida iesniegumu, nosūtot to uz e-pastu&nbsp;<a href="mailto:lsez@lsez.lv">lsez@lsez.lv</a>.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/240/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/240/original_" aria-label="Lejupielādēt" download>
+<a class="image-download"  aria-label="Lejupielādēt" download href="https://liepaja-sez.lv/img/mod/news/240/original_">
 <img class="download-icon" alt="Lejupielādēt" src="https://liepaja-sez.lv/img/dl.svg"/>	
 </a>															
 </div>
@@ -83,11 +83,11 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas SEZ pārvalde rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Liepājas speciālās ekonomiskās zonas pārvalde, vienotais reģistrācijas Nr.LV90000329402, rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3, Liepājā, kas sastāvēs no zemes vienības ar kopējo platību 51521 m2 un 12 būvēm.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>
@@ -98,7 +98,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Iepirkuma priekšmets: 
 Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība
@@ -106,7 +106,7 @@ IDENTIFIKĀCIJAS NUMURS LSEZ 2026/12
 Galvenais CPV kods: 45241500-3 (Kuģu piestātnes būvdarbi). 
 </div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>

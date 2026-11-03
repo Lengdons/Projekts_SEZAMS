@@ -56,12 +56,12 @@
 <div class="document-info py-3">
 <div class="date">18. February, 2026</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/346/1771405200_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/346/1771405200_Vertejums_Liepaja_Brivibas_iela_98%20d.d.pdf" target="_blank">
 									Vērtējums
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1771405200_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/346/1771405200_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf" target="_blank">
+<a aria-label="1771405200_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf" class="document" href="../../../doc/mod/document/346/1771405200_Vertejums_Liepaja_Brivibas_iela_98%20d.d.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -71,12 +71,12 @@
 <div class="document-info py-3">
 <div class="date">18. February, 2026</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/347/1771405250_4_Pielikums_Plans_Naglu_1.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/347/1771405250_4_Pielikums_Plans_Naglu_1.pdf" target="_blank">
 									Plāns
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1771405250_4_Pielikums_Plans_Naglu_1.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/347/1771405250_4_Pielikums_Plans_Naglu_1.pdf" target="_blank">
+<a aria-label="1771405250_4_Pielikums_Plans_Naglu_1.pdf" class="document" href="../../../doc/mod/document/347/1771405250_4_Pielikums_Plans_Naglu_1.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -86,12 +86,12 @@
 <div class="document-info py-3">
 <div class="date">18. February, 2026</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/348/1771405296_Izsoles_Noteikumi_Naglu_1.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/348/1771405296_Izsoles_Noteikumi_Naglu_1.pdf" target="_blank">
 									Izsoles noteikumi
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1771405296_Izsoles_Noteikumi_Naglu_1.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/348/1771405296_Izsoles_Noteikumi_Naglu_1.pdf" target="_blank">
+<a aria-label="1771405296_Izsoles_Noteikumi_Naglu_1.pdf" class="document" href="../../../doc/mod/document/348/1771405296_Izsoles_Noteikumi_Naglu_1.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -101,12 +101,12 @@
 <div class="document-info py-3">
 <div class="date">18. February, 2026</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/349/1771405348_Pielikums_1_Pieteikums_Dalibai_Izsole_Naglu_1.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/349/1771405348_Pielikums_1_Pieteikums_Dalibai_Izsole_Naglu_1.pdf" target="_blank">
 									Pieteikums dalībai
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1771405348_Pielikums_1_Pieteikums_Dalibai_Izsole_Naglu_1.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/349/1771405348_Pielikums_1_Pieteikums_Dalibai_Izsole_Naglu_1.pdf" target="_blank">
+<a aria-label="1771405348_Pielikums_1_Pieteikums_Dalibai_Izsole_Naglu_1.pdf" class="document" href="../../../doc/mod/document/349/1771405348_Pielikums_1_Pieteikums_Dalibai_Izsole_Naglu_1.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -116,12 +116,12 @@
 <div class="document-info py-3">
 <div class="date">18. February, 2026</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/350/1771405389_Pielikums_2_Prieksligums_Naglu_1.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/350/1771405389_Pielikums_2_Prieksligums_Naglu_1.pdf" target="_blank">
 									Priekšlīgums
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1771405389_Pielikums_2_Prieksligums_Naglu_1.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/350/1771405389_Pielikums_2_Prieksligums_Naglu_1.pdf" target="_blank">
+<a aria-label="1771405389_Pielikums_2_Prieksligums_Naglu_1.pdf" class="document" href="../../../doc/mod/document/350/1771405389_Pielikums_2_Prieksligums_Naglu_1.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -131,12 +131,12 @@
 <div class="document-info py-3">
 <div class="date">18. February, 2026</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/351/1771405428_Pielikums_3_Pirkuma_Ligums_Naglu_1.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/351/1771405428_Pielikums_3_Pirkuma_Ligums_Naglu_1.pdf" target="_blank">
 									Pirkuma līgums
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1771405428_Pielikums_3_Pirkuma_Ligums_Naglu_1.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/351/1771405428_Pielikums_3_Pirkuma_Ligums_Naglu_1.pdf" target="_blank">
+<a aria-label="1771405428_Pielikums_3_Pirkuma_Ligums_Naglu_1.pdf" class="document" href="../../../doc/mod/document/351/1771405428_Pielikums_3_Pirkuma_Ligums_Naglu_1.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -146,12 +146,12 @@
 <div class="document-info py-3">
 <div class="date">18. February, 2026</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/353/1771406458_Foto.zip" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/353/1771406458_Foto.zip" target="_blank">
 									Objekta foto ZIP failā
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1771406458_Foto.zip" class="document" href="https://liepaja-sez.lv/doc/mod/document/353/1771406458_Foto.zip" target="_blank">
+<a aria-label="1771406458_Foto.zip" class="document" href="../../../doc/mod/document/353/1771406458_Foto.zip" target="_blank">
 <i class="bi bi-file-earmark-zip"></i>
 </a>
 </div>
@@ -159,7 +159,7 @@
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/276/870_1771406162__R1A9987.webp" style="width: 100%;"/>
-<a aria-label="Lejupielādēt" class="image-download" download="" href="https://liepaja-sez.lv/img/mod/news/276/original_1771406162__R1A9987.webp">
+<a aria-label="Lejupielādēt" class="image-download" download="" href="../../../img/mod/news/276/original_1771406162__R1A9987.webp">
 <img alt="Lejupielādēt" class="download-icon" src="https://liepaja-sez.lv/img/dl.svg"/>
 </a>
 </div>
@@ -196,11 +196,11 @@
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Design, Construction and Design Supervision of the Reconstruction of Berth No. 46 at the Port of Liepāja</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-none d-md-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Procurement subject: Design, construction and design supervision of the reconstruction of Berth No. 46 at the Port of Liepāja. Identification No. LSEZ 2026/12. Main CPV code: 45241500-3 (Quay wall construction work).</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 </div>
 </div>

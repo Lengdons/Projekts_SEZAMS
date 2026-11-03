@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">18 février 2026</div>
 <div class="category mb-2">Marchés publics et ventes aux enchères</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/346/1771405200_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf" target="_blank" aria-label="Documenter">
+<a href="../../../doc/mod/document/346/1771405200_Vertejums_Liepaja_Brivibas_iela_98%20d.d.pdf" target="_blank" aria-label="Documenter">
 Note
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/346/1771405200_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf" target="_blank" aria-label="1771405200_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf">
+<a class="document" href="../../../doc/mod/document/346/1771405200_Vertejums_Liepaja_Brivibas_iela_98%20d.d.pdf" target="_blank" aria-label="1771405200_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -80,12 +80,12 @@ Note
 <div class="document-info py-3">
 <div class="date">18 février 2026</div>
 <div class="category mb-2">Marchés publics et ventes aux enchères</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/347/1771405250_4_Pielikums_Plans_Naglu_1.pdf" target="_blank" aria-label="Documenter">
+<a href="../../../doc/mod/document/347/1771405250_4_Pielikums_Plans_Naglu_1.pdf" target="_blank" aria-label="Documenter">
 Planifier
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/347/1771405250_4_Pielikums_Plans_Naglu_1.pdf" target="_blank" aria-label="1771405250_4_Pielikums_Plans_Naglu_1.pdf">
+<a class="document" href="../../../doc/mod/document/347/1771405250_4_Pielikums_Plans_Naglu_1.pdf" target="_blank" aria-label="1771405250_4_Pielikums_Plans_Naglu_1.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -95,12 +95,12 @@ Planifier
 <div class="document-info py-3">
 <div class="date">18 février 2026</div>
 <div class="category mb-2">Marchés publics et ventes aux enchères</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/348/1771405296_Izsoles_Noteikumi_Naglu_1.pdf" target="_blank" aria-label="Documenter">
+<a href="../../../doc/mod/document/348/1771405296_Izsoles_Noteikumi_Naglu_1.pdf" target="_blank" aria-label="Documenter">
 Règles d'enchères
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/348/1771405296_Izsoles_Noteikumi_Naglu_1.pdf" target="_blank" aria-label="1771405296_Izsoles_Noteikumi_Naglu_1.pdf">
+<a class="document" href="../../../doc/mod/document/348/1771405296_Izsoles_Noteikumi_Naglu_1.pdf" target="_blank" aria-label="1771405296_Izsoles_Noteikumi_Naglu_1.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -110,12 +110,12 @@ Règles d'enchères
 <div class="document-info py-3">
 <div class="date">18 février 2026</div>
 <div class="category mb-2">Marchés publics et ventes aux enchères</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/349/1771405348_Pielikums_1_Pieteikums_Dalibai_Izsole_Naglu_1.pdf" target="_blank" aria-label="Documenter">
+<a href="../../../doc/mod/document/349/1771405348_Pielikums_1_Pieteikums_Dalibai_Izsole_Naglu_1.pdf" target="_blank" aria-label="Documenter">
 Demande d'adhésion
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/349/1771405348_Pielikums_1_Pieteikums_Dalibai_Izsole_Naglu_1.pdf" target="_blank" aria-label="1771405348_Pielikums_1_Pieteikums_Dalibai_Izsole_Naglu_1.pdf">
+<a class="document" href="../../../doc/mod/document/349/1771405348_Pielikums_1_Pieteikums_Dalibai_Izsole_Naglu_1.pdf" target="_blank" aria-label="1771405348_Pielikums_1_Pieteikums_Dalibai_Izsole_Naglu_1.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -125,12 +125,12 @@ Demande d'adhésion
 <div class="document-info py-3">
 <div class="date">18 février 2026</div>
 <div class="category mb-2">Marchés publics et ventes aux enchères</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/350/1771405389_Pielikums_2_Prieksligums_Naglu_1.pdf" target="_blank" aria-label="Documenter">
+<a href="../../../doc/mod/document/350/1771405389_Pielikums_2_Prieksligums_Naglu_1.pdf" target="_blank" aria-label="Documenter">
 Contrat préliminaire
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/350/1771405389_Pielikums_2_Prieksligums_Naglu_1.pdf" target="_blank" aria-label="1771405389_Pielikums_2_Prieksligums_Naglu_1.pdf">
+<a class="document" href="../../../doc/mod/document/350/1771405389_Pielikums_2_Prieksligums_Naglu_1.pdf" target="_blank" aria-label="1771405389_Pielikums_2_Prieksligums_Naglu_1.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -140,12 +140,12 @@ Contrat préliminaire
 <div class="document-info py-3">
 <div class="date">18 février 2026</div>
 <div class="category mb-2">Marchés publics et ventes aux enchères</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/351/1771405428_Pielikums_3_Pirkuma_Ligums_Naglu_1.pdf" target="_blank" aria-label="Documenter">
+<a href="../../../doc/mod/document/351/1771405428_Pielikums_3_Pirkuma_Ligums_Naglu_1.pdf" target="_blank" aria-label="Documenter">
 Contrat d'achat
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/351/1771405428_Pielikums_3_Pirkuma_Ligums_Naglu_1.pdf" target="_blank" aria-label="1771405428_Pielikums_3_Pirkuma_Ligums_Naglu_1.pdf">
+<a class="document" href="../../../doc/mod/document/351/1771405428_Pielikums_3_Pirkuma_Ligums_Naglu_1.pdf" target="_blank" aria-label="1771405428_Pielikums_3_Pirkuma_Ligums_Naglu_1.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -155,12 +155,12 @@ Contrat d'achat
 <div class="document-info py-3">
 <div class="date">18 février 2026</div>
 <div class="category mb-2">Marchés publics et ventes aux enchères</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/353/1771406458_Foto.zip" target="_blank" aria-label="Documenter">
+<a href="../../../doc/mod/document/353/1771406458_Foto.zip" target="_blank" aria-label="Documenter">
 Photo de l'objet dans un fichier ZIP
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/353/1771406458_Foto.zip" target="_blank" aria-label="1771406458_Foto.zip">
+<a class="document" href="../../../doc/mod/document/353/1771406458_Foto.zip" target="_blank" aria-label="1771406458_Foto.zip">
 <i class="bi bi-file-earmark-zip"></i>
 </a>							
 </div>
@@ -168,7 +168,7 @@ Photo de l'objet dans un fichier ZIP
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/276/870_1771406162__R1A9987.webp"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/276/original_1771406162__R1A9987.webp" aria-label="Télécharger" download>
+<a class="image-download" href="../../../img/mod/news/276/original_1771406162__R1A9987.webp" aria-label="Télécharger" download>
 <img class="download-icon" alt="Télécharger" src="https://liepaja-sez.lv/img/dl.svg"/>	
 </a>															
 </div>

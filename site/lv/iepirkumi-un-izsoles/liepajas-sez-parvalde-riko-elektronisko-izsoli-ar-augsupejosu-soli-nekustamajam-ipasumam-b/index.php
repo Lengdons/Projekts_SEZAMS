@@ -55,7 +55,7 @@ html.classList.add(localStorage['contrast']);
 <h1 class="article-title">Liepājas SEZ pārvalde rīko elektronisko izsoli ar augšupejošu soli nekustamajam īpašumam Brīvības ielā 98 (izsole noslēgusies)</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p><i><strong>Par nekustamā īpašuma izsoles rezultātiem:</strong></i></p><p><i>2025. gada 11. septembrī noslēgusies Liepājas speciālās ekonomiskās zonas pārvaldes organizētā nekustamā īpašuma Brīvības ielā 98, Liepājā, elektroniskā izsole.&nbsp;</i></p><p><i>2025. gada 8. oktobrī Liepājas speciālās ekonomiskās zonas valde pieņēmusi lēmumu Nr.104 “Par izsoles rezultātu apstiprināšu” ar kuru apstiprināts&nbsp;2025. gada 9. septembra Tiesu administrācijas sagatavotais akts Nr.&nbsp;4184890/0/2025-AKT par izsoles atzīšanu par nenotikušu.&nbsp;</i></p><p>____________________________________________</p><p>Liepājas speciālās ekonomiskās zonas pārvalde,&nbsp;vienotais reģistrācijas Nr.LV90000329402, rīko elektronisko izsoli ar augšupejošu soli nekustamajam īpašumam Brīvības ielā 98, Liepājā, kadastra apzīmējums&nbsp;17000220152, kas sastāvēs&nbsp;no būves ar kadastra apzīmējumu&nbsp;17000220059027 un&nbsp;zemes vienības ar kopējo&nbsp;platību ~15046 m<sup>2</sup> (platība tiks precizēta pēc mērniecības pabeigšanas).</p><p>Sākumcena – 295&nbsp;000.00&nbsp;EUR&nbsp;(divi simti deviņdesmit pieci tūkstoši euro un 00 centi), izsoles solis – 2950.00&nbsp;&nbsp;EUR (divi tūkstoši deviņi simti piecdesmit euro un 00 centi), izsoles nodrošinājuma nauda &nbsp;– 29&nbsp;500.00&nbsp;EUR (divdesmit deviņi tūkstoši pieci simti euro un 00 centi). Samaksa par pirkumu veicama sekojošā kārtībā:</p><ul><li>10 darba dienu laikā pēc&nbsp; priekšlīguma spēkā stāšanās dienas pircējs samaksā avansa maksājumu&nbsp; 30% (trīsdesmit procentus) no pirkuma maksas.&nbsp;</li><li>Pārējo pirkuma maksas daļu pircējs samaksā divu nedēļu laikā no pirkuma līguma noslēgšanas.</li></ul><p>Izsole sākas 7.08.2025. plkst.13:00 un noslēdzas 8.09.2025. plkst.13:00.</p><p>Izsolei pretendenti var reģistrēties no 7.08.2025. plkst.13:00 līdz 27.08.2025. plkst. 23:59 izsoļu elektroniskajā vietnē:&nbsp; <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv</a>.</p><p>Personai, kura vēlas piedalīties izsolē, līdz izsoles reģistrācijas beigu termiņam jāiemaksā nodrošinājuma nauda – 10% (desmit procenti) no izsolāmā nekustamā īpašuma sākumcenas, t.i., 29&nbsp;500.00&nbsp;EUR (divdesmit deviņi tūkstoši pieci simti euro un 00 centi), kas ieskaitāma LSEZ pārvaldes norēķinu kontā: Liepājas speciālās ekonomiskās zonas pārvalde, vienotais reģistrācijas Nr. LV90000329402, AS "SEB banka", konta Nr.LV42UNLA0012000609480, ar atzīmi "Nekustamā īpašuma Brīvības ielā 98 izsoles nodrošinājums".&nbsp;</p><p>Izsole norisinās elektroniski vietnē:&nbsp;<a href="https://izsoles.ta.gov.lv/" target="_blank">https://izsoles.ta.gov.lv</a>. Par nekustamā īpašuma izsoles norisi zvanīt 29294267, e-pasta adrese:&nbsp;<a href="mailto:raivo.spaks@lsez.lv">raivo.spaks@lsez.lv</a>.</p><p>Papildus informācija:&nbsp;Izsoles noteikumi pieejami mājaslapā&nbsp;<a href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/">https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/</a>.</p></div>
+<div class="col"><div class="col-12 output"><p><i><strong>Par nekustamā īpašuma izsoles rezultātiem:</strong></i></p><p><i>2025. gada 11. septembrī noslēgusies Liepājas speciālās ekonomiskās zonas pārvaldes organizētā nekustamā īpašuma Brīvības ielā 98, Liepājā, elektroniskā izsole.&nbsp;</i></p><p><i>2025. gada 8. oktobrī Liepājas speciālās ekonomiskās zonas valde pieņēmusi lēmumu Nr.104 “Par izsoles rezultātu apstiprināšu” ar kuru apstiprināts&nbsp;2025. gada 9. septembra Tiesu administrācijas sagatavotais akts Nr.&nbsp;4184890/0/2025-AKT par izsoles atzīšanu par nenotikušu.&nbsp;</i></p><p>____________________________________________</p><p>Liepājas speciālās ekonomiskās zonas pārvalde,&nbsp;vienotais reģistrācijas Nr.LV90000329402, rīko elektronisko izsoli ar augšupejošu soli nekustamajam īpašumam Brīvības ielā 98, Liepājā, kadastra apzīmējums&nbsp;17000220152, kas sastāvēs&nbsp;no būves ar kadastra apzīmējumu&nbsp;17000220059027 un&nbsp;zemes vienības ar kopējo&nbsp;platību ~15046 m<sup>2</sup> (platība tiks precizēta pēc mērniecības pabeigšanas).</p><p>Sākumcena – 295&nbsp;000.00&nbsp;EUR&nbsp;(divi simti deviņdesmit pieci tūkstoši euro un 00 centi), izsoles solis – 2950.00&nbsp;&nbsp;EUR (divi tūkstoši deviņi simti piecdesmit euro un 00 centi), izsoles nodrošinājuma nauda &nbsp;– 29&nbsp;500.00&nbsp;EUR (divdesmit deviņi tūkstoši pieci simti euro un 00 centi). Samaksa par pirkumu veicama sekojošā kārtībā:</p><ul><li>10 darba dienu laikā pēc&nbsp; priekšlīguma spēkā stāšanās dienas pircējs samaksā avansa maksājumu&nbsp; 30% (trīsdesmit procentus) no pirkuma maksas.&nbsp;</li><li>Pārējo pirkuma maksas daļu pircējs samaksā divu nedēļu laikā no pirkuma līguma noslēgšanas.</li></ul><p>Izsole sākas 7.08.2025. plkst.13:00 un noslēdzas 8.09.2025. plkst.13:00.</p><p>Izsolei pretendenti var reģistrēties no 7.08.2025. plkst.13:00 līdz 27.08.2025. plkst. 23:59 izsoļu elektroniskajā vietnē:&nbsp; <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv</a>.</p><p>Personai, kura vēlas piedalīties izsolē, līdz izsoles reģistrācijas beigu termiņam jāiemaksā nodrošinājuma nauda – 10% (desmit procenti) no izsolāmā nekustamā īpašuma sākumcenas, t.i., 29&nbsp;500.00&nbsp;EUR (divdesmit deviņi tūkstoši pieci simti euro un 00 centi), kas ieskaitāma LSEZ pārvaldes norēķinu kontā: Liepājas speciālās ekonomiskās zonas pārvalde, vienotais reģistrācijas Nr. LV90000329402, AS "SEB banka", konta Nr.LV42UNLA0012000609480, ar atzīmi "Nekustamā īpašuma Brīvības ielā 98 izsoles nodrošinājums".&nbsp;</p><p>Izsole norisinās elektroniski vietnē:&nbsp;<a href="https://izsoles.ta.gov.lv/" target="_blank">https://izsoles.ta.gov.lv</a>. Par nekustamā īpašuma izsoles norisi zvanīt 29294267, e-pasta adrese:&nbsp;<a href="mailto:raivo.spaks@lsez.lv">raivo.spaks@lsez.lv</a>.</p><p>Papildus informācija:&nbsp;Izsoles noteikumi pieejami mājaslapā&nbsp;<a href="../index.php">https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/</a>.</p></div>
 </div>
 </div>
 </div><h1 class="block-title mt-3">Pielikumi<span></span></h1>
@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">6. augusts, 2025</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/299/1754460594_Pielikums_1_Pieteikums_Izsolei_28072025.docx" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/299/1754460594_Pielikums_1_Pieteikums_Izsolei_28072025.docx" target="_blank" aria-label="Dokuments">
 Pieteikums dalībai izsolē
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/299/1754460594_Pielikums_1_Pieteikums_Izsolei_28072025.docx" target="_blank" aria-label="1754460594_Pielikums_1_Pieteikums_Izsolei_28072025.docx">
+<a class="document" href="../../../doc/mod/document/299/1754460594_Pielikums_1_Pieteikums_Izsolei_28072025.docx" target="_blank" aria-label="1754460594_Pielikums_1_Pieteikums_Izsolei_28072025.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>							
 </div>
@@ -80,12 +80,12 @@ Pieteikums dalībai izsolē
 <div class="document-info py-3">
 <div class="date">6. augusts, 2025</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/300/1754460648_Izsoles_Noteikumi_Brivibas_98.pdf" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/300/1754460648_Izsoles_Noteikumi_Brivibas_98.pdf" target="_blank" aria-label="Dokuments">
 Elektroniskās izsoles noteikumi
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/300/1754460648_Izsoles_Noteikumi_Brivibas_98.pdf" target="_blank" aria-label="1754460648_Izsoles_Noteikumi_Brivibas_98.pdf">
+<a class="document" href="../../../doc/mod/document/300/1754460648_Izsoles_Noteikumi_Brivibas_98.pdf" target="_blank" aria-label="1754460648_Izsoles_Noteikumi_Brivibas_98.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -95,12 +95,12 @@ Elektroniskās izsoles noteikumi
 <div class="document-info py-3">
 <div class="date">6. augusts, 2025</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/302/1754460808_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/302/1754460808_Vertejums_Liepaja_Brivibas_iela_98%20d.d.pdf" target="_blank" aria-label="Dokuments">
 Objektu vērtējums
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/302/1754460808_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf" target="_blank" aria-label="1754460808_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf">
+<a class="document" href="../../../doc/mod/document/302/1754460808_Vertejums_Liepaja_Brivibas_iela_98%20d.d.pdf" target="_blank" aria-label="1754460808_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -110,12 +110,12 @@ Objektu vērtējums
 <div class="document-info py-3">
 <div class="date">6. augusts, 2025</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/301/1754460751_Pielikums_4_Objektu_veidojosa_zemes_iericibas_projekta_plans_Brivibas_98.pdf" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/301/1754460751_Pielikums_4_Objektu_veidojosa_zemes_iericibas_projekta_plans_Brivibas_98.pdf" target="_blank" aria-label="Dokuments">
 Objektu plāns
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/301/1754460751_Pielikums_4_Objektu_veidojosa_zemes_iericibas_projekta_plans_Brivibas_98.pdf" target="_blank" aria-label="1754460751_Pielikums_4_Objektu_veidojosa_zemes_iericibas_projekta_plans_Brivibas_98.pdf">
+<a class="document" href="../../../doc/mod/document/301/1754460751_Pielikums_4_Objektu_veidojosa_zemes_iericibas_projekta_plans_Brivibas_98.pdf" target="_blank" aria-label="1754460751_Pielikums_4_Objektu_veidojosa_zemes_iericibas_projekta_plans_Brivibas_98.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -125,12 +125,12 @@ Objektu plāns
 <div class="document-info py-3">
 <div class="date">6. augusts, 2025</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/303/1754460918_Pielikums_5_Jaunveidojama_objekta_plans_Brivibas_98.pdf" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/303/1754460918_Pielikums_5_Jaunveidojama_objekta_plans_Brivibas_98.pdf" target="_blank" aria-label="Dokuments">
 Jaunveidojamā īpašuma plāns
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/303/1754460918_Pielikums_5_Jaunveidojama_objekta_plans_Brivibas_98.pdf" target="_blank" aria-label="1754460918_Pielikums_5_Jaunveidojama_objekta_plans_Brivibas_98.pdf">
+<a class="document" href="../../../doc/mod/document/303/1754460918_Pielikums_5_Jaunveidojama_objekta_plans_Brivibas_98.pdf" target="_blank" aria-label="1754460918_Pielikums_5_Jaunveidojama_objekta_plans_Brivibas_98.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -143,43 +143,43 @@ Jaunveidojamā īpašuma plāns
 </div>
 <div class="carousel-inner">
 <div class="carousel-item active" style="" data-zmh="group0">
-<a href="https://liepaja-sez.lv/img/block/news-banner/29/1920_1754462128__R1A9987.webp" data-fancybox="image0" data-caption="">
+<a href="../../../img/block/news-banner/29/1920_1754462128__R1A9987.webp" data-fancybox="image0" data-caption="">
 <img class="img-fluid" src="https://liepaja-sez.lv/img/block/news-banner/29/1754462128__R1A9987.webp" alt="Slide1" data-zmh="group0"/>
 </a>
 </div>
 
 <div class="carousel-item " style="" data-zmh="group1">
-<a href="https://liepaja-sez.lv/img/block/news-banner/30/1920_1754462161__R1A9980.webp" data-fancybox="image1" data-caption="">
+<a href="../../../img/block/news-banner/30/1920_1754462161__R1A9980.webp" data-fancybox="image1" data-caption="">
 <img class="img-fluid" src="https://liepaja-sez.lv/img/block/news-banner/30/1754462161__R1A9980.webp" alt="Slide2" data-zmh="group1"/>
 </a>
 </div>
 
 <div class="carousel-item " style="" data-zmh="group2">
-<a href="https://liepaja-sez.lv/img/block/news-banner/31/1920_1754462208__R1A9984.webp" data-fancybox="image2" data-caption="">
+<a href="../../../img/block/news-banner/31/1920_1754462208__R1A9984.webp" data-fancybox="image2" data-caption="">
 <img class="img-fluid" src="https://liepaja-sez.lv/img/block/news-banner/31/1754462208__R1A9984.webp" alt="Slide3" data-zmh="group2"/>
 </a>
 </div>
 
 <div class="carousel-item " style="" data-zmh="group3">
-<a href="https://liepaja-sez.lv/img/block/news-banner/32/1920_1754462358_DJI_0055_1.webp" data-fancybox="image3" data-caption="">
+<a href="../../../img/block/news-banner/32/1920_1754462358_DJI_0055_1.webp" data-fancybox="image3" data-caption="">
 <img class="img-fluid" src="https://liepaja-sez.lv/img/block/news-banner/32/1754462358_DJI_0055_1.webp" alt="Slide4" data-zmh="group3"/>
 </a>
 </div>
 
 <div class="carousel-item " style="" data-zmh="group4">
-<a href="https://liepaja-sez.lv/img/block/news-banner/33/1920_1754462423_IMG-20250731-WA0014.webp" data-fancybox="image4" data-caption="">
+<a href="../../../img/block/news-banner/33/1920_1754462423_IMG-20250731-WA0014.webp" data-fancybox="image4" data-caption="">
 <img class="img-fluid" src="https://liepaja-sez.lv/img/block/news-banner/33/1754462423_IMG-20250731-WA0014.webp" alt="Slide5" data-zmh="group4"/>
 </a>
 </div>
 
 <div class="carousel-item " style="" data-zmh="group5">
-<a href="https://liepaja-sez.lv/img/block/news-banner/34/1920_1754462465_IMG-20250731-WA0018.webp" data-fancybox="image5" data-caption="">
+<a href="../../../img/block/news-banner/34/1920_1754462465_IMG-20250731-WA0018.webp" data-fancybox="image5" data-caption="">
 <img class="img-fluid" src="https://liepaja-sez.lv/img/block/news-banner/34/1754462465_IMG-20250731-WA0018.webp" alt="Slide6" data-zmh="group5"/>
 </a>
 </div>
 
 <div class="carousel-item " style="" data-zmh="group6">
-<a href="https://liepaja-sez.lv/img/block/news-banner/35/1920_1754462584__R1A9991.webp" data-fancybox="image6" data-caption="">
+<a href="../../../img/block/news-banner/35/1920_1754462584__R1A9991.webp" data-fancybox="image6" data-caption="">
 <img class="img-fluid" src="https://liepaja-sez.lv/img/block/news-banner/35/1754462584__R1A9991.webp" alt="Slide7" data-zmh="group6"/>
 </a>
 </div>
@@ -215,11 +215,11 @@ Jaunveidojamā īpašuma plāns
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas SEZ pārvalde rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Liepājas speciālās ekonomiskās zonas pārvalde, vienotais reģistrācijas Nr.LV90000329402, rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3, Liepājā, kas sastāvēs no zemes vienības ar kopējo platību 51521 m2 un 12 būvēm.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>
@@ -230,7 +230,7 @@ Jaunveidojamā īpašuma plāns
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Iepirkuma priekšmets: 
 Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība
@@ -238,7 +238,7 @@ IDENTIFIKĀCIJAS NUMURS LSEZ 2026/12
 Galvenais CPV kods: 45241500-3 (Kuģu piestātnes būvdarbi). 
 </div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>

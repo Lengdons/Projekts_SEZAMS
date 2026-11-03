@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">6. August 2025</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/299/1754460594_Pielikums_1_Pieteikums_Izsolei_28072025.docx" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/299/1754460594_Pielikums_1_Pieteikums_Izsolei_28072025.docx" target="_blank" aria-label="Dokument">
 Antrag auf Teilnahme an einer Auktion
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/299/1754460594_Pielikums_1_Pieteikums_Izsolei_28072025.docx" target="_blank" aria-label="1754460594_Pielikums_1_Pieteikums_Izsolei_28072025.docx">
+<a class="document" href="../../../doc/mod/document/299/1754460594_Pielikums_1_Pieteikums_Izsolei_28072025.docx" target="_blank" aria-label="1754460594_Pielikums_1_Pieteikums_Izsolei_28072025.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -80,12 +80,12 @@ Antrag auf Teilnahme an einer Auktion
 <div class="document-info py-3">
 <div class="date">6. August 2025</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/300/1754460648_Izsoles_Noteikumi_Brivibas_98.pdf" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/300/1754460648_Izsoles_Noteikumi_Brivibas_98.pdf" target="_blank" aria-label="Dokument">
 Regeln für die elektronische Auktion
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/300/1754460648_Izsoles_Noteikumi_Brivibas_98.pdf" target="_blank" aria-label="1754460648_Izsoles_Noteikumi_Brivibas_98.pdf">
+<a class="document" href="../../../doc/mod/document/300/1754460648_Izsoles_Noteikumi_Brivibas_98.pdf" target="_blank" aria-label="1754460648_Izsoles_Noteikumi_Brivibas_98.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -95,12 +95,12 @@ Regeln für die elektronische Auktion
 <div class="document-info py-3">
 <div class="date">6. August 2025</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/302/1754460808_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/302/1754460808_Vertejums_Liepaja_Brivibas_iela_98%20d.d.pdf" target="_blank" aria-label="Dokument">
 Objektbewertung
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/302/1754460808_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf" target="_blank" aria-label="1754460808_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf">
+<a class="document" href="../../../doc/mod/document/302/1754460808_Vertejums_Liepaja_Brivibas_iela_98%20d.d.pdf" target="_blank" aria-label="1754460808_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -110,12 +110,12 @@ Objektbewertung
 <div class="document-info py-3">
 <div class="date">6. August 2025</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/301/1754460751_Pielikums_4_Objektu_veidojosa_zemes_iericibas_projekta_plans_Brivibas_98.pdf" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/301/1754460751_Pielikums_4_Objektu_veidojosa_zemes_iericibas_projekta_plans_Brivibas_98.pdf" target="_blank" aria-label="Dokument">
 Lageplan
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/301/1754460751_Pielikums_4_Objektu_veidojosa_zemes_iericibas_projekta_plans_Brivibas_98.pdf" target="_blank" aria-label="1754460751_Pielikums_4_Objektu_veidojosa_zemes_iericibas_projekta_plans_Brivibas_98.pdf">
+<a class="document" href="../../../doc/mod/document/301/1754460751_Pielikums_4_Objektu_veidojosa_zemes_iericibas_projekta_plans_Brivibas_98.pdf" target="_blank" aria-label="1754460751_Pielikums_4_Objektu_veidojosa_zemes_iericibas_projekta_plans_Brivibas_98.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -125,12 +125,12 @@ Lageplan
 <div class="document-info py-3">
 <div class="date">6. August 2025</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/303/1754460918_Pielikums_5_Jaunveidojama_objekta_plans_Brivibas_98.pdf" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/303/1754460918_Pielikums_5_Jaunveidojama_objekta_plans_Brivibas_98.pdf" target="_blank" aria-label="Dokument">
 Erschließung des Konzessionsplans
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/303/1754460918_Pielikums_5_Jaunveidojama_objekta_plans_Brivibas_98.pdf" target="_blank" aria-label="1754460918_Pielikums_5_Jaunveidojama_objekta_plans_Brivibas_98.pdf">
+<a class="document" href="../../../doc/mod/document/303/1754460918_Pielikums_5_Jaunveidojama_objekta_plans_Brivibas_98.pdf" target="_blank" aria-label="1754460918_Pielikums_5_Jaunveidojama_objekta_plans_Brivibas_98.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -143,43 +143,43 @@ Erschließung des Konzessionsplans
 </div>
 <div class="carousel-inner">
 <div class="carousel-item active" style="" data-zmh="group0">
-<a href="https://liepaja-sez.lv/img/block/news-banner/29/1920_1754462128__R1A9987.webp" data-fancybox="image0" data-caption="">
+<a href="../../../img/block/news-banner/29/1920_1754462128__R1A9987.webp" data-fancybox="image0" data-caption="">
 <img class="img-fluid" src="https://liepaja-sez.lv/img/block/news-banner/29/1754462128__R1A9987.webp" alt="Slide1" data-zmh="group0"/>
 </a>
 </div>
 
 <div class="carousel-item " style="" data-zmh="group1">
-<a href="https://liepaja-sez.lv/img/block/news-banner/30/1920_1754462161__R1A9980.webp" data-fancybox="image1" data-caption="">
+<a href="../../../img/block/news-banner/30/1920_1754462161__R1A9980.webp" data-fancybox="image1" data-caption="">
 <img class="img-fluid" src="https://liepaja-sez.lv/img/block/news-banner/30/1754462161__R1A9980.webp" alt="Slide2" data-zmh="group1"/>
 </a>
 </div>
 
 <div class="carousel-item " style="" data-zmh="group2">
-<a href="https://liepaja-sez.lv/img/block/news-banner/31/1920_1754462208__R1A9984.webp" data-fancybox="image2" data-caption="">
+<a href="../../../img/block/news-banner/31/1920_1754462208__R1A9984.webp" data-fancybox="image2" data-caption="">
 <img class="img-fluid" src="https://liepaja-sez.lv/img/block/news-banner/31/1754462208__R1A9984.webp" alt="Dia3" data-zmh="group2"/>
 </a>
 </div>
 
 <div class="carousel-item " style="" data-zmh="group3">
-<a href="https://liepaja-sez.lv/img/block/news-banner/32/1920_1754462358_DJI_0055_1.webp" data-fancybox="image3" data-caption="">
+<a href="../../../img/block/news-banner/32/1920_1754462358_DJI_0055_1.webp" data-fancybox="image3" data-caption="">
 <img class="img-fluid" src="https://liepaja-sez.lv/img/block/news-banner/32/1754462358_DJI_0055_1.webp" alt="Slide4" data-zmh="group3"/>
 </a>
 </div>
 
 <div class="carousel-item " style="" data-zmh="group4">
-<a href="https://liepaja-sez.lv/img/block/news-banner/33/1920_1754462423_IMG-20250731-WA0014.webp" data-fancybox="image4" data-caption="">
+<a href="../../../img/block/news-banner/33/1920_1754462423_IMG-20250731-WA0014.webp" data-fancybox="image4" data-caption="">
 <img class="img-fluid" src="https://liepaja-sez.lv/img/block/news-banner/33/1754462423_IMG-20250731-WA0014.webp" alt="Dia 5" data-zmh="group4"/>
 </a>
 </div>
 
 <div class="carousel-item " style="" data-zmh="group5">
-<a href="https://liepaja-sez.lv/img/block/news-banner/34/1920_1754462465_IMG-20250731-WA0018.webp" data-fancybox="image5" data-caption="">
+<a href="../../../img/block/news-banner/34/1920_1754462465_IMG-20250731-WA0018.webp" data-fancybox="image5" data-caption="">
 <img class="img-fluid" src="https://liepaja-sez.lv/img/block/news-banner/34/1754462465_IMG-20250731-WA0018.webp" alt="Slide6" data-zmh="group5"/>
 </a>
 </div>
 
 <div class="carousel-item " style="" data-zmh="group6">
-<a href="https://liepaja-sez.lv/img/block/news-banner/35/1920_1754462584__R1A9991.webp" data-fancybox="image6" data-caption="">
+<a href="../../../img/block/news-banner/35/1920_1754462584__R1A9991.webp" data-fancybox="image6" data-caption="">
 <img class="img-fluid" src="https://liepaja-sez.lv/img/block/news-banner/35/1754462584__R1A9991.webp" alt="Dia7" data-zmh="group6"/>
 </a>
 </div>

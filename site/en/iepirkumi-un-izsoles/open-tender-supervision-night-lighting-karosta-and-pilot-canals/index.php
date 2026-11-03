@@ -46,7 +46,7 @@
 <h1 class="article-title">Open Tender: Construction Supervision of Night Lighting at the Karosta and Pilot Canals (LSEZ 2021/63/K)</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Construction works will be carried out and financed within a project implemented under Specific Objective 6.1.1, “Increase safety levels at major ports and improve mobility within the transport network”, of the Operational Programme “Growth and Employment”.</p><p>Interested suppliers may inspect and obtain the procurement documents electronically free of charge on the Liepāja Special Economic Zone Authority website at <a href="http://www.liepaja-sez.lv/lv/parvalde/iepirkumi">http://www.liepaja-sez.lv/lv/parvalde/iepirkumi</a> and in the Electronic Procurement System (EIS) at <a href="https://www.eis.gov.lv">www.eis.gov.lv</a>.</p><p>The documents may also be inspected in printed form free of charge at the Liepāja Special Economic Zone Authority, in the Procurement Specialist's office (ground floor), 4 Fēniksa Street, Liepāja, until <strong>20 July 2021 at 10:00</strong>. Office hours are 08:00–12:00 and 13:00–16:30 on working days, and until 16:00 on Fridays. Visitors must arrange a time in advance with the contracting authority's contact person.</p></div>
+<div class="col"><div class="col-12 output"><p>Construction works will be carried out and financed within a project implemented under Specific Objective 6.1.1, “Increase safety levels at major ports and improve mobility within the transport network”, of the Operational Programme “Growth and Employment”.</p><p>Interested suppliers may inspect and obtain the procurement documents electronically free of charge on the Liepāja Special Economic Zone Authority website at <a href="../index.php">http://www.liepaja-sez.lv/lv/parvalde/iepirkumi</a> and in the Electronic Procurement System (EIS) at <a href="https://www.eis.gov.lv">www.eis.gov.lv</a>.</p><p>The documents may also be inspected in printed form free of charge at the Liepāja Special Economic Zone Authority, in the Procurement Specialist's office (ground floor), 4 Fēniksa Street, Liepāja, until <strong>20 July 2021 at 10:00</strong>. Office hours are 08:00–12:00 and 13:00–16:30 on working days, and until 16:00 on Fridays. Visitors must arrange a time in advance with the contracting authority's contact person.</p></div>
 </div>
 </div>
 </div>
@@ -89,11 +89,11 @@
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Design, Construction and Design Supervision of the Reconstruction of Berth No. 46 at the Port of Liepāja</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-none d-md-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Procurement subject: Design, construction and design supervision of the reconstruction of Berth No. 46 at the Port of Liepāja. Identification No. LSEZ 2026/12. Main CPV code: 45241500-3 (Quay wall construction work).</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 </div>
 </div>

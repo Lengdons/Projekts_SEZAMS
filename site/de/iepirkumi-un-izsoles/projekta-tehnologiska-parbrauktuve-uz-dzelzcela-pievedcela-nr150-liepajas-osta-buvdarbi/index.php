@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">15. Oktober 2021</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/102/" target="_blank" aria-label="Dokument">
+<a aria-label="Dokument" href="https://liepaja-sez.lv/doc/mod/document/102/" target="_blank">
 Mitteilung
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/102/" target="_blank" aria-label="">
+<a class="document" aria-label="" href="https://liepaja-sez.lv/doc/mod/document/102/" target="_blank">
 <i class="bi bi-file-earmark"></i>
 </a>
 </div>
@@ -78,7 +78,7 @@ Mitteilung
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/59/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/59/original_" aria-label="Herunterladen" download>
+<a class="image-download"  aria-label="Herunterladen" download href="https://liepaja-sez.lv/img/mod/news/59/original_">
 <img class="download-icon" alt="Herunterladen" src="https://liepaja-sez.lv/img/dl.svg"/>
 </a>
 </div>

@@ -56,12 +56,12 @@
 <div class="document-info py-3">
 <div class="date">28. July, 2025</div>
 <div class="category mb-2">All</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/287/1753692151_02_Pielikums_1_Pieteikums_Dalibai_Izsole_Brivibas_98A.docx" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/287/1753692151_02_Pielikums_1_Pieteikums_Dalibai_Izsole_Brivibas_98A.docx" target="_blank">
 									Pieteikums dalībai par izsoli Brīvībai ielai 98A
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1753692151_02_Pielikums_1_Pieteikums_Dalibai_Izsole_Brivibas_98A.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/287/1753692151_02_Pielikums_1_Pieteikums_Dalibai_Izsole_Brivibas_98A.docx" target="_blank">
+<a aria-label="1753692151_02_Pielikums_1_Pieteikums_Dalibai_Izsole_Brivibas_98A.docx" class="document" href="../../../doc/mod/document/287/1753692151_02_Pielikums_1_Pieteikums_Dalibai_Izsole_Brivibas_98A.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -71,12 +71,12 @@
 <div class="document-info py-3">
 <div class="date">31. July, 2025</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/291/1753949379_01_Izsoles_Noteikumi_red_31072025.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/291/1753949379_01_Izsoles_Noteikumi_red_31072025.pdf" target="_blank">
 									Izsoles noteikumi Brīvības ielai 98A
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1753949379_01_Izsoles_Noteikumi_red_31072025.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/291/1753949379_01_Izsoles_Noteikumi_red_31072025.pdf" target="_blank">
+<a aria-label="1753949379_01_Izsoles_Noteikumi_red_31072025.pdf" class="document" href="../../../doc/mod/document/291/1753949379_01_Izsoles_Noteikumi_red_31072025.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -86,12 +86,12 @@
 <div class="document-info py-3">
 <div class="date">28. July, 2025</div>
 <div class="category mb-2">All</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/288/1753692198_05Brivibas98AZIPplans.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/288/1753692198_05Brivibas98AZIPplans.pdf" target="_blank">
 									Brīvības iela 98A plāns
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1753692198_05Brivibas98AZIPplans.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/288/1753692198_05Brivibas98AZIPplans.pdf" target="_blank">
+<a aria-label="1753692198_05Brivibas98AZIPplans.pdf" class="document" href="../../../doc/mod/document/288/1753692198_05Brivibas98AZIPplans.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -101,12 +101,12 @@
 <div class="document-info py-3">
 <div class="date">28. July, 2025</div>
 <div class="category mb-2">All</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/289/1753692301_06_Pielikums_Brivibas_98A_jaunais_ipasums.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/289/1753692301_06_Pielikums_Brivibas_98A_jaunais_ipasums.pdf" target="_blank">
 									Brīvības iela 98A novietnes shēma
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1753692301_06_Pielikums_Brivibas_98A_jaunais_ipasums.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/289/1753692301_06_Pielikums_Brivibas_98A_jaunais_ipasums.pdf" target="_blank">
+<a aria-label="1753692301_06_Pielikums_Brivibas_98A_jaunais_ipasums.pdf" class="document" href="../../../doc/mod/document/289/1753692301_06_Pielikums_Brivibas_98A_jaunais_ipasums.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -116,12 +116,12 @@
 <div class="document-info py-3">
 <div class="date">28. July, 2025</div>
 <div class="category mb-2">All</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/290/1753692326_VertejumsLiepajaBrivibasiela98A.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/290/1753692326_VertejumsLiepajaBrivibasiela98A.pdf" target="_blank">
 									Brīvības 98A vērtējums
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1753692326_VertejumsLiepajaBrivibasiela98A.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/290/1753692326_VertejumsLiepajaBrivibasiela98A.pdf" target="_blank">
+<a aria-label="1753692326_VertejumsLiepajaBrivibasiela98A.pdf" class="document" href="../../../doc/mod/document/290/1753692326_VertejumsLiepajaBrivibasiela98A.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -166,11 +166,11 @@
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Design, Construction and Design Supervision of the Reconstruction of Berth No. 46 at the Port of Liepāja</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-none d-md-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Procurement subject: Design, construction and design supervision of the reconstruction of Berth No. 46 at the Port of Liepāja. Identification No. LSEZ 2026/12. Main CPV code: 45241500-3 (Quay wall construction work).</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 </div>
 </div>

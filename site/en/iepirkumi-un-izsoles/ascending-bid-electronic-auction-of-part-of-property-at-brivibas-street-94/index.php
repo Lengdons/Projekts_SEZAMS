@@ -56,12 +56,12 @@
 <div class="document-info py-3">
 <div class="date">12. August, 2025</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/309/1754991216_Pielikums_1_Pieteikums_Dalibai_Izsole_Brivibas_94.docx" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/309/1754991216_Pielikums_1_Pieteikums_Dalibai_Izsole_Brivibas_94.docx" target="_blank">
 									Application to Participate
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1754991216_Pielikums_1_Pieteikums_Dalibai_Izsole_Brivibas_94.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/309/1754991216_Pielikums_1_Pieteikums_Dalibai_Izsole_Brivibas_94.docx" target="_blank">
+<a aria-label="1754991216_Pielikums_1_Pieteikums_Dalibai_Izsole_Brivibas_94.docx" class="document" href="../../../doc/mod/document/309/1754991216_Pielikums_1_Pieteikums_Dalibai_Izsole_Brivibas_94.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -71,12 +71,12 @@
 <div class="document-info py-3">
 <div class="date">12. August, 2025</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/310/1754991266_Izsoles_Noteikumi_Brivibas_94.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/310/1754991266_Izsoles_Noteikumi_Brivibas_94.pdf" target="_blank">
 									Auction Rules
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1754991266_Izsoles_Noteikumi_Brivibas_94.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/310/1754991266_Izsoles_Noteikumi_Brivibas_94.pdf" target="_blank">
+<a aria-label="1754991266_Izsoles_Noteikumi_Brivibas_94.pdf" class="document" href="../../../doc/mod/document/310/1754991266_Izsoles_Noteikumi_Brivibas_94.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -86,12 +86,12 @@
 <div class="document-info py-3">
 <div class="date">12. August, 2025</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/311/1754991313_Vertejums_Liepaja_Brivibas_iela_94.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/311/1754991313_Vertejums_Liepaja_Brivibas_iela_94.pdf" target="_blank">
 									Valuation
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1754991313_Vertejums_Liepaja_Brivibas_iela_94.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/311/1754991313_Vertejums_Liepaja_Brivibas_iela_94.pdf" target="_blank">
+<a aria-label="1754991313_Vertejums_Liepaja_Brivibas_iela_94.pdf" class="document" href="../../../doc/mod/document/311/1754991313_Vertejums_Liepaja_Brivibas_iela_94.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -101,12 +101,12 @@
 <div class="document-info py-3">
 <div class="date">12. August, 2025</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/316/1754991631_Pielikums_4_Objektu_veidojošā_zemes_ierīcības_projekta_plāns_Brivibas_94.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/316/1754991631_Pielikums_4_Objektu_veidojo%C5%A1%C4%81_zemes_ier%C4%ABc%C4%ABbas_projekta_pl%C4%81ns_Brivibas_94.pdf" target="_blank">
 									Part of Newly Created Property at Brīvības Street 94
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1754991631_Pielikums_4_Objektu_veidojošā_zemes_ierīcības_projekta_plāns_Brivibas_94.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/316/1754991631_Pielikums_4_Objektu_veidojošā_zemes_ierīcības_projekta_plāns_Brivibas_94.pdf" target="_blank">
+<a aria-label="1754991631_Pielikums_4_Objektu_veidojošā_zemes_ierīcības_projekta_plāns_Brivibas_94.pdf" class="document" href="../../../doc/mod/document/316/1754991631_Pielikums_4_Objektu_veidojo%C5%A1%C4%81_zemes_ier%C4%ABc%C4%ABbas_projekta_pl%C4%81ns_Brivibas_94.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -116,12 +116,12 @@
 <div class="document-info py-3">
 <div class="date">12. August, 2025</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/315/1754991567_Pielikums_5_Jaunveidojamā_objekta_plāns_Brivibas_94.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/315/1754991567_Pielikums_5_Jaunveidojam%C4%81_objekta_pl%C4%81ns_Brivibas_94.pdf" target="_blank">
 									Plan of the Newly Created Property Portion
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1754991567_Pielikums_5_Jaunveidojamā_objekta_plāns_Brivibas_94.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/315/1754991567_Pielikums_5_Jaunveidojamā_objekta_plāns_Brivibas_94.pdf" target="_blank">
+<a aria-label="1754991567_Pielikums_5_Jaunveidojamā_objekta_plāns_Brivibas_94.pdf" class="document" href="../../../doc/mod/document/315/1754991567_Pielikums_5_Jaunveidojam%C4%81_objekta_pl%C4%81ns_Brivibas_94.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -134,32 +134,32 @@
 </div>
 <div class="carousel-inner">
 <div class="carousel-item active" data-zmh="group0" style="">
-<a data-caption="" data-fancybox="image0" href="https://liepaja-sez.lv/img/block/news-banner/36/1920_1754991687_DJI_0097.webp">
+<a data-caption="" data-fancybox="image0" href="../../../img/block/news-banner/36/1920_1754991687_DJI_0097.webp">
 <img alt="Slide1" class="img-fluid" data-zmh="group0" src="https://liepaja-sez.lv/img/block/news-banner/36/1754991687_DJI_0097.webp"/>
 </a>
 </div>
 <div class="carousel-item" data-zmh="group1" style="">
-<a data-caption="" data-fancybox="image1" href="https://liepaja-sez.lv/img/block/news-banner/37/1920_1754991700__R1A9999.webp">
+<a data-caption="" data-fancybox="image1" href="../../../img/block/news-banner/37/1920_1754991700__R1A9999.webp">
 <img alt="Slide2" class="img-fluid" data-zmh="group1" src="https://liepaja-sez.lv/img/block/news-banner/37/1754991700__R1A9999.webp"/>
 </a>
 </div>
 <div class="carousel-item" data-zmh="group2" style="">
-<a data-caption="" data-fancybox="image2" href="https://liepaja-sez.lv/img/block/news-banner/38/1920_1754991712__R1A0017.webp">
+<a data-caption="" data-fancybox="image2" href="../../../img/block/news-banner/38/1920_1754991712__R1A0017.webp">
 <img alt="Slide3" class="img-fluid" data-zmh="group2" src="https://liepaja-sez.lv/img/block/news-banner/38/1754991712__R1A0017.webp"/>
 </a>
 </div>
 <div class="carousel-item" data-zmh="group3" style="">
-<a data-caption="" data-fancybox="image3" href="https://liepaja-sez.lv/img/block/news-banner/39/1920_1754991721__R1A0008.webp">
+<a data-caption="" data-fancybox="image3" href="../../../img/block/news-banner/39/1920_1754991721__R1A0008.webp">
 <img alt="Slide4" class="img-fluid" data-zmh="group3" src="https://liepaja-sez.lv/img/block/news-banner/39/1754991721__R1A0008.webp"/>
 </a>
 </div>
 <div class="carousel-item" data-zmh="group4" style="">
-<a data-caption="" data-fancybox="image4" href="https://liepaja-sez.lv/img/block/news-banner/40/1920_1754991732__R1A0002.webp">
+<a data-caption="" data-fancybox="image4" href="../../../img/block/news-banner/40/1920_1754991732__R1A0002.webp">
 <img alt="Slide5" class="img-fluid" data-zmh="group4" src="https://liepaja-sez.lv/img/block/news-banner/40/1754991732__R1A0002.webp"/>
 </a>
 </div>
 <div class="carousel-item" data-zmh="group5" style="">
-<a data-caption="" data-fancybox="image5" href="https://liepaja-sez.lv/img/block/news-banner/41/1920_1754991741_DJI_0055.webp">
+<a data-caption="" data-fancybox="image5" href="../../../img/block/news-banner/41/1920_1754991741_DJI_0055.webp">
 <img alt="Slide6" class="img-fluid" data-zmh="group5" src="https://liepaja-sez.lv/img/block/news-banner/41/1754991741_DJI_0055.webp"/>
 </a>
 </div>
@@ -208,11 +208,11 @@
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Design, Construction and Design Supervision of the Reconstruction of Berth No. 46 at the Port of Liepāja</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-none d-md-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Procurement subject: Design, construction and design supervision of the reconstruction of Berth No. 46 at the Port of Liepāja. Identification No. LSEZ 2026/12. Main CPV code: 45241500-3 (Quay wall construction work).</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 </div>
 </div>

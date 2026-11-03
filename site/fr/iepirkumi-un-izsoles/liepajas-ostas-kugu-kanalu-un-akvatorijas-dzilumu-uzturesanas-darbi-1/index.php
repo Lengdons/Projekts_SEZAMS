@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">12 janvier 2024</div>
 <div class="category mb-2">Marchés publics et ventes aux enchères</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/125/1705064766_Nolikums-dzilumu-uzturesana-2024-16-ar pielikumiem.docx" target="_blank" aria-label="Documenter">
+<a href="../../../doc/mod/document/125/1705064766_Nolikums-dzilumu-uzturesana-2024-16-ar%20pielikumiem.docx" target="_blank" aria-label="Documenter">
 Règlements
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/125/1705064766_Nolikums-dzilumu-uzturesana-2024-16-ar pielikumiem.docx" target="_blank" aria-label="1705064766_Nolikums-dzilumu-uzturesana-2024-16-ar pielikumiem.docx">
+<a class="document" href="../../../doc/mod/document/125/1705064766_Nolikums-dzilumu-uzturesana-2024-16-ar%20pielikumiem.docx" target="_blank" aria-label="1705064766_Nolikums-dzilumu-uzturesana-2024-16-ar pielikumiem.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>							
 </div>
@@ -80,12 +80,12 @@ Règlements
 <div class="document-info py-3">
 <div class="date">26 février 2024</div>
 <div class="category mb-2">Marchés publics et ventes aux enchères</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/181/1708945235_lemums-2024-16.edoc" target="_blank" aria-label="Documenter">
+<a href="../../../doc/mod/document/181/1708945235_lemums-2024-16.edoc" target="_blank" aria-label="Documenter">
 Décision sur les résultats de la passation des marchés
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/181/1708945235_lemums-2024-16.edoc" target="_blank" aria-label="1708945235_decision-2024-16.edoc">
+<a class="document" href="../../../doc/mod/document/181/1708945235_lemums-2024-16.edoc" target="_blank" aria-label="1708945235_decision-2024-16.edoc">
 <i class="bi bi-file-earmark"></i>
 </a>							
 </div>
@@ -93,7 +93,7 @@ Décision sur les résultats de la passation des marchés
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/85/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/85/original_" aria-label="Télécharger" download>
+<a class="image-download"  aria-label="Télécharger" download href="https://liepaja-sez.lv/img/mod/news/85/original_">
 <img class="download-icon" alt="Télécharger" src="https://liepaja-sez.lv/img/dl.svg"/>	
 </a>															
 </div>

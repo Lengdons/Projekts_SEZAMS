@@ -61,7 +61,7 @@ html.classList.add(localStorage['contrast']);
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/204/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/204/original_" aria-label="Lejupielādēt" download>
+<a class="image-download"  aria-label="Lejupielādēt" download href="https://liepaja-sez.lv/img/mod/news/204/original_">
 <img class="download-icon" alt="Lejupielādēt" src="https://liepaja-sez.lv/img/dl.svg"/>	
 </a>															
 </div>
@@ -83,11 +83,11 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas SEZ pārvalde rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Liepājas speciālās ekonomiskās zonas pārvalde, vienotais reģistrācijas Nr.LV90000329402, rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3, Liepājā, kas sastāvēs no zemes vienības ar kopējo platību 51521 m2 un 12 būvēm.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>
@@ -98,7 +98,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Iepirkuma priekšmets: 
 Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība
@@ -106,7 +106,7 @@ IDENTIFIKĀCIJAS NUMURS LSEZ 2026/12
 Galvenais CPV kods: 45241500-3 (Kuģu piestātnes būvdarbi). 
 </div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>

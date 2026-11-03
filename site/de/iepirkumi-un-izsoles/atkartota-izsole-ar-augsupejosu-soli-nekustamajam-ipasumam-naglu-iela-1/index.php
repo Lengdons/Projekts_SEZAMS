@@ -164,14 +164,14 @@ Bewertung
 <div class="document-info py-3">
 <div class="date">18. Februar 2026</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a aria-label="Dokument" href="https://liepaja-sez.lv/doc/mod/document/353/1771406458_Foto.zip" target="_blank">
+<a aria-label="Dokument" href="../../../doc/mod/document/353/1771406458_Foto.zip" target="_blank">
 
 Objektfoto in ZIP-Datei
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1771406458_Foto.zip" class="document" href="https://liepaja-sez.lv/doc/mod/document/353/1771406458_Foto.zip" target="_blank">
+<a aria-label="1771406458_Foto.zip" class="document" href="../../../doc/mod/document/353/1771406458_Foto.zip" target="_blank">
 <i class="bi bi-file-earmark-zip"></i>
 </a>
 </div>

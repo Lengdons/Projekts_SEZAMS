@@ -46,7 +46,7 @@
 <h1 class="article-title">Auction for the Sale of a VW Transporter Vehicle (2007) — June 2025</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p><strong>The auction for the sale of the VW Transporter vehicle has been cancelled</strong> because the sole applicant did not meet the requirements of the auction regulations.</p><p>The Liepāja Special Economic Zone Authority (hereinafter, the Authority) is organising the sale of its movable property — a VW Transporter vehicle (manufactured in 2007) — through an electronic ascending-bid auction.</p><p><strong>Starting (reserve) price:</strong> EUR 2,100.00, excluding value added tax.</p><p><strong>Bid increment:</strong> EUR 20.00 (twenty euros and 0 cents).</p><p><strong>Auction security deposit:</strong> 10% of the total price of the item — EUR 210.00 (two hundred and ten euros and 0 cents), excluding value added tax.</p><p>Anyone wishing to participate must transfer the security deposit to the Authority within 20 (twenty) days from the auction start date. Payment details: registration No. LV90000329402, AS “Swedbank”, account No. LV12HABA0001407037000. The payment reference must state: “Security deposit for VW Transporter vehicle auction, ID No. LSEZ IZS 2025/5”. Applicants must also submit a request for auction authorisation via <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>.</p><p>The electronic auction is held at <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a> and starts on <strong>19 June 2025 at 13:00</strong>.</p><p>To inspect and assess the vehicle in person, please contact Ainars Šteinbergs, Automotive Technical Support Specialist (driver), in advance. Phone: 29426284; email: <a href="mailto:ainars.steinbergs@lsez.lv">ainars.steinbergs@lsez.lv</a>.</p><p>Auction regulations are available on the electronic auction platform and on the <a href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/">Liepāja SEZ website</a>.</p></div>
+<div class="col"><div class="col-12 output"><p><strong>The auction for the sale of the VW Transporter vehicle has been cancelled</strong> because the sole applicant did not meet the requirements of the auction regulations.</p><p>The Liepāja Special Economic Zone Authority (hereinafter, the Authority) is organising the sale of its movable property — a VW Transporter vehicle (manufactured in 2007) — through an electronic ascending-bid auction.</p><p><strong>Starting (reserve) price:</strong> EUR 2,100.00, excluding value added tax.</p><p><strong>Bid increment:</strong> EUR 20.00 (twenty euros and 0 cents).</p><p><strong>Auction security deposit:</strong> 10% of the total price of the item — EUR 210.00 (two hundred and ten euros and 0 cents), excluding value added tax.</p><p>Anyone wishing to participate must transfer the security deposit to the Authority within 20 (twenty) days from the auction start date. Payment details: registration No. LV90000329402, AS “Swedbank”, account No. LV12HABA0001407037000. The payment reference must state: “Security deposit for VW Transporter vehicle auction, ID No. LSEZ IZS 2025/5”. Applicants must also submit a request for auction authorisation via <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>.</p><p>The electronic auction is held at <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a> and starts on <strong>19 June 2025 at 13:00</strong>.</p><p>To inspect and assess the vehicle in person, please contact Ainars Šteinbergs, Automotive Technical Support Specialist (driver), in advance. Phone: 29426284; email: <a href="mailto:ainars.steinbergs@lsez.lv">ainars.steinbergs@lsez.lv</a>.</p><p>Auction regulations are available on the electronic auction platform and on the <a href="../index.php">Liepāja SEZ website</a>.</p></div>
 </div>
 </div>
 </div><h1 class="block-title mt-3">Pielikumi<span></span></h1>
@@ -56,12 +56,12 @@
 <div class="document-info py-3">
 <div class="date">17. June, 2025</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/279/1750136525_Noteikumi_2025_5_VW_TYransporter_CZ2545_1v.docx" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/279/1750136525_Noteikumi_2025_5_VW_TYransporter_CZ2545_1v.docx" target="_blank">
 									VW Transporter (2007.) izsoles noteikumi
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1750136525_Noteikumi_2025_5_VW_TYransporter_CZ2545_1v.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/279/1750136525_Noteikumi_2025_5_VW_TYransporter_CZ2545_1v.docx" target="_blank">
+<a aria-label="1750136525_Noteikumi_2025_5_VW_TYransporter_CZ2545_1v.docx" class="document" href="../../../doc/mod/document/279/1750136525_Noteikumi_2025_5_VW_TYransporter_CZ2545_1v.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -69,7 +69,7 @@
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/224/870_1750136361_Foto_1.webp" style="width: 100%;"/>
-<a aria-label="Lejupielādēt" class="image-download" download="" href="https://liepaja-sez.lv/img/mod/news/224/original_1750136361_Foto_1.webp">
+<a aria-label="Lejupielādēt" class="image-download" download="" href="../../../img/mod/news/224/original_1750136361_Foto_1.webp">
 <img alt="Lejupielādēt" class="download-icon" src="https://liepaja-sez.lv/img/dl.svg"/>
 </a>
 </div>
@@ -106,11 +106,11 @@
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Design, Construction and Design Supervision of the Reconstruction of Berth No. 46 at the Port of Liepāja</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-none d-md-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Procurement subject: Design, construction and design supervision for the reconstruction of Berth No. 46 at the Port of Liepāja. ID No. LSEZ 2026/12. Main CPV code: 45241500-3 (Quay wall construction work).</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 </div>
 </div>

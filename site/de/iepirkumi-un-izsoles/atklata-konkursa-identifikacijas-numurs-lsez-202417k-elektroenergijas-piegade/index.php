@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">18. April 2024</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/214/1713427364_lemums-2024-17-K - elektroenergija.edoc" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/214/1713427364_lemums-2024-17-K%20-%20elektroenergija.edoc" target="_blank" aria-label="Dokument">
 Beschluss über die Elektrizitätsbeschaffung
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/214/1713427364_lemums-2024-17-K - elektroenergija.edoc" target="_blank" aria-label="1713427364_Entscheidung-2024-17-K - elektrizität.edoc">
+<a class="document" href="../../../doc/mod/document/214/1713427364_lemums-2024-17-K%20-%20elektroenergija.edoc" target="_blank" aria-label="1713427364_Entscheidung-2024-17-K - elektrizität.edoc">
 <i class="bi bi-file-earmark"></i>
 </a>
 </div>
@@ -78,7 +78,7 @@ Beschluss über die Elektrizitätsbeschaffung
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/107/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/107/original_" aria-label="Herunterladen" download>
+<a class="image-download"  aria-label="Herunterladen" download href="https://liepaja-sez.lv/img/mod/news/107/original_">
 <img class="download-icon" alt="Herunterladen" src="https://liepaja-sez.lv/img/dl.svg"/>
 </a>
 </div>

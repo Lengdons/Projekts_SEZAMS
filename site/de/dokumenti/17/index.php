@@ -115,14 +115,14 @@ Notfallplan bei unvorhergesehenen Umweltverschmutzungen
 <div class="document-info">
 <div class="date">11. September 2026</div>
 <div class="category">Anordnungen des Hafenmeisters</div>
-<a aria-label="Dokument" href="https://liepaja-sez.lv/doc/mod/document/210/1789367548_8_4_3_11_09_2026_Par pielaujamiem kugu parametriem.pdf" target="_blank">
+<a aria-label="Dokument" href="../../../doc/mod/document/210/1789367548_8_4_3_11_09_2026_Par%20pielaujamiem%20kugu%20parametriem.pdf" target="_blank">
 
 Auf zulässigen Parametern von Schiffen im Hafen von Liepāja
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1789367548_8_4_3_11_09_2026_Par pielaujamiem kugu parametriem.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/210/1789367548_8_4_3_11_09_2026_Par pielaujamiem kugu parametriem.pdf" target="_blank">
+<a aria-label="1789367548_8_4_3_11_09_2026_Par pielaujamiem kugu parametriem.pdf" class="document" href="../../../doc/mod/document/210/1789367548_8_4_3_11_09_2026_Par%20pielaujamiem%20kugu%20parametriem.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>

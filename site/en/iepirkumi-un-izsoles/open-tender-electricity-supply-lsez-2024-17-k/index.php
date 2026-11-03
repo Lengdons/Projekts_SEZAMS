@@ -56,12 +56,12 @@
 <div class="document-info py-3">
 <div class="date">18. aprīlis, 2024</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/214/1713427364_lemums-2024-17-K - elektroenergija.edoc" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/214/1713427364_lemums-2024-17-K%20-%20elektroenergija.edoc" target="_blank">
 									Lēmums par elektroenerģijas iepirkumu
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1713427364_lemums-2024-17-K - elektroenergija.edoc" class="document" href="https://liepaja-sez.lv/doc/mod/document/214/1713427364_lemums-2024-17-K - elektroenergija.edoc" target="_blank">
+<a aria-label="1713427364_lemums-2024-17-K - elektroenergija.edoc" class="document" href="../../../doc/mod/document/214/1713427364_lemums-2024-17-K%20-%20elektroenergija.edoc" target="_blank">
 <i class="bi bi-file-earmark"></i>
 </a>
 </div>

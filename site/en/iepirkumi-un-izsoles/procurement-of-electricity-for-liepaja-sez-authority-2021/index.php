@@ -47,7 +47,7 @@
 <h1 class="article-title">Procurement of Electricity for the Liepāja Special Economic Zone Authority (LSEZ 2021/60/K)</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Interested suppliers may review and obtain the procurement documents electronically, free of charge, on the website of the Liepāja Special Economic Zone Authority at <a href="https://liepaja-sez.lv/lv/parvalde/iepirkumi">https://liepaja-sez.lv/lv/parvalde/iepirkumi</a> and in the EIS buyer profile at <a href="https://www.eis.gov.lv/EKEIS/Supplier/Organizer/3290">https://www.eis.gov.lv/EKEIS/Supplier/Organizer/3290</a>.</p><p></p><p>Tenders may be submitted in person or sent by post for delivery to the Procurement Commission secretary no later than 19 February 2021 at 10:00, at the Liepāja SEZ Authority, Fēniksa Street 4, on working days from 8:00 to 12:00 and from 13:00 to 16:30, including Fridays until 16:30. Upon receiving a tender, the Commission secretary records the date and time of submission on the tender.</p></div>
+<div class="col"><div class="col-12 output"><p>Interested suppliers may review and obtain the procurement documents electronically, free of charge, on the website of the Liepāja Special Economic Zone Authority at <a href="../index.php">https://liepaja-sez.lv/lv/parvalde/iepirkumi</a> and in the EIS buyer profile at <a href="https://www.eis.gov.lv/EKEIS/Supplier/Organizer/3290">https://www.eis.gov.lv/EKEIS/Supplier/Organizer/3290</a>.</p><p></p><p>Tenders may be submitted in person or sent by post for delivery to the Procurement Commission secretary no later than 19 February 2021 at 10:00, at the Liepāja SEZ Authority, Fēniksa Street 4, on working days from 8:00 to 12:00 and from 13:00 to 16:30, including Fridays until 16:30. Upon receiving a tender, the Commission secretary records the date and time of submission on the tender.</p></div>
 </div>
 </div>
 </div><h1 class="block-title mt-3">Paziņojums<span></span></h1>
@@ -57,12 +57,12 @@
 <div class="document-info py-3">
 <div class="date">28. janvāris, 2021</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/109/1704365699_paziņojums.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/109/1704365699_pazi%C5%86ojums.pdf" target="_blank">
 									Paziņojums
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1704365699_paziņojums.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/109/1704365699_paziņojums.pdf" target="_blank">
+<a aria-label="1704365699_paziņojums.pdf" class="document" href="../../../doc/mod/document/109/1704365699_pazi%C5%86ojums.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -72,12 +72,12 @@
 <div class="document-info py-3">
 <div class="date">28. janvāris, 2021</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/110/1704365736_iesniegto_piedāvājumu_apkopojums.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/110/1704365736_iesniegto_pied%C4%81v%C4%81jumu_apkopojums.pdf" target="_blank">
 									Iesniegto piedāvājumu apkopojums
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1704365736_iesniegto_piedāvājumu_apkopojums.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/110/1704365736_iesniegto_piedāvājumu_apkopojums.pdf" target="_blank">
+<a aria-label="1704365736_iesniegto_piedāvājumu_apkopojums.pdf" class="document" href="../../../doc/mod/document/110/1704365736_iesniegto_pied%C4%81v%C4%81jumu_apkopojums.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>

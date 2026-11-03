@@ -55,13 +55,13 @@ html.classList.add(localStorage['contrast']);
 <h1 class="article-title">Atklāta konkursa “Kuģu vadulu izbūves Karostas kanālā būvprojekta izstrāde un autoruzraudzība” Id.Nr. Nr.LSEZ2021/65/K</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Ar Iepirkuma dokumentiem Ieinteresētais piegādātājs var iepazīties un saņemt tos elektroniski bez maksas Liepājas speciālās ekonomiskās zonas pārvaldes mājas lapā internetā <a href="http://www.liepaja-sez.lv/lv/parvalde/iepirkumi">http://www.liepaja-sez.lv/lv/parvalde/iepirkumi</a> un EIS <a href="http://www.eis.gov.lv/">www.eis.gov.lv</a>, kā arī iepazīties ar Iepirkuma dokumentiem drukātā veidā bez maksas Liepājas speciālās ekonomiskās zonas pārvaldē Iepirkuma speciālista kabinetā (1.stāvā), Fēniksa ielā 4, Liepājā līdz 2021.gada 12.aprīlim plkst.1000, darba dienās no plkst. 800 līdz 1200 un no 1300 līdz 1630, piektdienās līdz plkst.1600, iepriekš vienojoties ar Pasūtītāja kontaktpersonu par apmeklējuma laiku.</p><p>&nbsp;</p><p>Piedāvājums jāiesniedz līdz 2021.gada 12.aprīlim plkst.1000 elektroniski EIS e-konkursu apakšsistēmā vienā no zemāk minētajiem formātiem. Katra iesniedzamā dokumenta formāts var atšķirties, bet ir jāievēro šādi iespējamie veidi:</p><p>&nbsp;</p><p>3.1.Izmantojot EIS e-konkursu apakšsistēmas piedāvātos rīkus, aizpildot minētās sistēmas e-konkursu apakšsistēmā šī konkursa sadaļā ievietotās formas.</p><p>&nbsp;</p><p>3.2.Elektroniski aizpildāmos dokumentus, sagatavojot ārpus EIS e-konkursu apakšsistēmas un augšupielādējot sistēmas attiecīgajās vietnēs aizpildītas PDF formas, t.sk. ar formā integrētajiem failiem (šādā gadījumā Pretendents ir atbildīgs par aizpildāmo formu atbilstību dokumentācijas prasībām un formu paraugiem, kā arī dokumenta atvēršanas un nolasīšanas iespējām).</p><p>&nbsp;</p><p>Piedāvājumu atvēršana sākas tūlīt pēc piedāvājumu iesniegšanas termiņa beigām. Piedāvājumu atvēršanas sanāksme notiks Liepājas speciālās ekonomiskās zonas pārvaldē, Fēniksa ielā 4, Liepājā 2021.gada 12.aprīlī plkst.10.00. Iesniegto piedāvājumu atvēršanas procesam var sekot līdzi tiešsaistes režīmā EIS e-konkursu apakšsistēmā. Pretendents var piedalīties piedāvājumu atvēršanas sanāksmē klātienē.</p></div>
+<div class="col"><div class="col-12 output"><p>Ar Iepirkuma dokumentiem Ieinteresētais piegādātājs var iepazīties un saņemt tos elektroniski bez maksas Liepājas speciālās ekonomiskās zonas pārvaldes mājas lapā internetā <a href="../index.php">http://www.liepaja-sez.lv/lv/parvalde/iepirkumi</a> un EIS <a href="http://www.eis.gov.lv/">www.eis.gov.lv</a>, kā arī iepazīties ar Iepirkuma dokumentiem drukātā veidā bez maksas Liepājas speciālās ekonomiskās zonas pārvaldē Iepirkuma speciālista kabinetā (1.stāvā), Fēniksa ielā 4, Liepājā līdz 2021.gada 12.aprīlim plkst.1000, darba dienās no plkst. 800 līdz 1200 un no 1300 līdz 1630, piektdienās līdz plkst.1600, iepriekš vienojoties ar Pasūtītāja kontaktpersonu par apmeklējuma laiku.</p><p>&nbsp;</p><p>Piedāvājums jāiesniedz līdz 2021.gada 12.aprīlim plkst.1000 elektroniski EIS e-konkursu apakšsistēmā vienā no zemāk minētajiem formātiem. Katra iesniedzamā dokumenta formāts var atšķirties, bet ir jāievēro šādi iespējamie veidi:</p><p>&nbsp;</p><p>3.1.Izmantojot EIS e-konkursu apakšsistēmas piedāvātos rīkus, aizpildot minētās sistēmas e-konkursu apakšsistēmā šī konkursa sadaļā ievietotās formas.</p><p>&nbsp;</p><p>3.2.Elektroniski aizpildāmos dokumentus, sagatavojot ārpus EIS e-konkursu apakšsistēmas un augšupielādējot sistēmas attiecīgajās vietnēs aizpildītas PDF formas, t.sk. ar formā integrētajiem failiem (šādā gadījumā Pretendents ir atbildīgs par aizpildāmo formu atbilstību dokumentācijas prasībām un formu paraugiem, kā arī dokumenta atvēršanas un nolasīšanas iespējām).</p><p>&nbsp;</p><p>Piedāvājumu atvēršana sākas tūlīt pēc piedāvājumu iesniegšanas termiņa beigām. Piedāvājumu atvēršanas sanāksme notiks Liepājas speciālās ekonomiskās zonas pārvaldē, Fēniksa ielā 4, Liepājā 2021.gada 12.aprīlī plkst.10.00. Iesniegto piedāvājumu atvēršanas procesam var sekot līdzi tiešsaistes režīmā EIS e-konkursu apakšsistēmā. Pretendents var piedalīties piedāvājumu atvēršanas sanāksmē klātienē.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/68/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/68/original_" aria-label="Lejupielādēt" download>
+<a class="image-download"  aria-label="Lejupielādēt" download href="https://liepaja-sez.lv/img/mod/news/68/original_">
 <img class="download-icon" alt="Lejupielādēt" src="https://liepaja-sez.lv/img/dl.svg"/>	
 </a>															
 </div>
@@ -83,11 +83,11 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas SEZ pārvalde rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Liepājas speciālās ekonomiskās zonas pārvalde, vienotais reģistrācijas Nr.LV90000329402, rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3, Liepājā, kas sastāvēs no zemes vienības ar kopējo platību 51521 m2 un 12 būvēm.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>
@@ -98,7 +98,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Iepirkuma priekšmets: 
 Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība
@@ -106,7 +106,7 @@ IDENTIFIKĀCIJAS NUMURS LSEZ 2026/12
 Galvenais CPV kods: 45241500-3 (Kuģu piestātnes būvdarbi). 
 </div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>

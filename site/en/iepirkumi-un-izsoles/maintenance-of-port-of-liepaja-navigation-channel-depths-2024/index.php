@@ -46,7 +46,7 @@
 <h1 class="article-title">Maintenance of Navigation Channel and Harbour Basin Depths at the Port of Liepāja (2024/16)</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>The procurement contract will be concluded on the basis of unit prices, and work will be performed as actually required, depending on the effects of weather conditions and sea currents on the depths of the navigation channels and harbour basin.</p><p><strong>Decision on the procurement results:</strong></p><p>To award the contract to “Green Line Shipping” UAB (registration No. 300001023).</p><p><a href="https://liepaja-sez.lv/lv/parvalde/iepirkumi/130-liepajas-ostas-kugu-kanalu-un-akvatorijas-dzilumu-uzture-anas-darbi-id-nr-2024-16">Procurement announcement</a></p><p><strong>CPV code:</strong> 45252124-3 — Dredging and pumping works.</p><p><strong>Contract duration and location</strong></p><p>1.1.1. Works are to be carried out from 1 March 2024 to 28 February 2025.</p><p>1.1.2. Place of contract performance: Port of Liepāja.</p><p><strong>Procurement procedure</strong></p><p>1.1.1. The procurement procedure is conducted in accordance with the Law on the Procurement of Public Service Providers. The type of procedure is an open tender.</p><p>1.1.2. Grounds for awarding a contract without dividing the procurement into lots: a single group of prospective tenderers and a single site.</p><p>Tenders must be submitted through the e-tendering subsystem of the Electronic Procurement System (EIS) at <a href="https://www.eis.gov.lv/EKEIS/Supplier/">https://www.eis.gov.lv/EKEIS/Supplier/</a> by <strong>14 February 2024 at 10:00</strong>.</p></div>
+<div class="col"><div class="col-12 output"><p>The procurement contract will be concluded on the basis of unit prices, and work will be performed as actually required, depending on the effects of weather conditions and sea currents on the depths of the navigation channels and harbour basin.</p><p><strong>Decision on the procurement results:</strong></p><p>To award the contract to “Green Line Shipping” UAB (registration No. 300001023).</p><p><a href="../index.php">Procurement announcement</a></p><p><strong>CPV code:</strong> 45252124-3 — Dredging and pumping works.</p><p><strong>Contract duration and location</strong></p><p>1.1.1. Works are to be carried out from 1 March 2024 to 28 February 2025.</p><p>1.1.2. Place of contract performance: Port of Liepāja.</p><p><strong>Procurement procedure</strong></p><p>1.1.1. The procurement procedure is conducted in accordance with the Law on the Procurement of Public Service Providers. The type of procedure is an open tender.</p><p>1.1.2. Grounds for awarding a contract without dividing the procurement into lots: a single group of prospective tenderers and a single site.</p><p>Tenders must be submitted through the e-tendering subsystem of the Electronic Procurement System (EIS) at <a href="https://www.eis.gov.lv/EKEIS/Supplier/">https://www.eis.gov.lv/EKEIS/Supplier/</a> by <strong>14 February 2024 at 10:00</strong>.</p></div>
 </div>
 </div>
 </div><h1 class="block-title mt-3">Pielikumi<span></span></h1>
@@ -56,12 +56,12 @@
 <div class="document-info py-3">
 <div class="date">12. January, 2024</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/125/1705064766_Nolikums-dzilumu-uzturesana-2024-16-ar pielikumiem.docx" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/125/1705064766_Nolikums-dzilumu-uzturesana-2024-16-ar%20pielikumiem.docx" target="_blank">
 									Nolikums
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1705064766_Nolikums-dzilumu-uzturesana-2024-16-ar pielikumiem.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/125/1705064766_Nolikums-dzilumu-uzturesana-2024-16-ar pielikumiem.docx" target="_blank">
+<a aria-label="1705064766_Nolikums-dzilumu-uzturesana-2024-16-ar pielikumiem.docx" class="document" href="../../../doc/mod/document/125/1705064766_Nolikums-dzilumu-uzturesana-2024-16-ar%20pielikumiem.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -71,12 +71,12 @@
 <div class="document-info py-3">
 <div class="date">26. February, 2024</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/181/1708945235_lemums-2024-16.edoc" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/181/1708945235_lemums-2024-16.edoc" target="_blank">
 									Lēmums par iepirkuma rezultātiem
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1708945235_lemums-2024-16.edoc" class="document" href="https://liepaja-sez.lv/doc/mod/document/181/1708945235_lemums-2024-16.edoc" target="_blank">
+<a aria-label="1708945235_lemums-2024-16.edoc" class="document" href="../../../doc/mod/document/181/1708945235_lemums-2024-16.edoc" target="_blank">
 <i class="bi bi-file-earmark"></i>
 </a>
 </div>
@@ -121,11 +121,11 @@
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Design, Construction and Design Supervision of the Reconstruction of Berth No. 46 at the Port of Liepāja</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-none d-md-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Procurement subject: Design, construction and design supervision of the reconstruction of Berth No. 46 at the Port of Liepāja. Identification No. LSEZ 2026/12. Main CPV code: 45241500-3 (Quay wall construction work).</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 </div>
 </div>

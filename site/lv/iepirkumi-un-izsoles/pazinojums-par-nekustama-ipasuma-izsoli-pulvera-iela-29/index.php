@@ -56,12 +56,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">28. augusts, 2025</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/320/1756367201_1754027017_Izsoles_Noteikumi_29072025 labots.docx" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/320/1756367201_1754027017_Izsoles_Noteikumi_29072025%20labots.docx" target="_blank" aria-label="Dokuments">
 Izsoles noteikumi (ar 27.08.2025. grozījumiem)
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/320/1756367201_1754027017_Izsoles_Noteikumi_29072025 labots.docx" target="_blank" aria-label="1756367201_1754027017_Izsoles_Noteikumi_29072025 labots.docx">
+<a class="document" href="../../../doc/mod/document/320/1756367201_1754027017_Izsoles_Noteikumi_29072025%20labots.docx" target="_blank" aria-label="1756367201_1754027017_Izsoles_Noteikumi_29072025 labots.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>							
 </div>
@@ -71,12 +71,12 @@ Izsoles noteikumi (ar 27.08.2025. grozījumiem)
 <div class="document-info py-3">
 <div class="date">28. augusts, 2025</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/321/1756367231_1754026748_Piel_2_Nomas_ligums_IZS_2025_2 labots.docx" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/321/1756367231_1754026748_Piel_2_Nomas_ligums_IZS_2025_2%20labots.docx" target="_blank" aria-label="Dokuments">
 Nomas līgums (ar 27.08.2025. grozījumiem)
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/321/1756367231_1754026748_Piel_2_Nomas_ligums_IZS_2025_2 labots.docx" target="_blank" aria-label="1756367231_1754026748_Piel_2_Nomas_ligums_IZS_2025_2 labots.docx">
+<a class="document" href="../../../doc/mod/document/321/1756367231_1754026748_Piel_2_Nomas_ligums_IZS_2025_2%20labots.docx" target="_blank" aria-label="1756367231_1754026748_Piel_2_Nomas_ligums_IZS_2025_2 labots.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>							
 </div>
@@ -86,12 +86,12 @@ Nomas līgums (ar 27.08.2025. grozījumiem)
 <div class="document-info py-3">
 <div class="date">1. augusts, 2025</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/295/1754026833_Piel_3_PL_saraksts_attīrīšanas.xls" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/295/1754026833_Piel_3_PL_saraksts_att%C4%ABr%C4%AB%C5%A1anas.xls" target="_blank" aria-label="Dokuments">
 Pamatlīdzekļi un nemateriālie ieguldījumi
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/295/1754026833_Piel_3_PL_saraksts_attīrīšanas.xls" target="_blank" aria-label="1754026833_Piel_3_PL_saraksts_attīrīšanas.xls">
+<a class="document" href="../../../doc/mod/document/295/1754026833_Piel_3_PL_saraksts_att%C4%ABr%C4%AB%C5%A1anas.xls" target="_blank" aria-label="1754026833_Piel_3_PL_saraksts_attīrīšanas.xls">
 <i class="bi bi-file-earmark-excel"></i>
 </a>							
 </div>
@@ -101,12 +101,12 @@ Pamatlīdzekļi un nemateriālie ieguldījumi
 <div class="document-info py-3">
 <div class="date">1. augusts, 2025</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/298/1754027146_Piel_4_pieteikums_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/298/1754027146_Piel_4_pieteikums_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="Dokuments">
 Pieteikums izsolei
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/298/1754027146_Piel_4_pieteikums_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="1754027146_Piel_4_pieteikums_IZS_2025_1_att_iek_noma.docx">
+<a class="document" href="../../../doc/mod/document/298/1754027146_Piel_4_pieteikums_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="1754027146_Piel_4_pieteikums_IZS_2025_1_att_iek_noma.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>							
 </div>
@@ -116,12 +116,12 @@ Pieteikums izsolei
 <div class="document-info py-3">
 <div class="date">1. augusts, 2025</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/297/1754027083_Piel_5_apliec_reputacija_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/297/1754027083_Piel_5_apliec_reputacija_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="Dokuments">
 Apliecinājums
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/297/1754027083_Piel_5_apliec_reputacija_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="1754027083_Piel_5_apliec_reputacija_IZS_2025_1_att_iek_noma.docx">
+<a class="document" href="../../../doc/mod/document/297/1754027083_Piel_5_apliec_reputacija_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="1754027083_Piel_5_apliec_reputacija_IZS_2025_1_att_iek_noma.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>							
 </div>
@@ -131,12 +131,12 @@ Apliecinājums
 <div class="document-info py-3">
 <div class="date">1. augusts, 2025</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/292/1754026608_Piel_1 Pulvera iela 29_noma A4.pdf" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/292/1754026608_Piel_1%20Pulvera%20iela%2029_noma%20A4.pdf" target="_blank" aria-label="Dokuments">
 Pulvera iela 29, plāns
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/292/1754026608_Piel_1 Pulvera iela 29_noma A4.pdf" target="_blank" aria-label="1754026608_Piel_1 Pulvera iela 29_noma A4.pdf">
+<a class="document" href="../../../doc/mod/document/292/1754026608_Piel_1%20Pulvera%20iela%2029_noma%20A4.pdf" target="_blank" aria-label="1754026608_Piel_1 Pulvera iela 29_noma A4.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -144,7 +144,7 @@ Pulvera iela 29, plāns
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/235/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/235/original_" aria-label="Lejupielādēt" download>
+<a class="image-download"  aria-label="Lejupielādēt" download href="https://liepaja-sez.lv/img/mod/news/235/original_">
 <img class="download-icon" alt="Lejupielādēt" src="https://liepaja-sez.lv/img/dl.svg"/>	
 </a>															
 </div>
@@ -166,11 +166,11 @@ Pulvera iela 29, plāns
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas SEZ pārvalde rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Liepājas speciālās ekonomiskās zonas pārvalde, vienotais reģistrācijas Nr.LV90000329402, rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3, Liepājā, kas sastāvēs no zemes vienības ar kopējo platību 51521 m2 un 12 būvēm.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>
@@ -181,7 +181,7 @@ Pulvera iela 29, plāns
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Iepirkuma priekšmets: 
 Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība
@@ -189,7 +189,7 @@ IDENTIFIKĀCIJAS NUMURS LSEZ 2026/12
 Galvenais CPV kods: 45241500-3 (Kuģu piestātnes būvdarbi). 
 </div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>

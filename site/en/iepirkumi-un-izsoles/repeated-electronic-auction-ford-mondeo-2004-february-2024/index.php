@@ -46,7 +46,7 @@
 <h1 class="article-title">Repeated Electronic Ascending-Bid Auction of a Ford Mondeo (2004) — February 2024</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>The Liepāja Special Economic Zone Authority is organising the sale of a Ford Mondeo vehicle (manufactured in 2004) by a repeated electronic ascending-bid auction.</p><p>Value added tax applies to the auction price.</p><p>All bidders must pay a security deposit of 10% of the auction starting price, i.e. <strong>EUR 48.00</strong>, by <strong>7 March 2024 at 23:59</strong>, with the payment reference “Security deposit for the Ford Mondeo vehicle auction”. Payment details: Liepāja Special Economic Zone Authority, registration No. LV90000329402, AS “Swedbank”, account No. LV12HABA0001407037000. Bidders must request authorisation for the auction.</p><p>The electronic auction is held at <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>.</p><p>The auction begins on <strong>26 February 2024 at 13:00</strong> and ends on <strong>18 March 2024 at 13:00</strong>.</p><p>Registration takes place from 26 February 2024 at 13:00 to 7 March 2024 at 23:59 on the electronic auction platform.</p><p>Prospective bidders may inspect the vehicle until 7 March 2024 by contacting Ainars in advance by telephone on 29426284.</p><p>Auction rules are available at <a href="https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi</a>.</p></div>
+<div class="col"><div class="col-12 output"><p>The Liepāja Special Economic Zone Authority is organising the sale of a Ford Mondeo vehicle (manufactured in 2004) by a repeated electronic ascending-bid auction.</p><p>Value added tax applies to the auction price.</p><p>All bidders must pay a security deposit of 10% of the auction starting price, i.e. <strong>EUR 48.00</strong>, by <strong>7 March 2024 at 23:59</strong>, with the payment reference “Security deposit for the Ford Mondeo vehicle auction”. Payment details: Liepāja Special Economic Zone Authority, registration No. LV90000329402, AS “Swedbank”, account No. LV12HABA0001407037000. Bidders must request authorisation for the auction.</p><p>The electronic auction is held at <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>.</p><p>The auction begins on <strong>26 February 2024 at 13:00</strong> and ends on <strong>18 March 2024 at 13:00</strong>.</p><p>Registration takes place from 26 February 2024 at 13:00 to 7 March 2024 at 23:59 on the electronic auction platform.</p><p>Prospective bidders may inspect the vehicle until 7 March 2024 by contacting Ainars in advance by telephone on 29426284.</p><p>Auction rules are available at <a href="../index.php">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi</a>.</p></div>
 </div>
 </div>
 </div><h1 class="block-title mt-3">Noteikumi<span></span></h1>
@@ -56,12 +56,12 @@
 <div class="document-info py-3">
 <div class="date">26. February, 2024</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/183/1708947242_Izsoles_Noteikumi_Ford_Mondeo_26022024.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/183/1708947242_Izsoles_Noteikumi_Ford_Mondeo_26022024.pdf" target="_blank">
 									Ford Mondeo izsoles noteikumi 
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1708947242_Izsoles_Noteikumi_Ford_Mondeo_26022024.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/183/1708947242_Izsoles_Noteikumi_Ford_Mondeo_26022024.pdf" target="_blank">
+<a aria-label="1708947242_Izsoles_Noteikumi_Ford_Mondeo_26022024.pdf" class="document" href="../../../doc/mod/document/183/1708947242_Izsoles_Noteikumi_Ford_Mondeo_26022024.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -106,11 +106,11 @@
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Design, Construction and Design Supervision of the Reconstruction of Berth No. 46 at the Port of Liepāja</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-none d-md-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Procurement subject: Design, construction and design supervision for the reconstruction of Berth No. 46 at the Port of Liepāja. ID No. LSEZ 2026/12. Main CPV code: 45241500-3 (Quay wall construction work).</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 </div>
 </div>

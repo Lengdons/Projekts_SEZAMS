@@ -48,7 +48,7 @@ html.classList.add(localStorage['contrast']);
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/236/870_1754024810_original_1749026168_original_1746620912_original_1744188343_LSEZ_aero (234).webp" style="width: 100%;"/>
-<a aria-label="Télécharger" class="image-download" download="" href="https://liepaja-sez.lv/img/mod/news/236/original_1754024810_original_1749026168_original_1746620912_original_1744188343_LSEZ_aero (234).webp">
+<a aria-label="Télécharger" class="image-download" download="" href="../../../img/mod/news/236/1754024810_original_1749026168_original_1746620912_original_1744188343_LSEZ_aero%20%28234%29.webp">
 <img alt="Télécharger" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>

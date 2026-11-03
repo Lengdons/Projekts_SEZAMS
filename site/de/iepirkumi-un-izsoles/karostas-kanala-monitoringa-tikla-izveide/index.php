@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">14. Dezember 2023</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/85/1704287405_nolikums.docx" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/85/1704287405_nolikums.docx" target="_blank" aria-label="Dokument">
 Verordnung
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/85/1704287405_nolikums.docx" target="_blank" aria-label="1704287405_nolikums.docx">
+<a class="document" href="../../../doc/mod/document/85/1704287405_nolikums.docx" target="_blank" aria-label="1704287405_nolikums.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -80,12 +80,12 @@ Verordnung
 <div class="document-info py-3">
 <div class="date">11. Januar 2024</div>
 <div class="category mb-2">Alle</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/117/1704966256_2023-15-8.pielikums Ligums.doc" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/117/1704966256_2023-15-8.pielikums%20Ligums.doc" target="_blank" aria-label="Dokument">
 Vertrag
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/117/1704966256_2023-15-8.pielikums Ligums.doc" target="_blank" aria-label="1704966256_2023-15-8.pielikums Ligums.doc">
+<a class="document" href="../../../doc/mod/document/117/1704966256_2023-15-8.pielikums%20Ligums.doc" target="_blank" aria-label="1704966256_2023-15-8.pielikums Ligums.doc">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -95,12 +95,12 @@ Vertrag
 <div class="document-info py-3">
 <div class="date">11. Januar 2024</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/118/1704966279_2023-15-7.pielikums Tehniksā specifikācija.docx" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/118/1704966279_2023-15-7.pielikums%20Tehniks%C4%81%20specifik%C4%81cija.docx" target="_blank" aria-label="Dokument">
 Technische Spezifikation
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/118/1704966279_2023-15-7.pielikums Tehniksā specifikācija.docx" target="_blank" aria-label="1704966279_2023-15-7.pielikums Tehniksā specifikācija.docx">
+<a class="document" href="../../../doc/mod/document/118/1704966279_2023-15-7.pielikums%20Tehniks%C4%81%20specifik%C4%81cija.docx" target="_blank" aria-label="1704966279_2023-15-7.pielikums Tehniksā specifikācija.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -110,12 +110,12 @@ Technische Spezifikation
 <div class="document-info py-3">
 <div class="date">15. April 2024</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/212/1713168808_lemums-2023-15.edoc" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/212/1713168808_lemums-2023-15.edoc" target="_blank" aria-label="Dokument">
 Entscheidung
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/212/1713168808_lemums-2023-15.edoc" target="_blank" aria-label="1713168808_Entscheidung-2023-15.edoc">
+<a class="document" href="../../../doc/mod/document/212/1713168808_lemums-2023-15.edoc" target="_blank" aria-label="1713168808_Entscheidung-2023-15.edoc">
 <i class="bi bi-file-earmark"></i>
 </a>
 </div>
@@ -123,7 +123,7 @@ Entscheidung
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/74/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/74/original_" aria-label="Herunterladen" download>
+<a class="image-download"  aria-label="Herunterladen" download href="https://liepaja-sez.lv/img/mod/news/74/original_">
 <img class="download-icon" alt="Herunterladen" src="https://liepaja-sez.lv/img/dl.svg"/>
 </a>
 </div>

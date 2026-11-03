@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">15. Februar 2021</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/107/1704365537_paziņojums.pdf" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/107/1704365537_pazi%C5%86ojums.pdf" target="_blank" aria-label="Dokument">
 Mitteilung
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/107/1704365537_paziņojums.pdf" target="_blank" aria-label="1704365537_paziņojums.pdf">
+<a class="document" href="../../../doc/mod/document/107/1704365537_pazi%C5%86ojums.pdf" target="_blank" aria-label="1704365537_paziņojums.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -80,12 +80,12 @@ Mitteilung
 <div class="document-info py-3">
 <div class="date">15. Februar 2021</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/108/1704365562_paziņojums_par_lēmumu.pdf" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/108/1704365562_pazi%C5%86ojums_par_l%C4%93mumu.pdf" target="_blank" aria-label="Dokument">
 Mitteilung der Entscheidung
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/108/1704365562_paziņojums_par_lēmumu.pdf" target="_blank" aria-label="1704365562_paziņojums_par_lēmumu.pdf">
+<a class="document" href="../../../doc/mod/document/108/1704365562_pazi%C5%86ojums_par_l%C4%93mumu.pdf" target="_blank" aria-label="1704365562_paziņojums_par_lēmumu.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -93,7 +93,7 @@ Mitteilung der Entscheidung
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/69/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/69/original_" aria-label="Herunterladen" download>
+<a class="image-download"  aria-label="Herunterladen" download href="https://liepaja-sez.lv/img/mod/news/69/original_">
 <img class="download-icon" alt="Herunterladen" src="https://liepaja-sez.lv/img/dl.svg"/>
 </a>
 </div>

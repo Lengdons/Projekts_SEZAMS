@@ -55,7 +55,7 @@ html.classList.add(localStorage['contrast']);
 <h1 class="article-title">Atklāts konkurss par “Elektroenerģijas iegāde Liepājas speciālās ekonomiskās zonas pārvaldes vajadzībām” Iepirkuma identifikācijas numurs: LSEZ2021/73/K</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Iepirkuma priekšmets - Elektroenerģijas iegāde Liepājas SEZ pārvaldes vajadzībām, kas izpildāma saskaņā ar šī nolikuma un tam pievienoto pielikumu prasībām (turpmāk– Nolikums). Iepirkuma priekšmets neietver elektroenerģijas transportēšanu (piegādi) – pārvadi un sadali.</p><p>&nbsp;</p><p>Konkursa iepirkuma priekšmeta nomenklatūras (CPV) kods - 09310000-5.</p><p>&nbsp;</p><p>Iepirkuma līgums tiek slēgts saskaņā ar iepirkuma līguma projektu (nolikuma 6.pielikums).</p><p>&nbsp;</p><p>Pakalpojuma sniegšanas termiņš ir 4 (četri) mēneši - no 2021.gada 1.decembra līdz 2022.gada 31.martam.</p><p>&nbsp;</p><p>&nbsp;</p><p>Piegādātājiem par Iepirkuma dokumentiem sniegtā papildus informācija un Iepirkuma dokumentu grozījumi (ja tādi tiks veikti) būs pieejami Liepājas speciālās ekonomiskās zonas pārvaldes interneta mājas lapā <a href="http://www.liepaja-sez.lv/lv/parvalde/iepirkumi">http://www.liepaja-sez.lv/lv/parvalde/iepirkumi</a>&nbsp; un EIS pircēja profilā <a href="https://www.eis.gov.lv/EKEIS/Supplier/Organizer/3290">https://www.eis.gov.lv/EKEIS/Supplier/Organizer/3290</a>&nbsp; e-konkursu apakšsistēmā šī atklātā iepirkuma sadaļā.</p><p>&nbsp;</p><p>Piedāvājums jāiesniedz līdz 2021.gada 15.novembrim plkst.10.00 elektroniski EIS e-konkursu apakšsistēmā.</p></div>
+<div class="col"><div class="col-12 output"><p>Iepirkuma priekšmets - Elektroenerģijas iegāde Liepājas SEZ pārvaldes vajadzībām, kas izpildāma saskaņā ar šī nolikuma un tam pievienoto pielikumu prasībām (turpmāk– Nolikums). Iepirkuma priekšmets neietver elektroenerģijas transportēšanu (piegādi) – pārvadi un sadali.</p><p>&nbsp;</p><p>Konkursa iepirkuma priekšmeta nomenklatūras (CPV) kods - 09310000-5.</p><p>&nbsp;</p><p>Iepirkuma līgums tiek slēgts saskaņā ar iepirkuma līguma projektu (nolikuma 6.pielikums).</p><p>&nbsp;</p><p>Pakalpojuma sniegšanas termiņš ir 4 (četri) mēneši - no 2021.gada 1.decembra līdz 2022.gada 31.martam.</p><p>&nbsp;</p><p>&nbsp;</p><p>Piegādātājiem par Iepirkuma dokumentiem sniegtā papildus informācija un Iepirkuma dokumentu grozījumi (ja tādi tiks veikti) būs pieejami Liepājas speciālās ekonomiskās zonas pārvaldes interneta mājas lapā <a href="../index.php">http://www.liepaja-sez.lv/lv/parvalde/iepirkumi</a>&nbsp; un EIS pircēja profilā <a href="https://www.eis.gov.lv/EKEIS/Supplier/Organizer/3290">https://www.eis.gov.lv/EKEIS/Supplier/Organizer/3290</a>&nbsp; e-konkursu apakšsistēmā šī atklātā iepirkuma sadaļā.</p><p>&nbsp;</p><p>Piedāvājums jāiesniedz līdz 2021.gada 15.novembrim plkst.10.00 elektroniski EIS e-konkursu apakšsistēmā.</p></div>
 </div>
 </div>
 </div><h1 class="block-title mt-3">Paziņojums<span></span></h1>
@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">25. oktobris, 2021</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/95/1704363327_paziņojums.pdf" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/95/1704363327_pazi%C5%86ojums.pdf" target="_blank" aria-label="Dokuments">
 Paziņojums
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/95/1704363327_paziņojums.pdf" target="_blank" aria-label="1704363327_paziņojums.pdf">
+<a class="document" href="../../../doc/mod/document/95/1704363327_pazi%C5%86ojums.pdf" target="_blank" aria-label="1704363327_paziņojums.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -80,12 +80,12 @@ Paziņojums
 <div class="document-info py-3">
 <div class="date">25. oktobris, 2021</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/96/1704363600_paziņojums_ii.pdf" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/96/1704363600_pazi%C5%86ojums_ii.pdf" target="_blank" aria-label="Dokuments">
 Paziņojums II
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/96/1704363600_paziņojums_ii.pdf" target="_blank" aria-label="1704363600_paziņojums_ii.pdf">
+<a class="document" href="../../../doc/mod/document/96/1704363600_pazi%C5%86ojums_ii.pdf" target="_blank" aria-label="1704363600_paziņojums_ii.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -95,12 +95,12 @@ Paziņojums II
 <div class="document-info py-3">
 <div class="date">25. oktobris, 2021</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/97/1704363652_nolikuma_grozījumi..doc" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/97/1704363652_nolikuma_groz%C4%ABjumi..doc" target="_blank" aria-label="Dokuments">
 Nolikuma grozījumi
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/97/1704363652_nolikuma_grozījumi..doc" target="_blank" aria-label="1704363652_nolikuma_grozījumi..doc">
+<a class="document" href="../../../doc/mod/document/97/1704363652_nolikuma_groz%C4%ABjumi..doc" target="_blank" aria-label="1704363652_nolikuma_grozījumi..doc">
 <i class="bi bi-file-earmark-word"></i>
 </a>							
 </div>
@@ -110,12 +110,12 @@ Nolikuma grozījumi
 <div class="document-info py-3">
 <div class="date">25. oktobris, 2021</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/98/1704363701_nolikuma_grozījumi_nr.2..doc" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/98/1704363701_nolikuma_groz%C4%ABjumi_nr.2..doc" target="_blank" aria-label="Dokuments">
 Nolikuma grozījumi Nr.2
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/98/1704363701_nolikuma_grozījumi_nr.2..doc" target="_blank" aria-label="1704363701_nolikuma_grozījumi_nr.2..doc">
+<a class="document" href="../../../doc/mod/document/98/1704363701_nolikuma_groz%C4%ABjumi_nr.2..doc" target="_blank" aria-label="1704363701_nolikuma_grozījumi_nr.2..doc">
 <i class="bi bi-file-earmark-word"></i>
 </a>							
 </div>
@@ -125,12 +125,12 @@ Nolikuma grozījumi Nr.2
 <div class="document-info py-3">
 <div class="date">25. oktobris, 2021</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/99/1704363776_pretendentu_iesniegto_finanšu_piedāvājumu_apkopojums.docx" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/99/1704363776_pretendentu_iesniegto_finan%C5%A1u_pied%C4%81v%C4%81jumu_apkopojums.docx" target="_blank" aria-label="Dokuments">
 Pretendentu iesniegto finanšu piedāvājumu apkopojums
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/99/1704363776_pretendentu_iesniegto_finanšu_piedāvājumu_apkopojums.docx" target="_blank" aria-label="1704363776_pretendentu_iesniegto_finanšu_piedāvājumu_apkopojums.docx">
+<a class="document" href="../../../doc/mod/document/99/1704363776_pretendentu_iesniegto_finan%C5%A1u_pied%C4%81v%C4%81jumu_apkopojums.docx" target="_blank" aria-label="1704363776_pretendentu_iesniegto_finanšu_piedāvājumu_apkopojums.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>							
 </div>
@@ -138,7 +138,7 @@ Pretendentu iesniegto finanšu piedāvājumu apkopojums
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/57/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/57/original_" aria-label="Lejupielādēt" download>
+<a class="image-download"  aria-label="Lejupielādēt" download href="https://liepaja-sez.lv/img/mod/news/57/original_">
 <img class="download-icon" alt="Lejupielādēt" src="https://liepaja-sez.lv/img/dl.svg"/>	
 </a>															
 </div>
@@ -160,11 +160,11 @@ Pretendentu iesniegto finanšu piedāvājumu apkopojums
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas SEZ pārvalde rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Liepājas speciālās ekonomiskās zonas pārvalde, vienotais reģistrācijas Nr.LV90000329402, rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3, Liepājā, kas sastāvēs no zemes vienības ar kopējo platību 51521 m2 un 12 būvēm.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>
@@ -175,7 +175,7 @@ Pretendentu iesniegto finanšu piedāvājumu apkopojums
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Iepirkuma priekšmets: 
 Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība
@@ -183,7 +183,7 @@ IDENTIFIKĀCIJAS NUMURS LSEZ 2026/12
 Galvenais CPV kods: 45241500-3 (Kuģu piestātnes būvdarbi). 
 </div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>

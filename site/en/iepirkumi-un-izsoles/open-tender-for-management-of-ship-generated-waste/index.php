@@ -87,12 +87,12 @@
 <div class="document-info py-3">
 <div class="date">12. janvāris, 2021</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/113/1704365929_paziņojums_par_iepirkuma_pārtraukšanu.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/113/1704365929_pazi%C5%86ojums_par_iepirkuma_p%C4%81rtrauk%C5%A1anu.pdf" target="_blank">
 									Paziņojums par iepirkuma pārtraukšanu
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1704365929_paziņojums_par_iepirkuma_pārtraukšanu.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/113/1704365929_paziņojums_par_iepirkuma_pārtraukšanu.pdf" target="_blank">
+<a aria-label="1704365929_paziņojums_par_iepirkuma_pārtraukšanu.pdf" class="document" href="../../../doc/mod/document/113/1704365929_pazi%C5%86ojums_par_iepirkuma_p%C4%81rtrauk%C5%A1anu.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>

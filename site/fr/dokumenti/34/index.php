@@ -115,14 +115,14 @@ Plan d'action en cas de contamination imprévue
 <div class="document-info">
 <div class="date">7 juillet 2025</div>
 <div class="category">Conditions d'exploitation des jetées</div>
-<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/145/1751881680_PTEN 2025 _APSTIPRINĀTS_02.07.2025.pdf" target="_blank">
+<a aria-label="Documenter" href="../../../doc/mod/document/145/1751881680_PTEN%202025%20_APSTIPRIN%C4%80TS_02.07.2025.pdf" target="_blank">
 
 Règlement pour l'exploitation technique des postes d'amarrage du port de Liepāja (en vigueur à partir du 02.07.2025)
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1751881680_PTEN 2025 _APSTIPRINĀTS_02.07.2025.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/145/1751881680_PTEN 2025 _APSTIPRINĀTS_02.07.2025.pdf" target="_blank">
+<a aria-label="1751881680_PTEN 2025 _APSTIPRINĀTS_02.07.2025.pdf" class="document" href="../../../doc/mod/document/145/1751881680_PTEN%202025%20_APSTIPRIN%C4%80TS_02.07.2025.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>

@@ -57,12 +57,12 @@
 <div class="document-info py-3">
 <div class="date">1. marts, 2022</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/94/1704362875_paziņojums.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/94/1704362875_pazi%C5%86ojums.pdf" target="_blank">
 									Paziņojums
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1704362875_paziņojums.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/94/1704362875_paziņojums.pdf" target="_blank">
+<a aria-label="1704362875_paziņojums.pdf" class="document" href="../../../doc/mod/document/94/1704362875_pazi%C5%86ojums.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>

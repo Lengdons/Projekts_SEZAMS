@@ -46,13 +46,13 @@
 <h1 class="article-title">Repeated Electronic Ascending-Bid Auction of a Ford Mondeo (2004) — August 2024</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>The Liepāja Special Economic Zone Authority is organising the sale of a Ford Mondeo vehicle (manufactured in 2004) by a repeated electronic ascending-bid auction.</p><p><strong>Starting price:</strong> EUR 450.00. <strong>Bid increment:</strong> EUR 25.00. Value added tax applies to the auction price.</p><p>All applicants must pay a security deposit of 10% of the starting price, i.e. EUR 45.00, by <strong>26 August 2024 at 23:59</strong>, quoting “Security deposit for the Ford Mondeo vehicle auction”. Payment details: Liepāja Special Economic Zone Authority, registration No. LV90000329402, AS “Swedbank”, account No. LV12HABA0001407037000. Applicants must also request authorisation to participate in the auction.</p><p>The auction is held electronically at <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>.</p><p>The auction starts on <strong>16 August 2024 at 13:00</strong> and ends on <strong>5 September 2024 at 13:00</strong>.</p><p>Registration is open from 16 August 2024 at 13:00 until 26 August 2024 at 23:59 on the electronic auction website.</p><p>The vehicle may be inspected until 26 August 2024 by prior arrangement by phone: 29426284 (Ainars).</p><p>Auction rules are available at <a href="https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi</a>.</p><p>Vehicle valuation: <a href="https://liepaja-sez.lv/doc/mod/file/izsoles/Ford_Mondeo_Vertejums_2023.pdf">Ford Mondeo Valuation (PDF)</a>.</p><p>Auction regulations: <a href="https://liepaja-sez.lv/doc/mod/file/izsoles/Izsoles_Nolikums_Ford_Mondeo_13082024.docx">Ford Mondeo Auction Regulations (DOCX)</a>.</p></div>
+<div class="col"><div class="col-12 output"><p>The Liepāja Special Economic Zone Authority is organising the sale of a Ford Mondeo vehicle (manufactured in 2004) by a repeated electronic ascending-bid auction.</p><p><strong>Starting price:</strong> EUR 450.00. <strong>Bid increment:</strong> EUR 25.00. Value added tax applies to the auction price.</p><p>All applicants must pay a security deposit of 10% of the starting price, i.e. EUR 45.00, by <strong>26 August 2024 at 23:59</strong>, quoting “Security deposit for the Ford Mondeo vehicle auction”. Payment details: Liepāja Special Economic Zone Authority, registration No. LV90000329402, AS “Swedbank”, account No. LV12HABA0001407037000. Applicants must also request authorisation to participate in the auction.</p><p>The auction is held electronically at <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>.</p><p>The auction starts on <strong>16 August 2024 at 13:00</strong> and ends on <strong>5 September 2024 at 13:00</strong>.</p><p>Registration is open from 16 August 2024 at 13:00 until 26 August 2024 at 23:59 on the electronic auction website.</p><p>The vehicle may be inspected until 26 August 2024 by prior arrangement by phone: 29426284 (Ainars).</p><p>Auction rules are available at <a href="../index.php">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi</a>.</p><p>Vehicle valuation: <a href="../../../doc/mod/file/izsoles/Ford_Mondeo_Vertejums_2023.pdf">Ford Mondeo Valuation (PDF)</a>.</p><p>Auction regulations: <a href="../../../doc/mod/file/izsoles/Izsoles_Nolikums_Ford_Mondeo_13082024.docx">Ford Mondeo Auction Regulations (DOCX)</a>.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/157/870_1723799735_Ford_2.webp" style="width: 100%;"/>
-<a aria-label="Lejupielādēt" class="image-download" download="" href="https://liepaja-sez.lv/img/mod/news/157/original_1723799735_Ford_2.webp">
+<a aria-label="Lejupielādēt" class="image-download" download="" href="../../../img/mod/news/157/original_1723799735_Ford_2.webp">
 <img alt="Lejupielādēt" class="download-icon" src="https://liepaja-sez.lv/img/dl.svg"/>
 </a>
 </div>
@@ -89,11 +89,11 @@
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Design, Construction and Design Supervision of the Reconstruction of Berth No. 46 at the Port of Liepāja</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-none d-md-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Procurement subject: Design, construction and design supervision for the reconstruction of Berth No. 46 at the Port of Liepāja. ID No. LSEZ 2026/12. Main CPV code: 45241500-3 (Quay wall construction work).</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 </div>
 </div>

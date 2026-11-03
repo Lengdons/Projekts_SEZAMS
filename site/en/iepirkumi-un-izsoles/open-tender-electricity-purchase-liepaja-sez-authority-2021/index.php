@@ -46,7 +46,7 @@
 <h1 class="article-title">Open Tender for Electricity Purchase for the Liepāja SEZ Authority (LSEZ2021/73/K)</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p><strong>Subject of procurement:</strong> Purchase of electricity for the needs of the Liepāja SEZ Authority in accordance with these tender regulations and their annexes (hereinafter, the Regulations). The procurement does not include electricity transportation (delivery), transmission or distribution.</p><p>Common Procurement Vocabulary (CPV) code: <strong>09310000-5</strong>.</p><p>The procurement contract will be concluded in accordance with the draft procurement contract (Annex 6 to the Regulations).</p><p>The service period is <strong>4 (four) months, from 1 December 2021 to 31 March 2022</strong>.</p><p>Additional information provided to suppliers about the procurement documents, and amendments to those documents (if any), will be available on the Liepāja Special Economic Zone Authority website <a href="http://www.liepaja-sez.lv/lv/parvalde/iepirkumi">http://www.liepaja-sez.lv/lv/parvalde/iepirkumi</a> and in the EIS buyer profile <a href="https://www.eis.gov.lv/EKEIS/Supplier/Organizer/3290">https://www.eis.gov.lv/EKEIS/Supplier/Organizer/3290</a>, in the section for this open tender in the e-tendering subsystem.</p><p>Tenders must be submitted electronically through the EIS e-tendering subsystem by <strong>15 November 2021 at 10:00</strong>.</p></div>
+<div class="col"><div class="col-12 output"><p><strong>Subject of procurement:</strong> Purchase of electricity for the needs of the Liepāja SEZ Authority in accordance with these tender regulations and their annexes (hereinafter, the Regulations). The procurement does not include electricity transportation (delivery), transmission or distribution.</p><p>Common Procurement Vocabulary (CPV) code: <strong>09310000-5</strong>.</p><p>The procurement contract will be concluded in accordance with the draft procurement contract (Annex 6 to the Regulations).</p><p>The service period is <strong>4 (four) months, from 1 December 2021 to 31 March 2022</strong>.</p><p>Additional information provided to suppliers about the procurement documents, and amendments to those documents (if any), will be available on the Liepāja Special Economic Zone Authority website <a href="../index.php">http://www.liepaja-sez.lv/lv/parvalde/iepirkumi</a> and in the EIS buyer profile <a href="https://www.eis.gov.lv/EKEIS/Supplier/Organizer/3290">https://www.eis.gov.lv/EKEIS/Supplier/Organizer/3290</a>, in the section for this open tender in the e-tendering subsystem.</p><p>Tenders must be submitted electronically through the EIS e-tendering subsystem by <strong>15 November 2021 at 10:00</strong>.</p></div>
 </div>
 </div>
 </div><h1 class="block-title mt-3">Paziņojums<span></span></h1>
@@ -56,12 +56,12 @@
 <div class="document-info py-3">
 <div class="date">25. October, 2021</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/95/1704363327_paziņojums.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/95/1704363327_pazi%C5%86ojums.pdf" target="_blank">
 									Paziņojums
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1704363327_paziņojums.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/95/1704363327_paziņojums.pdf" target="_blank">
+<a aria-label="1704363327_paziņojums.pdf" class="document" href="../../../doc/mod/document/95/1704363327_pazi%C5%86ojums.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -71,12 +71,12 @@
 <div class="document-info py-3">
 <div class="date">25. October, 2021</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/96/1704363600_paziņojums_ii.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/96/1704363600_pazi%C5%86ojums_ii.pdf" target="_blank">
 									Paziņojums II
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1704363600_paziņojums_ii.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/96/1704363600_paziņojums_ii.pdf" target="_blank">
+<a aria-label="1704363600_paziņojums_ii.pdf" class="document" href="../../../doc/mod/document/96/1704363600_pazi%C5%86ojums_ii.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -86,12 +86,12 @@
 <div class="document-info py-3">
 <div class="date">25. October, 2021</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/97/1704363652_nolikuma_grozījumi..doc" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/97/1704363652_nolikuma_groz%C4%ABjumi..doc" target="_blank">
 									Nolikuma grozījumi
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1704363652_nolikuma_grozījumi..doc" class="document" href="https://liepaja-sez.lv/doc/mod/document/97/1704363652_nolikuma_grozījumi..doc" target="_blank">
+<a aria-label="1704363652_nolikuma_grozījumi..doc" class="document" href="../../../doc/mod/document/97/1704363652_nolikuma_groz%C4%ABjumi..doc" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -101,12 +101,12 @@
 <div class="document-info py-3">
 <div class="date">25. October, 2021</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/98/1704363701_nolikuma_grozījumi_nr.2..doc" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/98/1704363701_nolikuma_groz%C4%ABjumi_nr.2..doc" target="_blank">
 									Nolikuma grozījumi Nr.2
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1704363701_nolikuma_grozījumi_nr.2..doc" class="document" href="https://liepaja-sez.lv/doc/mod/document/98/1704363701_nolikuma_grozījumi_nr.2..doc" target="_blank">
+<a aria-label="1704363701_nolikuma_grozījumi_nr.2..doc" class="document" href="../../../doc/mod/document/98/1704363701_nolikuma_groz%C4%ABjumi_nr.2..doc" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -116,12 +116,12 @@
 <div class="document-info py-3">
 <div class="date">25. October, 2021</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/99/1704363776_pretendentu_iesniegto_finanšu_piedāvājumu_apkopojums.docx" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/99/1704363776_pretendentu_iesniegto_finan%C5%A1u_pied%C4%81v%C4%81jumu_apkopojums.docx" target="_blank">
 									Pretendentu iesniegto finanšu piedāvājumu apkopojums
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1704363776_pretendentu_iesniegto_finanšu_piedāvājumu_apkopojums.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/99/1704363776_pretendentu_iesniegto_finanšu_piedāvājumu_apkopojums.docx" target="_blank">
+<a aria-label="1704363776_pretendentu_iesniegto_finanšu_piedāvājumu_apkopojums.docx" class="document" href="../../../doc/mod/document/99/1704363776_pretendentu_iesniegto_finan%C5%A1u_pied%C4%81v%C4%81jumu_apkopojums.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -166,11 +166,11 @@
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Design, Construction and Design Supervision of the Reconstruction of Berth No. 46 at the Port of Liepāja</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-none d-md-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Procurement subject: Design, construction and design supervision of the reconstruction of Berth No. 46 at the Port of Liepāja. Identification No. LSEZ 2026/12. Main CPV code: 45241500-3 (Quay wall construction work).</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 </div>
 </div>

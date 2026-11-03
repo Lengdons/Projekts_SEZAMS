@@ -56,12 +56,12 @@
 <div class="document-info py-3">
 <div class="date">14. December, 2023</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/85/1704287405_nolikums.docx" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/85/1704287405_nolikums.docx" target="_blank">
 									Nolikums
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1704287405_nolikums.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/85/1704287405_nolikums.docx" target="_blank">
+<a aria-label="1704287405_nolikums.docx" class="document" href="../../../doc/mod/document/85/1704287405_nolikums.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -71,12 +71,12 @@
 <div class="document-info py-3">
 <div class="date">11. January, 2024</div>
 <div class="category mb-2">Visi</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/117/1704966256_2023-15-8.pielikums Ligums.doc" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/117/1704966256_2023-15-8.pielikums%20Ligums.doc" target="_blank">
 									Līgums
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1704966256_2023-15-8.pielikums Ligums.doc" class="document" href="https://liepaja-sez.lv/doc/mod/document/117/1704966256_2023-15-8.pielikums Ligums.doc" target="_blank">
+<a aria-label="1704966256_2023-15-8.pielikums Ligums.doc" class="document" href="../../../doc/mod/document/117/1704966256_2023-15-8.pielikums%20Ligums.doc" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -86,12 +86,12 @@
 <div class="document-info py-3">
 <div class="date">11. January, 2024</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/118/1704966279_2023-15-7.pielikums Tehniksā specifikācija.docx" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/118/1704966279_2023-15-7.pielikums%20Tehniks%C4%81%20specifik%C4%81cija.docx" target="_blank">
 									Tehniskā specifikācija
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1704966279_2023-15-7.pielikums Tehniksā specifikācija.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/118/1704966279_2023-15-7.pielikums Tehniksā specifikācija.docx" target="_blank">
+<a aria-label="1704966279_2023-15-7.pielikums Tehniksā specifikācija.docx" class="document" href="../../../doc/mod/document/118/1704966279_2023-15-7.pielikums%20Tehniks%C4%81%20specifik%C4%81cija.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -101,12 +101,12 @@
 <div class="document-info py-3">
 <div class="date">15. April, 2024</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/212/1713168808_lemums-2023-15.edoc" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/212/1713168808_lemums-2023-15.edoc" target="_blank">
 									Lēmums
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1713168808_lemums-2023-15.edoc" class="document" href="https://liepaja-sez.lv/doc/mod/document/212/1713168808_lemums-2023-15.edoc" target="_blank">
+<a aria-label="1713168808_lemums-2023-15.edoc" class="document" href="../../../doc/mod/document/212/1713168808_lemums-2023-15.edoc" target="_blank">
 <i class="bi bi-file-earmark"></i>
 </a>
 </div>
@@ -151,11 +151,11 @@
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Design, Construction and Design Supervision for the Reconstruction of Berth No. 46 at the Port of Liepāja</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-none d-md-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Procurement subject: Design, construction and design supervision for the reconstruction of Berth No. 46 at the Port of Liepāja. Identification No. LSEZ 2026/12. Main CPV code: 45241500-3 (Quay wall construction work).</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 </div>
 </div>

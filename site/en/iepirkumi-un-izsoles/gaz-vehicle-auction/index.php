@@ -56,12 +56,12 @@
 <div class="document-info py-3">
 <div class="date">7. August, 2023</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/119/1705053612_automašīnas_vērtējums.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/119/1705053612_automa%C5%A1%C4%ABnas_v%C4%93rt%C4%93jums.pdf" target="_blank">
 									Vehicle Valuation
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1705053612_automašīnas_vērtējums.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/119/1705053612_automašīnas_vērtējums.pdf" target="_blank">
+<a aria-label="1705053612_automašīnas_vērtējums.pdf" class="document" href="../../../doc/mod/document/119/1705053612_automa%C5%A1%C4%ABnas_v%C4%93rt%C4%93jums.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -71,12 +71,12 @@
 <div class="document-info py-3">
 <div class="date">7. August, 2023</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/120/1705053696_sludinājums.docx" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/120/1705053696_sludin%C4%81jums.docx" target="_blank">
 									Notice
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1705053696_sludinājums.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/120/1705053696_sludinājums.docx" target="_blank">
+<a aria-label="1705053696_sludinājums.docx" class="document" href="../../../doc/mod/document/120/1705053696_sludin%C4%81jums.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -86,12 +86,12 @@
 <div class="document-info py-3">
 <div class="date">7. August, 2023</div>
 <div class="category mb-2">All</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/121/1705053754_atkārtotas_izsoles_noteikumi.docx" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/121/1705053754_atk%C4%81rtotas_izsoles_noteikumi.docx" target="_blank">
 									Repeated Auction Rules
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1705053754_atkārtotas_izsoles_noteikumi.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/121/1705053754_atkārtotas_izsoles_noteikumi.docx" target="_blank">
+<a aria-label="1705053754_atkārtotas_izsoles_noteikumi.docx" class="document" href="../../../doc/mod/document/121/1705053754_atk%C4%81rtotas_izsoles_noteikumi.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -99,7 +99,7 @@
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/83/870_1705053508_GAZ_1.webp" style="width: 100%;"/>
-<a aria-label="Lejupielādēt" class="image-download" download="" href="https://liepaja-sez.lv/img/mod/news/83/original_1705053508_GAZ_1.webp">
+<a aria-label="Lejupielādēt" class="image-download" download="" href="../../../img/mod/news/83/original_1705053508_GAZ_1.webp">
 <img alt="Lejupielādēt" class="download-icon" src="https://liepaja-sez.lv/img/dl.svg"/>
 </a>
 </div>
@@ -136,11 +136,11 @@
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Design, Construction and Design Supervision of the Reconstruction of Berth No. 46 at the Port of Liepāja</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-none d-md-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Procurement subject: Design, construction and design supervision of the reconstruction of Berth No. 46 at the Port of Liepāja. Identification No. LSEZ 2026/12. Main CPV code: 45241500-3 (Quay wall construction work).</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 </div>
 </div>

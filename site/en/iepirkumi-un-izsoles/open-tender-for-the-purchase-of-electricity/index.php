@@ -62,10 +62,10 @@
 <div class="document-info py-3">
 <div class="date">1. March, 2022</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Document" href="https://liepaja-sez.lv/doc/mod/document/94/1704362875_paziņojums.pdf" target="_blank">Notice</a>
+<a aria-label="Document" href="../../../doc/mod/document/94/1704362875_pazi%C5%86ojums.pdf" target="_blank">Notice</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1704362875_paziņojums.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/94/1704362875_paziņojums.pdf" target="_blank">
+<a aria-label="1704362875_paziņojums.pdf" class="document" href="../../../doc/mod/document/94/1704362875_pazi%C5%86ojums.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>

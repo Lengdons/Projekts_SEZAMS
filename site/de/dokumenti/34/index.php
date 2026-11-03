@@ -115,14 +115,14 @@ Notfallplan bei unvorhergesehenen Umweltverschmutzungen
 <div class="document-info">
 <div class="date">7. Juli 2025</div>
 <div class="category">Betriebsvorschriften für Liegeplätze</div>
-<a aria-label="Dokument" href="https://liepaja-sez.lv/doc/mod/document/145/1751881680_PTEN 2025 _APSTIPRINĀTS_02.07.2025.pdf" target="_blank">
+<a aria-label="Dokument" href="../../../doc/mod/document/145/1751881680_PTEN%202025%20_APSTIPRIN%C4%80TS_02.07.2025.pdf" target="_blank">
 
 Technische Vorschriften für den Betrieb von Liegeplätzen im Hafen von Liepāja (in Kraft vom 02.07.2025)
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1751881680_PTEN 2025 _APSTIPRINĀTS_02.07.2025.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/145/1751881680_PTEN 2025 _APSTIPRINĀTS_02.07.2025.pdf" target="_blank">
+<a aria-label="1751881680_PTEN 2025 _APSTIPRINĀTS_02.07.2025.pdf" class="document" href="../../../doc/mod/document/145/1751881680_PTEN%202025%20_APSTIPRIN%C4%80TS_02.07.2025.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>

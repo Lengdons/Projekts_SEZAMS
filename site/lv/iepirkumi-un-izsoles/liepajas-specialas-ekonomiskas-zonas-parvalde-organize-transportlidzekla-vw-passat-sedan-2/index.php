@@ -55,7 +55,7 @@ html.classList.add(localStorage['contrast']);
 <h1 class="article-title">Liepājas speciālās ekonomiskās zonas pārvalde organizē transportlīdzekļa VW Passat sedan (2006. izlaiduma gads) atsavināšanu – elektronisku izsoli ar augšupejošu soli.</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Izsole sākas elektronisko izsoļu vietnē <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv</a> 2024. gada 17.februārī plkst. 13:00 un noslēdzas 2024. gada 08.martā plkst. 13:00.</p><p>Pretendentu reģistrācija notiek no 2024. gada 17. februāra plkst. 13:00 līdz 2024. gada 27.februārim plkst. 23:59 elektronisko izsoļu vietnē <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv</a></p><p>Ar izsoles transportlīdzekli var iepazīties līdz 2024. gada 27. februārim, iepriekš sazinoties pa tālruni 29426284 (Ainars).</p><p>Izsoles noteikumi pieejami mājaslapā <a href="https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi%20">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi&nbsp;</a></p></div>
+<div class="col"><div class="col-12 output"><p>Izsole sākas elektronisko izsoļu vietnē <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv</a> 2024. gada 17.februārī plkst. 13:00 un noslēdzas 2024. gada 08.martā plkst. 13:00.</p><p>Pretendentu reģistrācija notiek no 2024. gada 17. februāra plkst. 13:00 līdz 2024. gada 27.februārim plkst. 23:59 elektronisko izsoļu vietnē <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv</a></p><p>Ar izsoles transportlīdzekli var iepazīties līdz 2024. gada 27. februārim, iepriekš sazinoties pa tālruni 29426284 (Ainars).</p><p>Izsoles noteikumi pieejami mājaslapā <a href="../index.php">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi&nbsp;</a></p></div>
 </div>
 </div>
 </div><h1 class="block-title mt-3">Noteikumi<span></span></h1>
@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">16. februāris, 2024</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/177/1708183605_Izsoles_Noteikumi_Ligums_Sedan_.docx" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/177/1708183605_Izsoles_Noteikumi_Ligums_Sedan_.docx" target="_blank" aria-label="Dokuments">
 Izsoles  noteikumi
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/177/1708183605_Izsoles_Noteikumi_Ligums_Sedan_.docx" target="_blank" aria-label="1708183605_Izsoles_Noteikumi_Ligums_Sedan_.docx">
+<a class="document" href="../../../doc/mod/document/177/1708183605_Izsoles_Noteikumi_Ligums_Sedan_.docx" target="_blank" aria-label="1708183605_Izsoles_Noteikumi_Ligums_Sedan_.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>							
 </div>
@@ -78,7 +78,7 @@ Izsoles  noteikumi
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/108/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/108/original_" aria-label="Lejupielādēt" download>
+<a class="image-download"  aria-label="Lejupielādēt" download href="https://liepaja-sez.lv/img/mod/news/108/original_">
 <img class="download-icon" alt="Lejupielādēt" src="https://liepaja-sez.lv/img/dl.svg"/>	
 </a>															
 </div>
@@ -100,11 +100,11 @@ Izsoles  noteikumi
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas SEZ pārvalde rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Liepājas speciālās ekonomiskās zonas pārvalde, vienotais reģistrācijas Nr.LV90000329402, rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3, Liepājā, kas sastāvēs no zemes vienības ar kopējo platību 51521 m2 un 12 būvēm.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>
@@ -115,7 +115,7 @@ Izsoles  noteikumi
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Iepirkuma priekšmets: 
 Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība
@@ -123,7 +123,7 @@ IDENTIFIKĀCIJAS NUMURS LSEZ 2026/12
 Galvenais CPV kods: 45241500-3 (Kuģu piestātnes būvdarbi). 
 </div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>

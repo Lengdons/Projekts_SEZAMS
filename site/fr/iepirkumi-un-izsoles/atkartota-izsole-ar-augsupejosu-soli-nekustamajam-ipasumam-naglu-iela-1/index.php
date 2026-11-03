@@ -164,14 +164,14 @@ Note
 <div class="document-info py-3">
 <div class="date">18 février 2026</div>
 <div class="category mb-2">Marchés publics et ventes aux enchères</div>
-<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/353/1771406458_Foto.zip" target="_blank">
+<a aria-label="Documenter" href="../../../doc/mod/document/353/1771406458_Foto.zip" target="_blank">
 
 Photo de l'objet dans un fichier ZIP
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1771406458_Foto.zip" class="document" href="https://liepaja-sez.lv/doc/mod/document/353/1771406458_Foto.zip" target="_blank">
+<a aria-label="1771406458_Foto.zip" class="document" href="../../../doc/mod/document/353/1771406458_Foto.zip" target="_blank">
 <i class="bi bi-file-earmark-zip"></i>
 </a>
 </div>

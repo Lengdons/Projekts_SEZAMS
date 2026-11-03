@@ -115,14 +115,14 @@ Plan d'action en cas de contamination imprévue
 <div class="document-info">
 <div class="date">25 septembre 2026</div>
 <div class="category">Liste de prix des services payants</div>
-<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/395/1790661291_Maksas_pakalpojumu_cenrādis_mājas lapa.pdf" target="_blank">
+<a aria-label="Documenter" href="../../../doc/mod/document/395/1790661291_Maksas_pakalpojumu_cenr%C4%81dis_m%C4%81jas%20lapa.pdf" target="_blank">
 
 Liste de prix des services payants
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1790661291_Maksas_pakalpojumu_cenrādis_mājas lapa.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/395/1790661291_Maksas_pakalpojumu_cenrādis_mājas lapa.pdf" target="_blank">
+<a aria-label="1790661291_Maksas_pakalpojumu_cenrādis_mājas lapa.pdf" class="document" href="../../../doc/mod/document/395/1790661291_Maksas_pakalpojumu_cenr%C4%81dis_m%C4%81jas%20lapa.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>

@@ -115,14 +115,14 @@ Notfallplan bei unvorhergesehenen Umweltverschmutzungen
 <div class="document-info">
 <div class="date">26. Juli 2024</div>
 <div class="category">Entwicklungsplan</div>
-<a aria-label="Dokument" href="https://liepaja-sez.lv/doc/mod/document/197/1724752435_LSEZ_attistibas_plans.pdf" target="_blank">
+<a aria-label="Dokument" href="../../../doc/mod/document/197/1724752435_LSEZ_attistibas_plans.pdf" target="_blank">
 
 Liepāja SEZ Entwicklungsplan 2023. - 2035
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1724752435_LSEZ_attistibas_plans.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/197/1724752435_LSEZ_attistibas_plans.pdf" target="_blank">
+<a aria-label="1724752435_LSEZ_attistibas_plans.pdf" class="document" href="../../../doc/mod/document/197/1724752435_LSEZ_attistibas_plans.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>

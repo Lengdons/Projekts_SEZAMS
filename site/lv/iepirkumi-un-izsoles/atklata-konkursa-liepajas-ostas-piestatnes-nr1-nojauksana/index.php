@@ -55,7 +55,7 @@ html.classList.add(localStorage['contrast']);
 <h1 class="article-title">ATKLĀTĀ KONKURSA “Liepājas ostas piestātnes Nr.1 nojaukšana” iepirkuma identifikācijas Nr.LSEZ2021/67/K</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Iepirkuma priekšmets: Liepājas ostas piestātnes Nr.1 nojaukšanas būvdarbu izpilde&nbsp; saskaņā ar šī iepirkuma procedūras dokumentu un normatīvo aktu prasībām.</p><p>&nbsp;</p><p>Būvdarbi tiks veikti un finansēti projekta ietvaros, kura realizācija notiek saskaņā ar darbības programmas “Izaugsme un nodarbinātība” 6.1.1. specifiskā atbalsta mērķa “Palielināt lielo ostu drošības līmeni un uzlabot transporta tīkla mobilitāti” ietvaros.</p><p>&nbsp;</p><p>Ar Iepirkuma dokumentiem Ieinteresētais piegādātājs var iepazīties un saņemt tos elektroniski bez maksas Liepājas speciālās ekonomiskās zonas pārvaldes mājas lapā internetā <a href="https://liepaja-sez.lv/mgmt/purchases/107/Iepirkuma%20priek%C5%A1mets:%20Liep%C4%81jas%20ostas%20piest%C4%81tnes%20Nr.1%20nojauk%C5%A1anas%20b%C5%ABvdarbu%20izpilde%20%20saska%C5%86%C4%81%20ar%20%C5%A1%C4%AB%20iepirkuma%20proced%C5%ABras%20dokumentu%20un%20normat%C4%ABvo%20aktu%20pras%C4%ABb%C4%81m.%20%20%20%20%20B%C5%ABvdarbi%20tiks%20veikti%20un%20finans%C4%93ti%20projekta%20ietvaros,%20kura%20realiz%C4%81cija%20notiek%20saska%C5%86%C4%81%20ar%20darb%C4%ABbas%20programmas%20%E2%80%9CIzaugsme%20un%20nodarbin%C4%81t%C4%ABba%E2%80%9D%206.1.1.%20specifisk%C4%81%20atbalsta%20m%C4%93r%C4%B7a%20%E2%80%9CPalielin%C4%81t%20lielo%20ostu%20dro%C5%A1%C4%ABbas%20l%C4%ABmeni%20un%20uzlabot%20transporta%20t%C4%ABkla%20mobilit%C4%81ti%E2%80%9D%20ietvaros.%20%20%20%20%20%20%20%20Ar%20Iepirkuma%20dokumentiem%20Ieinteres%C4%93tais%20pieg%C4%81d%C4%81t%C4%81js%20var%20iepaz%C4%ABties%20un%20sa%C5%86emt%20tos%20elektroniski%20bez%20maksas%20Liep%C4%81jas">http://www.liepaja-sez.lv/lv/parvalde/iepirkumi</a> un EIS <a href="https://liepaja-sez.lv/mgmt/purchases/107/www.eis.gov.lv">www.eis.gov.lv</a>, kā arī iepazīties ar Iepirkuma dokumentiem drukātā veidā bez maksas Liepājas speciālās ekonomiskās zonas pārvaldē Iepirkuma speciālista kabinetā (1.stāvā), Fēniksa ielā 4, Liepājā līdz 2021.gada 2.jūlijam plkst.10.00, darba dienās no plkst. 8.00 līdz 12.00 un no 13.00 līdz 16.30, piektdienās līdz plkst.16.00, iepriekš vienojoties ar Pasūtītāja kontaktpersonu par apmeklējuma laiku.</p></div>
+<div class="col"><div class="col-12 output"><p>Iepirkuma priekšmets: Liepājas ostas piestātnes Nr.1 nojaukšanas būvdarbu izpilde&nbsp; saskaņā ar šī iepirkuma procedūras dokumentu un normatīvo aktu prasībām.</p><p>&nbsp;</p><p>Būvdarbi tiks veikti un finansēti projekta ietvaros, kura realizācija notiek saskaņā ar darbības programmas “Izaugsme un nodarbinātība” 6.1.1. specifiskā atbalsta mērķa “Palielināt lielo ostu drošības līmeni un uzlabot transporta tīkla mobilitāti” ietvaros.</p><p>&nbsp;</p><p>Ar Iepirkuma dokumentiem Ieinteresētais piegādātājs var iepazīties un saņemt tos elektroniski bez maksas Liepājas speciālās ekonomiskās zonas pārvaldes mājas lapā internetā <a href="https://liepaja-sez.lv/mgmt/purchases/107/Iepirkuma%20priek%C5%A1mets:%20Liep%C4%81jas%20ostas%20piest%C4%81tnes%20Nr.1%20nojauk%C5%A1anas%20b%C5%ABvdarbu%20izpilde%20%20saska%C5%86%C4%81%20ar%20%C5%A1%C4%AB%20iepirkuma%20proced%C5%ABras%20dokumentu%20un%20normat%C4%ABvo%20aktu%20pras%C4%ABb%C4%81m.%20%20%20%20%20B%C5%ABvdarbi%20tiks%20veikti%20un%20finans%C4%93ti%20projekta%20ietvaros,%20kura%20realiz%C4%81cija%20notiek%20saska%C5%86%C4%81%20ar%20darb%C4%ABbas%20programmas%20%E2%80%9CIzaugsme%20un%20nodarbin%C4%81t%C4%ABba%E2%80%9D%206.1.1.%20specifisk%C4%81%20atbalsta%20m%C4%93r%C4%B7a%20%E2%80%9CPalielin%C4%81t%20lielo%20ostu%20dro%C5%A1%C4%ABbas%20l%C4%ABmeni%20un%20uzlabot%20transporta%20t%C4%ABkla%20mobilit%C4%81ti%E2%80%9D%20ietvaros.%20%20%20%20%20%20%20%20Ar%20Iepirkuma%20dokumentiem%20Ieinteres%C4%93tais%20pieg%C4%81d%C4%81t%C4%81js%20var%20iepaz%C4%ABties%20un%20sa%C5%86emt%20tos%20elektroniski%20bez%20maksas%20Liep%C4%81jas">http://www.liepaja-sez.lv/lv/parvalde/iepirkumi</a> un EIS <a href="https://www.eis.gov.lv/">www.eis.gov.lv</a>, kā arī iepazīties ar Iepirkuma dokumentiem drukātā veidā bez maksas Liepājas speciālās ekonomiskās zonas pārvaldē Iepirkuma speciālista kabinetā (1.stāvā), Fēniksa ielā 4, Liepājā līdz 2021.gada 2.jūlijam plkst.10.00, darba dienās no plkst. 8.00 līdz 12.00 un no 13.00 līdz 16.30, piektdienās līdz plkst.16.00, iepriekš vienojoties ar Pasūtītāja kontaktpersonu par apmeklējuma laiku.</p></div>
 </div>
 </div>
 </div><h1 class="block-title mt-3">Paziņojums<span></span></h1>
@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">2. jūnijs, 2021</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/104/" target="_blank" aria-label="Dokuments">
+<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/104/" target="_blank">
 Paziņojums
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/104/" target="_blank" aria-label="">
+<a class="document" aria-label="" href="https://liepaja-sez.lv/doc/mod/document/104/" target="_blank">
 <i class="bi bi-file-earmark"></i>
 </a>							
 </div>
@@ -78,7 +78,7 @@ Paziņojums
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/66/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/66/original_" aria-label="Lejupielādēt" download>
+<a class="image-download"  aria-label="Lejupielādēt" download href="https://liepaja-sez.lv/img/mod/news/66/original_">
 <img class="download-icon" alt="Lejupielādēt" src="https://liepaja-sez.lv/img/dl.svg"/>	
 </a>															
 </div>
@@ -100,11 +100,11 @@ Paziņojums
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas SEZ pārvalde rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Liepājas speciālās ekonomiskās zonas pārvalde, vienotais reģistrācijas Nr.LV90000329402, rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3, Liepājā, kas sastāvēs no zemes vienības ar kopējo platību 51521 m2 un 12 būvēm.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>
@@ -115,7 +115,7 @@ Paziņojums
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Iepirkuma priekšmets: 
 Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība
@@ -123,7 +123,7 @@ IDENTIFIKĀCIJAS NUMURS LSEZ 2026/12
 Galvenais CPV kods: 45241500-3 (Kuģu piestātnes būvdarbi). 
 </div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>

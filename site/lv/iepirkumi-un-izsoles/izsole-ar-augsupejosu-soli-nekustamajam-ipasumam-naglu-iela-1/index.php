@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">18. februāris, 2026</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/346/1771405200_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/346/1771405200_Vertejums_Liepaja_Brivibas_iela_98%20d.d.pdf" target="_blank" aria-label="Dokuments">
 Vērtējums
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/346/1771405200_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf" target="_blank" aria-label="1771405200_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf">
+<a class="document" href="../../../doc/mod/document/346/1771405200_Vertejums_Liepaja_Brivibas_iela_98%20d.d.pdf" target="_blank" aria-label="1771405200_Vertejums_Liepaja_Brivibas_iela_98 d.d.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -80,12 +80,12 @@ Vērtējums
 <div class="document-info py-3">
 <div class="date">18. februāris, 2026</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/347/1771405250_4_Pielikums_Plans_Naglu_1.pdf" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/347/1771405250_4_Pielikums_Plans_Naglu_1.pdf" target="_blank" aria-label="Dokuments">
 Plāns
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/347/1771405250_4_Pielikums_Plans_Naglu_1.pdf" target="_blank" aria-label="1771405250_4_Pielikums_Plans_Naglu_1.pdf">
+<a class="document" href="../../../doc/mod/document/347/1771405250_4_Pielikums_Plans_Naglu_1.pdf" target="_blank" aria-label="1771405250_4_Pielikums_Plans_Naglu_1.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -95,12 +95,12 @@ Plāns
 <div class="document-info py-3">
 <div class="date">18. februāris, 2026</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/348/1771405296_Izsoles_Noteikumi_Naglu_1.pdf" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/348/1771405296_Izsoles_Noteikumi_Naglu_1.pdf" target="_blank" aria-label="Dokuments">
 Izsoles noteikumi
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/348/1771405296_Izsoles_Noteikumi_Naglu_1.pdf" target="_blank" aria-label="1771405296_Izsoles_Noteikumi_Naglu_1.pdf">
+<a class="document" href="../../../doc/mod/document/348/1771405296_Izsoles_Noteikumi_Naglu_1.pdf" target="_blank" aria-label="1771405296_Izsoles_Noteikumi_Naglu_1.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -110,12 +110,12 @@ Izsoles noteikumi
 <div class="document-info py-3">
 <div class="date">18. februāris, 2026</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/349/1771405348_Pielikums_1_Pieteikums_Dalibai_Izsole_Naglu_1.pdf" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/349/1771405348_Pielikums_1_Pieteikums_Dalibai_Izsole_Naglu_1.pdf" target="_blank" aria-label="Dokuments">
 Pieteikums dalībai
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/349/1771405348_Pielikums_1_Pieteikums_Dalibai_Izsole_Naglu_1.pdf" target="_blank" aria-label="1771405348_Pielikums_1_Pieteikums_Dalibai_Izsole_Naglu_1.pdf">
+<a class="document" href="../../../doc/mod/document/349/1771405348_Pielikums_1_Pieteikums_Dalibai_Izsole_Naglu_1.pdf" target="_blank" aria-label="1771405348_Pielikums_1_Pieteikums_Dalibai_Izsole_Naglu_1.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -125,12 +125,12 @@ Pieteikums dalībai
 <div class="document-info py-3">
 <div class="date">18. februāris, 2026</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/350/1771405389_Pielikums_2_Prieksligums_Naglu_1.pdf" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/350/1771405389_Pielikums_2_Prieksligums_Naglu_1.pdf" target="_blank" aria-label="Dokuments">
 Priekšlīgums
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/350/1771405389_Pielikums_2_Prieksligums_Naglu_1.pdf" target="_blank" aria-label="1771405389_Pielikums_2_Prieksligums_Naglu_1.pdf">
+<a class="document" href="../../../doc/mod/document/350/1771405389_Pielikums_2_Prieksligums_Naglu_1.pdf" target="_blank" aria-label="1771405389_Pielikums_2_Prieksligums_Naglu_1.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -140,12 +140,12 @@ Priekšlīgums
 <div class="document-info py-3">
 <div class="date">18. februāris, 2026</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/351/1771405428_Pielikums_3_Pirkuma_Ligums_Naglu_1.pdf" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/351/1771405428_Pielikums_3_Pirkuma_Ligums_Naglu_1.pdf" target="_blank" aria-label="Dokuments">
 Pirkuma līgums
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/351/1771405428_Pielikums_3_Pirkuma_Ligums_Naglu_1.pdf" target="_blank" aria-label="1771405428_Pielikums_3_Pirkuma_Ligums_Naglu_1.pdf">
+<a class="document" href="../../../doc/mod/document/351/1771405428_Pielikums_3_Pirkuma_Ligums_Naglu_1.pdf" target="_blank" aria-label="1771405428_Pielikums_3_Pirkuma_Ligums_Naglu_1.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -155,12 +155,12 @@ Pirkuma līgums
 <div class="document-info py-3">
 <div class="date">18. februāris, 2026</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/353/1771406458_Foto.zip" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/353/1771406458_Foto.zip" target="_blank" aria-label="Dokuments">
 Objekta foto ZIP failā
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/353/1771406458_Foto.zip" target="_blank" aria-label="1771406458_Foto.zip">
+<a class="document" href="../../../doc/mod/document/353/1771406458_Foto.zip" target="_blank" aria-label="1771406458_Foto.zip">
 <i class="bi bi-file-earmark-zip"></i>
 </a>							
 </div>
@@ -168,7 +168,7 @@ Objekta foto ZIP failā
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/276/870_1771406162__R1A9987.webp"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/276/original_1771406162__R1A9987.webp" aria-label="Lejupielādēt" download>
+<a class="image-download" href="../../../img/mod/news/276/original_1771406162__R1A9987.webp" aria-label="Lejupielādēt" download>
 <img class="download-icon" alt="Lejupielādēt" src="https://liepaja-sez.lv/img/dl.svg"/>	
 </a>															
 </div>
@@ -190,11 +190,11 @@ Objekta foto ZIP failā
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas SEZ pārvalde rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Liepājas speciālās ekonomiskās zonas pārvalde, vienotais reģistrācijas Nr.LV90000329402, rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3, Liepājā, kas sastāvēs no zemes vienības ar kopējo platību 51521 m2 un 12 būvēm.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>
@@ -205,7 +205,7 @@ Objekta foto ZIP failā
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Iepirkuma priekšmets: 
 Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība
@@ -213,7 +213,7 @@ IDENTIFIKĀCIJAS NUMURS LSEZ 2026/12
 Galvenais CPV kods: 45241500-3 (Kuģu piestātnes būvdarbi). 
 </div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>

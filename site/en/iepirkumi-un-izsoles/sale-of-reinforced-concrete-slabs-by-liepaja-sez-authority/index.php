@@ -57,12 +57,12 @@
 <div class="document-info py-3">
 <div class="date">16. jūlijs, 2025</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/285/1752656079_Noteikumi_IZS_2025_6_dzelzbetona_platnes.docx" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/285/1752656079_Noteikumi_IZS_2025_6_dzelzbetona_platnes.docx" target="_blank">
 									Liepājas speciālās ekonomiskās zonas pārvaldes kustamās mantas – dzelzsbetona plātņu pārdošanas par brīvu cenu noteikumi ID Nr. LSEZ IZS 2025
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1752656079_Noteikumi_IZS_2025_6_dzelzbetona_platnes.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/285/1752656079_Noteikumi_IZS_2025_6_dzelzbetona_platnes.docx" target="_blank">
+<a aria-label="1752656079_Noteikumi_IZS_2025_6_dzelzbetona_platnes.docx" class="document" href="../../../doc/mod/document/285/1752656079_Noteikumi_IZS_2025_6_dzelzbetona_platnes.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>

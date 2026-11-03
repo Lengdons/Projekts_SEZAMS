@@ -56,12 +56,12 @@
 <div class="document-info py-3">
 <div class="date">2. December, 2025</div>
 <div class="category mb-2">All</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/333/1764669453_G-25-201_LSEZ_Metāli_vērtejuma_atskaite.edoc" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/333/1764669453_G-25-201_LSEZ_Met%C4%81li_v%C4%93rtejuma_atskaite.edoc" target="_blank">
 									Metal Valuation Report
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1764669453_G-25-201_LSEZ_Metāli_vērtejuma_atskaite.edoc" class="document" href="https://liepaja-sez.lv/doc/mod/document/333/1764669453_G-25-201_LSEZ_Metāli_vērtejuma_atskaite.edoc" target="_blank">
+<a aria-label="1764669453_G-25-201_LSEZ_Metāli_vērtejuma_atskaite.edoc" class="document" href="../../../doc/mod/document/333/1764669453_G-25-201_LSEZ_Met%C4%81li_v%C4%93rtejuma_atskaite.edoc" target="_blank">
 <i class="bi bi-file-earmark"></i>
 </a>
 </div>
@@ -71,12 +71,12 @@
 <div class="document-info py-3">
 <div class="date">2. December, 2025</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/334/1764669483_Noteikumi_IZS_2025_9_metalluzni_LIP.docx" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/334/1764669483_Noteikumi_IZS_2025_9_metalluzni_LIP.docx" target="_blank">
 									Rules
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1764669483_Noteikumi_IZS_2025_9_metalluzni_LIP.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/334/1764669483_Noteikumi_IZS_2025_9_metalluzni_LIP.docx" target="_blank">
+<a aria-label="1764669483_Noteikumi_IZS_2025_9_metalluzni_LIP.docx" class="document" href="../../../doc/mod/document/334/1764669483_Noteikumi_IZS_2025_9_metalluzni_LIP.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -121,11 +121,11 @@
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Design, Construction and Design Supervision of the Reconstruction of Berth No. 46 at the Port of Liepāja</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-none d-md-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Procurement subject: Design, construction and design supervision of the reconstruction of Berth No. 46 at the Port of Liepāja. Identification No. LSEZ 2026/12. Main CPV code: 45241500-3 (Quay wall construction work).</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 </div>
 </div>

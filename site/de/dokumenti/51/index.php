@@ -115,14 +115,14 @@ Notfallplan bei unvorhergesehenen Umweltverschmutzungen
 <div class="document-info">
 <div class="date">17. Juli 2025</div>
 <div class="category">Unterlagen zur Vergabe von Miet- und Erbbaurechten</div>
-<a aria-label="Dokument" href="https://liepaja-sez.lv/doc/mod/document/232/1753338747_LSEZ apbūves tiesības rezervēšanas un piešķiršanas kārtība.pdf" target="_blank">
+<a aria-label="Dokument" href="../../../doc/mod/document/232/1753338747_LSEZ%20apb%C5%ABves%20ties%C4%ABbas%20rezerv%C4%93%C5%A1anas%20un%20pie%C5%A1%C4%B7ir%C5%A1anas%20k%C4%81rt%C4%ABba.pdf" target="_blank">
 
 Verfahren für die Gewährung von Reservierungs- und Baurechten für Immobilien im Gebiet der Sonderwirtschaftszone Liepāja
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1753338747_LSEZ apbūves tiesības rezervēšanas un piešķiršanas kārtība.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/232/1753338747_LSEZ apbūves tiesības rezervēšanas un piešķiršanas kārtība.pdf" target="_blank">
+<a aria-label="1753338747_LSEZ apbūves tiesības rezervēšanas un piešķiršanas kārtība.pdf" class="document" href="../../../doc/mod/document/232/1753338747_LSEZ%20apb%C5%ABves%20ties%C4%ABbas%20rezerv%C4%93%C5%A1anas%20un%20pie%C5%A1%C4%B7ir%C5%A1anas%20k%C4%81rt%C4%ABba.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -131,14 +131,14 @@ Verfahren für die Gewährung von Reservierungs- und Baurechten für Immobilien 
 <div class="document-info">
 <div class="date">26. Juli 2024</div>
 <div class="category">Unterlagen zur Vergabe von Miet- und Erbbaurechten</div>
-<a aria-label="Dokument" href="https://liepaja-sez.lv/doc/mod/document/228/1729586930_LIP apbūves tiesības rezervēšanas un piešķiršanas kārtība-1.pdf" target="_blank">
+<a aria-label="Dokument" href="../../../doc/mod/document/228/1729586930_LIP%20apb%C5%ABves%20ties%C4%ABbas%20rezerv%C4%93%C5%A1anas%20un%20pie%C5%A1%C4%B7ir%C5%A1anas%20k%C4%81rt%C4%ABba-1.pdf" target="_blank">
 
 Verfahren für die Gewährung von Reservierungs- und Baurechten von Immobilien im Gebiet des Industrieparks Liepāja
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1729586930_LIP apbūves tiesības rezervēšanas un piešķiršanas kārtība-1.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/228/1729586930_LIP apbūves tiesības rezervēšanas un piešķiršanas kārtība-1.pdf" target="_blank">
+<a aria-label="1729586930_LIP apbūves tiesības rezervēšanas un piešķiršanas kārtība-1.pdf" class="document" href="../../../doc/mod/document/228/1729586930_LIP%20apb%C5%ABves%20ties%C4%ABbas%20rezerv%C4%93%C5%A1anas%20un%20pie%C5%A1%C4%B7ir%C5%A1anas%20k%C4%81rt%C4%ABba-1.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -147,14 +147,14 @@ Verfahren für die Gewährung von Reservierungs- und Baurechten von Immobilien i
 <div class="document-info">
 <div class="date">26. Juli 2024</div>
 <div class="category">Unterlagen zur Vergabe von Miet- und Erbbaurechten</div>
-<a aria-label="Dokument" href="https://liepaja-sez.lv/doc/mod/document/229/1721978231_Īpašie nosacījumi komercdarbības veikšanai Liepājas industriālā parka teritorijā.pdf" target="_blank">
+<a aria-label="Dokument" href="../../../doc/mod/document/229/1721978231_%C4%AApa%C5%A1ie%20nosac%C4%ABjumi%20komercdarb%C4%ABbas%20veik%C5%A1anai%20Liep%C4%81jas%20industri%C4%81l%C4%81%20parka%20teritorij%C4%81.pdf" target="_blank">
 
 Besondere Bedingungen für kommerzielle Tätigkeiten im Gebiet des Industrieparks Liepāja
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1721978231_Īpašie nosacījumi komercdarbības veikšanai Liepājas industriālā parka teritorijā.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/229/1721978231_Īpašie nosacījumi komercdarbības veikšanai Liepājas industriālā parka teritorijā.pdf" target="_blank">
+<a aria-label="1721978231_Īpašie nosacījumi komercdarbības veikšanai Liepājas industriālā parka teritorijā.pdf" class="document" href="../../../doc/mod/document/229/1721978231_%C4%AApa%C5%A1ie%20nosac%C4%ABjumi%20komercdarb%C4%ABbas%20veik%C5%A1anai%20Liep%C4%81jas%20industri%C4%81l%C4%81%20parka%20teritorij%C4%81.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -163,14 +163,14 @@ Besondere Bedingungen für kommerzielle Tätigkeiten im Gebiet des Industriepark
 <div class="document-info">
 <div class="date">26. Juli 2024</div>
 <div class="category">Unterlagen zur Vergabe von Miet- und Erbbaurechten</div>
-<a aria-label="Dokument" href="https://liepaja-sez.lv/doc/mod/document/230/1721978295_LIP iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" target="_blank">
+<a aria-label="Dokument" href="../../../doc/mod/document/230/1721978295_LIP%20iesniegums%20apb%C5%ABves%20ties%C4%ABbas%20rezerv%C4%93%C5%A1anai%20un%20pie%C5%A1%C4%B7ir%C5%A1anai.docx" target="_blank">
 
 Antrag auf Vereinbarung über die Reservierung von Baurechten oder die Gewährung von Baurechten im Gebiet des Industrieparks Liepāja
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1721978295_LIP iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/230/1721978295_LIP iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" target="_blank">
+<a aria-label="1721978295_LIP iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" class="document" href="../../../doc/mod/document/230/1721978295_LIP%20iesniegums%20apb%C5%ABves%20ties%C4%ABbas%20rezerv%C4%93%C5%A1anai%20un%20pie%C5%A1%C4%B7ir%C5%A1anai.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -179,14 +179,14 @@ Antrag auf Vereinbarung über die Reservierung von Baurechten oder die Gewährun
 <div class="document-info">
 <div class="date">26. Juli 2024</div>
 <div class="category">Unterlagen zur Vergabe von Miet- und Erbbaurechten</div>
-<a aria-label="Dokument" href="https://liepaja-sez.lv/doc/mod/document/231/1721978390_Pielikums_Nr_1.pdf" target="_blank">
+<a aria-label="Dokument" href="../../../doc/mod/document/231/1721978390_Pielikums_Nr_1.pdf" target="_blank">
 
 Plan für den Industriepark Liepāja
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1721978390_Pielikums_Nr_1.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/231/1721978390_Pielikums_Nr_1.pdf" target="_blank">
+<a aria-label="1721978390_Pielikums_Nr_1.pdf" class="document" href="../../../doc/mod/document/231/1721978390_Pielikums_Nr_1.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -195,14 +195,14 @@ Plan für den Industriepark Liepāja
 <div class="document-info">
 <div class="date">26. Juli 2024</div>
 <div class="category">Unterlagen zur Vergabe von Miet- und Erbbaurechten</div>
-<a aria-label="Dokument" href="https://liepaja-sez.lv/doc/mod/document/233/1731307263_LSEZ iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" target="_blank">
+<a aria-label="Dokument" href="../../../doc/mod/document/233/1731307263_LSEZ%20iesniegums%20apb%C5%ABves%20ties%C4%ABbas%20rezerv%C4%93%C5%A1anai%20un%20pie%C5%A1%C4%B7ir%C5%A1anai.docx" target="_blank">
 
 Antrag auf Vereinbarung über die Reservierung von Baurechten oder die Gewährung des Baurechts im Gebiet der Sonderwirtschaftszone Liepāja
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1731307263_LSEZ iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/233/1731307263_LSEZ iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" target="_blank">
+<a aria-label="1731307263_LSEZ iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" class="document" href="../../../doc/mod/document/233/1731307263_LSEZ%20iesniegums%20apb%C5%ABves%20ties%C4%ABbas%20rezerv%C4%93%C5%A1anai%20un%20pie%C5%A1%C4%B7ir%C5%A1anai.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>

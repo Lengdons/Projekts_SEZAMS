@@ -57,7 +57,7 @@ html.classList.add(localStorage['contrast']);
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/167/870_1728457925_462486737_539966758729959_9066749114438313485_n.webp" style="width: 100%;"/>
-<a aria-label="Lejupielādēt" class="image-download" download="" href="https://liepaja-sez.lv/img/mod/news/167/original_1728457925_462486737_539966758729959_9066749114438313485_n.webp">
+<a aria-label="Lejupielādēt" class="image-download" download="" href="../../../img/mod/news/167/1728457925_462486737_539966758729959_9066749114438313485_n.webp">
 <img alt="Lejupielādēt" class="download-icon" src="/site/img/dl.svg"/>
 </a>
 </div>

@@ -55,7 +55,7 @@ html.classList.add(localStorage['contrast']);
 <h1 class="article-title">Liepājas speciālās ekonomiskās zonas pārvaldes īpašumā esošas  kustamas mantas, triecienu absorbējošu ierīču - fenderu (15 gab.), izsole.</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p><strong>Liepājas speciālās ekonomiskās zonas pārvalde&nbsp;</strong>(turpmāk – Pārvalde) organizē&nbsp;īpašumā esošas kustamas mantas - triecienu absorbējošu ierīču - fenderu, kopējais skaits 15 vienības, atsavināšanu elektroniskā izsolē ar <strong>augšupejošu soli</strong>.</p><p><strong>Izsoles sākuma cena (nosacītā cena)</strong>: par 15 (piecpadsmit) fenderiem ir 1800,00 EUR (viens tūkstotis astoņi simti <i>euro</i>) bez pievienotās vērtības nodokļa.</p><p><strong>Izsoles solis noteikts:</strong>150,00 EUR (viens simts piecdesmit <i>euro</i>).</p><p><strong>Izsoles&nbsp;nodrošinājums</strong>:&nbsp;10 % no noteiktās izsolāmās Preces sākuma cenas ir 180,00 EUR viens simts astoņdesmit <i>euro</i>). Izsoles nodrošinājums 20 (divdesmit) dienu laikā no izsoles sākuma datuma personai, kura vēlas piedalīties izsolē, jāpārskaita Pārvaldei, vienotais reģistrācijas Nr.LV90000329402, AS “Swedbank”, konta Nr.LV12HABA0001407037000. Maksājuma paziņojumā norāda “Nodrošinājums 15 fenderu izsolei”un jānosūta lūgums par autorizāciju izsolei izsoļu vietnē&nbsp;<a href="https://izsoles.ta.gov.lv/" target="_blank">https://izsoles.ta.gov.lv</a>.</p><p><strong>Izsole notiek elektronisko izsoļu vietnē</strong>&nbsp;<a href="https://izsoles.ta.gov.lv/" target="_blank">https://izsoles.ta.gov.lv</a>.</p><p><strong>Izsole sākas elektronisko izsoļu vietnē</strong>&nbsp;<a href="https://izsoles.ta.gov.lv/" target="_blank">https://izsoles.ta.gov.lv</a>&nbsp;norādītajā datumā un laikā.</p><p><strong>Ar Preci ir iespējams iepazīties</strong> dabā, Sliežu ielā 9, Liepājā, iepriekš piesakoties un saskaņojot laiku ar Pārvaldes infrastruktūras departamenta vadītāja vietnieku Viesturu Romanovu, tel: 26795153, e-pasts:&nbsp;<a href="mailto:viesturs.romanovs@lsez.lv">viesturs.romanovs@lsez.lv</a> .</p><p><strong>Izsoles noteikumi</strong> pieejami elektronisko izsoļu vietnē&nbsp;<a href="https://izsoles.ta.gov.lv/" target="_blank">https://izsoles.ta.gov.lv</a> un mājaslapā&nbsp;<a href="https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi" target="_blank">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi</a>.</p></div>
+<div class="col"><div class="col-12 output"><p><strong>Liepājas speciālās ekonomiskās zonas pārvalde&nbsp;</strong>(turpmāk – Pārvalde) organizē&nbsp;īpašumā esošas kustamas mantas - triecienu absorbējošu ierīču - fenderu, kopējais skaits 15 vienības, atsavināšanu elektroniskā izsolē ar <strong>augšupejošu soli</strong>.</p><p><strong>Izsoles sākuma cena (nosacītā cena)</strong>: par 15 (piecpadsmit) fenderiem ir 1800,00 EUR (viens tūkstotis astoņi simti <i>euro</i>) bez pievienotās vērtības nodokļa.</p><p><strong>Izsoles solis noteikts:</strong>150,00 EUR (viens simts piecdesmit <i>euro</i>).</p><p><strong>Izsoles&nbsp;nodrošinājums</strong>:&nbsp;10 % no noteiktās izsolāmās Preces sākuma cenas ir 180,00 EUR viens simts astoņdesmit <i>euro</i>). Izsoles nodrošinājums 20 (divdesmit) dienu laikā no izsoles sākuma datuma personai, kura vēlas piedalīties izsolē, jāpārskaita Pārvaldei, vienotais reģistrācijas Nr.LV90000329402, AS “Swedbank”, konta Nr.LV12HABA0001407037000. Maksājuma paziņojumā norāda “Nodrošinājums 15 fenderu izsolei”un jānosūta lūgums par autorizāciju izsolei izsoļu vietnē&nbsp;<a href="https://izsoles.ta.gov.lv/" target="_blank">https://izsoles.ta.gov.lv</a>.</p><p><strong>Izsole notiek elektronisko izsoļu vietnē</strong>&nbsp;<a href="https://izsoles.ta.gov.lv/" target="_blank">https://izsoles.ta.gov.lv</a>.</p><p><strong>Izsole sākas elektronisko izsoļu vietnē</strong>&nbsp;<a href="https://izsoles.ta.gov.lv/" target="_blank">https://izsoles.ta.gov.lv</a>&nbsp;norādītajā datumā un laikā.</p><p><strong>Ar Preci ir iespējams iepazīties</strong> dabā, Sliežu ielā 9, Liepājā, iepriekš piesakoties un saskaņojot laiku ar Pārvaldes infrastruktūras departamenta vadītāja vietnieku Viesturu Romanovu, tel: 26795153, e-pasts:&nbsp;<a href="mailto:viesturs.romanovs@lsez.lv">viesturs.romanovs@lsez.lv</a> .</p><p><strong>Izsoles noteikumi</strong> pieejami elektronisko izsoļu vietnē&nbsp;<a href="https://izsoles.ta.gov.lv/" target="_blank">https://izsoles.ta.gov.lv</a> un mājaslapā&nbsp;<a href="../index.php" target="_blank">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi</a>.</p></div>
 </div>
 </div>
 </div>
@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">27. februāris, 2025</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/256/1740659208_Noteikumi_IZS_2025_2_fenderi_15_gab_2V_skanots.docx" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/256/1740659208_Noteikumi_IZS_2025_2_fenderi_15_gab_2V_skanots.docx" target="_blank" aria-label="Dokuments">
 Fenderu izsoles noteikumi
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/256/1740659208_Noteikumi_IZS_2025_2_fenderi_15_gab_2V_skanots.docx" target="_blank" aria-label="1740659208_Noteikumi_IZS_2025_2_fenderi_15_gab_2V_skanots.docx">
+<a class="document" href="../../../doc/mod/document/256/1740659208_Noteikumi_IZS_2025_2_fenderi_15_gab_2V_skanots.docx" target="_blank" aria-label="1740659208_Noteikumi_IZS_2025_2_fenderi_15_gab_2V_skanots.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>							
 </div>
@@ -78,7 +78,7 @@ Fenderu izsoles noteikumi
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/207/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/207/original_" aria-label="Lejupielādēt" download>
+<a class="image-download"  aria-label="Lejupielādēt" download href="https://liepaja-sez.lv/img/mod/news/207/original_">
 <img class="download-icon" alt="Lejupielādēt" src="https://liepaja-sez.lv/img/dl.svg"/>	
 </a>															
 </div>
@@ -100,11 +100,11 @@ Fenderu izsoles noteikumi
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas SEZ pārvalde rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Liepājas speciālās ekonomiskās zonas pārvalde, vienotais reģistrācijas Nr.LV90000329402, rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3, Liepājā, kas sastāvēs no zemes vienības ar kopējo platību 51521 m2 un 12 būvēm.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>
@@ -115,7 +115,7 @@ Fenderu izsoles noteikumi
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Iepirkuma priekšmets: 
 Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība
@@ -123,7 +123,7 @@ IDENTIFIKĀCIJAS NUMURS LSEZ 2026/12
 Galvenais CPV kods: 45241500-3 (Kuģu piestātnes būvdarbi). 
 </div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>

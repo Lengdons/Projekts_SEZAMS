@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">12. Januar 2024</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/125/1705064766_Nolikums-dzilumu-uzturesana-2024-16-ar pielikumiem.docx" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/125/1705064766_Nolikums-dzilumu-uzturesana-2024-16-ar%20pielikumiem.docx" target="_blank" aria-label="Dokument">
 Verordnung
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/125/1705064766_Nolikums-dzilumu-uzturesana-2024-16-ar pielikumiem.docx" target="_blank" aria-label="1705064766_Nolikums-dzilumu-uzturesana-2024-16-ar pielikumiem.docx">
+<a class="document" href="../../../doc/mod/document/125/1705064766_Nolikums-dzilumu-uzturesana-2024-16-ar%20pielikumiem.docx" target="_blank" aria-label="1705064766_Nolikums-dzilumu-uzturesana-2024-16-ar pielikumiem.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -80,12 +80,12 @@ Verordnung
 <div class="document-info py-3">
 <div class="date">26. Februar 2024</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/181/1708945235_lemums-2024-16.edoc" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/181/1708945235_lemums-2024-16.edoc" target="_blank" aria-label="Dokument">
 Beschluss über die Beschaffungsergebnisse
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/181/1708945235_lemums-2024-16.edoc" target="_blank" aria-label="1708945235_Entscheidung-2024-16.edoc">
+<a class="document" href="../../../doc/mod/document/181/1708945235_lemums-2024-16.edoc" target="_blank" aria-label="1708945235_Entscheidung-2024-16.edoc">
 <i class="bi bi-file-earmark"></i>
 </a>
 </div>
@@ -93,7 +93,7 @@ Beschluss über die Beschaffungsergebnisse
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/85/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/85/original_" aria-label="Herunterladen" download>
+<a class="image-download"  aria-label="Herunterladen" download href="https://liepaja-sez.lv/img/mod/news/85/original_">
 <img class="download-icon" alt="Herunterladen" src="https://liepaja-sez.lv/img/dl.svg"/>
 </a>
 </div>

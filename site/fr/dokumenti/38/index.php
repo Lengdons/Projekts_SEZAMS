@@ -115,14 +115,14 @@ Plan d'action en cas de contamination imprévue
 <div class="document-info">
 <div class="date">6 octobre 2026</div>
 <div class="category">Documents pour l'obtention de services pour les navires</div>
-<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/151/1791279044_Udens pieteikums_2026_A.Kudrēvičs.docx" target="_blank">
+<a aria-label="Documenter" href="../../../doc/mod/document/151/1791279044_Udens%20pieteikums_2026_A.Kudr%C4%93vi%C4%8Ds.docx" target="_blank">
 
 Demande de réception d'eau
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1791279044_Udens pieteikums_2026_A.Kudrēvičs.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/151/1791279044_Udens pieteikums_2026_A.Kudrēvičs.docx" target="_blank">
+<a aria-label="1791279044_Udens pieteikums_2026_A.Kudrēvičs.docx" class="document" href="../../../doc/mod/document/151/1791279044_Udens%20pieteikums_2026_A.Kudr%C4%93vi%C4%8Ds.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -131,14 +131,14 @@ Demande de réception d'eau
 <div class="document-info">
 <div class="date">6 octobre 2026</div>
 <div class="category">Documents pour l'obtention de services pour les navires</div>
-<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/152/1791360538_Elektrības pieteikums_2026_V.Sproģis.docx" target="_blank">
+<a aria-label="Documenter" href="../../../doc/mod/document/152/1791360538_Elektr%C4%ABbas%20pieteikums_2026_V.Spro%C4%A3is.docx" target="_blank">
 
 Demande de réception d'électricité
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1791360538_Elektrības pieteikums_2026_V.Sproģis.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/152/1791360538_Elektrības pieteikums_2026_V.Sproģis.docx" target="_blank">
+<a aria-label="1791360538_Elektrības pieteikums_2026_V.Sproģis.docx" class="document" href="../../../doc/mod/document/152/1791360538_Elektr%C4%ABbas%20pieteikums_2026_V.Spro%C4%A3is.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>

@@ -43,7 +43,7 @@ html.classList.add(localStorage['contrast']);
 <div class="col-12 col-lg-3 mt-5 sidebar-nav ps-0">
 <div class="row document-categories">
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Liepājas ostas noteikumi" class="d-flex align-items-center dc sidebar-nav-icon" data-value="57" href="https://liepaja-sez.lv/lv/dokumenti/57">
+<a aria-label="Liepājas ostas noteikumi" class="d-flex align-items-center dc sidebar-nav-icon" data-value="57" href="../57/index.php">
 <img alt="Liepājas ostas noteikumi" src="https://liepaja-sez.lv/img/round-right-blue.svg"/>
 
 Liepājas ostas noteikumi
@@ -51,7 +51,7 @@ Liepājas ostas noteikumi
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Liepājas ostas maksas" class="d-flex align-items-center dc sidebar-nav-icon" data-value="58" href="https://liepaja-sez.lv/lv/dokumenti/58">
+<a aria-label="Liepājas ostas maksas" class="d-flex align-items-center dc sidebar-nav-icon" data-value="58" href="../58/index.php">
 <img alt="Liepājas ostas maksas" src="https://liepaja-sez.lv/img/round-right-blue.svg"/>
 
 Liepājas ostas maksas
@@ -59,7 +59,7 @@ Liepājas ostas maksas
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Ostas kapteiņa rīkojumi" class="d-flex align-items-center dc sidebar-nav-icon" data-value="17" href="https://liepaja-sez.lv/lv/dokumenti/17">
+<a aria-label="Ostas kapteiņa rīkojumi" class="d-flex align-items-center dc sidebar-nav-icon" data-value="17" href="../17/index.php">
 <img alt="Ostas kapteiņa rīkojumi" src="https://liepaja-sez.lv/img/round-right-blue.svg"/>
 
 Ostas kapteiņa rīkojumi
@@ -67,7 +67,7 @@ Ostas kapteiņa rīkojumi
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Dokumenti saimnieciskās darbības līguma slēgšanai" class="d-flex align-items-center dc sidebar-nav-icon" data-value="8" href="https://liepaja-sez.lv/lv/dokumenti/8">
+<a aria-label="Dokumenti saimnieciskās darbības līguma slēgšanai" class="d-flex align-items-center dc sidebar-nav-icon" data-value="8" href="../8/index.php">
 <img alt="Dokumenti saimnieciskās darbības līguma slēgšanai" src="https://liepaja-sez.lv/img/round-right-blue.svg"/>
 
 Dokumenti saimnieciskās darbības līguma slēgšanai
@@ -75,7 +75,7 @@ Dokumenti saimnieciskās darbības līguma slēgšanai
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Nomas un apbūves tiesības piešķiršanas dokumenti" class="d-flex align-items-center dc sidebar-nav-icon" data-value="51" href="https://liepaja-sez.lv/lv/dokumenti/51">
+<a aria-label="Nomas un apbūves tiesības piešķiršanas dokumenti" class="d-flex align-items-center dc sidebar-nav-icon" data-value="51" href="index.php">
 <img alt="Nomas un apbūves tiesības piešķiršanas dokumenti" src="https://liepaja-sez.lv/img/round-right-blue.svg"/>
 
 Nomas un apbūves tiesības piešķiršanas dokumenti
@@ -83,7 +83,7 @@ Nomas un apbūves tiesības piešķiršanas dokumenti
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Liepājas ostas režīma noteikumi" class="d-flex align-items-center dc sidebar-nav-icon" data-value="32" href="https://liepaja-sez.lv/lv/dokumenti/32">
+<a aria-label="Liepājas ostas režīma noteikumi" class="d-flex align-items-center dc sidebar-nav-icon" data-value="32" href="../32/index.php">
 <img alt="Liepājas ostas režīma noteikumi" src="https://liepaja-sez.lv/img/round-right-blue.svg"/>
 
 Liepājas ostas režīma noteikumi
@@ -91,7 +91,7 @@ Liepājas ostas režīma noteikumi
 </a>
 </div>
 <div class="col-12 col-sm-4 col-md-12 mb-4">
-<a aria-label="Darbības plāns neparedzēta piesārņojuma gadījumā" class="d-flex align-items-center dc sidebar-nav-icon" data-value="37" href="https://liepaja-sez.lv/lv/dokumenti/37">
+<a aria-label="Darbības plāns neparedzēta piesārņojuma gadījumā" class="d-flex align-items-center dc sidebar-nav-icon" data-value="37" href="../37/index.php">
 <img alt="Darbības plāns neparedzēta piesārņojuma gadījumā" src="https://liepaja-sez.lv/img/round-right-blue.svg"/>
 
 Darbības plāns neparedzēta piesārņojuma gadījumā
@@ -115,14 +115,14 @@ Darbības plāns neparedzēta piesārņojuma gadījumā
 <div class="document-info">
 <div class="date">17. jūlijs, 2025</div>
 <div class="category">Nomas un apbūves tiesības piešķiršanas dokumenti</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/232/1753338747_LSEZ apbūves tiesības rezervēšanas un piešķiršanas kārtība.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/232/1753338747_LSEZ%20apb%C5%ABves%20ties%C4%ABbas%20rezerv%C4%93%C5%A1anas%20un%20pie%C5%A1%C4%B7ir%C5%A1anas%20k%C4%81rt%C4%ABba.pdf" target="_blank">
 
 Liepājas speciālās ekonomiskās zonas teritorijā esošo nekustamo īpašumu apbūves tiesības rezervēšanas un apbūves tiesības piešķiršanas kārtība
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1753338747_LSEZ apbūves tiesības rezervēšanas un piešķiršanas kārtība.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/232/1753338747_LSEZ apbūves tiesības rezervēšanas un piešķiršanas kārtība.pdf" target="_blank">
+<a aria-label="1753338747_LSEZ apbūves tiesības rezervēšanas un piešķiršanas kārtība.pdf" class="document" href="../../../doc/mod/document/232/1753338747_LSEZ%20apb%C5%ABves%20ties%C4%ABbas%20rezerv%C4%93%C5%A1anas%20un%20pie%C5%A1%C4%B7ir%C5%A1anas%20k%C4%81rt%C4%ABba.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -131,14 +131,14 @@ Liepājas speciālās ekonomiskās zonas teritorijā esošo nekustamo īpašumu 
 <div class="document-info">
 <div class="date">26. jūlijs, 2024</div>
 <div class="category">Nomas un apbūves tiesības piešķiršanas dokumenti</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/228/1729586930_LIP apbūves tiesības rezervēšanas un piešķiršanas kārtība-1.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/228/1729586930_LIP%20apb%C5%ABves%20ties%C4%ABbas%20rezerv%C4%93%C5%A1anas%20un%20pie%C5%A1%C4%B7ir%C5%A1anas%20k%C4%81rt%C4%ABba-1.pdf" target="_blank">
 
 Liepājas industriālā parka teritorijā esošo nekustamo īpašumu apbūves tiesības rezervēšanas un apbūves tiesības piešķiršanas kārtība
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1729586930_LIP apbūves tiesības rezervēšanas un piešķiršanas kārtība-1.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/228/1729586930_LIP apbūves tiesības rezervēšanas un piešķiršanas kārtība-1.pdf" target="_blank">
+<a aria-label="1729586930_LIP apbūves tiesības rezervēšanas un piešķiršanas kārtība-1.pdf" class="document" href="../../../doc/mod/document/228/1729586930_LIP%20apb%C5%ABves%20ties%C4%ABbas%20rezerv%C4%93%C5%A1anas%20un%20pie%C5%A1%C4%B7ir%C5%A1anas%20k%C4%81rt%C4%ABba-1.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -147,14 +147,14 @@ Liepājas industriālā parka teritorijā esošo nekustamo īpašumu apbūves ti
 <div class="document-info">
 <div class="date">26. jūlijs, 2024</div>
 <div class="category">Nomas un apbūves tiesības piešķiršanas dokumenti</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/229/1721978231_Īpašie nosacījumi komercdarbības veikšanai Liepājas industriālā parka teritorijā.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/229/1721978231_%C4%AApa%C5%A1ie%20nosac%C4%ABjumi%20komercdarb%C4%ABbas%20veik%C5%A1anai%20Liep%C4%81jas%20industri%C4%81l%C4%81%20parka%20teritorij%C4%81.pdf" target="_blank">
 
 Īpašie nosacījumi komercdarbības veikšanai Liepājas industriālā parka teritorijā
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1721978231_Īpašie nosacījumi komercdarbības veikšanai Liepājas industriālā parka teritorijā.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/229/1721978231_Īpašie nosacījumi komercdarbības veikšanai Liepājas industriālā parka teritorijā.pdf" target="_blank">
+<a aria-label="1721978231_Īpašie nosacījumi komercdarbības veikšanai Liepājas industriālā parka teritorijā.pdf" class="document" href="../../../doc/mod/document/229/1721978231_%C4%AApa%C5%A1ie%20nosac%C4%ABjumi%20komercdarb%C4%ABbas%20veik%C5%A1anai%20Liep%C4%81jas%20industri%C4%81l%C4%81%20parka%20teritorij%C4%81.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -163,14 +163,14 @@ Liepājas industriālā parka teritorijā esošo nekustamo īpašumu apbūves ti
 <div class="document-info">
 <div class="date">26. jūlijs, 2024</div>
 <div class="category">Nomas un apbūves tiesības piešķiršanas dokumenti</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/230/1721978295_LIP iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/230/1721978295_LIP%20iesniegums%20apb%C5%ABves%20ties%C4%ABbas%20rezerv%C4%93%C5%A1anai%20un%20pie%C5%A1%C4%B7ir%C5%A1anai.docx" target="_blank">
 
 Iesniegums līguma par apbūves tiesības rezervēšanu vai apbūves tiesības piešķiršanu Liepājas industriālā parka teritorijā slēgšanu
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1721978295_LIP iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/230/1721978295_LIP iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" target="_blank">
+<a aria-label="1721978295_LIP iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" class="document" href="../../../doc/mod/document/230/1721978295_LIP%20iesniegums%20apb%C5%ABves%20ties%C4%ABbas%20rezerv%C4%93%C5%A1anai%20un%20pie%C5%A1%C4%B7ir%C5%A1anai.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -179,14 +179,14 @@ Iesniegums līguma par apbūves tiesības rezervēšanu vai apbūves tiesības p
 <div class="document-info">
 <div class="date">26. jūlijs, 2024</div>
 <div class="category">Nomas un apbūves tiesības piešķiršanas dokumenti</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/231/1721978390_Pielikums_Nr_1.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/231/1721978390_Pielikums_Nr_1.pdf" target="_blank">
 
 Liepājas industriālā parka teritorijas plāns
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1721978390_Pielikums_Nr_1.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/231/1721978390_Pielikums_Nr_1.pdf" target="_blank">
+<a aria-label="1721978390_Pielikums_Nr_1.pdf" class="document" href="../../../doc/mod/document/231/1721978390_Pielikums_Nr_1.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -195,14 +195,14 @@ Liepājas industriālā parka teritorijas plāns
 <div class="document-info">
 <div class="date">26. jūlijs, 2024</div>
 <div class="category">Nomas un apbūves tiesības piešķiršanas dokumenti</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/233/1731307263_LSEZ iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/233/1731307263_LSEZ%20iesniegums%20apb%C5%ABves%20ties%C4%ABbas%20rezerv%C4%93%C5%A1anai%20un%20pie%C5%A1%C4%B7ir%C5%A1anai.docx" target="_blank">
 
 Iesniegums līguma par apbūves tiesības rezervēšanu vai apbūves tiesības piešķiršanu Liepājas speciālās ekonomiskās zonas teritorijā slēgšanu
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1731307263_LSEZ iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/233/1731307263_LSEZ iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" target="_blank">
+<a aria-label="1731307263_LSEZ iesniegums apbūves tiesības rezervēšanai un piešķiršanai.docx" class="document" href="../../../doc/mod/document/233/1731307263_LSEZ%20iesniegums%20apb%C5%ABves%20ties%C4%ABbas%20rezerv%C4%93%C5%A1anai%20un%20pie%C5%A1%C4%B7ir%C5%A1anai.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>

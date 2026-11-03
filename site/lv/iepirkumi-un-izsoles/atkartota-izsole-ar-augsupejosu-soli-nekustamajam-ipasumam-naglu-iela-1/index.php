@@ -164,14 +164,14 @@ Vērtējums
 <div class="document-info py-3">
 <div class="date">18. februāris, 2026</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/353/1771406458_Foto.zip" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/353/1771406458_Foto.zip" target="_blank">
 
 Objekta foto ZIP failā
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1771406458_Foto.zip" class="document" href="https://liepaja-sez.lv/doc/mod/document/353/1771406458_Foto.zip" target="_blank">
+<a aria-label="1771406458_Foto.zip" class="document" href="../../../doc/mod/document/353/1771406458_Foto.zip" target="_blank">
 <i class="bi bi-file-earmark-zip"></i>
 </a>
 </div>

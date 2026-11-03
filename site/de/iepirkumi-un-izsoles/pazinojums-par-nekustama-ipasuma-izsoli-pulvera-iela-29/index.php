@@ -56,12 +56,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">28. August 2025</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/320/1756367201_1754027017_Izsoles_Noteikumi_29072025 labots.docx" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/320/1756367201_1754027017_Izsoles_Noteikumi_29072025%20labots.docx" target="_blank" aria-label="Dokument">
 Auktionsregeln (mit 27.08.2025. (Änderung)
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/320/1756367201_1754027017_Izsoles_Noteikumi_29072025 labots.docx" target="_blank" aria-label="1756367201_1754027017_Izsoles_Noteikumi_29072025 labots.docx">
+<a class="document" href="../../../doc/mod/document/320/1756367201_1754027017_Izsoles_Noteikumi_29072025%20labots.docx" target="_blank" aria-label="1756367201_1754027017_Izsoles_Noteikumi_29072025 labots.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -71,12 +71,12 @@ Auktionsregeln (mit 27.08.2025. (Änderung)
 <div class="document-info py-3">
 <div class="date">28. August 2025</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/321/1756367231_1754026748_Piel_2_Nomas_ligums_IZS_2025_2 labots.docx" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/321/1756367231_1754026748_Piel_2_Nomas_ligums_IZS_2025_2%20labots.docx" target="_blank" aria-label="Dokument">
 Der Mietvertrag (mit 27.08.2025. (Änderung)
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/321/1756367231_1754026748_Piel_2_Nomas_ligums_IZS_2025_2 labots.docx" target="_blank" aria-label="1756367231_1754026748_Piel_2_Nomas_ligums_IZS_2025_2 labots.docx">
+<a class="document" href="../../../doc/mod/document/321/1756367231_1754026748_Piel_2_Nomas_ligums_IZS_2025_2%20labots.docx" target="_blank" aria-label="1756367231_1754026748_Piel_2_Nomas_ligums_IZS_2025_2 labots.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -86,12 +86,12 @@ Der Mietvertrag (mit 27.08.2025. (Änderung)
 <div class="document-info py-3">
 <div class="date">1. August 2025</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/295/1754026833_Piel_3_PL_saraksts_attīrīšanas.xls" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/295/1754026833_Piel_3_PL_saraksts_att%C4%ABr%C4%AB%C5%A1anas.xls" target="_blank" aria-label="Dokument">
 Sachanlagen und immaterielle Investitionen
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/295/1754026833_Piel_3_PL_saraksts_attīrīšanas.xls" target="_blank" aria-label="1754026833_Piel_3_PL_saraksts_attīrīšanas.xls">
+<a class="document" href="../../../doc/mod/document/295/1754026833_Piel_3_PL_saraksts_att%C4%ABr%C4%AB%C5%A1anas.xls" target="_blank" aria-label="1754026833_Piel_3_PL_saraksts_attīrīšanas.xls">
 <i class="bi bi-file-earmark-excel"></i>
 </a>
 </div>
@@ -101,12 +101,12 @@ Sachanlagen und immaterielle Investitionen
 <div class="document-info py-3">
 <div class="date">1. August 2025</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/298/1754027146_Piel_4_pieteikums_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/298/1754027146_Piel_4_pieteikums_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="Dokument">
 Anwendung auf die Auktion
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/298/1754027146_Piel_4_pieteikums_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="1754027146_Piel_4_pieteikums_IZS_2025_1_att_iek_noma.docx">
+<a class="document" href="../../../doc/mod/document/298/1754027146_Piel_4_pieteikums_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="1754027146_Piel_4_pieteikums_IZS_2025_1_att_iek_noma.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -116,12 +116,12 @@ Anwendung auf die Auktion
 <div class="document-info py-3">
 <div class="date">1. August 2025</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/297/1754027083_Piel_5_apliec_reputacija_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/297/1754027083_Piel_5_apliec_reputacija_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="Dokument">
 Nachweis
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/297/1754027083_Piel_5_apliec_reputacija_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="1754027083_Piel_5_apliec_reputacija_IZS_2025_1_att_iek_noma.docx">
+<a class="document" href="../../../doc/mod/document/297/1754027083_Piel_5_apliec_reputacija_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="1754027083_Piel_5_apliec_reputacija_IZS_2025_1_att_iek_noma.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -131,12 +131,12 @@ Nachweis
 <div class="document-info py-3">
 <div class="date">1. August 2025</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/292/1754026608_Piel_1 Pulvera iela 29_noma A4.pdf" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/292/1754026608_Piel_1%20Pulvera%20iela%2029_noma%20A4.pdf" target="_blank" aria-label="Dokument">
 29 Pulvera Street, Plan
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/292/1754026608_Piel_1 Pulvera iela 29_noma A4.pdf" target="_blank" aria-label="1754026608_Piel_1 Pulvera iela 29_noma A4.pdf">
+<a class="document" href="../../../doc/mod/document/292/1754026608_Piel_1%20Pulvera%20iela%2029_noma%20A4.pdf" target="_blank" aria-label="1754026608_Piel_1 Pulvera iela 29_noma A4.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -144,7 +144,7 @@ Nachweis
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/235/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/235/original_" aria-label="Herunterladen" download>
+<a class="image-download"  aria-label="Herunterladen" download href="https://liepaja-sez.lv/img/mod/news/235/original_">
 <img class="download-icon" alt="Herunterladen" src="https://liepaja-sez.lv/img/dl.svg"/>
 </a>
 </div>

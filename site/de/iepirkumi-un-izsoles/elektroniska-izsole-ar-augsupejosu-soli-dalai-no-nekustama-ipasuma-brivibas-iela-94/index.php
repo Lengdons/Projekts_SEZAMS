@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">12. August 2025</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/309/1754991216_Pielikums_1_Pieteikums_Dalibai_Izsole_Brivibas_94.docx" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/309/1754991216_Pielikums_1_Pieteikums_Dalibai_Izsole_Brivibas_94.docx" target="_blank" aria-label="Dokument">
 Beitrittsantrag
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/309/1754991216_Pielikums_1_Pieteikums_Dalibai_Izsole_Brivibas_94.docx" target="_blank" aria-label="1754991216_Pielikums_1_Pieteikums_Dalibai_Izsole_Brivibas_94.docx">
+<a class="document" href="../../../doc/mod/document/309/1754991216_Pielikums_1_Pieteikums_Dalibai_Izsole_Brivibas_94.docx" target="_blank" aria-label="1754991216_Pielikums_1_Pieteikums_Dalibai_Izsole_Brivibas_94.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -80,12 +80,12 @@ Beitrittsantrag
 <div class="document-info py-3">
 <div class="date">12. August 2025</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/310/1754991266_Izsoles_Noteikumi_Brivibas_94.pdf" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/310/1754991266_Izsoles_Noteikumi_Brivibas_94.pdf" target="_blank" aria-label="Dokument">
 Auktionsregeln
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/310/1754991266_Izsoles_Noteikumi_Brivibas_94.pdf" target="_blank" aria-label="1754991266_Izsoles_Noteikumi_Brivibas_94.pdf">
+<a class="document" href="../../../doc/mod/document/310/1754991266_Izsoles_Noteikumi_Brivibas_94.pdf" target="_blank" aria-label="1754991266_Izsoles_Noteikumi_Brivibas_94.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -95,12 +95,12 @@ Auktionsregeln
 <div class="document-info py-3">
 <div class="date">12. August 2025</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/311/1754991313_Vertejums_Liepaja_Brivibas_iela_94.pdf" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/311/1754991313_Vertejums_Liepaja_Brivibas_iela_94.pdf" target="_blank" aria-label="Dokument">
 Bewertung
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/311/1754991313_Vertejums_Liepaja_Brivibas_iela_94.pdf" target="_blank" aria-label="1754991313_Vertejums_Liepaja_Brivibas_iela_94.pdf">
+<a class="document" href="../../../doc/mod/document/311/1754991313_Vertejums_Liepaja_Brivibas_iela_94.pdf" target="_blank" aria-label="1754991313_Vertejums_Liepaja_Brivibas_iela_94.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -110,12 +110,12 @@ Bewertung
 <div class="document-info py-3">
 <div class="date">12. August 2025</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/316/1754991631_Pielikums_4_Objektu_veidojošā_zemes_ierīcības_projekta_plāns_Brivibas_94.pdf" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/316/1754991631_Pielikums_4_Objektu_veidojo%C5%A1%C4%81_zemes_ier%C4%ABc%C4%ABbas_projekta_pl%C4%81ns_Brivibas_94.pdf" target="_blank" aria-label="Dokument">
 94. Teil des neu entstehenden Grundstücks Brivibas Street
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/316/1754991631_Pielikums_4_Objektu_veidojošā_zemes_ierīcības_projekta_plāns_Brivibas_94.pdf" target="_blank" aria-label="1754991631_Pielikums_4_Objektu_veidojošā_zemes_ierīcības_projekta_plāns_Brivibas_94.pdf">
+<a class="document" href="../../../doc/mod/document/316/1754991631_Pielikums_4_Objektu_veidojo%C5%A1%C4%81_zemes_ier%C4%ABc%C4%ABbas_projekta_pl%C4%81ns_Brivibas_94.pdf" target="_blank" aria-label="1754991631_Pielikums_4_Objektu_veidojošā_zemes_ierīcības_projekta_plāns_Brivibas_94.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -125,12 +125,12 @@ Bewertung
 <div class="document-info py-3">
 <div class="date">12. August 2025</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/315/1754991567_Pielikums_5_Jaunveidojamā_objekta_plāns_Brivibas_94.pdf" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/315/1754991567_Pielikums_5_Jaunveidojam%C4%81_objekta_pl%C4%81ns_Brivibas_94.pdf" target="_blank" aria-label="Dokument">
 Plan für die Entwicklung eines Teils des Grundstücks
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/315/1754991567_Pielikums_5_Jaunveidojamā_objekta_plāns_Brivibas_94.pdf" target="_blank" aria-label="1754991567_Pielikums_5_Jaunveidojamā_objekta_plāns_Brivibas_94.pdf">
+<a class="document" href="../../../doc/mod/document/315/1754991567_Pielikums_5_Jaunveidojam%C4%81_objekta_pl%C4%81ns_Brivibas_94.pdf" target="_blank" aria-label="1754991567_Pielikums_5_Jaunveidojamā_objekta_plāns_Brivibas_94.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -143,37 +143,37 @@ Plan für die Entwicklung eines Teils des Grundstücks
 </div>
 <div class="carousel-inner">
 <div class="carousel-item active" style="" data-zmh="group0">
-<a href="https://liepaja-sez.lv/img/block/news-banner/36/1920_1754991687_DJI_0097.webp" data-fancybox="image0" data-caption="">
+<a href="../../../img/block/news-banner/36/1920_1754991687_DJI_0097.webp" data-fancybox="image0" data-caption="">
 <img class="img-fluid" src="https://liepaja-sez.lv/img/block/news-banner/36/1754991687_DJI_0097.webp" alt="Slide1" data-zmh="group0"/>
 </a>
 </div>
 
 <div class="carousel-item " style="" data-zmh="group1">
-<a href="https://liepaja-sez.lv/img/block/news-banner/37/1920_1754991700__R1A9999.webp" data-fancybox="image1" data-caption="">
+<a href="../../../img/block/news-banner/37/1920_1754991700__R1A9999.webp" data-fancybox="image1" data-caption="">
 <img class="img-fluid" src="https://liepaja-sez.lv/img/block/news-banner/37/1754991700__R1A9999.webp" alt="Slide2" data-zmh="group1"/>
 </a>
 </div>
 
 <div class="carousel-item " style="" data-zmh="group2">
-<a href="https://liepaja-sez.lv/img/block/news-banner/38/1920_1754991712__R1A0017.webp" data-fancybox="image2" data-caption="">
+<a href="../../../img/block/news-banner/38/1920_1754991712__R1A0017.webp" data-fancybox="image2" data-caption="">
 <img class="img-fluid" src="https://liepaja-sez.lv/img/block/news-banner/38/1754991712__R1A0017.webp" alt="Dia3" data-zmh="group2"/>
 </a>
 </div>
 
 <div class="carousel-item " style="" data-zmh="group3">
-<a href="https://liepaja-sez.lv/img/block/news-banner/39/1920_1754991721__R1A0008.webp" data-fancybox="image3" data-caption="">
+<a href="../../../img/block/news-banner/39/1920_1754991721__R1A0008.webp" data-fancybox="image3" data-caption="">
 <img class="img-fluid" src="https://liepaja-sez.lv/img/block/news-banner/39/1754991721__R1A0008.webp" alt="Slide4" data-zmh="group3"/>
 </a>
 </div>
 
 <div class="carousel-item " style="" data-zmh="group4">
-<a href="https://liepaja-sez.lv/img/block/news-banner/40/1920_1754991732__R1A0002.webp" data-fancybox="image4" data-caption="">
+<a href="../../../img/block/news-banner/40/1920_1754991732__R1A0002.webp" data-fancybox="image4" data-caption="">
 <img class="img-fluid" src="https://liepaja-sez.lv/img/block/news-banner/40/1754991732__R1A0002.webp" alt="Dia 5" data-zmh="group4"/>
 </a>
 </div>
 
 <div class="carousel-item " style="" data-zmh="group5">
-<a href="https://liepaja-sez.lv/img/block/news-banner/41/1920_1754991741_DJI_0055.webp" data-fancybox="image5" data-caption="">
+<a href="../../../img/block/news-banner/41/1920_1754991741_DJI_0055.webp" data-fancybox="image5" data-caption="">
 <img class="img-fluid" src="https://liepaja-sez.lv/img/block/news-banner/41/1754991741_DJI_0055.webp" alt="Slide6" data-zmh="group5"/>
 </a>
 </div>

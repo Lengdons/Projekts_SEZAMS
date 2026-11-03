@@ -55,7 +55,7 @@ html.classList.add(localStorage['contrast']);
 <h1 class="article-title">Liepājas speciālās ekonomiskās zonas pārvaldes valdījumā esoša nekustamā īpašuma nomas tiesību rakstiska izsole</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p><strong>“Liepājas speciālās ekonomiskās zonas pārvalde</strong> (turpmāk – Pārvalde), vienotais reģistrācijas Nr.LV90000329402, juridiskā adrese Fēniksa iela 4, Liepāja, LV-3401, <strong>paziņo, ka</strong>&nbsp;</p><p><strong>Pārvaldes organizētā nomas tiesību rakstiskā izsole</strong> Liepājas speciālās ekonomiskās zonas pārvaldes valdījumā esošam nekustamam īpašumam Pulvera ielā 29, Liepājā (kadastra Nr.1700 010 0303), kas sastāv no zemesgabala daļām kopā 5397 m<sup>2</sup> platībā un uz tām esošām sešām būvēm – “Administratīvā ēka”, kadastra apzīmējums 1700 010 0303 001, “Katlu māja”, kadastra apzīmējums 1700 010 0303 002, “Naftas saturošo notekūdeņu attīrīšanas ietaises”, kadastra apzīmējums 1700 010 0303 003, “Sūkņu māja”, kadastra apzīmējums 1700 010 0303 004, “Sadales stacija”, kadastra apzīmējums 1700 010 0303 005, “Pieņemšanas stacija”, kadastra apzīmējums 1700 010 0303 006 un Pārvaldei piederošām inženierbūvēm (inženiertehniskās ietaises, rezervuāri, utt.), kas nodrošina naftas notekūdeņu attīrīšanas iekārtas kompleksa funkciju izpildīšanu attīrīšanas iekārtām,&nbsp;</p><p>ir <strong>atzīta par nenotikušu</strong>.”</p><p>__________________________</p><p>&nbsp;</p><p><i><strong>Uzmanību, veikti papildinājumi!</strong></i></p><p><i>Liepājas speciālās ekonomiskās zonas pārvalde 02.06.2025. veikusi grozījumus Liepājas ostas attīrīšanas iekārtu nomas tiesību līgumprojekta 2.2.20.; 4.8.; 4.8.4.; 4.8.6.; 4.8.7., 4.8.8. un 4.8.9.punktos. Veiktos grozījumus skatīt pievienotajā failā “Piel._2_Nomas_ligums_ar 02.06.2025. grozījumiem&gt;LSEZ_IZS_2025_1_noma”.</i></p><p><strong>“Izsoles dalībnieku reģistrācija notiek no 2025. gada 3.marta plkst. 08:00 līdz 2025. gada 13.jūnija plkst.16.30. Izsoles dalībniekam personīgi vai ar pilnvarotas personas starpniecību piedāvājums ir jāiesniedz Pārvaldē, Fēniksa ielā 4, Liepājā, paziņojumā par izsoli norādītajā izsoles dalībnieku pieteikšanās termiņā (Pārvaldes darba laikā no plkst.8:00-12.00 un no plkst.12:30-16:30), līdz 2025.gada 13.jūnijam. Piedāvājumi tiks atvērti 2025.gada 16.jūnijā plkst. 13:00.”</strong><br><br>Liepājas speciālās ekonomiskās zonas pārvalde (turpmāk – Pārvalde), vienotais reģistrācijas Nr.LV90000329402, juridiskā adrese Fēniksa iela 4, Liepāja, LV-3401, organizē &nbsp;nomas tiesību rakstisku izsoli Liepājas speciālās ekonomiskās zonas pārvaldes valdījumā esošam nekustamam īpašumam Pulvera ielā 29, Liepājā (kadastra Nr.1700 010 0303), kas sastāv no zemesgabala daļām kopā 5397 m2 platībā un uz tām esošām sešām būvēm – “Administratīvā ēka”, kadastra apzīmējums 1700 010 0303 001, “Katlu māja”, kadastra apzīmējums 1700 010 0303 002, “Naftas saturošo notekūdeņu attīrīšanas ietaises”, kadastra apzīmējums 1700 010 0303 003, “Sūkņu māja”, kadastra apzīmējums 1700 010 0303 004, “Sadales stacija”, kadastra apzīmējums 1700 010 0303 005, “Pieņemšanas stacija”, kadastra apzīmējums 1700 010 0303 006 un Pārvaldei piederošām inženierbūvēm (inženiertehniskās ietaises, rezervuāri, utt.), kas nodrošina naftas notekūdeņu attīrīšanas iekārtas kompleksa funkciju izpildīšanu attīrīšanas iekārtām.</p><p>Izsoles mērķis ir noteikt Nomas objekta nomnieku, kurš piedāvā saimnieciski visizdevīgāko piedāvājumu nomas tiesību nodibināšanai un apņemas visā Nomas līguma darbības laikā pieņemt Liepājas ostā ienākošo kuģu sanitāro maksu ietvaros nodotos atkritumus saskaņā ar Marpol I pielikumu un nodrošināt šo atkritumu attīrīšanu atbilstoši normatīvo aktu prasībām.</p><p>Nosacītās nomas maksas sākumcena ir 2087 EUR (divi tūkstoši astoņdesmit septiņi euro un 00 centi) mēnesī, bez pievienotās vērtības nodokļa.</p><p>Izsoles nodrošinājums 6000 EUR (seši tūkstoši euro un 00 centi) izsoles dalībniekam līdz pieteikuma par piedalīšanos izsolē iesniegšanai, jāpārskaita Pārvaldei: vienotais reģistrācijas Nr. LV90000329402, AS “Swedbank”, konta Nr. LV12HABA0001407037000, ar atzīmi “Izsoles nodrošinājums par piedalīšanos nekustamā īpašuma Pulvera iela 29, Liepājā, nomas tiesību rakstiskā izsolē”.</p><p>Izsoles dalībniekiem ir pienākums iepazīties ar Nomas objekta un tajā ietilpstošo attīrīšanas iekārtu dokumentiem un veikt Nomas objekta apskati dabā, iepriekš vienojoties par apskates laiku.</p><p>Izsoles noteikumi publicēti Pārvaldes interneta tīmekļvietnē <a href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/">https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/</a> sadaļā “Iepirkumi un izsoles”.</p><p>Izsoles dalībnieku reģistrācija notiek no 2025. gada 3.marta plkst. 08:00 līdz 2025. gada 11.aprīļa plkst. 16.30.</p><p>Izsoles dalībniekam personīgi vai ar pilnvarotas personas starpniecību &nbsp;piedāvājums ir jāiesniedz Pārvaldē, Fēniksa ielā 4, Liepājā, paziņojumā par izsoli norādītajā izsoles dalībnieku pieteikšanās termiņā (Pārvaldes darba laikā no plkst.8:00-12.00 un no plkst.12:30-16:30), līdz 2025.gada 11.aprīlim. Piedāvājumi tiks atvērti 2025.gada 14.aprīlī plkst. 13:00.</p><p>Kontaktinformācija par izsoles dokumentāciju pa tālruni 26449898.</p></div>
+<div class="col"><div class="col-12 output"><p><strong>“Liepājas speciālās ekonomiskās zonas pārvalde</strong> (turpmāk – Pārvalde), vienotais reģistrācijas Nr.LV90000329402, juridiskā adrese Fēniksa iela 4, Liepāja, LV-3401, <strong>paziņo, ka</strong>&nbsp;</p><p><strong>Pārvaldes organizētā nomas tiesību rakstiskā izsole</strong> Liepājas speciālās ekonomiskās zonas pārvaldes valdījumā esošam nekustamam īpašumam Pulvera ielā 29, Liepājā (kadastra Nr.1700 010 0303), kas sastāv no zemesgabala daļām kopā 5397 m<sup>2</sup> platībā un uz tām esošām sešām būvēm – “Administratīvā ēka”, kadastra apzīmējums 1700 010 0303 001, “Katlu māja”, kadastra apzīmējums 1700 010 0303 002, “Naftas saturošo notekūdeņu attīrīšanas ietaises”, kadastra apzīmējums 1700 010 0303 003, “Sūkņu māja”, kadastra apzīmējums 1700 010 0303 004, “Sadales stacija”, kadastra apzīmējums 1700 010 0303 005, “Pieņemšanas stacija”, kadastra apzīmējums 1700 010 0303 006 un Pārvaldei piederošām inženierbūvēm (inženiertehniskās ietaises, rezervuāri, utt.), kas nodrošina naftas notekūdeņu attīrīšanas iekārtas kompleksa funkciju izpildīšanu attīrīšanas iekārtām,&nbsp;</p><p>ir <strong>atzīta par nenotikušu</strong>.”</p><p>__________________________</p><p>&nbsp;</p><p><i><strong>Uzmanību, veikti papildinājumi!</strong></i></p><p><i>Liepājas speciālās ekonomiskās zonas pārvalde 02.06.2025. veikusi grozījumus Liepājas ostas attīrīšanas iekārtu nomas tiesību līgumprojekta 2.2.20.; 4.8.; 4.8.4.; 4.8.6.; 4.8.7., 4.8.8. un 4.8.9.punktos. Veiktos grozījumus skatīt pievienotajā failā “Piel._2_Nomas_ligums_ar 02.06.2025. grozījumiem&gt;LSEZ_IZS_2025_1_noma”.</i></p><p><strong>“Izsoles dalībnieku reģistrācija notiek no 2025. gada 3.marta plkst. 08:00 līdz 2025. gada 13.jūnija plkst.16.30. Izsoles dalībniekam personīgi vai ar pilnvarotas personas starpniecību piedāvājums ir jāiesniedz Pārvaldē, Fēniksa ielā 4, Liepājā, paziņojumā par izsoli norādītajā izsoles dalībnieku pieteikšanās termiņā (Pārvaldes darba laikā no plkst.8:00-12.00 un no plkst.12:30-16:30), līdz 2025.gada 13.jūnijam. Piedāvājumi tiks atvērti 2025.gada 16.jūnijā plkst. 13:00.”</strong><br><br>Liepājas speciālās ekonomiskās zonas pārvalde (turpmāk – Pārvalde), vienotais reģistrācijas Nr.LV90000329402, juridiskā adrese Fēniksa iela 4, Liepāja, LV-3401, organizē &nbsp;nomas tiesību rakstisku izsoli Liepājas speciālās ekonomiskās zonas pārvaldes valdījumā esošam nekustamam īpašumam Pulvera ielā 29, Liepājā (kadastra Nr.1700 010 0303), kas sastāv no zemesgabala daļām kopā 5397 m2 platībā un uz tām esošām sešām būvēm – “Administratīvā ēka”, kadastra apzīmējums 1700 010 0303 001, “Katlu māja”, kadastra apzīmējums 1700 010 0303 002, “Naftas saturošo notekūdeņu attīrīšanas ietaises”, kadastra apzīmējums 1700 010 0303 003, “Sūkņu māja”, kadastra apzīmējums 1700 010 0303 004, “Sadales stacija”, kadastra apzīmējums 1700 010 0303 005, “Pieņemšanas stacija”, kadastra apzīmējums 1700 010 0303 006 un Pārvaldei piederošām inženierbūvēm (inženiertehniskās ietaises, rezervuāri, utt.), kas nodrošina naftas notekūdeņu attīrīšanas iekārtas kompleksa funkciju izpildīšanu attīrīšanas iekārtām.</p><p>Izsoles mērķis ir noteikt Nomas objekta nomnieku, kurš piedāvā saimnieciski visizdevīgāko piedāvājumu nomas tiesību nodibināšanai un apņemas visā Nomas līguma darbības laikā pieņemt Liepājas ostā ienākošo kuģu sanitāro maksu ietvaros nodotos atkritumus saskaņā ar Marpol I pielikumu un nodrošināt šo atkritumu attīrīšanu atbilstoši normatīvo aktu prasībām.</p><p>Nosacītās nomas maksas sākumcena ir 2087 EUR (divi tūkstoši astoņdesmit septiņi euro un 00 centi) mēnesī, bez pievienotās vērtības nodokļa.</p><p>Izsoles nodrošinājums 6000 EUR (seši tūkstoši euro un 00 centi) izsoles dalībniekam līdz pieteikuma par piedalīšanos izsolē iesniegšanai, jāpārskaita Pārvaldei: vienotais reģistrācijas Nr. LV90000329402, AS “Swedbank”, konta Nr. LV12HABA0001407037000, ar atzīmi “Izsoles nodrošinājums par piedalīšanos nekustamā īpašuma Pulvera iela 29, Liepājā, nomas tiesību rakstiskā izsolē”.</p><p>Izsoles dalībniekiem ir pienākums iepazīties ar Nomas objekta un tajā ietilpstošo attīrīšanas iekārtu dokumentiem un veikt Nomas objekta apskati dabā, iepriekš vienojoties par apskates laiku.</p><p>Izsoles noteikumi publicēti Pārvaldes interneta tīmekļvietnē <a href="../index.php">https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/</a> sadaļā “Iepirkumi un izsoles”.</p><p>Izsoles dalībnieku reģistrācija notiek no 2025. gada 3.marta plkst. 08:00 līdz 2025. gada 11.aprīļa plkst. 16.30.</p><p>Izsoles dalībniekam personīgi vai ar pilnvarotas personas starpniecību &nbsp;piedāvājums ir jāiesniedz Pārvaldē, Fēniksa ielā 4, Liepājā, paziņojumā par izsoli norādītajā izsoles dalībnieku pieteikšanās termiņā (Pārvaldes darba laikā no plkst.8:00-12.00 un no plkst.12:30-16:30), līdz 2025.gada 11.aprīlim. Piedāvājumi tiks atvērti 2025.gada 14.aprīlī plkst. 13:00.</p><p>Kontaktinformācija par izsoles dokumentāciju pa tālruni 26449898.</p></div>
 </div>
 </div>
 </div><h1 class="block-title mt-3">Pielikumi<span></span></h1>
@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">2. jūnijs, 2025</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/277/1749022049_Piel_2_Nomas_ligums_ar 02.06.2025 grozījumiem_ LSEZ_IZS_2025_1_noma.docx" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/277/1749022049_Piel_2_Nomas_ligums_ar%2002.06.2025%20groz%C4%ABjumiem_%20LSEZ_IZS_2025_1_noma.docx" target="_blank" aria-label="Dokuments">
 Nekustamā īpašuma nomas līgums ar 2025.gada 2.jūnija grozījumiem
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/277/1749022049_Piel_2_Nomas_ligums_ar 02.06.2025 grozījumiem_ LSEZ_IZS_2025_1_noma.docx" target="_blank" aria-label="1749022049_Piel_2_Nomas_ligums_ar 02.06.2025 grozījumiem_ LSEZ_IZS_2025_1_noma.docx">
+<a class="document" href="../../../doc/mod/document/277/1749022049_Piel_2_Nomas_ligums_ar%2002.06.2025%20groz%C4%ABjumiem_%20LSEZ_IZS_2025_1_noma.docx" target="_blank" aria-label="1749022049_Piel_2_Nomas_ligums_ar 02.06.2025 grozījumiem_ LSEZ_IZS_2025_1_noma.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>							
 </div>
@@ -80,12 +80,12 @@ Nekustamā īpašuma nomas līgums ar 2025.gada 2.jūnija grozījumiem
 <div class="document-info py-3">
 <div class="date">28. februāris, 2025</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/262/1740729644_Piel_2_Nomas_ligums_LSEZ_IZS_2025_1_noma.docx" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/262/1740729644_Piel_2_Nomas_ligums_LSEZ_IZS_2025_1_noma.docx" target="_blank" aria-label="Dokuments">
 Nomas līgums
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/262/1740729644_Piel_2_Nomas_ligums_LSEZ_IZS_2025_1_noma.docx" target="_blank" aria-label="1740729644_Piel_2_Nomas_ligums_LSEZ_IZS_2025_1_noma.docx">
+<a class="document" href="../../../doc/mod/document/262/1740729644_Piel_2_Nomas_ligums_LSEZ_IZS_2025_1_noma.docx" target="_blank" aria-label="1740729644_Piel_2_Nomas_ligums_LSEZ_IZS_2025_1_noma.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>							
 </div>
@@ -95,12 +95,12 @@ Nomas līgums
 <div class="document-info py-3">
 <div class="date">28. februāris, 2025</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/263/1740729720_Pazinojums_par_izsoli_LSEZ_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/263/1740729720_Pazinojums_par_izsoli_LSEZ_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="Dokuments">
 Paziņojums par izsoli
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/263/1740729720_Pazinojums_par_izsoli_LSEZ_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="1740729720_Pazinojums_par_izsoli_LSEZ_IZS_2025_1_att_iek_noma.docx">
+<a class="document" href="../../../doc/mod/document/263/1740729720_Pazinojums_par_izsoli_LSEZ_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="1740729720_Pazinojums_par_izsoli_LSEZ_IZS_2025_1_att_iek_noma.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>							
 </div>
@@ -110,12 +110,12 @@ Paziņojums par izsoli
 <div class="document-info py-3">
 <div class="date">28. februāris, 2025</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/257/1740729307_Izsoles_Noteikumi_LSEZ_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/257/1740729307_Izsoles_Noteikumi_LSEZ_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="Dokuments">
 Izsoles noteikumi
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/257/1740729307_Izsoles_Noteikumi_LSEZ_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="1740729307_Izsoles_Noteikumi_LSEZ_IZS_2025_1_att_iek_noma.docx">
+<a class="document" href="../../../doc/mod/document/257/1740729307_Izsoles_Noteikumi_LSEZ_IZS_2025_1_att_iek_noma.docx" target="_blank" aria-label="1740729307_Izsoles_Noteikumi_LSEZ_IZS_2025_1_att_iek_noma.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>							
 </div>
@@ -125,12 +125,12 @@ Izsoles noteikumi
 <div class="document-info py-3">
 <div class="date">28. februāris, 2025</div>
 <div class="category mb-2">Visi</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/259/1740729432_Piel_4_pieteikums_LSEZ_IZS_2025_1_attirisana_noma.docx" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/259/1740729432_Piel_4_pieteikums_LSEZ_IZS_2025_1_attirisana_noma.docx" target="_blank" aria-label="Dokuments">
 Pieteikums dalībai izsolē
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/259/1740729432_Piel_4_pieteikums_LSEZ_IZS_2025_1_attirisana_noma.docx" target="_blank" aria-label="1740729432_Piel_4_pieteikums_LSEZ_IZS_2025_1_attirisana_noma.docx">
+<a class="document" href="../../../doc/mod/document/259/1740729432_Piel_4_pieteikums_LSEZ_IZS_2025_1_attirisana_noma.docx" target="_blank" aria-label="1740729432_Piel_4_pieteikums_LSEZ_IZS_2025_1_attirisana_noma.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>							
 </div>
@@ -140,12 +140,12 @@ Pieteikums dalībai izsolē
 <div class="document-info py-3">
 <div class="date">28. februāris, 2025</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/260/1740729512_Piel_1 Pulvera iela 29_noma A4 (3).pdf" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/260/1740729512_Piel_1%20Pulvera%20iela%2029_noma%20A4%20%283%29.pdf" target="_blank" aria-label="Dokuments">
 Zemesgabala robežas
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/260/1740729512_Piel_1 Pulvera iela 29_noma A4 (3).pdf" target="_blank" aria-label="1740729512_Piel_1 Pulvera iela 29_noma A4 (3).pdf">
+<a class="document" href="../../../doc/mod/document/260/1740729512_Piel_1%20Pulvera%20iela%2029_noma%20A4%20%283%29.pdf" target="_blank" aria-label="1740729512_Piel_1 Pulvera iela 29_noma A4 (3).pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -155,12 +155,12 @@ Zemesgabala robežas
 <div class="document-info py-3">
 <div class="date">28. februāris, 2025</div>
 <div class="category mb-2">Visi</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/258/1740729389_Piel_3_PL_saraksts_LSEZ_IZS_2025_1_attirisanas.xls" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/258/1740729389_Piel_3_PL_saraksts_LSEZ_IZS_2025_1_attirisanas.xls" target="_blank" aria-label="Dokuments">
 Pamatlīdzekļi un nemateriālie ieguldījumi
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/258/1740729389_Piel_3_PL_saraksts_LSEZ_IZS_2025_1_attirisanas.xls" target="_blank" aria-label="1740729389_Piel_3_PL_saraksts_LSEZ_IZS_2025_1_attirisanas.xls">
+<a class="document" href="../../../doc/mod/document/258/1740729389_Piel_3_PL_saraksts_LSEZ_IZS_2025_1_attirisanas.xls" target="_blank" aria-label="1740729389_Piel_3_PL_saraksts_LSEZ_IZS_2025_1_attirisanas.xls">
 <i class="bi bi-file-earmark-excel"></i>
 </a>							
 </div>
@@ -170,12 +170,12 @@ Pamatlīdzekļi un nemateriālie ieguldījumi
 <div class="document-info py-3">
 <div class="date">28. februāris, 2025</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/261/1740729581_Piel_5_apliec_reputacija_LSEZ_IZS_2025_1_attirisana_noma.docx" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/261/1740729581_Piel_5_apliec_reputacija_LSEZ_IZS_2025_1_attirisana_noma.docx" target="_blank" aria-label="Dokuments">
 Apliecinājums
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/261/1740729581_Piel_5_apliec_reputacija_LSEZ_IZS_2025_1_attirisana_noma.docx" target="_blank" aria-label="1740729581_Piel_5_apliec_reputacija_LSEZ_IZS_2025_1_attirisana_noma.docx">
+<a class="document" href="../../../doc/mod/document/261/1740729581_Piel_5_apliec_reputacija_LSEZ_IZS_2025_1_attirisana_noma.docx" target="_blank" aria-label="1740729581_Piel_5_apliec_reputacija_LSEZ_IZS_2025_1_attirisana_noma.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>							
 </div>
@@ -183,7 +183,7 @@ Apliecinājums
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/208/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/208/original_" aria-label="Lejupielādēt" download>
+<a class="image-download"  aria-label="Lejupielādēt" download href="https://liepaja-sez.lv/img/mod/news/208/original_">
 <img class="download-icon" alt="Lejupielādēt" src="https://liepaja-sez.lv/img/dl.svg"/>	
 </a>															
 </div>
@@ -205,11 +205,11 @@ Apliecinājums
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas SEZ pārvalde rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Liepājas speciālās ekonomiskās zonas pārvalde, vienotais reģistrācijas Nr.LV90000329402, rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3, Liepājā, kas sastāvēs no zemes vienības ar kopējo platību 51521 m2 un 12 būvēm.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>
@@ -220,7 +220,7 @@ Apliecinājums
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Iepirkuma priekšmets: 
 Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība
@@ -228,7 +228,7 @@ IDENTIFIKĀCIJAS NUMURS LSEZ 2026/12
 Galvenais CPV kods: 45241500-3 (Kuģu piestātnes būvdarbi). 
 </div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>

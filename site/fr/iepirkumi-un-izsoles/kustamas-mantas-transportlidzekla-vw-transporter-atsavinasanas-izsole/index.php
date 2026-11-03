@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">17 juin 2025</div>
 <div class="category mb-2">Marchés publics et ventes aux enchères</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/279/1750136525_Noteikumi_2025_5_VW_TYransporter_CZ2545_1v.docx" target="_blank" aria-label="Documenter">
+<a href="../../../doc/mod/document/279/1750136525_Noteikumi_2025_5_VW_TYransporter_CZ2545_1v.docx" target="_blank" aria-label="Documenter">
 Règles des enchères pour VW Transporter (2007)
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/279/1750136525_Noteikumi_2025_5_VW_TYransporter_CZ2545_1v.docx" target="_blank" aria-label="1750136525_Noteikumi_2025_5_VW_TYransporter_CZ2545_1v.docx">
+<a class="document" href="../../../doc/mod/document/279/1750136525_Noteikumi_2025_5_VW_TYransporter_CZ2545_1v.docx" target="_blank" aria-label="1750136525_Noteikumi_2025_5_VW_TYransporter_CZ2545_1v.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>							
 </div>
@@ -78,7 +78,7 @@ Règles des enchères pour VW Transporter (2007)
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/224/870_1750136361_Foto_1.webp"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/224/original_1750136361_Foto_1.webp" aria-label="Télécharger" download>
+<a class="image-download" href="../../../img/mod/news/224/original_1750136361_Foto_1.webp" aria-label="Télécharger" download>
 <img class="download-icon" alt="Télécharger" src="https://liepaja-sez.lv/img/dl.svg"/>	
 </a>															
 </div>

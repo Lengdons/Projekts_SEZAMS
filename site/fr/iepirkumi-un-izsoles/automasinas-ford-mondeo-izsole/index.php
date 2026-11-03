@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">7 août 2023</div>
 <div class="category mb-2">Tout le monde</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/122/1705053985_vērtējums.pdf" target="_blank" aria-label="Documenter">
+<a href="../../../doc/mod/document/122/1705053985_v%C4%93rt%C4%93jums.pdf" target="_blank" aria-label="Documenter">
 Évaluation de la voiture
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/122/1705053985_vērtējums.pdf" target="_blank" aria-label="1705053985_vērtējums.pdf">
+<a class="document" href="../../../doc/mod/document/122/1705053985_v%C4%93rt%C4%93jums.pdf" target="_blank" aria-label="1705053985_vērtējums.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -80,12 +80,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">7 août 2023</div>
 <div class="category mb-2">Marchés publics et ventes aux enchères</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/123/1705054019_sludinājums.docx" target="_blank" aria-label="Documenter">
+<a href="../../../doc/mod/document/123/1705054019_sludin%C4%81jums.docx" target="_blank" aria-label="Documenter">
 Publicité
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/123/1705054019_sludinājums.docx" target="_blank" aria-label="1705054019_sludinājums.docx">
+<a class="document" href="../../../doc/mod/document/123/1705054019_sludin%C4%81jums.docx" target="_blank" aria-label="1705054019_sludinājums.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>							
 </div>
@@ -95,12 +95,12 @@ Publicité
 <div class="document-info py-3">
 <div class="date">7 août 2023</div>
 <div class="category mb-2">Marchés publics et ventes aux enchères</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/124/1705054051_atkārtotas_izsoles_noteikumi.docx" target="_blank" aria-label="Documenter">
+<a href="../../../doc/mod/document/124/1705054051_atk%C4%81rtotas_izsoles_noteikumi.docx" target="_blank" aria-label="Documenter">
 Règles de réenchère
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/124/1705054051_atkārtotas_izsoles_noteikumi.docx" target="_blank" aria-label="1705054051_atkārtotas_izsoles_noteikumi.docx">
+<a class="document" href="../../../doc/mod/document/124/1705054051_atk%C4%81rtotas_izsoles_noteikumi.docx" target="_blank" aria-label="1705054051_atkārtotas_izsoles_noteikumi.docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>							
 </div>
@@ -108,7 +108,7 @@ Règles de réenchère
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/84/870_1705053908_Ford_2 (1).webp"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/84/original_1705053908_Ford_2 (1).webp" aria-label="Télécharger" download>
+<a class="image-download" href="../../../img/mod/news/84/original_1705053908_Ford_2%20%281%29.webp" aria-label="Télécharger" download>
 <img class="download-icon" alt="Télécharger" src="https://liepaja-sez.lv/img/dl.svg"/>	
 </a>															
 </div>

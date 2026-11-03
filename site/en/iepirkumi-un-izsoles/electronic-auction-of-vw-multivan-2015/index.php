@@ -47,13 +47,13 @@
 <h1 class="article-title">Liepāja Special Economic Zone Authority Holds an Electronic Ascending-Bid Auction for a VW Multivan (2015)</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>The auction takes place on the electronic auction website <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv/</a>.</p><p>The auction begins on <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv/</a> on 26 October 2023 at 13:00 and ends on 27 November 2023 at 13:00.</p><p>Bidder registration is open from 26 October 2023 at 13:00 until 15 November 2023 at 23:59 on the electronic auction website <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv/</a>.</p><p>The vehicle may be inspected until 15 November 2023 by arranging a visit in advance by calling 29426284 (Ainars).</p><p>The auction rules are available on the website <a href="https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi</a>.</p></div>
+<div class="col"><div class="col-12 output"><p>The auction takes place on the electronic auction website <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv/</a>.</p><p>The auction begins on <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv/</a> on 26 October 2023 at 13:00 and ends on 27 November 2023 at 13:00.</p><p>Bidder registration is open from 26 October 2023 at 13:00 until 15 November 2023 at 23:59 on the electronic auction website <a href="https://izsoles.ta.gov.lv/">https://izsoles.ta.gov.lv/</a>.</p><p>The vehicle may be inspected until 15 November 2023 by arranging a visit in advance by calling 29426284 (Ainars).</p><p>The auction rules are available on the website <a href="../index.php">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi</a>.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/81/870_1705048236_Foto_2.webp" style="width: 100%;"/>
-<a aria-label="Download" class="image-download" download="" href="https://liepaja-sez.lv/img/mod/news/81/original_1705048236_Foto_2.webp">
+<a aria-label="Download" class="image-download" download="" href="../../../img/mod/news/81/original_1705048236_Foto_2.webp">
 <img alt="Lejupielādēt" class="download-icon" src="https://liepaja-sez.lv/img/dl.svg"/>
 </a>
 </div>

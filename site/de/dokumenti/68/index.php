@@ -115,14 +115,14 @@ Notfallplan bei unvorhergesehenen Umweltverschmutzungen
 <div class="document-info">
 <div class="date">25. September 2026</div>
 <div class="category">Preisliste für kostenpflichtige Dienstleistungen</div>
-<a aria-label="Dokument" href="https://liepaja-sez.lv/doc/mod/document/395/1790661291_Maksas_pakalpojumu_cenrādis_mājas lapa.pdf" target="_blank">
+<a aria-label="Dokument" href="../../../doc/mod/document/395/1790661291_Maksas_pakalpojumu_cenr%C4%81dis_m%C4%81jas%20lapa.pdf" target="_blank">
 
 Preisliste für kostenpflichtige Dienstleistungen
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1790661291_Maksas_pakalpojumu_cenrādis_mājas lapa.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/395/1790661291_Maksas_pakalpojumu_cenrādis_mājas lapa.pdf" target="_blank">
+<a aria-label="1790661291_Maksas_pakalpojumu_cenrādis_mājas lapa.pdf" class="document" href="../../../doc/mod/document/395/1790661291_Maksas_pakalpojumu_cenr%C4%81dis_m%C4%81jas%20lapa.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>

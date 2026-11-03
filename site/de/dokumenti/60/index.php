@@ -115,14 +115,14 @@ Notfallplan bei unvorhergesehenen Umweltverschmutzungen
 <div class="document-info">
 <div class="date">1. April 2026</div>
 <div class="category">Corporate Governance</div>
-<a aria-label="Dokument" href="https://liepaja-sez.lv/doc/mod/document/357/1775023725_pdfpro_merged.pdf" target="_blank">
+<a aria-label="Dokument" href="../../../doc/mod/document/357/1775023725_pdfpro_merged.pdf" target="_blank">
 
 Qualitätspolitik und ISO 9001:2015 Zertifikat
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1775023725_pdfpro_merged.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/357/1775023725_pdfpro_merged.pdf" target="_blank">
+<a aria-label="1775023725_pdfpro_merged.pdf" class="document" href="../../../doc/mod/document/357/1775023725_pdfpro_merged.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -131,14 +131,14 @@ Qualitätspolitik und ISO 9001:2015 Zertifikat
 <div class="document-info">
 <div class="date">10. Februar 2026</div>
 <div class="category">Corporate Governance</div>
-<a aria-label="Dokument" href="https://liepaja-sez.lv/doc/mod/document/344/1770721733_Kvalitātes politika_mājas lapai.pdf" target="_blank">
+<a aria-label="Dokument" href="../../../doc/mod/document/344/1770721733_Kvalit%C4%81tes%20politika_m%C4%81jas%20lapai.pdf" target="_blank">
 
 Qualitätspolitik und ISO 9001:2015 Zertifikat
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1770721733_Kvalitātes politika_mājas lapai.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/344/1770721733_Kvalitātes politika_mājas lapai.pdf" target="_blank">
+<a aria-label="1770721733_Kvalitātes politika_mājas lapai.pdf" class="document" href="../../../doc/mod/document/344/1770721733_Kvalit%C4%81tes%20politika_m%C4%81jas%20lapai.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -147,14 +147,14 @@ Qualitätspolitik und ISO 9001:2015 Zertifikat
 <div class="document-info">
 <div class="date">29. Februar 2024</div>
 <div class="category">Corporate Governance</div>
-<a aria-label="Dokument" href="https://liepaja-sez.lv/doc/mod/document/224/1718103373_etikas_kodekss.pdf" target="_blank">
+<a aria-label="Dokument" href="../../../doc/mod/document/224/1718103373_etikas_kodekss.pdf" target="_blank">
 
 Verhaltenskodex
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1718103373_etikas_kodekss.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/224/1718103373_etikas_kodekss.pdf" target="_blank">
+<a aria-label="1718103373_etikas_kodekss.pdf" class="document" href="../../../doc/mod/document/224/1718103373_etikas_kodekss.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -163,14 +163,14 @@ Verhaltenskodex
 <div class="document-info">
 <div class="date">21. August 2020</div>
 <div class="category">Corporate Governance</div>
-<a aria-label="Dokument" href="https://liepaja-sez.lv/doc/mod/document/225/1718115346_trauksmes-celsana.pdf" target="_blank">
+<a aria-label="Dokument" href="../../../doc/mod/document/225/1718115346_trauksmes-celsana.pdf" target="_blank">
 
 Interne Warnvorschriften
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1718115346_trauksmes-celsana.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/225/1718115346_trauksmes-celsana.pdf" target="_blank">
+<a aria-label="1718115346_trauksmes-celsana.pdf" class="document" href="../../../doc/mod/document/225/1718115346_trauksmes-celsana.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -179,14 +179,14 @@ Interne Warnvorschriften
 <div class="document-info">
 <div class="date">14. November 2019</div>
 <div class="category">Corporate Governance</div>
-<a aria-label="Dokument" href="https://liepaja-sez.lv/doc/mod/document/223/1718103304_interesu-noversanas-politika.pdf" target="_blank">
+<a aria-label="Dokument" href="../../../doc/mod/document/223/1718103304_interesu-noversanas-politika.pdf" target="_blank">
 
 Zur Politik zur Verhütung von Interessenkonflikten
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1718103304_interesu-noversanas-politika.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/223/1718103304_interesu-noversanas-politika.pdf" target="_blank">
+<a aria-label="1718103304_interesu-noversanas-politika.pdf" class="document" href="../../../doc/mod/document/223/1718103304_interesu-noversanas-politika.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -195,14 +195,14 @@ Zur Politik zur Verhütung von Interessenkonflikten
 <div class="document-info">
 <div class="date">16. Oktober 2019</div>
 <div class="category">Corporate Governance</div>
-<a aria-label="Dokument" href="https://liepaja-sez.lv/doc/mod/document/222/1718103075_pretkorupcijas_politika.pdf" target="_blank">
+<a aria-label="Dokument" href="../../../doc/mod/document/222/1718103075_pretkorupcijas_politika.pdf" target="_blank">
 
 Antikorruptionspolitik
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1718103075_pretkorupcijas_politika.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/222/1718103075_pretkorupcijas_politika.pdf" target="_blank">
+<a aria-label="1718103075_pretkorupcijas_politika.pdf" class="document" href="../../../doc/mod/document/222/1718103075_pretkorupcijas_politika.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -211,14 +211,14 @@ Antikorruptionspolitik
 <div class="document-info">
 <div class="date">23. August 2019</div>
 <div class="category">Corporate Governance</div>
-<a aria-label="Dokument" href="https://liepaja-sez.lv/doc/mod/document/221/1718103016_atalgojums.pdf" target="_blank">
+<a aria-label="Dokument" href="../../../doc/mod/document/221/1718103016_atalgojums.pdf" target="_blank">
 
 Vergütung
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1718103016_atalgojums.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/221/1718103016_atalgojums.pdf" target="_blank">
+<a aria-label="1718103016_atalgojums.pdf" class="document" href="../../../doc/mod/document/221/1718103016_atalgojums.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -227,14 +227,14 @@ Vergütung
 <div class="document-info">
 <div class="date">13. Januar 2015</div>
 <div class="category">Corporate Governance</div>
-<a aria-label="Dokument" href="https://liepaja-sez.lv/doc/mod/document/335/1764858280_14_MARKETINGA_UN_KOMUNIKACIJU_PLANS(4).pdf" target="_blank">
+<a aria-label="Dokument" href="../../../doc/mod/document/335/1764858280_14_MARKETINGA_UN_KOMUNIKACIJU_PLANS%284%29.pdf" target="_blank">
 
 Marketing- und Kommunikationsplan
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1764858280_14_MARKETINGA_UN_KOMUNIKACIJU_PLANS(4).pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/335/1764858280_14_MARKETINGA_UN_KOMUNIKACIJU_PLANS(4).pdf" target="_blank">
+<a aria-label="1764858280_14_MARKETINGA_UN_KOMUNIKACIJU_PLANS(4).pdf" class="document" href="../../../doc/mod/document/335/1764858280_14_MARKETINGA_UN_KOMUNIKACIJU_PLANS%284%29.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>

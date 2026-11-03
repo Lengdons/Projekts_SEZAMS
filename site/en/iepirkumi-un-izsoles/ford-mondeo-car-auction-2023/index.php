@@ -56,12 +56,12 @@
 <div class="document-info py-3">
 <div class="date">7. August, 2023</div>
 <div class="category mb-2">All</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/122/1705053985_vērtējums.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/122/1705053985_v%C4%93rt%C4%93jums.pdf" target="_blank">
 									Vehicle Valuation
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1705053985_vērtējums.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/122/1705053985_vērtējums.pdf" target="_blank">
+<a aria-label="1705053985_vērtējums.pdf" class="document" href="../../../doc/mod/document/122/1705053985_v%C4%93rt%C4%93jums.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -71,12 +71,12 @@
 <div class="document-info py-3">
 <div class="date">7. August, 2023</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/123/1705054019_sludinājums.docx" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/123/1705054019_sludin%C4%81jums.docx" target="_blank">
 									Announcement
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1705054019_sludinājums.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/123/1705054019_sludinājums.docx" target="_blank">
+<a aria-label="1705054019_sludinājums.docx" class="document" href="../../../doc/mod/document/123/1705054019_sludin%C4%81jums.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -86,12 +86,12 @@
 <div class="document-info py-3">
 <div class="date">7. August, 2023</div>
 <div class="category mb-2">Procurement and Auctions</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/124/1705054051_atkārtotas_izsoles_noteikumi.docx" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/124/1705054051_atk%C4%81rtotas_izsoles_noteikumi.docx" target="_blank">
 									Repeated Auction Regulations
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1705054051_atkārtotas_izsoles_noteikumi.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/124/1705054051_atkārtotas_izsoles_noteikumi.docx" target="_blank">
+<a aria-label="1705054051_atkārtotas_izsoles_noteikumi.docx" class="document" href="../../../doc/mod/document/124/1705054051_atk%C4%81rtotas_izsoles_noteikumi.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>
@@ -99,7 +99,7 @@
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/84/870_1705053908_Ford_2 (1).webp" style="width: 100%;"/>
-<a aria-label="Lejupielādēt" class="image-download" download="" href="https://liepaja-sez.lv/img/mod/news/84/original_1705053908_Ford_2 (1).webp">
+<a aria-label="Lejupielādēt" class="image-download" download="" href="../../../img/mod/news/84/original_1705053908_Ford_2%20%281%29.webp">
 <img alt="Lejupielādēt" class="download-icon" src="https://liepaja-sez.lv/img/dl.svg"/>
 </a>
 </div>
@@ -121,11 +121,11 @@
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepāja SEZ Authority Holds an Electronic Ascending-Bid Auction for Newly Created Property at Eksporta Street 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/electronic-auction-of-new-real-estate-at-eksporta-street-3/">Read more</a>
+<a class="d-none d-md-block my-4" href="../electronic-auction-of-new-real-estate-at-eksporta-street-3/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">The Liepāja SEZ Authority is organising an electronic ascending-bid auction for new property at Eksporta Street 3, Liepāja, comprising a land plot measuring 51,521 m² and 12 buildings.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/electronic-auction-of-new-real-estate-at-eksporta-street-3/">Read more</a>
+<a class="d-block my-4" href="../electronic-auction-of-new-real-estate-at-eksporta-street-3/index.php">Read more</a>
 </div>
 </div>
 </div>
@@ -136,11 +136,11 @@
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Design, Construction and Design Supervision of the Reconstruction of Berth No. 46 at the Port of Liepāja</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-none d-md-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Procurement subject: Design, construction and design supervision of the reconstruction of Berth No. 46 at the Port of Liepāja. Identification No. LSEZ 2026/12. Main CPV code: 45241500-3 (Quay wall construction work).</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 </div>
 </div>

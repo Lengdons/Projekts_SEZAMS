@@ -57,12 +57,12 @@
 <div class="document-info py-3">
 <div class="date">22. aprīlis, 2023</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/90/1704288844_nolikums.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/90/1704288844_nolikums.pdf" target="_blank">
 									Nolikums
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1704288844_nolikums.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/90/1704288844_nolikums.pdf" target="_blank">
+<a aria-label="1704288844_nolikums.pdf" class="document" href="../../../doc/mod/document/90/1704288844_nolikums.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -72,12 +72,12 @@
 <div class="document-info py-3">
 <div class="date">22. aprīlis, 2023</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/91/1704288886_lēmums.pdf" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/91/1704288886_l%C4%93mums.pdf" target="_blank">
 									Lēmums
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1704288886_lēmums.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/91/1704288886_lēmums.pdf" target="_blank">
+<a aria-label="1704288886_lēmums.pdf" class="document" href="../../../doc/mod/document/91/1704288886_l%C4%93mums.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>

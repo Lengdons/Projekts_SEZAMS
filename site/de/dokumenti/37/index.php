@@ -115,14 +115,14 @@ Notfallplan bei unvorhergesehenen Umweltverschmutzungen
 <div class="document-info">
 <div class="date">4. Juni 2024</div>
 <div class="category">Notfallplan bei unvorhergesehenen Umweltverschmutzungen</div>
-<a aria-label="Dokument" href="https://liepaja-sez.lv/doc/mod/document/150/1723464984_LSEZ_drosibas_plans_2024.pdf" target="_blank">
+<a aria-label="Dokument" href="../../../doc/mod/document/150/1723464984_LSEZ_drosibas_plans_2024.pdf" target="_blank">
 
 Notfallplan bei unvorhergesehenen Umweltverschmutzungen
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1723464984_LSEZ_drosibas_plans_2024.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/150/1723464984_LSEZ_drosibas_plans_2024.pdf" target="_blank">
+<a aria-label="1723464984_LSEZ_drosibas_plans_2024.pdf" class="document" href="../../../doc/mod/document/150/1723464984_LSEZ_drosibas_plans_2024.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>

@@ -56,12 +56,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">12. Oktober 2023</div>
 <div class="category mb-2">Ausschreibungen und Versteigerungen</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/87/1704288261_paziņojums_par_iepirkuma_pārtraukšanu.pdf" target="_blank" aria-label="Dokument">
+<a href="../../../doc/mod/document/87/1704288261_pazi%C5%86ojums_par_iepirkuma_p%C4%81rtrauk%C5%A1anu.pdf" target="_blank" aria-label="Dokument">
 Bekanntmachung über die Beendigung der Auftragsvergabe
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/87/1704288261_paziņojums_par_iepirkuma_pārtraukšanu.pdf" target="_blank" aria-label="1704288261_paziņojums_par_iepirkuma_pārtraukšanu.pdf">
+<a class="document" href="../../../doc/mod/document/87/1704288261_pazi%C5%86ojums_par_iepirkuma_p%C4%81rtrauk%C5%A1anu.pdf" target="_blank" aria-label="1704288261_paziņojums_par_iepirkuma_pārtraukšanu.pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>
@@ -69,7 +69,7 @@ Bekanntmachung über die Beendigung der Auftragsvergabe
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/47/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/47/original_" aria-label="Herunterladen" download>
+<a class="image-download"  aria-label="Herunterladen" download href="https://liepaja-sez.lv/img/mod/news/47/original_">
 <img class="download-icon" alt="Herunterladen" src="https://liepaja-sez.lv/img/dl.svg"/>
 </a>
 </div>

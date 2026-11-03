@@ -57,12 +57,12 @@
 <div class="document-info py-3">
 <div class="date">14. decembris, 2023</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/85/1704287405_nolikums.docx" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/85/1704287405_nolikums.docx" target="_blank">
 									Nolikums
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1704287405_nolikums.docx" class="document" href="https://liepaja-sez.lv/doc/mod/document/85/1704287405_nolikums.docx" target="_blank">
+<a aria-label="1704287405_nolikums.docx" class="document" href="../../../doc/mod/document/85/1704287405_nolikums.docx" target="_blank">
 <i class="bi bi-file-earmark-word"></i>
 </a>
 </div>

@@ -55,13 +55,13 @@ html.classList.add(localStorage['contrast']);
 <h1 class="article-title">OPEN WETTBEWERB Überwachung der Demolition Bau von Liepāja Port Pier Nr. 1 Beschaffungsidentifikation Nr. LSEZ2021/68/K</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>Die Bauarbeiten werden im Rahmen eines Projekts durchgeführt und finanziert, das gemäß dem operationellen Programm "Wachstum und Beschäftigung" 6.1.1 durchgeführt wird. Erhöhung des Sicherheitsniveaus großer Häfen und Verbesserung der Mobilität des Verkehrsnetzes im Rahmen des spezifischen Förderziels.</p><p>&nbsp;</p><p>Der interessierte Lieferant kann die Beschaffungsunterlagen elektronisch auf der Website der Liepāja Special Economic Zone Authority kostenlos konsultieren und erhalten <a href="/site/de/iepirkumi-un-izsoles/index.php">http://www.liepaja-sez.lv/lv/parvalde/iepirkumi</a> und dem EIS <a href="https://liepaja-sez.lv/mgmt/purchases/106/www.eis.gov.lv">www.eis.gov.lv</a>, sowie kennenlernen Sie die Beschaffungsunterlagen in gedruckter Form kostenlos bei Liepāja Spezialwirtschaftszone Verwaltung im Kabinett der Beschaffungsspezialist (1auf dem Boden), Feniksa Street 4, Liepāja to 7. Juli 2021 Uhr10.00Geschehen zu Brüssel an den Arbeitstagen ab Uhr. 8.00 bis 12.00 und von 13.00 bis 16.30Geschehen zu Brüssel am Freitag um Uhr16.00, im Einvernehmen mit der Kontaktperson des Kunden zum Zeitpunkt des Besuchs.</p></div>
+<div class="col"><div class="col-12 output"><p>Die Bauarbeiten werden im Rahmen eines Projekts durchgeführt und finanziert, das gemäß dem operationellen Programm "Wachstum und Beschäftigung" 6.1.1 durchgeführt wird. Erhöhung des Sicherheitsniveaus großer Häfen und Verbesserung der Mobilität des Verkehrsnetzes im Rahmen des spezifischen Förderziels.</p><p>&nbsp;</p><p>Der interessierte Lieferant kann die Beschaffungsunterlagen elektronisch auf der Website der Liepāja Special Economic Zone Authority kostenlos konsultieren und erhalten <a href="/site/de/iepirkumi-un-izsoles/index.php">http://www.liepaja-sez.lv/lv/parvalde/iepirkumi</a> und dem EIS <a href="https://www.eis.gov.lv/">www.eis.gov.lv</a>, sowie kennenlernen Sie die Beschaffungsunterlagen in gedruckter Form kostenlos bei Liepāja Spezialwirtschaftszone Verwaltung im Kabinett der Beschaffungsspezialist (1auf dem Boden), Feniksa Street 4, Liepāja to 7. Juli 2021 Uhr10.00Geschehen zu Brüssel an den Arbeitstagen ab Uhr. 8.00 bis 12.00 und von 13.00 bis 16.30Geschehen zu Brüssel am Freitag um Uhr16.00, im Einvernehmen mit der Kontaktperson des Kunden zum Zeitpunkt des Besuchs.</p></div>
 </div>
 </div>
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/65/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/65/original_" aria-label="Herunterladen" download>
+<a class="image-download"  aria-label="Herunterladen" download href="https://liepaja-sez.lv/img/mod/news/65/original_">
 <img class="download-icon" alt="Herunterladen" src="https://liepaja-sez.lv/img/dl.svg"/>
 </a>
 </div>

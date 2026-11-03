@@ -57,12 +57,12 @@
 <div class="document-info py-3">
 <div class="date">8. aprīlis, 2022</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/92/1704362423_paziņojums_1.lpp.webp" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/92/1704362423_pazi%C5%86ojums_1.lpp.webp" target="_blank">
 									Paziņojums 1.lpp
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1704362423_paziņojums_1.lpp.webp" class="document" href="https://liepaja-sez.lv/doc/mod/document/92/1704362423_paziņojums_1.lpp.webp" target="_blank">
+<a aria-label="1704362423_paziņojums_1.lpp.webp" class="document" href="../../../doc/mod/document/92/1704362423_pazi%C5%86ojums_1.lpp.webp" target="_blank">
 <i class="bi bi-file-earmark-image"></i>
 </a>
 </div>
@@ -72,12 +72,12 @@
 <div class="document-info py-3">
 <div class="date">8. aprīlis, 2023</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a aria-label="Dokuments" href="https://liepaja-sez.lv/doc/mod/document/93/1704362463_paziņojums_2.lpp.webp" target="_blank">
+<a aria-label="Dokuments" href="../../../doc/mod/document/93/1704362463_pazi%C5%86ojums_2.lpp.webp" target="_blank">
 									Paziņojums 2.lpp
 								</a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1704362463_paziņojums_2.lpp.webp" class="document" href="https://liepaja-sez.lv/doc/mod/document/93/1704362463_paziņojums_2.lpp.webp" target="_blank">
+<a aria-label="1704362463_paziņojums_2.lpp.webp" class="document" href="../../../doc/mod/document/93/1704362463_pazi%C5%86ojums_2.lpp.webp" target="_blank">
 <i class="bi bi-file-earmark-image"></i>
 </a>
 </div>

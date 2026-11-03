@@ -76,7 +76,7 @@ Déclaration commune
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/185/870_1732017766_Joint Statement_SLAIDS_weblapai-2.webp" style="width: 100%;"/>
-<a aria-label="Télécharger" class="image-download" download="" href="https://liepaja-sez.lv/img/mod/news/185/original_1732017766_Joint Statement_SLAIDS_weblapai-2.webp">
+<a aria-label="Télécharger" class="image-download" download="" href="../../../img/mod/news/185/1732017766_Joint%20Statement_SLAIDS_weblapai-2.webp">
 <img alt="Télécharger" class="download-icon" src="../../../img/dl.svg"/>
 </a>
 </div>

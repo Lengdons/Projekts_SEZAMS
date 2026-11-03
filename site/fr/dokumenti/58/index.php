@@ -115,14 +115,14 @@ Plan d'action en cas de contamination imprévue
 <div class="document-info">
 <div class="date">30 décembre 2024</div>
 <div class="category">Frais de port de Liepāja</div>
-<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/76/1736242178_Liepājas ostas maksas (01.01.2025).pdf" target="_blank">
+<a aria-label="Documenter" href="../../../doc/mod/document/76/1736242178_Liep%C4%81jas%20ostas%20maksas%20%2801.01.2025%29.pdf" target="_blank">
 
 Redevances portuaires de Liepāja (entre en vigueur à partir du 01.01.2025)
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1736242178_Liepājas ostas maksas (01.01.2025).pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/76/1736242178_Liepājas ostas maksas (01.01.2025).pdf" target="_blank">
+<a aria-label="1736242178_Liepājas ostas maksas (01.01.2025).pdf" class="document" href="../../../doc/mod/document/76/1736242178_Liep%C4%81jas%20ostas%20maksas%20%2801.01.2025%29.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>

@@ -115,14 +115,14 @@ Plan d'action en cas de contamination imprévue
 <div class="document-info">
 <div class="date">27 août 2024</div>
 <div class="category">Réglementation du port de Liepāja</div>
-<a aria-label="Documenter" href="https://liepaja-sez.lv/doc/mod/document/71/1724757985_liepajas-ostas-noteikumi-2024.pdf" target="_blank">
+<a aria-label="Documenter" href="../../../doc/mod/document/71/1724757985_liepajas-ostas-noteikumi-2024.pdf" target="_blank">
 
 Réglementation du port de Liepāja
 
 </a>
 <div class="mt-2"></div>
 </div>
-<a aria-label="1724757985_liepajas-ostas-noteikumi-2024.pdf" class="document" href="https://liepaja-sez.lv/doc/mod/document/71/1724757985_liepajas-ostas-noteikumi-2024.pdf" target="_blank">
+<a aria-label="1724757985_liepajas-ostas-noteikumi-2024.pdf" class="document" href="../../../doc/mod/document/71/1724757985_liepajas-ostas-noteikumi-2024.pdf" target="_blank">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>
 </div>

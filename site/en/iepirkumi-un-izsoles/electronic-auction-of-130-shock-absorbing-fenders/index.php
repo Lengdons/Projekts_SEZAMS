@@ -58,7 +58,7 @@
 <p>The auction opens on 9 September 2024 at 13:00 and closes on 30 September 2024 at 13:00.</p>
 <p>Bidder registration is open from 9 September 2024 at 13:00 until 19 September 2024 at 23:59 on the electronic auction website <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a>.</p>
 <p>The goods may be inspected in person at Sliežu iela 9, Liepāja, by prior appointment with Viesturs Romanovs, Deputy Head of the Authority's Infrastructure Department, phone: 26795153, email: <a href="mailto:viesturs.romanovs@lsez.lv">viesturs.romanovs@lsez.lv</a>.</p>
-<p>The auction regulations are available on <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a> and the Authority's website at <a href="https://liepaja-sez.lv/lv/authority/izsoles-sludinajumi">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi</a>.</p></div>
+<p>The auction regulations are available on <a href="https://izsoles.ta.gov.lv">https://izsoles.ta.gov.lv</a> and the Authority's website at <a href="../index.php">https://liepaja-sez.lv/lv/parvalde/izsoles-sludinajumi</a>.</p></div>
 </div>
 </div>
 </div>
@@ -101,11 +101,11 @@
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Design, Construction and Design Supervision of the Reconstruction of Berth No. 46 at the Port of Liepāja</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-none d-md-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Procurement subject: design, construction and design supervision of the reconstruction of Berth No. 46 at the Port of Liepāja. Identification No. LSEZ 2026/12. Main CPV code: 45241500-3 (quay construction work).</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/">Read more</a>
+<a class="d-block my-4" href="../design-construction-and-author-supervision-of-the-reconstruction-of-berth-no-46-at-the-port-of-liepaja/index.php">Read more</a>
 </div>
 </div>
 </div>

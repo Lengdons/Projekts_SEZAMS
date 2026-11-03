@@ -55,7 +55,7 @@ html.classList.add(localStorage['contrast']);
 <h1 class="article-title">ATKLĀTS IEPIRKUMS „DEGVIELAS IEGĀDE LIEPĀJAS SPECIĀLĀS EKONOMISKĀS ZONAS PĀRVALDES AUTOMAŠĪNĀM” Id. Nr. LSEZ2021/74/K</h1>
 <div class="block_text mt-5 mb-4">
 <div class="row">
-<div class="col"><div class="col-12 output"><p>2.1.&nbsp; Iepirkuma priekšmets – Iepirkuma priekšmets ir degvielas iegāde saskaņā ar tehnisko specifikāciju / tehnisko piedāvājumu (Nolikuma 1. pielikums).</p><p>2.2.&nbsp; Konkursa iepirkuma nomenklatūras CPV kods:</p><figure class="table"><table><tbody><tr><td><i>Kods</i></td><td><i>Koda atšifrējums latviešu valodā</i></td><td><i>Koda atšifrējums angļu valodā</i></td><td><i>Pakalpojuma kategorijas Nr.</i></td></tr><tr><td><i>09132000-3</i></td><td><i>Benzīns</i></td><td><i>Petrol</i></td><td><i>preces</i></td></tr><tr><td><i>09134200-9</i></td><td><i>Dīzeļdegviela</i></td><td><i>Diesel fuel</i></td><td><i>preces</i></td></tr></tbody></table></figure><p>Ar Iepirkuma dokumentiem Ieinteresētais piegādātājs var iepazīties un saņemt tos elektroniski bez maksas Liepājas speciālās ekonomiskās zonas pārvaldes mājas lapā internetā <a href="http://www.liepaja-sez.lv/lv/parvalde/iepirkumi%20un%20EIS%20pirc%C4%93ja%20profil%C4%81%20https://www.eis.gov.lv/EKEIS/Supplier/Organizer/3290">http://www.liepaja-sez.lv/lv/parvalde/iepirkumi un EIS pircēja profilā https://www.eis.gov.lv/EKEIS/Supplier/Organizer/3290</a>, līdz 2021.gada 8.novembrim plkst.10.00</p><p>&nbsp;</p><p>Piedāvājumu atvēršana sākas tūlīt pēc piedāvājumu iesniegšanas termiņa beigām. Piedāvājumu atvēršanas sanāksme notiks Liepājas speciālās ekonomiskās zonas pārvaldē, Fēniksa ielā 4, Liepājā 2021.gada 8.novembrim plkst.10.00</p></div>
+<div class="col"><div class="col-12 output"><p>2.1.&nbsp; Iepirkuma priekšmets – Iepirkuma priekšmets ir degvielas iegāde saskaņā ar tehnisko specifikāciju / tehnisko piedāvājumu (Nolikuma 1. pielikums).</p><p>2.2.&nbsp; Konkursa iepirkuma nomenklatūras CPV kods:</p><figure class="table"><table><tbody><tr><td><i>Kods</i></td><td><i>Koda atšifrējums latviešu valodā</i></td><td><i>Koda atšifrējums angļu valodā</i></td><td><i>Pakalpojuma kategorijas Nr.</i></td></tr><tr><td><i>09132000-3</i></td><td><i>Benzīns</i></td><td><i>Petrol</i></td><td><i>preces</i></td></tr><tr><td><i>09134200-9</i></td><td><i>Dīzeļdegviela</i></td><td><i>Diesel fuel</i></td><td><i>preces</i></td></tr></tbody></table></figure><p>Ar Iepirkuma dokumentiem Ieinteresētais piegādātājs var iepazīties un saņemt tos elektroniski bez maksas Liepājas speciālās ekonomiskās zonas pārvaldes mājas lapā internetā <a href="../index.php">http://www.liepaja-sez.lv/lv/parvalde/iepirkumi un EIS pircēja profilā https://www.eis.gov.lv/EKEIS/Supplier/Organizer/3290</a>, līdz 2021.gada 8.novembrim plkst.10.00</p><p>&nbsp;</p><p>Piedāvājumu atvēršana sākas tūlīt pēc piedāvājumu iesniegšanas termiņa beigām. Piedāvājumu atvēršanas sanāksme notiks Liepājas speciālās ekonomiskās zonas pārvaldē, Fēniksa ielā 4, Liepājā 2021.gada 8.novembrim plkst.10.00</p></div>
 </div>
 </div>
 </div><h1 class="block-title mt-3">Paziņojums<span></span></h1>
@@ -65,12 +65,12 @@ html.classList.add(localStorage['contrast']);
 <div class="document-info py-3">
 <div class="date">21. oktobris, 2021</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/100/1704364014_paziņojums..pdf" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/100/1704364014_pazi%C5%86ojums..pdf" target="_blank" aria-label="Dokuments">
 Paziņojums
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/100/1704364014_paziņojums..pdf" target="_blank" aria-label="1704364014_paziņojums..pdf">
+<a class="document" href="../../../doc/mod/document/100/1704364014_pazi%C5%86ojums..pdf" target="_blank" aria-label="1704364014_paziņojums..pdf">
 <i class="bi bi-file-earmark-pdf"></i>
 </a>							
 </div>
@@ -80,12 +80,12 @@ Paziņojums
 <div class="document-info py-3">
 <div class="date">21. oktobris, 2021</div>
 <div class="category mb-2">Iepirkumi un izsoles</div>
-<a href="https://liepaja-sez.lv/doc/mod/document/101/1704364050_finanšu_piedāvājuma_apkopojums..docx" target="_blank" aria-label="Dokuments">
+<a href="../../../doc/mod/document/101/1704364050_finan%C5%A1u_pied%C4%81v%C4%81juma_apkopojums..docx" target="_blank" aria-label="Dokuments">
 Finanšu piedāvājuma apkopojums
 </a>
 <div class="mt-2"></div>
 </div>
-<a class="document" href="https://liepaja-sez.lv/doc/mod/document/101/1704364050_finanšu_piedāvājuma_apkopojums..docx" target="_blank" aria-label="1704364050_finanšu_piedāvājuma_apkopojums..docx">
+<a class="document" href="../../../doc/mod/document/101/1704364050_finan%C5%A1u_pied%C4%81v%C4%81juma_apkopojums..docx" target="_blank" aria-label="1704364050_finanšu_piedāvājuma_apkopojums..docx">
 <i class="bi bi-file-earmark-word"></i>
 </a>							
 </div>
@@ -93,7 +93,7 @@ Finanšu piedāvājuma apkopojums
 </div>
 <div class="col-12 mt-5" style="position:relative;">
 <img class="img-fluid" style="width: 100%;" alt="" src="https://liepaja-sez.lv/img/mod/news/58/870_"/>
-<a class="image-download" href="https://liepaja-sez.lv/img/mod/news/58/original_" aria-label="Lejupielādēt" download>
+<a class="image-download"  aria-label="Lejupielādēt" download href="https://liepaja-sez.lv/img/mod/news/58/original_">
 <img class="download-icon" alt="Lejupielādēt" src="https://liepaja-sez.lv/img/dl.svg"/>	
 </a>															
 </div>
@@ -115,11 +115,11 @@ Finanšu piedāvājuma apkopojums
 <div class="col-12 mt-4"><span class="date">06.10.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas SEZ pārvalde rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Liepājas speciālās ekonomiskās zonas pārvalde, vienotais reģistrācijas Nr.LV90000329402, rīko elektronisko izsoli ar augšupejošu soli jaunizveidojamam nekustamajam īpašumam Eksporta ielā 3, Liepājā, kas sastāvēs no zemes vienības ar kopējo platību 51521 m2 un 12 būvēm.</div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-sez-parvalde-riko-elektronisko-izsoli-ar-augsupejosu-soli-jaunizveidojamam-nekust-1/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>
@@ -130,7 +130,7 @@ Finanšu piedāvājuma apkopojums
 <div class="col-12 mt-4"><span class="date">23.09.2026.</span></div>						
 <div class="col-12 col-md-4 col-lg-3">
 <h4>Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība</h4>
-<a class="d-none d-md-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-none d-md-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-8 col-lg-9">Iepirkuma priekšmets: 
 Liepājas ostas piestātnes Nr. 46 pārbūves būvprojekta izstrāde, būvdarbi un autoruzraudzība
@@ -138,7 +138,7 @@ IDENTIFIKĀCIJAS NUMURS LSEZ 2026/12
 Galvenais CPV kods: 45241500-3 (Kuģu piestātnes būvdarbi). 
 </div>
 <div class="col-12 d-block d-md-none">
-<a class="d-block my-4" href="https://liepaja-sez.lv/lv/iepirkumi-un-izsoles/liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/">Lasīt vairāk</a>
+<a class="d-block my-4" href="../liepajas-ostas-piestatnes-nr-46-parbuves-buvprojekta-izstrade-buvdarbi-un-autoruzraudziba/index.php">Lasīt vairāk</a>
 </div>
 </div>
 </div>
