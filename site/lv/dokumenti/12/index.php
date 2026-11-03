@@ -110,7 +110,9 @@ Darbības plāns neparedzēta piesārņojuma gadījumā
 </select>
 </div>
 </form>
-<div class="documents-list"></div>
+<div class="documents-list">
+<p>Šajā kategorijā dokumenti nav pieejami.</p>
+</div>
 </div>
 </div>
 </div>

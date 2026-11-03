@@ -110,7 +110,9 @@ Notfallplan bei unvorhergesehenen Umweltverschmutzungen
 </select>
 </div>
 </form>
-<div class="documents-list"></div>
+<div class="documents-list">
+<p>In dieser Kategorie sind keine Dokumente verfügbar.</p>
+</div>
 </div>
 </div>
 </div>

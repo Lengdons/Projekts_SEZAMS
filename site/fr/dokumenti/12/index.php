@@ -110,7 +110,9 @@ Plan d'action en cas de contamination imprévue
 </select>
 </div>
 </form>
-<div class="documents-list"></div>
+<div class="documents-list">
+<p>Aucun document disponible dans cette catégorie.</p>
+</div>
 </div>
 </div>
 </div>
