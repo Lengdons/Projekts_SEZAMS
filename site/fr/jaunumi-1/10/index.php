@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+<head>
+<!-- Required meta tags -->
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<link href="../../../favicon.ico" rel="icon" type="image/x-icon"/>
+<meta content="Actualités" name="description"/><meta content="actualités, actualités" name="keywords"/><meta content="follow, index" name="robots"/><meta content="website" property="og:type"/>
+<meta content="https://liepaja-sez.lv/fr/medijiem/10/" property="og:url"/>
+<meta content="Accueil" property="og:title"/>
+<meta content="ZES de Liepāja" property="og:site_name"/><meta content="Actualités" property="og:description"/>
+<meta content="Jaunumi" name="twitter:card"/>
+<meta content="@liepajaSEZ" name="twitter:site"/>
+<meta content="@liepajaSEZ" name="twitter:creator"/>
+<title>Accueil » SEZ</title>
+<link href="../../../css/jarallax.min.css" rel="stylesheet"/>
+<link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
+<link href="/site/css/main__40614cace7.css?v=26" rel="stylesheet"/>
+<link href="/site/css/block/mod_news/main__1d365e2dc4.css?v=1" rel="stylesheet" type="text/css"/> <link href="../../../cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
+<script>
+
+const html = document.querySelector("html");
+
+if(localStorage['contrast']){
+
+html.classList.add(localStorage['contrast']);
+
+}
+
+</script>
+<script>var web_url="https://liepaja-sez.lv/";</script>
+<script>var lang="fr";</script>
+</head>
+<body>
+<?php include __DIR__ . '/../../frnavbar.php'; ?>
+<div class="spacer"></div>
+<main class="pb-5">
+<div class="container pt-3">
+<div class="row">
+<div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
+<div class="row">
+<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<a aria-label="nom" class="active sidebar-nav-icon" href="/site/fr/jaunumi-1/index.php">
+<img alt="Catégorie" src="../../../img/round-right-blue.svg"/>
+
+Pour les médias
+
+</a>
+</div>
+<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<a aria-label="nom" class="sidebar-nav-icon" href="/site/fr/foto/index.php">
+<img alt="Catégorie" src="../../../img/round-right-blue.svg"/>
+
+Photos
+
+</a>
+</div>
+<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<a aria-label="nom" class="sidebar-nav-icon" href="/site/fr/valdes-sedes/index.php">
+<img alt="Catégorie" src="../../../img/round-right-blue.svg"/>
+
+Réunions du conseil d'administration
+
+</a>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-9 side-right">
+<div class="mod_news my-5"><h1 class="block-title mb-5">Actualités<span></span></h1><div class="block-news-list" data-block="2">
+<div class="row">
+<div class="col-12 col-md-4 news_desc">
+<div>
+<h2>Avis de vente aux enchères immobilière au 29 rue Pulvera</h2>
+<span class="mb-3">01.08.2025.</span>
+</div>
+<a aria-label="Lire la suite" class="mb-3 news_link d-none d-md-block" href="/site/fr/jaunumi-1/pazinojums-par-nekustama-ipasuma-izsoli-pulvera-iela/index.php">Lire la suite</a>
+</div>
+<div class="col-12 col-md-4 description">
+<p>Le Conseil de la ZES de Liepāja organise une vente aux enchères écrite des droits de location pour les biens immobiliers appartenant au Conseil de la ZES de Liepāja au 29 rue Pulvera. </p>
+<a aria-label="Lire la suite" class="my-3 news_link d-block d-md-none" href="/site/fr/jaunumi-1/pazinojums-par-nekustama-ipasuma-izsoli-pulvera-iela/index.php">Lire la suite</a>
+</div>
+<div class="col-12 col-md-4 order-first order-md-last mb-3">
+<div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/236/1754024810_original_1749026168_original_1746620912_original_1744188343_LSEZ_aero (234).webp)">
+<a aria-label="Lire la suite" href="/site/fr/jaunumi-1/pazinojums-par-nekustama-ipasuma-izsoli-pulvera-iela/index.php">
+<img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/236/1754024810_original_1749026168_original_1746620912_original_1744188343_LSEZ_aero (234).webp"/>
+</a>
+</div>
+</div>
+</div><hr/>
+<div class="row">
+<div class="col-12 col-md-4 news_desc">
+<div>
+<h2>La première vente aux enchères pour l'expropriation du bâtiment industriel du parc industriel de Liepāja a été annoncée</h2>
+<span class="mb-3">29.07.2025.</span>
+</div>
+<a aria-label="Lire la suite" class="mb-3 news_link d-none d-md-block" href="/site/fr/jaunumi-1/izsludinata-pirma-izsole-par-industrialas-ekas-atsavinasanu-liepajas-industrialaja-parka/index.php">Lire la suite</a>
+</div>
+<div class="col-12 col-md-4 description">
+<p>Poursuivant la construction du parc industriel de Liepāja sur le territoire de l'ancienne usine Liepāja Metalurgs, l'administration de la zone économique spéciale de Liepāja (Liepāja SEZ) a annoncé la première vente aux enchères immobilière. Il s'agit de la prochaine étape pour impliquer les entrepreneurs dans le processus de restauration et de transformation de la zone industrielle, en offrant la possibilité d'acheter des bâtiments industriels. La vente aux enchères aura lieu du 29 juillet 2025 au 28 août 2025.</p>
+<a aria-label="Lire la suite" class="my-3 news_link d-block d-md-none" href="/site/fr/jaunumi-1/izsludinata-pirma-izsole-par-industrialas-ekas-atsavinasanu-liepajas-industrialaja-parka/index.php">Lire la suite</a>
+</div>
+<div class="col-12 col-md-4 order-first order-md-last mb-3">
+<div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/234/1753870540__R1A9976.webp)">
+<a aria-label="Lire la suite" href="/site/fr/jaunumi-1/izsludinata-pirma-izsole-par-industrialas-ekas-atsavinasanu-liepajas-industrialaja-parka/index.php">
+<img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/234/1753870540__R1A9976.webp"/>
+</a>
+</div>
+</div>
+</div><hr/>
+<div class="row">
+<div class="col-12 col-md-4 news_desc">
+<div>
+<h2>Coopération des ports baltes dans le développement de l'énergie et des infrastructures - Les représentants de la ZES de Liepāja participent à une réunion au Danemark</h2>
+<span class="mb-3">27.06.2025.</span>
+</div>
+<a aria-label="Lire la suite" class="mb-3 news_link d-none d-md-block" href="/site/fr/jaunumi-1/baltijas-ostu-sadarbiba-energetikas-un-infrastrukturas-attistiba-liepajas-sez-parstavji-pi/index.php">Lire la suite</a>
+</div>
+<div class="col-12 col-md-4 description">
+<p>Les nouvelles technologies et opportunités en matière de production d’énergie sont pertinentes pour tous les pays de la région de la mer Baltique. La possibilité de connaître les sources de financement disponibles, ainsi que de se familiariser avec l'expérience du développement des infrastructures portuaires dans d'autres pays, constitue un avantage important pour chaque port.</p>
+<a aria-label="Lire la suite" class="my-3 news_link d-block d-md-none" href="/site/fr/jaunumi-1/baltijas-ostu-sadarbiba-energetikas-un-infrastrukturas-attistiba-liepajas-sez-parstavji-pi/index.php">Lire la suite</a>
+</div>
+<div class="col-12 col-md-4 order-first order-md-last mb-3">
+<div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/227/1751095888_1000005370.webp)">
+<a aria-label="Lire la suite" href="/site/fr/jaunumi-1/baltijas-ostu-sadarbiba-energetikas-un-infrastrukturas-attistiba-liepajas-sez-parstavji-pi/index.php">
+<img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/227/1751095888_1000005370.webp"/>
+</a>
+</div>
+</div>
+</div><hr/>
+<div class="row">
+<div class="col-12 col-md-4 news_desc">
+<div>
+<h2>Un navire qui produit de l'énergie avec des éoliennes est entré dans le port de Liepāja</h2>
+<span class="mb-3">25.06.2025.</span>
+</div>
+<a aria-label="Lire la suite" class="mb-3 news_link d-none d-md-block" href="/site/fr/jaunumi-1/liepajas-osta-ienacis-kugis-kas-razo-energiju-no-v/index.php">Lire la suite</a>
+</div>
+<div class="col-12 col-md-4 description">
+<p>Le 25 juin, un navire spécial est entré dans le port de Liepāja – une partie de l’énergie nécessaire à son déplacement provient de la force du vent. Les mâts verticaux à la proue du navire sont des éoliennes, qui contribuent à réduire la quantité de CO₂ produite par les moteurs et à économiser du carburant.</p>
+<a aria-label="Lire la suite" class="my-3 news_link d-block d-md-none" href="/site/fr/jaunumi-1/liepajas-osta-ienacis-kugis-kas-razo-energiju-no-v/index.php">Lire la suite</a>
+</div>
+<div class="col-12 col-md-4 order-first order-md-last mb-3">
+<div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/226/1751015556__R1A6685.webp)">
+<a aria-label="Lire la suite" href="/site/fr/jaunumi-1/liepajas-osta-ienacis-kugis-kas-razo-energiju-no-v/index.php">
+<img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/226/1751015556__R1A6685.webp"/>
+</a>
+</div>
+</div>
+</div><hr/>
+<div class="row">
+<div class="col-12 col-md-4 news_desc">
+<div>
+<h2>Nouvelle clarification sur l'avis publié sur la vente aux enchères écrite de biens immobiliers appartenant à l'administration de la ZES de Liepāja pour le droit de louer des installations de traitement portuaires</h2>
+<span class="mb-3">04.06.2025.</span>
+</div>
+<a aria-label="Lire la suite" class="mb-3 news_link d-none d-md-block" href="/site/fr/jaunumi-1/jauns-precizejums-par-publiceto-pazinojumu/index.php">Lire la suite</a>
+</div>
+<div class="col-12 col-md-4 description">
+<p>Des modifications ont été apportées au projet de contrat de location d'équipements de traitement du port de Liepāja le 2.2.20. ; 4.8.; 4.8.4.; 4.8.6.; 4.8.7, 4.8.8. et dans les clauses 4.8.9. </p>
+<a aria-label="Lire la suite" class="my-3 news_link d-block d-md-none" href="/site/fr/jaunumi-1/jauns-precizejums-par-publiceto-pazinojumu/index.php">Lire la suite</a>
+</div>
+<div class="col-12 col-md-4 order-first order-md-last mb-3">
+<div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/223/1749026168_original_1746620912_original_1744188343_LSEZ_aero (234).webp)">
+<a aria-label="Lire la suite" href="/site/fr/jaunumi-1/jauns-precizejums-par-publiceto-pazinojumu/index.php">
+<img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/223/1749026168_original_1746620912_original_1744188343_LSEZ_aero (234).webp"/>
+</a>
+</div>
+</div>
+</div><hr/>
+<div class="row">
+<div class="col-12 col-md-4 news_desc">
+<div>
+<h2>Le Pavillon Bleu est hissé sur le port de plaisance depuis 18 ans</h2>
+<span class="mb-3">28.05.2025.</span>
+</div>
+<a aria-label="Lire la suite" class="mb-3 news_link d-none d-md-block" href="/site/fr/jaunumi-1/jahtu-osta-zilais-karogs-tiek-pacelts-jau-18-gadus/index.php">Lire la suite</a>
+</div>
+<div class="col-12 col-md-4 description">
+<p>Depuis 18 ans, le Pavillon Bleu est hissé dans la marina de Liepāja. C'est la seule marina de Lettonie qui remplit toutes les conditions préalables pour recevoir cet écocertificat international de qualité environnementale.</p>
+<a aria-label="Lire la suite" class="my-3 news_link d-block d-md-none" href="/site/fr/jaunumi-1/jahtu-osta-zilais-karogs-tiek-pacelts-jau-18-gadus/index.php">Lire la suite</a>
+</div>
+<div class="col-12 col-md-4 order-first order-md-last mb-3">
+<div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/222/1748508220__R1A4338.webp)">
+<a aria-label="Lire la suite" href="/site/fr/jaunumi-1/jahtu-osta-zilais-karogs-tiek-pacelts-jau-18-gadus/index.php">
+<img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/222/1748508220__R1A4338.webp"/>
+</a>
+</div>
+</div>
+</div></div>
+<div class="row">
+<div class="col-12 paginator mt-4">
+<div>
+<a class="news-list-pagination prev" data-block="2" data-page="9" data-per-page="6" data-topic="14" href="/site/fr/jaunumi-1/9/index.php">
+<img alt="Retour" src="../../../img/round-right.svg"/>
+
+Retour
+
+</a>
+</div>
+<div>
+<a class="news-list-pagination next" data-block="2" data-page="11" data-per-page="6" data-topic="14" href="/site/fr/jaunumi-1/11/index.php">
+
+Suivant <img alt="Retour" src="../../../img/round-right.svg"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="container my-4">
+<div class="row">
+<div class="col-12 useful" id="useful-p">
+<span class="me-2">Les informations ont-elles été utiles ?</span>
+<button class="useful-btn" data-table-id="21" data-table-name="mod_menu" data-value="1">Oui </button>
+<button class="useful-btn" data-table-id="21" data-table-name="mod_menu" data-value="0">Non </button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<img alt="Image d&#x27;arrière-plan" class="background" src="../../../img/bg2.svg"/>
+</main>
+<footer class="footer">
+<div class="container py-5">
+<div class="row">
+<div class="col-12 col-md-4 col-lg-2 footer-logo">
+<img alt="logo" class="img-fluid" src="../../../img/logo-white.svg" width="100"/>
+</div>
+<div class="col-12 col-md-8 col-lg-5 mb-3 reqs">
+<p>Administration de la zone économique spéciale de Liepāja<br/>Feniksa Street 4, Liepāja,<br/>LV-3401, Lettonie<br/><br/>Téléphone : <a href="tel:+37163427605">+371 63427605</a><br/>E-mail : <a href="mailto:lsez@lsez.lv">lsez@lsez.lv</a></p> </div>
+<div class="col-12 col-md-4 col-lg-4">
+<div class="row pt-3k">
+<div class="col socials d-flex justify-content-start">
+<a aria-label="Facebook" href="https://www.facebook.com/LiepajasSEZ" target="_blank"><img alt="Facebook" class="img-fluid" src="../../../img/FB.svg"/></a>
+<a aria-label="Twitter" href="https://twitter.com/liepajaSEZ" target="_blank"><img alt="Twitter" class="img-fluid" src="../../../img/TW.svg"/></a>
+<a aria-label="Instagram" href="https://www.instagram.com/liepajasez" target="_blank"><img alt="Instagram" class="img-fluid" src="../../../img/IG.svg"/></a>
+<a aria-label="YouTube" href="https://www.youtube.com/channel/UCjBSQK6pZ5tQGpRabmlLwxQ" target="_blank"><img alt="YouTube" class="img-fluid" src="../../../img/YT.svg"/></a>
+<a alt="Linkedin" href="https://www.linkedin.com/company/liepaja-special-economic-zone/" target="_blank"><img aria-label="Linkedin" class="img-fluid" src="../../../img/IN.svg"/></a>
+<a alt="Linkedin" href="https://www.flickr.com/photos/liepajasez/albums/" target="_blank"><img aria-label="Flickr" class="img-fluid" src="../../../img/flickr.svg"/></a>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-8 col-lg-1">
+<div class="row">
+<div class="col up">
+<a aria-label="Faites défiler vers le haut" href="#"><img alt="faire défiler vers le haut" class="img-fluid" src="../../../img/round-right.svg"/></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="sticky-cookie" style="align-items: center; justify-content: center;">
+<img alt="biscuits" src="https://liepaja-sez.lv/img/cc.svg?=v5" width="24"/>
+</div>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-6QTXK76SH0"></script>
+<script>
+
+window.dataLayer = window.dataLayer || [];
+
+function gtag(){dataLayer.push(arguments);}
+
+gtag('js', new Date());
+
+
+
+gtag('config', 'G-6QTXK76SH0');
+
+</script>
+
+<script crossorigin="anonymous" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+<script src="https://code.jquery.com/color/jquery.color.plus-names-2.1.2.min.js"></script>
+<script src="https://liepaja-sez.lv/js/jarallax.min.js?v=3"></script>
+<script src="../../../js/bootstrap.bundle.min.js"></script>
+<script src="https://liepaja-sez.lv/js/main.js?v=9"></script>
+<script src="https://liepaja-sez.lv/js/block/useful/main.js?v=1"></script><script src="https://liepaja-sez.lv/js/block/news_list/main.js?v=1"></script> <script defer="" src="../../../cc/src/cookieconsent.js"></script>
+<script defer="" src="https://liepaja-sez.lv/cc/demo/app2.js?v=6"></script>
+</footer>
+</body>
+</html>
