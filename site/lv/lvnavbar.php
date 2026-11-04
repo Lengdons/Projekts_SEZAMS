@@ -57,7 +57,7 @@
         <li>
             <a class="dropdown-item" href="<?= htmlspecialchars($deLink) ?>">de</a>
         </li>
-    <li><a class="dropdown-item" href="<?= htmlspecialchars($frLink) ?>">fr</a></li></ul>
+    <li><a class="dropdown-item" href="<?= htmlspecialchars($frLink) ?>">fr</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($itLink) ?>">it</a></li></ul>
 </li>
 </ul>
 <div class="brand-container">
@@ -75,7 +75,7 @@
 
 										</a><ul aria-labelledby="language-controls2" class="dropdown-menu text-center"><li><a class="dropdown-item" href="<?= htmlspecialchars($enLink) ?>">en</a></li><li>
             <a class="dropdown-item" href="<?= htmlspecialchars($deLink) ?>">de</a>
-        </li><li><a class="dropdown-item" href="<?= htmlspecialchars($frLink) ?>">fr</a></li></ul> </li>
+        </li><li><a class="dropdown-item" href="<?= htmlspecialchars($frLink) ?>">fr</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($itLink) ?>">it</a></li></ul> </li>
 </ul>
 <button aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler nocontrast" data-bs-target="#navbar" data-bs-toggle="collapse" type="button">
 <span class="navbar-toggler-icon"></span>
