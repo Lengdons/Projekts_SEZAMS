@@ -1,26 +1,35 @@
-var font_size="15";
+var font_size = localStorage.getItem('siteFontSize') || "15";
 
 $(document).ready(function() {
-    $("body").css("font-size",font_size+"px");
+    $("body").css("font-size", font_size + "px");
+    
+    $('.font-controls .font-size a').removeClass("active");
+    $('.font-controls .font-size a[data-size="' + font_size + '"]').addClass("active");
 
     $('#close-btn').click(function() {
         $('#search-overlay').fadeOut();
     });
     $('.search-btn').click(function() {
         $('#search-overlay').fadeIn();
-		$('#search-text').focus();
+        $('#search-text').focus();
     });
-	
-	$('#search-button').click(function(e){
-		e.preventDefault();
-		window.location.href=web_url+'?search='+$('#search-text').val();
-	});	
+    
+    $('#search-button').click(function(e){
+        e.preventDefault();
+        window.location.href=web_url+'?search='+$('#search-text').val();
+    }); 
 
-    $('.font-controls .font-size a').click(function(){
-        size=$(this).data("size");
-        $("body").css("font-size",size+"px");
+    $('.font-controls .font-size a').click(function(e){
+        e.preventDefault();
+        
+        var size = $(this).data("size");
+        $("body").css("font-size", size + "px");
+        
+        localStorage.setItem('siteFontSize', size);
+        
         $('.font-controls .font-size a').removeClass("active");
         $(this).addClass("active");
+        
         $.ajax({
             type: "POST",
             url: web_url+"?font-size="+size
@@ -144,4 +153,4 @@ $(document).ready(function() {
 			}, animSpeed);
 		}
 	});
-});
+})

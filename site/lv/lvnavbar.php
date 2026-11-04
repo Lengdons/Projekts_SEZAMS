@@ -23,10 +23,10 @@
 <span>A</span>
 </a>
 <ul aria-labelledby="font-controls1" class="dropdown-menu text-center font-size">
-<li><a class="dropdown-item" data-size="14" href="index.php">75%</a></li>
-<li><a class="dropdown-item active" data-size="15" href="index.php">100%</a></li>
-<li><a class="dropdown-item" data-size="16.5" href="index.php">125%</a></li>
-<li><a class="dropdown-item" data-size="17.5" href="index.php">150%</a></li>
+<li><a class="dropdown-item" data-size="14" href="javascript:void(0);">75%</a></li>
+<li><a class="dropdown-item active" data-size="15" href="javascript:void(0);">100%</a></li>
+<li><a class="dropdown-item" data-size="16.5" href="javascript:void(0);">125%</a></li>
+<li><a class="dropdown-item" data-size="17.5" href="javascript:void(0);">150%</a></li>
 </ul>
 </li>
 <li class="dropdown contrast-controls nocontrast">
