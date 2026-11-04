@@ -43,7 +43,7 @@ html.classList.add(localStorage['contrast']);
 <h2>Liepājas SEZ valdes sēde notiks 25. novembrī</h2>
 <span class="mb-3">29.10.2026.</span>
 </div>
-<a aria-label="Lasīt vairāk" class="mb-3 news_link d-none d-md-block" href="liepajas-sez-valdes-sede-notiks-28-oktobri/index.php">Lasīt vairāk</a>
+<a aria-label="Lasīt vairāk" class="mb-3 news_link d-none d-md-block" href="liepajas-sez-valdes-sede-notiks-25-novembri/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-4 description">
 <p>Dokumentu iesniegšanas termiņš, lai tie tiktu izskatīti valdes sēdē: 09.11.2026.</p>

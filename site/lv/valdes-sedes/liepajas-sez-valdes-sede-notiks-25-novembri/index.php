@@ -17,11 +17,10 @@
 						
 			<title>Liepājas SEZ valdes sēde notiks 25. novembrī &raquo; SEZ</title>			
 
-			<link rel="stylesheet" href="https://liepaja-sez.lv/css/jarallax.min.css">
-			<link rel="stylesheet" href="https://liepaja-sez.lv/css/bootstrap.min.css">
-			<link rel="stylesheet" href="https://liepaja-sez.lv/css/main.css?v=26">
-			<link href="https://liepaja-sez.lv/css/block/text/main.css?v=2" rel="stylesheet" type="text/css" />			<link rel="stylesheet" href="https://liepaja-sez.lv/cc/dist/cookieconsent.css" media="print" onload="this.media='all'">
-
+			<link href="../../../css/jarallax.min.css" rel="stylesheet"/>
+			<link href="../../../css/bootstrap.min.css" rel="stylesheet"/>
+			<link href="../../../css/main__40614cace7.css" rel="stylesheet"/>
+			<link href="../../../css/block/text/main__f67bbdbffc.css" rel="stylesheet" type="text/css"/> <link href="../../../cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
 			<script>
 				const html = document.querySelector("html");
 				if(localStorage['contrast']){
