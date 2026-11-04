@@ -47,7 +47,7 @@
        href="#"
        id="language-controls1">fr</a>
 
-    <ul aria-labelledby="language-controls1" class="dropdown-menu text-center"><li><a class="dropdown-item" href="<?= htmlspecialchars($lvLink) ?>">lv</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($enLink) ?>">en</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($deLink) ?>">de</a></li></ul>
+    <ul aria-labelledby="language-controls1" class="dropdown-menu text-center"><li><a class="dropdown-item" href="<?= htmlspecialchars($lvLink) ?>">lv</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($deLink) ?>">de</a></li></ul>
 </li>
 </ul>
 <div class="brand-container">
