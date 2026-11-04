@@ -819,9 +819,14 @@ html.yellow2 .paginator .next img, html.yellow2 .paginator .prev img{
     }	
 
 	.navbar .nav-item{
-		padding-left:50px;
+		padding-left:10px;
 	}
 	
+    .navbar-nav {
+    display: flex;
+    width: 100%;
+    justify-content: space-between; /* Automatically spreads items evenly */
+}
 	
 	.dropend:hover>.dropdown-menu {
 		display:block;
@@ -842,7 +847,7 @@ html.yellow2 .paginator .next img, html.yellow2 .paginator .prev img{
 }
 
 @media (min-width: 1400px) {
-	.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+	.container, .container-l, .container-md, .container-sm, .container-xl, .container-xxl {
 		max-width: 1170px;
 	}
 }
