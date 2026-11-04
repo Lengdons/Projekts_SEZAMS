@@ -10,7 +10,7 @@ $(document).ready(function(){
 			$('#error').removeClass('d-none');
         }
     });
-});
+});``
 
 function onSubmit() {
     // Check captcha and parsleyjs on submit

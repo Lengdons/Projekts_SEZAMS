@@ -84,7 +84,7 @@
 <div class="collapse navbar-collapse" id="navbar">
 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
 <li class="nav-item">
-<a class="nav-link active" href="index.php">Sākums</a>
+<a class="nav-link" href="/site/index.php">Sākums</a>
 </li><li class="nav-item dropdown">
 <a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="/site/lv/liepajas-sez/index.php" role="button">
 
@@ -180,6 +180,9 @@
 </ul></li>
 <li class="nav-item">
 <a class="nav-link" href="/site/lv/dokumenti/index.php">Dokumenti</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/site/lv/teritoriju-karte/index.php">Teritoriju karte</a>
 </li>
 <li class="nav-item">
 <a class="nav-link" href="/site/lv/kontakti/index.php">Kontakti</a>

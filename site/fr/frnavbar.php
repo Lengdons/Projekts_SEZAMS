@@ -166,6 +166,9 @@
 <a class="nav-link" href="/site/fr/dokumenti/index.php">Documents</a>
 </li>
 <li class="nav-item">
+<a class="nav-link" href="/site/fr/teritoriju-karte/index.php">Carte des territoires</a>
+</li>
+<li class="nav-item">
 <a class="nav-link" href="/site/fr/kontakti/index.php">Contacts</a>
 </li>
 <hr class="dropdown-divider d-block d-lg-none"/>
