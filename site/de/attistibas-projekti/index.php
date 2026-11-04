@@ -122,14 +122,7 @@ Stellenangebote in Liepāja
 
 </a>
 </div>
-<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="Bezeichnung" class="sidebar-nav-icon" href="/site/de/teritoriju-karte/index.php">
-<img alt="Kategorie" src="../../img/round-right-blue.svg"/>
 
-Gebietskarte
-
-</a>
-</div>
 </div>
 </div>
 <div class="col-12 col-md-9 side-right">

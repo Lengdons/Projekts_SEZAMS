@@ -189,9 +189,9 @@
 <hr class="dropdown-divider d-block d-lg-none"/>
 <li class="dropdown font-controls mobile d-flex d-lg-none">
 <a aria-expanded="false" aria-label="Tamaño del texto" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="index.php" id="font-controls2">
-<span>un</span>
-<span>un</span>
-<span>un</span>
+<span>A</span>
+<span>A</span>
+<span>A</span>
 </a>
 <ul aria-labelledby="font-controls2" class="text-center font-size">
 <li><a class="" data-size="14" href="index.php">75%</a></li>
@@ -205,10 +205,10 @@
 <i class="bi bi-circle-half"></i>
 </a>
 <ul aria-labelledby="contrast-controls2" class="">
-<li><a class="control contrast-default active" data-class="blue" href="index.php"><i>un</i></a></li>
-<li><a class="control contrast1" data-class="black" href="index.php"><i>un</i></a></li>
-<li><a class="control contrast2" data-class="yellow2" href="index.php"><i>un</i></a></li>
-<li><a class="control contrast3" data-class="yellow" href="index.php"><i>un</i></a></li>
+<li><a class="control contrast-default active" data-class="blue" href="index.php"><i>A</i></a></li>
+<li><a class="control contrast1" data-class="black" href="index.php"><i>A</i></a></li>
+<li><a class="control contrast2" data-class="yellow2" href="index.php"><i>A</i></a></li>
+<li><a class="control contrast3" data-class="yellow" href="index.php"><i>A</i></a></li>
 </ul>
 </li>
 </ul>
