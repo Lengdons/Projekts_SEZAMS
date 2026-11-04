@@ -137,9 +137,6 @@ foreach (['lv', 'en', 'de', 'fr', 'it', 'es', 'nl'] as $code) {
 <li>
 <a class="dropdown-item" href="/site/nl/darbs-liepaja/index.php">Werk in Liepāja</a>
 </li>
-<li>
-<a class="dropdown-item" href="/site/nl/teritoriju-karte/index.php">Kaart van territoria</a>
-</li>
 </ul></li><li class="nav-item dropdown">
 <a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="/site/nl/parvalde/index.php" role="button">
 
@@ -190,6 +187,9 @@ foreach (['lv', 'en', 'de', 'fr', 'it', 'es', 'nl'] as $code) {
 </ul></li>
 <li class="nav-item">
 <a class="nav-link" href="/site/nl/dokumenti/index.php">Documenten</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/site/nl/teritoriju-karte/index.php">Kaart van territoria</a>
 </li>
 <li class="nav-item">
 <a class="nav-link" href="/site/nl/kontakti/index.php">Contact</a>

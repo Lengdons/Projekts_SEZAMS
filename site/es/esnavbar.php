@@ -129,9 +129,6 @@
 <li>
 <a class="dropdown-item" href="/site/es/darbs-liepaja/index.php">Trabajar en Liepāja</a>
 </li>
-<li>
-<a class="dropdown-item" href="/site/es/teritoriju-karte/index.php">Mapa de territorios</a>
-</li>
 </ul></li><li class="nav-item dropdown">
 <a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="/site/es/parvalde/index.php" role="button">
 

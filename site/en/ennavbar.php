@@ -129,9 +129,6 @@
 <li>
 <a class="dropdown-item" href="/site/en/darbs-liepaja/index.php">Job vacancies</a>
 </li>
-<li>
-<a class="dropdown-item" href="/site/en/teritoriju-karte/index.php">Map of territories</a>
-</li>
 </ul></li><li class="nav-item dropdown">
 <a aria-expanded="false" class="nav-link dropdown-toggle" data-bs-auto-close="outside" data-bs-toggle="dropdown" href="/site/en/parvalde/index.php" role="button">
 
