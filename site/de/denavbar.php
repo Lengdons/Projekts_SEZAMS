@@ -57,7 +57,7 @@
         <li>
             <a class="dropdown-item" href="<?= htmlspecialchars($enLink) ?>">en</a>
         </li>
-    <li><a class="dropdown-item" href="<?= htmlspecialchars($frLink) ?>">fr</a></li></ul>
+    <li><a class="dropdown-item" href="<?= htmlspecialchars($frLink) ?>">fr</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($itLink) ?>">it</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($esLink) ?>">es</a></li></ul>
 </li>
 </ul>
 <div class="brand-container">
@@ -69,7 +69,9 @@
 <ul class="controls mobile d-flex d-lg-none">
 <li class="search-controls search-btn" id=""><i class="bi bi-search"></i></li>
 <li class="dropdown language-controls">
-<a aria-expanded="false" aria-label="Sprache auswählen" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="" id="language-controls2">de</a><ul aria-labelledby="language-controls2" class="dropdown-menu text-center"><li><a class="dropdown-item" href="<?= htmlspecialchars($enLink) ?>">en</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($frLink) ?>">fr</a></li></ul> </li>
+<a aria-expanded="false" aria-label="Sprache auswählen" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="" id="language-controls2">de</a><ul aria-labelledby="language-controls2" class="dropdown-menu text-center"><li><a class="dropdown-item" href="<?= htmlspecialchars($enLink) ?>">en</a></li><li>
+            <a class="dropdown-item" href="<?= htmlspecialchars($lvLink) ?>">lv</a>
+        </li><li><a class="dropdown-item" href="<?= htmlspecialchars($frLink) ?>">fr</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($itLink) ?>">it</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($esLink) ?>">es</a></li></ul> </li>
 </ul>
 <button aria-controls="navbar" aria-expanded="false" aria-label="Navigation umschalten" class="navbar-toggler nocontrast" data-bs-target="#navbar" data-bs-toggle="collapse" type="button">
 <span class="navbar-toggler-icon"></span>
