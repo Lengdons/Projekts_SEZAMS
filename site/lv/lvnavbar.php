@@ -3,8 +3,10 @@
 <div class="centered">
 <div id="search-box">
 <div class="fa fa-times fa-2x" id="close-btn">X</div>
-<form action="#" id="search-form" method="get" target="_top">
-<input id="search-text" name="q" placeholder="Es meklēju..." type="text"/>
+<script defer src="/site/js/search.js"></script>
+<form action="/site/" id="search-form" method="get" target="_top">
+<input type="hidden" name="lang" value="lv">
+<input id="search-text" name="search" placeholder="Es meklēju..." type="text"/>
 <button id="search-button" type="submit">
 <span>Meklēt</span>
 </button>

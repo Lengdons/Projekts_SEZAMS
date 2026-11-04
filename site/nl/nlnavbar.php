@@ -11,8 +11,10 @@ foreach (['lv', 'en', 'de', 'fr', 'it', 'es', 'nl'] as $code) {
 <div class="centered">
 <div id="search-box">
 <div class="fa fa-times fa-2x" id="close-btn">X</div>
-<form action="#" id="search-form" method="get" target="_top">
-<input id="search-text" name="q" placeholder="Ik zoek..." type="text"/>
+<script defer src="/site/js/search.js"></script>
+<form action="/site/nl/" id="search-form" method="get" target="_top">
+<input type="hidden" name="lang" value="nl">
+<input id="search-text" name="search" placeholder="Ik zoek..." type="text"/>
 <button id="search-button" type="submit">
 <span>Zoeken</span>
 </button>

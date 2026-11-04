@@ -3,8 +3,10 @@
 <div class="centered">
 <div id="search-box">
 <div class="fa fa-times fa-2x" id="close-btn">X</div>
-<form action="#" id="search-form" method="get" target="_top">
-<input id="search-text" name="q" placeholder="Ich suche ..." type="text"/>
+<script defer src="/site/js/search.js"></script>
+<form action="/site/de/" id="search-form" method="get" target="_top">
+<input type="hidden" name="lang" value="de">
+<input id="search-text" name="search" placeholder="Ich suche ..." type="text"/>
 <button id="search-button" type="submit">
 <span>Suchen</span>
 </button>
