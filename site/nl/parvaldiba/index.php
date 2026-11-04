@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+
+<html lang="nl">
+<head>
+<!-- Required meta tags -->
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<link href="../../favicon.ico" rel="icon" type="image/x-icon"/>
+<meta content="follow, index" name="robots"/><meta content="website" property="og:type"/>
+<meta content="https://liepaja-sez.lv/nl/parvaldiba/" property="og:url"/>
+<meta content="Home" property="og:title"/>
+<meta content="SEZ Liepāja" property="og:site_name"/>
+<meta content="@liepajaSEZ" name="twitter:site"/>
+<meta content="@liepajaSEZ" name="twitter:creator"/>
+<title>Home » SEZ</title>
+<link href="../../css/jarallax.min.css" rel="stylesheet"/>
+<link href="../../css/bootstrap.min.css" rel="stylesheet"/>
+<link href="../../css/main__40614cace7.css" rel="stylesheet"/>
+<link href="../../css/block/banner/animate.min.css" rel="stylesheet" type="text/css"/><link href="../../css/block/banner/glide.core.min.css" rel="stylesheet" type="text/css"/><link href="../../css/block/banner/glide.theme.min.css" rel="stylesheet" type="text/css"/><link href="../../css/block/banner/main__8f5730ec2e.css" rel="stylesheet" type="text/css"/><link href="../../css/block/text/main__f67bbdbffc.css" rel="stylesheet" type="text/css"/><link href="../../css/block/columns/main__7252a74784.css" rel="stylesheet" type="text/css"/><link href="../../css/block/accordion/main__1d365e2dc4.css" rel="stylesheet" type="text/css"/> <link href="../../cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
+<script>
+
+const html = document.querySelector("html");
+
+if(localStorage['contrast']){
+
+html.classList.add(localStorage['contrast']);
+
+}
+
+</script>
+<script>var web_url="https://liepaja-sez.lv/";</script>
+<script>var lang="nl";</script>
+</head>
+<body>
+<?php include __DIR__ . '/../nlnavbar.php'; ?>
+<div class="spacer"></div>
+<main class="pb-5">
+<div class="container pt-3">
+<div class="row">
+<div class="col-12 col-md-3 side-left sidebar-nav mt-5 d-none d-md-block">
+<div class="row">
+<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<a aria-label="naam" class="active sidebar-nav-icon" href="index.php">
+<img alt="Categorie" src="../../img/round-right-blue.svg"/>
+
+Beheer
+
+</a>
+</div>
+<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<a aria-label="naam" class="sidebar-nav-icon" href="../korporativa-parvaldiba/index.php">
+<img alt="Categorie" src="../../img/round-right-blue.svg"/>
+
+Corporate governance
+
+</a>
+</div>
+<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<a aria-label="naam" class="sidebar-nav-icon" href="../iepirkumi-un-izsoles/index.php">
+<img alt="Categorie" src="../../img/round-right-blue.svg"/>
+
+Inkoop en veilingen
+
+</a>
+</div>
+<div class="col-6 col-sm-4 col-md-12 mb-4 sidebar-parent ps-0">
+<a class="sidebar-nav-icon inactive mb-4" href="">
+<img alt="Categorie" src="../../img/round-right-blue.svg"/>
+
+Activiteitenrapporten
+
+</a>
+<div class="sidebar-nested ps-md-4">
+<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<a aria-label="naam" class="sidebar-nav-icon" href="../valdes-sedes-lemumi/index.php">
+<img alt="Categorie" src="../../img/round-right-blue.svg"/>
+
+Beslissingen van de bestuursvergadering
+
+</a>
+</div>
+<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<a aria-label="naam" class="sidebar-nav-icon" href="../atskaites-par-darbibu/index.php">
+<img alt="Categorie" src="../../img/round-right-blue.svg"/>
+
+Activiteitenrapporten
+
+</a>
+</div>
+<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
+<a aria-label="naam" class="sidebar-nav-icon" href="../ostas-statistika/index.php">
+<img alt="Categorie" src="../../img/round-right-blue.svg"/>
+
+Havenstatistieken
+
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-9 side-right">
+<div class="block_text mt-5 mb-4">
+<div class="row">
+<div class="col"><div class="col-12 output"><h6>Het bestuur van de Liepāja Speciale Economische Zone (Liepāja SEZ) is een afgeleide publiekrechtelijke juridische entiteit opgericht door de staat en de gemeente, die onder toezicht staat van het kabinet van ministers, een speciale begroting heeft, een eigen afzonderlijk eigendom en zegel. De Liepaja SEZ Authority is de opvolger van de rechten en plichten van de Liepaja Port Authority.</h6><p>De managementstructuur van Liepāja SEZ bestaat uit het Liepāja SEZ-bestuur als het hoogste besluitvormingsorgaan en het uitvoerende apparaat, onder leiding van de Liepaja SEZ-manager. </p></div>
+</div>
+</div>
+</div>
+<div class="columns mt-5">
+<div class="row">
+<div class="col-12">
+<h1 class="mb-4 block-title">Bord<span></span></h1>
+</div>
+<div class="col-12 col-md-4 column-content">
+<h4>3</h4><p>Vertegenwoordigers van staatsbelangen worden afgevaardigd door het ministerie van Economie, Financiën en Transport</p>
+</div>
+<div class="col-12 col-md-4 column-content">
+<h4>3</h4><p>Vertegenwoordigers van de gemeenteraad van Liepaja</p>
+</div>
+<div class="col-12 col-md-4 column-content">
+<h4>3</h4><p>Vertegenwoordigers van Liepaja-kooplieden</p>
+</div>
+</div>
+</div>
+<div class="accordion my-5">
+<div class="row">
+<div id="accordion">
+<div class="card">
+<div class="card-header" id="heading3530">
+<h5 class="mb-0">
+<button aria-controls="collapse3530" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse3530" data-bs-toggle="collapse">
+
+Bestuursleden
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading3530" class="collapse" data-parent="#accordion" id="collapse3530">
+<div class="card-body">
+<p><strong>Uldis Sesks</strong> <br/>Voorzitter van de Raad</p><p><strong>Jānis Vilnītis</strong> <br/>Vice-voorzitter van het bestuur</p><p><strong>Gunars Ansins</strong> <br/>Bestuurslid<br/><br/><strong>Edmunds Valantis</strong> <br/>Bestuurslid</p><p><strong>Jolanta Pluim</strong><br/>Bestuurslid</p><p><strong>Juris Burnievskis</strong><br/>Bestuurslid</p><p><strong>Aris Ozolins</strong> <br/>Bestuurslid</p><p><strong>Ilze Skrodele</strong> <br/>Bestuurslid</p><br/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading3531">
+<h5 class="mb-0">
+<button aria-controls="collapse3531" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse3531" data-bs-toggle="collapse">
+
+Functies
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading3531" class="collapse" data-parent="#accordion" id="collapse3531">
+<div class="card-body">
+<ul><li>keurt het ontwikkelingsplan voor de speciale economische zone van Liepāja goed in overeenstemming met de wet op de speciale economische zone van Liepaja, de belangen van de staat, gemeenten en de samenleving;</li><li>sluit overeenkomsten met investeerders van de speciale economische zone Liepāja met betrekking tot investeringen en de exploitatie van commerciële bedrijven op het grondgebied van de speciale economische zone Liepāja;</li><li>sluit overeenkomsten met commerciële bedrijven van de speciale economische zone Liepāja voor hun commerciële activiteiten op het grondgebied van de speciale economische zone Liepāja;</li><li>geeft certificaten af ​​voor het recht om de belastingvoordelen waarin de wet "Betreffende de toepassing van belastingen in vrijhavens en speciale economische zones" voorziet, toe te passen op de commerciële bedrijven van de speciale economische zone Liepāja;</li><li>bepaalt de vrije zones en hun grenzen, en coördineert met de staatsbelastingdienst de naleving van deze zones met de implementatie van het vrije zoneregime;</li><li>contracten sluiten voor de verhuur of onteigening van grond gelegen op het grondgebied van de speciale economische zone Liepāja, met uitzondering van de onteigening van havengronden, evenals de in deze wet gespecificeerde gevallen waarin de privatisering van grond en ander onroerend goed op het grondgebied van de speciale economische zone Liepāja door andere instellingen wordt uitgevoerd;</li><li>contracten sluiten met commerciële bedrijven van de speciale economische zone Liepaja voor de algemene overdracht van bepaalde economische functies aan hen in individuele verzorgingsgebieden van de speciale economische zone Liepaja of in bepaalde delen van het grondgebied van de speciale economische zone Liepaja;</li><li>controleert de uitvoering van gesloten contracten;</li><li>keurt de vooruitzichten en de begroting voor het gebruik van financiële middelen voor het volgende jaar goed;</li><li>benoemt, leidt en controleert het uitvoerende apparaat van de speciale economische zone Liepāja;</li><li>voert de taken uit van het bestuur van de vrije zone op het grondgebied van de speciale economische zone van Liepāja, zoals gedefinieerd in de regelgevingshandelingen.</li></ul><br/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading3532">
+<h5 class="mb-0">
+<button aria-controls="collapse3532" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse3532" data-bs-toggle="collapse">
+
+Managementstructuur
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading3532" class="collapse" data-parent="#accordion" id="collapse3532">
+<div class="card-body">
+<br/>
+<img alt="" src="../../img/block/accordion/106/1745933510_Struktūra_grozījumi_1_apstiprināts_23.01.2025.webp"/>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container my-4">
+<div class="row">
+<div class="col-12 useful" id="useful-p">
+<span class="me-2">Was deze informatie nuttig?</span>
+<button class="useful-btn" data-table-id="32" data-table-name="mod_menu" data-value="1">Ja </button>
+<button class="useful-btn" data-table-id="32" data-table-name="mod_menu" data-value="0">Nee </button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<img alt="Achtergrondafbeelding" class="background" src="../../img/bg2.svg"/>
+</main>
+<footer class="footer">
+<div class="container py-5">
+<div class="row">
+<div class="col-12 col-md-4 col-lg-2 footer-logo">
+<img alt="logo" class="img-fluid" src="../../img/logo-white.svg" width="100"/>
+</div>
+<div class="col-12 col-md-8 col-lg-5 mb-3 reqs">
+<p>Autoriteit van de Speciale Economische Zone Liepāja<br/>Fēniksa iela 4, Liepāja,<br/>LV-3401, Letland<br/><br/>Telefoon: <a href="tel:+37163427605">+371 63427605</a><br/>E-mail: <a href="mailto:lsez@lsez.lv">lsez@lsez.lv</a></p> </div>
+<div class="col-12 col-md-4 col-lg-4">
+<div class="row pt-3k">
+<div class="col socials d-flex justify-content-start">
+<a aria-label="Facebook" href="https://www.facebook.com/LiepajasSEZ" target="_blank"><img alt="Facebook" class="img-fluid" src="../../img/FB.svg"/></a>
+<a aria-label="Twitteren" href="https://twitter.com/liepajaSEZ" target="_blank"><img alt="Twitteren" class="img-fluid" src="../../img/TW.svg"/></a>
+<a aria-label="Instagram" href="https://www.instagram.com/liepajasez" target="_blank"><img alt="Instagram" class="img-fluid" src="../../img/IG.svg"/></a>
+<a aria-label="YouTube" href="https://www.youtube.com/channel/UCjBSQK6pZ5tQGpRabmlLwxQ" target="_blank"><img alt="YouTube" class="img-fluid" src="../../img/YT.svg"/></a>
+<a alt="Linkedin" href="https://www.linkedin.com/company/liepaja-special-economic-zone/" target="_blank"><img aria-label="Linkedin" class="img-fluid" src="../../img/IN.svg"/></a>
+<a alt="Linkedin" href="https://www.flickr.com/photos/liepajasez/albums/" target="_blank"><img aria-label="Flickr" class="img-fluid" src="../../img/flickr.svg"/></a>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-8 col-lg-1">
+<div class="row">
+<div class="col up">
+<a aria-label="Naar boven" href="index.php"><img alt="Naar boven" class="img-fluid" src="../../img/round-right.svg"/></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="sticky-cookie" style="align-items: center; justify-content: center;">
+<img alt="Cookie-instellingen" src="../../img/cc__3df23cc431.svg" width="24"/>
+</div>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-6QTXK76SH0"></script>
+<script>
+
+window.dataLayer = window.dataLayer || [];
+
+function gtag(){dataLayer.push(arguments);}
+
+gtag('js', new Date());
+
+
+
+gtag('config', 'G-6QTXK76SH0');
+
+</script>
+<script crossorigin="anonymous" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" src="https://code.jquery.com/jquery-3.7.0.min.js">
+
+<script src="https://code.jquery.com/color/jquery.color.plus-names-2.1.2.min.js"></script>
+<script src="../../js/jarallax.min__cc5fd325af.js"></script>
+<script src="../../js/bootstrap.bundle.min.js"></script>
+<script src="../../js/main__7152e3fda1.js"></script>
+<script src="../../js/block/useful/main__1d365e2dc4.js"></script><script src="../../js/block/banner/glide.min.js"></script><script src="../../js/block/banner/main__fe6040fc89.js"></script><script src="../../js/block/accordion/easyzoom__1d365e2dc4.js"></script><script src="../../js/block/accordion/main__1d365e2dc4.js"></script> <script defer="" src="../../cc/src/cookieconsent.js"></script>
+<script defer="" src="/site/nl/cookieconsent.js"></script>
+</footer>
+</body>
+</html>

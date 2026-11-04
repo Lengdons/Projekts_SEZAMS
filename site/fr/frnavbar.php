@@ -3,8 +3,10 @@
 <div class="centered">
 <div id="search-box">
 <div class="fa fa-times fa-2x" id="close-btn">X</div>
-<form action="#" id="search-form" method="get" target="_top">
-<input id="search-text" name="q" placeholder="Je recherche…" type="text"/>
+<script defer src="/site/js/search.js"></script>
+<form action="/site/fr/" id="search-form" method="get" target="_top">
+<input type="hidden" name="lang" value="fr">
+<input id="search-text" name="search" placeholder="Je recherche…" type="text"/>
 <button id="search-button" type="submit">
 <span>Rechercher</span>
 </button>
@@ -47,7 +49,7 @@
        href="#"
        id="language-controls1">fr</a>
 
-    <ul aria-labelledby="language-controls1" class="dropdown-menu text-center"><li><a class="dropdown-item" href="<?= htmlspecialchars($lvLink) ?>">lv</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($enLink) ?>">en</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($deLink) ?>">de</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($itLink) ?>">it</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($esLink) ?>">es</a></li></ul>
+    <ul aria-labelledby="language-controls1" class="dropdown-menu text-center"><li><a class="dropdown-item" href="<?= htmlspecialchars($lvLink) ?>">lv</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($enLink) ?>">en</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($deLink) ?>">de</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($itLink) ?>">it</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($esLink) ?>">es</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($nlLink) ?>">nl</a></li></ul>
 </li>
 </ul>
 <div class="brand-container">
@@ -59,7 +61,7 @@
 <ul class="controls mobile d-flex d-lg-none">
 <li class="search-controls search-btn" id=""><i class="bi bi-search"></i></li>
 <li class="dropdown language-controls">
-<a aria-expanded="false" aria-label="Choisir la langue" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="" id="language-controls2">fr</a><ul aria-labelledby="language-controls2" class="dropdown-menu text-center"><li><a class="dropdown-item" href="<?= htmlspecialchars($lvLink) ?>">lv</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($enLink) ?>">en</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($deLink) ?>">de</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($itLink) ?>">it</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($esLink) ?>">es</a></li></ul> </li>
+<a aria-expanded="false" aria-label="Choisir la langue" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="" id="language-controls2">fr</a><ul aria-labelledby="language-controls2" class="dropdown-menu text-center"><li><a class="dropdown-item" href="<?= htmlspecialchars($lvLink) ?>">lv</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($enLink) ?>">en</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($deLink) ?>">de</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($itLink) ?>">it</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($esLink) ?>">es</a></li><li><a class="dropdown-item" href="<?= htmlspecialchars($nlLink) ?>">nl</a></li></ul> </li>
 </ul>
 <button aria-controls="navbar" aria-expanded="false" aria-label="Basculer la navigation" class="navbar-toggler nocontrast" data-bs-target="#navbar" data-bs-toggle="collapse" type="button">
 <span class="navbar-toggler-icon"></span>

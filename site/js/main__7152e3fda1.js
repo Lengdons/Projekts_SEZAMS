@@ -14,11 +14,6 @@ $(document).ready(function() {
         $('#search-text').focus();
     });
     
-    $('#search-button').click(function(e){
-        e.preventDefault();
-        window.location.href=web_url+'?search='+$('#search-text').val();
-    }); 
-
     $('.font-controls .font-size a').click(function(e){
         e.preventDefault();
         
