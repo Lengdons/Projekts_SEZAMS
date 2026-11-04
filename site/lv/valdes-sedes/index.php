@@ -40,18 +40,18 @@ html.classList.add(localStorage['contrast']);
 <div class="row">
 <div class="col-12 col-md-4 news_desc">
 <div>
-<h2>Liepājas SEZ valdes sēde notiks 28. oktobrī</h2>
-<span class="mb-3">28.09.2026.</span>
+<h2>Liepājas SEZ valdes sēde notiks 25. novembrī</h2>
+<span class="mb-3">29.10.2026.</span>
 </div>
 <a aria-label="Lasīt vairāk" class="mb-3 news_link d-none d-md-block" href="liepajas-sez-valdes-sede-notiks-28-oktobri/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-4 description">
-<p>Dokumentu iesniegšanas termiņš, lai tie tiktu izskatīti valdes sēdē: 12.10.2026.</p>
-<a aria-label="Lasīt vairāk" class="my-3 news_link d-block d-md-none" href="liepajas-sez-valdes-sede-notiks-28-oktobri/index.php">Lasīt vairāk</a>
+<p>Dokumentu iesniegšanas termiņš, lai tie tiktu izskatīti valdes sēdē: 09.11.2026.</p>
+<a aria-label="Lasīt vairāk" class="my-3 news_link d-block d-md-none" href="liepajas-sez-valdes-sede-notiks-25-novembri/index.php">Lasīt vairāk</a>
 </div>
 <div class="col-12 col-md-4 order-first order-md-last mb-3">
 <div class="blur-load" style="background-image:url(https://liepaja-sez.lv/img/mod/news/110/)">
-<a aria-label="Lasīt vairāk" href="liepajas-sez-valdes-sede-notiks-28-oktobri/index.php">
+<a aria-label="Lasīt vairāk" href="liepajas-sez-valdes-sede-notiks-25-novembri/index.php">
 <img alt="" class="img-fluid" src="https://liepaja-sez.lv/img/mod/news/110/"/>
 </a>
 </div>
