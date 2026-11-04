@@ -121,14 +121,7 @@ Werk in Liepāja
 
 </a>
 </div>
-<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="naam" class="sidebar-nav-icon" href="../teritoriju-karte/index.php">
-<img alt="Categorie" src="../../img/round-right-blue.svg"/>
 
-Kaart van territoria
-
-</a>
-</div>
 </div>
 </div>
 <div class="col-12 col-md-9 side-right">

@@ -122,14 +122,7 @@ Darbs Liepājā
 
 </a>
 </div>
-<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nosaukums" class="sidebar-nav-icon" href="../teritoriju-karte/index.php">
-<img alt="Category" src="../../img/round-right-blue.svg"/>
 
-Teritoriju karte
-
-</a>
-</div>
 </div>
 </div>
 <div class="col-12 col-md-9 side-right">

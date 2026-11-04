@@ -122,14 +122,7 @@ Emplois à Liepāja
 
 </a>
 </div>
-<div class="col-6 col-sm-4 col-md-12 mb-4 ps-0">
-<a aria-label="nom" class="sidebar-nav-icon" href="/site/fr/teritoriju-karte/index.php">
-<img alt="Catégorie" src="../../img/round-right-blue.svg"/>
 
-Carte des territoires
-
-</a>
-</div>
 </div>
 </div>
 <div class="col-12 col-md-9 side-right">
