@@ -30,12 +30,16 @@ html.classList.add(localStorage['contrast']);
 </script>
 <script>var web_url="https://liepaja-sez.lv/";</script>
 <script>var lang="de";</script>
+<style>
+/* Give the interactive atlas more room than the standard text column. */
+main > .atlas-page-container{width:100%;max-width:1600px;padding-left:clamp(16px,3vw,48px);padding-right:clamp(16px,3vw,48px)}
+</style>
 </head>
 <body>
 <?php include __DIR__ . '/../denavbar.php'; ?>
 <div class="spacer"></div>
 <main class="pb-5">
-<div class="container pt-3">
+<div class="container pt-3 atlas-page-container">
 
 <?php include __DIR__ . '/lsez-map.php'; ?>
 <div class="container my-4">
