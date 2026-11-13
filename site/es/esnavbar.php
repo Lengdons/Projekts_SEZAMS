@@ -1,4 +1,4 @@
-<?php require_once __DIR__ . '/language.php'; ?>
+<?php require_once __DIR__ . '/../language.php'; ?>
 <div class="block" id="search-overlay">
 <div class="centered">
 <div id="search-box">
