@@ -13,10 +13,4 @@ These are approximate visual studies, not individually surveyed replicas. The ex
 
 Modeled buildings retain whole-surface selection, selected-state tint, filters, building-layer visibility and keyboard selection in the SVG view. The MapLibre layer owns and releases its WebGL buffers, shaders and vertex array; meshes are cached by feature and picking geometry is cached between rendered frames.
 
-Run geometry and integration checks from the repository root:
-
-```powershell
-node --test Audit_tool/tests/lsez-industrial-models.test.cjs
-```
-
 Browser validation used the local PHP server and headless Edge. WebGL was tested with a minimal map style to isolate local geometry from external tile availability; SVG was tested by explicitly disabling WebGL support. Both views were visually inspected. Model selection, layer hiding, 2D/3D switching and regional isolation were checked separately.
