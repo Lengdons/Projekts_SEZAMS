@@ -611,7 +611,7 @@ LAUMA FABRICS
 </div>
 <div aria-labelledby="heading45720" class="collapse" data-parent="#accordion" id="collapse45720">
 <div class="card-body">
-<p>Tekstilizstrādājumu, apakšveļas un medicīnisko materiālu ražotājs.</p><p><strong>Adrese:</strong> Ziemeļu iela 19, Liepāja, LV-3405, Latvija</p><p><strong>Tālrunis:</strong> (+371) 63447466</p><p><strong>E-pasts: </strong><a href="mailto:fabrics@laumafabrics.com">fabrics@laumafabrics.com</a></p><p><a href="www.laumafabrics.com">www.laumafabrics.com</a></p><br/>
+<p>Tekstilizstrādājumu, apakšveļas un medicīnisko materiālu ražotājs.</p><p><strong>Adrese:</strong> Ziemeļu iela 19, Liepāja, LV-3405, Latvija</p><p><strong>Tālrunis:</strong> (+371) 63447466</p><p><strong>E-pasts: </strong><a href="mailto:fabrics@laumafabrics.com">fabrics@laumafabrics.com</a></p><p><a href="https://lauma.com/fabrics/">lauma.com/fabrics</a></p><br/>
 </div>
 </div>
 </div>
@@ -627,7 +627,7 @@ LAUMA MEDICAL
 </div>
 <div aria-labelledby="heading45721" class="collapse" data-parent="#accordion" id="collapse45721">
 <div class="card-body">
-<p>Medicīnas izstrādājumu ražotājs.</p><p><strong>Address:</strong> Ziemeļu iela 19, Liepāja, LV-3405, Latvija.</p><p><strong>Tālrunis:</strong> (+371) 25666675<br/><strong>E-pasts:</strong> <a href="mailto:medical@laumamedical.com">medical@laumamedical.com</a><br/><a href="www.laumamedical.com">www.laumamedical.com</a></p><br/>
+<p>Medicīnas izstrādājumu ražotājs.</p><p><strong>Address:</strong> Ziemeļu iela 19, Liepāja, LV-3405, Latvija.</p><p><strong>Tālrunis:</strong> (+371) 25666675<br/><strong>E-pasts:</strong> <a href="mailto:medical@laumamedical.com">medical@laumamedical.com</a><br/><a href="https://lauma.com/medical/">lauma.com/medical</a></p><br/>
 </div>
 </div>
 </div>
