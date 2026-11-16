@@ -611,7 +611,7 @@ LAUMA FABRICS
 </div>
 <div aria-labelledby="heading45720" class="collapse" data-parent="#accordion" id="collapse45720">
 <div class="card-body">
-<p>Hersteller von Textilien, Unterwäsche und medizinischen Materialien.</p><p><strong>Adresse:</strong> Ziemeļu iela 19, Liepāja, LV-3405, Lettland</p><p><strong>Telefon:</strong> (+371) 63447466</p><p><strong>E-Mail: </strong><a href="mailto:fabrics@laumafabrics.com">fabrics@laumafabrics.com</a></p><p><a href="www.laumafabrics.com">www.laumafabrics.com</a></p><br/>
+<p>Hersteller von Textilien, Unterwäsche und medizinischen Materialien.</p><p><strong>Adresse:</strong> Ziemeļu iela 19, Liepāja, LV-3405, Lettland</p><p><strong>Telefon:</strong> (+371) 63447466</p><p><strong>E-Mail: </strong><a href="mailto:fabrics@laumafabrics.com">fabrics@laumafabrics.com</a></p><p><a href="https://lauma.com/fabrics/">lauma.com/fabrics</a></p><br/>
 </div>
 </div>
 </div>
@@ -627,7 +627,7 @@ LAUMA MEDICAL
 </div>
 <div aria-labelledby="heading45721" class="collapse" data-parent="#accordion" id="collapse45721">
 <div class="card-body">
-<p>Hersteller von medizinischen Produkten.</p><p><strong>Anschrift:</strong> Ziemeļu iela 19, Liepāja, LV-3405, Lettland.</p><p><strong>Telefon:</strong> (+371) 25666675<br/><strong>E-Mail:</strong> <a href="mailto:medical@laumamedical.com">medical@laumamedical.com</a><br/><a href="www.laumamedical.com">www.laumamedical.com</a></p><br/>
+<p>Hersteller von medizinischen Produkten.</p><p><strong>Anschrift:</strong> Ziemeļu iela 19, Liepāja, LV-3405, Lettland.</p><p><strong>Telefon:</strong> (+371) 25666675<br/><strong>E-Mail:</strong> <a href="mailto:medical@laumamedical.com">medical@laumamedical.com</a><br/><a href="https://lauma.com/medical/">lauma.com/medical</a></p><br/>
 </div>
 </div>
 </div>

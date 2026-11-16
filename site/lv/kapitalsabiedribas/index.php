@@ -272,6 +272,7 @@ Darbs Liepājā
 </div>
 <div class="col-12 col-md-3 column-content">
 <img alt="icon" class="icon" src="../../img/block/columns/154/1718872266_Ikonas_-40.svg"/>
+<<<<<<< HEAD
 <h6><strong>19 109 301,55 €</strong></h6><p>kapitālsabiedrību veiktās investīcijas (būvniecība, modernās tehnoloģijas un nemateriālie ieguldījumi), t.sk. kapitālsabiedrību veiktie ieguldījumi, no kuriem var saņemt nodokļu atvieglojumus (2024. gadā)</p>
 </div>
 </div>
@@ -1315,6 +1316,389 @@ Darbs Liepājā
 })();
 </script>
 <!-- ================= END REDESIGNED BUSINESS PARTNERS ECOSYSTEM & DIRECTORY ================= -->
+=======
+<h6><strong>19 109 301,55 €</strong></h6><p>kapitālsabiedrību veiktās investīcijas (būvniecība, modernās tehnoloģijas un nemateriālie ieguldījumi), t.sk. kapitālsabiedrību veiktie ieguldījumi, no kuriem var saņemt nodokļu atvieglojumus (2024. gadā)</p>
+</div>
+</div>
+</div>
+<div class="accordion my-5">
+<div class="row">
+<div id="accordion">
+<div class="card">
+<div class="card-header" id="heading4570">
+<h5 class="mb-0">
+<button aria-controls="collapse4570" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4570" data-bs-toggle="collapse">
+
+AE PARTNER
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading4570" class="collapse" data-parent="#accordion" id="collapse4570">
+<div class="card-body">
+<p>Automatizācijas un vadības sistēmu ražotājs.</p><p><strong>Adrese:</strong> Ganību iela 1/3, Liepāja, LV-3401, Latvija</p><p><strong>Tālrunis:</strong> (+371) 63401817</p><p><strong>E-pasts:</strong> <a href="mailto:mail@aepartner.lv">mail@aepartner.lv</a></p><p><a href="www.aepartner.lv">www.aepartner.lv</a></p><br/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading4571">
+<h5 class="mb-0">
+<button aria-controls="collapse4571" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4571" data-bs-toggle="collapse">
+
+AI INDUSTRI
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading4571" class="collapse" data-parent="#accordion" id="collapse4571">
+<div class="card-body">
+<p>Nekustamā īpašuma izīrēšana un pārvaldīšana.</p><p><strong>Adrese:</strong> Grīzupes iela 3, Liepāja, Latvija</p><p><strong>Tālrunis:</strong> (+371) 29778691</p><p><strong>E-pasts:</strong> <a href="mailto:aiindustribygg@gmail.com">aiindustribygg@gmail.com</a></p><br/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading4572">
+<h5 class="mb-0">
+<button aria-controls="collapse4572" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4572" data-bs-toggle="collapse">
+
+BALTEX BULK
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading4572" class="collapse" data-parent="#accordion" id="collapse4572">
+<div class="card-body">
+<p>Stividoru pakalpojumi un kravu uzglabāšana brīvās zonas režīmā.</p><p><strong>Adrese:</strong> Pulvera iela 11, Liepāja, LV-3405, Latvija</p><p><strong>Tālrunis:</strong> (+371) 29115521</p><p><strong>E-pasts:</strong> <a href="mailto:v.didora@baltex-bulk.lv">v.didora@baltex-bulk.lv</a></p><br/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading4573">
+<h5 class="mb-0">
+<button aria-controls="collapse4573" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4573" data-bs-toggle="collapse">
+
+BALTU TERMINALS
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading4573" class="collapse" data-parent="#accordion" id="collapse4573">
+<div class="card-body">
+<p>Stividoru pakalpojumi un kravu uzglabāšana.</p><p>Adrese: Brīvostas iela 31, Liepāja</p><p>Tālrunis: (+371) 20211294</p><p>E-pasts: <a href="mailto:info@baltukoks.lv" target="_blank">info@baltukoks.lv</a></p><br/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading4574">
+<h5 class="mb-0">
+<button aria-controls="collapse4574" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4574" data-bs-toggle="collapse">
+
+BALTIC BIOFUEL COMPANY
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading4574" class="collapse" data-parent="#accordion" id="collapse4574">
+<div class="card-body">
+<p>Ostas un loģistikas pakalpojumi.</p><p><strong>Adrese:</strong> Atslēdznieku iela 16/18, Liepāja, LV-3401, Latvija</p><p><strong>Tālrunis:</strong> (+371) 29227735</p><p><strong>E-pasts:</strong> <a href="">info@balticbiofuel.lv</a></p><br/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading4575">
+<h5 class="mb-0">
+<button aria-controls="collapse4575" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4575" data-bs-toggle="collapse">
+
+BALTIC TRANSSHIPMENT CENTER
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading4575" class="collapse" data-parent="#accordion" id="collapse4575">
+<div class="card-body">
+<p>Stividoru un noliktavu pakalpojumi, graudu pirmapstrāde.</p><p><strong>Adrese:</strong> Turaidas iela 24, Liepāja, LV-3414, Latvija</p><p><strong>Tālrunis:</strong> (+371) 63407414</p><p><strong>E-pasts:</strong> <a href="mailto:btc@btc.lv">btc@btc.lv</a></p><p><a href="http://www.btc.lv/" target="_blank">www.btc.lv</a></p><br/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading4576">
+<h5 class="mb-0">
+<button aria-controls="collapse4576" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4576" data-bs-toggle="collapse">
+
+BRIMER LIEPAJA
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading4576" class="collapse" data-parent="#accordion" id="collapse4576">
+<div class="card-body">
+<p>Stividoru pakalpojumi un kravu uzglabāšana.</p><p><strong>Adrese:</strong> Kaiju iela 7, Liepāja, LV-3401, Latvija</p><p><strong>Tālrunis:</strong> (+371) 63424429</p><p><strong>E-pasts: </strong><a href="mailto:liepaja@brimer.lv" target="_blank">liepaja@brimer.lv</a></p><p><a href="https://piemare.lv/">www.piemare.lv</a></p><br/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading4577">
+<h5 class="mb-0">
+<button aria-controls="collapse4577" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4577" data-bs-toggle="collapse">
+
+CALJAN
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading4577" class="collapse" data-parent="#accordion" id="collapse4577">
+<div class="card-body">
+<p>Konveijera iekārtu ražošana kravu iekraušanai, izkraušanai un transportēšanai.</p><p><strong>Adrese:</strong> Brīvības iela 142A, Liepāja, LV-3401, Latvija</p><p><strong>Tālrunis:</strong> (+371) 63489530</p><p><strong>E-pasts:</strong> <a href="mailto:info.lv@caljan.com">info.lv@caljan.com</a></p><p><a href="https://caljan.com/">www.caljan.com</a></p><br/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading4578">
+<h5 class="mb-0">
+<button aria-controls="collapse4578" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4578" data-bs-toggle="collapse">
+
+DAN STORE
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading4578" class="collapse" data-parent="#accordion" id="collapse4578">
+<div class="card-body">
+<p>Kravu apstrāde un noliktavu saimniecība.</p><p><strong>Adrese:</strong> Brīvostas iela 30, Liepāja, LV-3405, Latvija</p><p><strong>Tālrunis:</strong> (+371) 63484500</p><p><strong>E-pasts:</strong> <a href="mailto:info@danstore.lv">info@danstore.lv</a></p><p><a href="https://danstore.lv/">www.danstore.lv</a></p><br/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading4579">
+<h5 class="mb-0">
+<button aria-controls="collapse4579" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4579" data-bs-toggle="collapse">
+
+DG TERMINĀLS
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading4579" class="collapse" data-parent="#accordion" id="collapse4579">
+<div class="card-body">
+<p>Visa veida lejamkravu pārkraušana un uzglabāšana, loģistikas un saistītie pakalpojumi.</p><p><strong>Adrese:</strong> Pulvera iela 33, Liepāja, LV-3405, Latvija</p><p><strong>Tālrunis:</strong> (+371) 63424604</p><p><strong>E-pasts:</strong> <a href="mailto:hub@dgterminals.lv">hub@dgterminals.lv</a></p><p><a href="https://www.dgterminals.lv/">www.dgterminals.lv</a></p><br/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading45710">
+<h5 class="mb-0">
+<button aria-controls="collapse45710" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45710" data-bs-toggle="collapse">
+
+DUNA
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading45710" class="collapse" data-parent="#accordion" id="collapse45710">
+<div class="card-body">
+<p>Stividoru pakalpojumi, kravu ekspedīcija un kravu pakošana (“big-bag” maisos un 50 kg iepakojumos).</p><p><strong>Adrese:</strong> Atslēdznieku iela 29, Liepāja, LV -3401, Latvija</p><p><strong>Tālrunis:</strong> (+371) 63427227</p><p><strong>E-pasts:</strong> <a href="mailto:info@duna.lv">info@duna.lv</a></p><p><a href="https://www.duna.lv/">www.duna.lv</a></p><br/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading45711">
+<h5 class="mb-0">
+<button aria-controls="collapse45711" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45711" data-bs-toggle="collapse">
+
+EKERS STIVIDORS LP
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading45711" class="collapse" data-parent="#accordion" id="collapse45711">
+<div class="card-body">
+<p>Stividoru pakalpojumi, kuģu aģentēšana, kuģu fraktēšana, kravu ekspedīcija un muitas brokeru pakalpojumi.</p><p><strong>Adrese:</strong> Brīvostas iela 22, Liepāja, LV-3405, Latvija</p><p><strong>Tālrunis:</strong> (+371) 27335559</p><p><strong>E-pasts: </strong><a href="info@ekerslp.eu">info@ekerslp.eu</a></p><p><a href="http://www.ekerslp.eu/">www.ekerslp.eu</a></p><br/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading45712">
+<h5 class="mb-0">
+<button aria-controls="collapse45712" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45712" data-bs-toggle="collapse">
+
+FINESTRA SOLUTION
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading45712" class="collapse" data-parent="#accordion" id="collapse45712">
+<div class="card-body">
+<p>Metāla durvju un logu ražošana.</p><p><strong>Adrese:</strong> Kapsēdes iela 8A, LV-3400, Liepāja, Latvija.</p><p><strong>Tālrunis:</strong> (+371) 20420666</p><p><strong>E-pasts:</strong> <a href="mailto:info@finestrasolution.com">info@finestrasolution.com</a></p><p><a href="https://www.finestrasolution.com/">www.finestrasolution.com</a></p><br/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading45713">
+<h5 class="mb-0">
+<button aria-controls="collapse45713" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45713" data-bs-toggle="collapse">
+
+FLESS
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading45713" class="collapse" data-parent="#accordion" id="collapse45713">
+<div class="card-body">
+<p>Iepakošanas pakalpojumi.</p><p><strong>Adrese:</strong> Satiksmes iela 6, LV-3401, Liepāja, Latvija</p><p><strong>Tālrunis:</strong> (+371) 60000888</p><p><strong>E-pasts:</strong> <a href="mailto:igor@fless.com">igor@fless.com</a></p><p><a href="https://www.getic.com/">www.getic.com</a></p><br/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading45714">
+<h5 class="mb-0">
+<button aria-controls="collapse45714" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45714" data-bs-toggle="collapse">
+
+V.BIĻUKA KOMERCFIRMA EVIJA
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading45714" class="collapse" data-parent="#accordion" id="collapse45714">
+<div class="card-body">
+<p>Naftas produktu vairumtirdzniecība un pārkraušanas pakalpojumi, diennakts kuģu bunkurēšana jebkura<br/>Liepājas ostas piestātnē no autocisternas vai tankkuģiem.</p><p><strong>Adrese: </strong>Upmalas iela 12/16, Liepāja, LV-3401, Latvija</p><p><strong>Tālrunis:</strong> (+371) 63404990</p><p><strong>E-pasts:</strong> <a href="mailto:info@evija.lv">info@evija.lv</a></p><p><a href="https://www.evija.lv/">www.evija.lv</a></p><br/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading45715">
+<h5 class="mb-0">
+<button aria-controls="collapse45715" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45715" data-bs-toggle="collapse">
+
+GF POWDERCOATING
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading45715" class="collapse" data-parent="#accordion" id="collapse45715">
+<div class="card-body">
+<p>Metāla virsmu apstrāde un pārklāšana.</p><p><strong>Adrese:</strong> Brīvības iela 98, Liepāja, LV-3401</p><p><strong>Tālrunis: </strong> (+371) 26084265</p><p><strong>E-pasts: </strong><a href="mailto:info@gfpowdercoating.lv">info@gfpowdercoating.lv</a></p><p><a href="https://www.gfpowdercoating.lv/">www.gfpowdercoating.lv</a></p><br/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading45716">
+<h5 class="mb-0">
+<button aria-controls="collapse45716" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45716" data-bs-toggle="collapse">
+
+INTERSPIRO PRODUCTION
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading45716" class="collapse" data-parent="#accordion" id="collapse45716">
+<div class="card-body">
+<p>Elpošanas aprīkojuma ražošana.</p><p><strong>Adrese:</strong> Ģenerāļa Baloža iela 20/22, Liepāja, LV-3414, Latvija</p><p><strong>Tālrunis: </strong>(+371) 63483860</p><p><strong>E-pasts:</strong> <a href="mailto:latvia@interspiro.com">latvia@interspiro.com</a></p><p><a href="https://interspiro.com/">www.interspiro.com</a></p><br/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading45717">
+<h5 class="mb-0">
+<button aria-controls="collapse45717" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45717" data-bs-toggle="collapse">
+
+JENSEN METAL
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading45717" class="collapse" data-parent="#accordion" id="collapse45717">
+<div class="card-body">
+<p>Melnā metāla, nerūsējošā tērauda, alumīnija detaļu, iekārtu un sistēmu pilna cikla ražotājs.</p><p><strong>Adrese:</strong> Virssardzes iela 11, Liepāja, LV-3414, Latvija</p><p><strong>Tālrunis:</strong> (+371) 63489370</p><p>E-pasts: <a href="mailto:info-LV@jensenmetal.eu">info-LV@jensenmetal.eu</a></p><p><a href="https://www.jensenmetal.eu/">www.jensenmetal.eu</a></p><br/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading45718">
+<h5 class="mb-0">
+<button aria-controls="collapse45718" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45718" data-bs-toggle="collapse">
+
+JM PROPERTIES
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading45718" class="collapse" data-parent="#accordion" id="collapse45718">
+<div class="card-body">
+<p>Nekustamā īpašuma izīrēšana un pārvaldīšana.</p><p><strong>Adrese:</strong> Virssardzes iela 11, Liepāja, LV-3414, Latvija</p><p><strong>Tālrunis:</strong> (+371) 63489370</p><p><strong>E-pasts:</strong> <a href="mailto:info-LV@jensenmetal.eu">info-LV@jensenmetal.eu</a></p><br/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading45719">
+<h5 class="mb-0">
+<button aria-controls="collapse45719" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45719" data-bs-toggle="collapse">
+
+YOKOHAMA TWS LATVIA
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading45719" class="collapse" data-parent="#accordion" id="collapse45719">
+<div class="card-body">
+<p>Lauksaimniecības mašīnu riteņu disku ražošana.</p><p><strong>Adrese:</strong> Kapsēdes iela 2, Liepāja, LV-3414, Latvija</p><p><strong>Tālrunis:</strong> (+371) 66906884</p><p><a href="https://www.yokohama-tws.com/">www.yokohama-tws.com</a></p><br/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading45720">
+<h5 class="mb-0">
+<button aria-controls="collapse45720" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45720" data-bs-toggle="collapse">
+
+LAUMA FABRICS
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading45720" class="collapse" data-parent="#accordion" id="collapse45720">
+<div class="card-body">
+<p>Tekstilizstrādājumu, apakšveļas un medicīnisko materiālu ražotājs.</p><p><strong>Adrese:</strong> Ziemeļu iela 19, Liepāja, LV-3405, Latvija</p><p><strong>Tālrunis:</strong> (+371) 63447466</p><p><strong>E-pasts: </strong><a href="mailto:fabrics@laumafabrics.com">fabrics@laumafabrics.com</a></p><p><a href="https://lauma.com/fabrics/">lauma.com/fabrics</a></p><br/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading45721">
+<h5 class="mb-0">
+<button aria-controls="collapse45721" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45721" data-bs-toggle="collapse">
+
+LAUMA MEDICAL
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading45721" class="collapse" data-parent="#accordion" id="collapse45721">
+<div class="card-body">
+<p>Medicīnas izstrādājumu ražotājs.</p><p><strong>Address:</strong> Ziemeļu iela 19, Liepāja, LV-3405, Latvija.</p><p><strong>Tālrunis:</strong> (+371) 25666675<br/><strong>E-pasts:</strong> <a href="mailto:medical@laumamedical.com">medical@laumamedical.com</a><br/><a href="https://lauma.com/medical/">lauma.com/medical</a></p><br/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading45722">
+<h5 class="mb-0">
+<button aria-controls="collapse45722" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45722" data-bs-toggle="collapse">
+
+LASKANA
+
+</button>
+</h5>
+</div>
+<div aria-labelledby="heading45722" class="collapse" data-parent="#accordion" id="collapse45722">
+<div class="card-body">
+<p>Ģenerālkravas (kokmateriāli), beramkravas (biokurināmais – kokskaidu granulas, zāģu skaidas, koksnes šķelda).</p><p><strong>Adrese:</strong> Brīvostas iela 40, Liepāja, LV-3405, Latvija</p><p><strong>Tālrunis:</strong> (+371) 63423111</p><p><strong>E-pasts:</strong> <a href="mailto:info@laskana.lv">info@laskana.lv</a></p><p><a href="https://www.laskana.lv">www.laskana.lv</a></p><br/>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header" id="heading45723">
+<h5 class="mb-0">
+<button aria-controls="collapse45723" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45723" data-bs-toggle="collapse">
+
+LESJOFORS GAS SPRINGS
+>>>>>>> 788f1ee6df09783a6876526b4e493260e1cd727a
 
 <div class="container my-4">
 <div class="row">
