@@ -479,5 +479,6 @@ gtag('config', 'G-6QTXK76SH0');
 <script src="js/block/banner/glide.min.js"></script><script src="js/block/banner/main__fe6040fc89.js"></script><script src="js/block/magnet/main__1d365e2dc4.js"></script><script src="js/block/index/main__e0565dbb08.js"></script> <script defer="" src="cc/src/cookieconsent.js"></script>
 <script defer="" src="cc/demo/app2__251c29cb24.js"></script>
 </footer>
+
 </body>
 </html>

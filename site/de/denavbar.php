@@ -211,3 +211,4 @@
 </div>
 </div>
 </nav>
+<?php $sezChatLanguage = 'de'; require __DIR__ . '/../chat-widget.php'; ?>

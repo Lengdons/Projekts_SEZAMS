@@ -223,3 +223,5 @@ foreach (['lv', 'en', 'de', 'fr', 'it', 'es', 'nl'] as $code) {
 </div>
 </div>
 </nav>
+
+<?php $sezChatLanguage = 'nl'; require __DIR__ . '/../chat-widget.php'; ?>
