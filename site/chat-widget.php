@@ -23,7 +23,10 @@ if (!$chatMatches) $chatBase = rtrim(str_replace('\\', '/', dirname($chatScript)
         <button id="chat-close" type="button" aria-label="<?= $esc($copy['ui'][1]) ?>"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg></button>
     </header>
     <div class="chat-body" id="chat-body">
-        <div class="chat-welcome"><p><?= $esc($copy['greeting']) ?></p></div>
+        <div class="message-container bot chat-welcome">
+            <span class="chat-message-avatar" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><circle cx="12" cy="8" r="3.5"/><path d="M5 21v-2a7 7 0 0 1 14 0v2"/></svg></span>
+            <div class="chat-message-content"><span class="chat-message-author">Raivo</span><div class="bot-message"><?= $esc($copy['greeting']) ?></div></div>
+        </div>
         <div class="chat-suggestions" aria-label="<?= $esc($copy['ui'][8]) ?>">
             <button type="button" data-question="<?= $esc($copy['labels'][0]) ?>"><?= $esc($copy['labels'][0]) ?></button>
             <button type="button" data-question="<?= $esc($copy['labels'][6]) ?>"><?= $esc($copy['labels'][6]) ?></button>

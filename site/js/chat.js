@@ -77,6 +77,16 @@
         bubble.className = sender + "-message";
         bubble.textContent = text;
 
+        const avatar = panel.querySelector(".chat-message-avatar").cloneNode(true);
+        const content = document.createElement("div");
+        content.className = "chat-message-content";
+        if (sender === "bot") {
+            const author = document.createElement("span");
+            author.className = "chat-message-author";
+            author.textContent = "Raivo";
+            content.appendChild(author);
+        }
+
         if (topicIndex >= 0) {
             const link = document.createElement("a");
             link.href = base + "/" + language + "/" + topics[topicIndex].page + "/index.php";
@@ -84,7 +94,9 @@
             bubble.appendChild(link);
         }
 
-        row.appendChild(bubble);
+        content.appendChild(bubble);
+        row.appendChild(avatar);
+        row.appendChild(content);
         messages.appendChild(row);
     }
 
