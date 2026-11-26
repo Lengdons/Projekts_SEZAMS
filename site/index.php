@@ -1,3 +1,4 @@
+<?php include 'raivo-chat.php'; ?>
 <!DOCTYPE html>
 
 <html lang="lv">
@@ -18,6 +19,7 @@
 <link href="css/bootstrap.min.css" rel="stylesheet"/>
 <link href="css/main__40614cace7.css" rel="stylesheet"/>
 <link href="css/block/banner/animate.min.css" rel="stylesheet" type="text/css"/><link href="css/block/banner/glide.core.min.css" rel="stylesheet" type="text/css"/><link href="css/block/banner/glide.theme.min.css" rel="stylesheet" type="text/css"/><link href="css/block/banner/main__8f5730ec2e.css" rel="stylesheet" type="text/css"/><link href="css/block/magnet/main__1d365e2dc4.css" rel="stylesheet" type="text/css"/><link href="css/block/index/main__7252a74784.css" rel="stylesheet" type="text/css"/><link href="css/block/news_three/main__1d365e2dc4.css" rel="stylesheet" type="text/css"/> <link href="cc/dist/cookieconsent.css" media="print" onload="this.media='all'" rel="stylesheet"/>
+
 <script>
 
 const html = document.querySelector("html");
