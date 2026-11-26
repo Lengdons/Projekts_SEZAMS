@@ -25,13 +25,20 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   // Add message.
-  function addMessage(text, sender) {
+  function addMessage(text, sender, link) {
     const message = document.createElement("div");
 
     message.className =
       "raivo-message " + (sender === "user" ? "raivo-user" : "raivo-bot");
 
     message.textContent = text;
+
+    if (link) {
+      const anchor = document.createElement("a");
+      anchor.href = link.href;
+      anchor.textContent = link.label;
+      message.append(document.createElement("br"), anchor);
+    }
 
     messages.appendChild(message);
     scrollChat();
@@ -53,12 +60,12 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   // Bot response with typing delay.
-  function botReply(text, delay = 1000) {
+  function botReply(text, delay = 1000, link) {
     const typing = showTyping();
 
     setTimeout(function () {
       typing.remove();
-      addMessage(text, "bot");
+      addMessage(text, "bot", link);
     }, delay);
   }
 
@@ -92,11 +99,16 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Answers.
   const answers = {
-    1: "a",
+    1: "Ražošanai un uzņēmējdarbībai piemērotas teritorijas vari apskatīt Liepājas SEZ interaktīvajā kartē. Par konkrēta zemesgabala pieejamību sazinies ar Liepājas SEZ pārvaldi.",
 
-    2: "b",
+    2: "Iegādes kārtība ir atkarīga no konkrētā īpašuma. Ja īpašumu pārdod izsolē, sākumcenu, pieteikšanās termiņu un dalības prasības atradīsi izsoles sludinājumā.",
 
-    3: "c",
+    3: "Uzņēmumiem ir pieejama industriālā infrastruktūra un ērti transporta savienojumi ar Liepājas ostu un autoceļiem. Uzņēmums, kas iegūst Liepājas SEZ kapitālsabiedrības statusu un izpilda attiecīgos nosacījumus, var saņemt nodokļu atvieglojumus.",
+  };
+
+  const territoryMapLink = {
+    href: "/site/lv/teritoriju-karte/index.php",
+    label: "Atvērt teritoriju karti",
   };
 
   // Recognize questions.
@@ -188,7 +200,8 @@ document.addEventListener("DOMContentLoaded", function () {
     const questionNumber = findQuestion(text);
 
     if (questionNumber) {
-      botReply(answers[questionNumber], 1000);
+      const link = questionNumber === "1" ? territoryMapLink : undefined;
+      botReply(answers[questionNumber], 1000, link);
     } else {
       botReply(
         "Atvainojiet, es nesapratu jautājumu. " +

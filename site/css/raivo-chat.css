@@ -16,7 +16,7 @@
     height: 72px;
     border-radius: 50%;
     border: none;
-    background: #344b49;
+    background: #00377b;
     color: white;
     box-shadow: 0 4px 12px rgba(0,0,0,0.25);
     cursor: pointer;
@@ -68,7 +68,7 @@
 /* Header */
 
 .raivo-header {
-    background: #344b49;
+    background: #00377b;
     color: white;
     padding: 16px;
     display: flex;
@@ -139,7 +139,7 @@
 
 .raivo-user {
     align-self: flex-end;
-    background: #344b49;
+    background: #00377b;
     color: white;
     border-top-right-radius: 5px;
 }
@@ -200,13 +200,13 @@
     padding: 8px 12px;
     display: flex;
     flex-direction: column;
-    align-items: flex-end;
+    align-items: center;
     gap: 8px;
     flex-shrink: 0;
 }
 
 #raivo-suggestions button {
-    background: #344b49;
+    background: #00377b;
     color: white;
     border: none;
     border-radius: 22px;
@@ -219,7 +219,7 @@
 }
 
 #raivo-suggestions button:hover {
-    background: #263a38;
+    background: #032855;
 }
 
 /* Disclaimer */
@@ -254,7 +254,7 @@
 }
 
 #raivo-input:focus {
-    border-color: #344b49;
+    border-color: #00377b;
 }
 
 #raivo-send {
@@ -262,14 +262,14 @@
     height: 44px;
     border: none;
     border-radius: 10px;
-    background: #344b49;
+    background: #00377b;
     color: white;
     cursor: pointer;
     font-size: 18px;
 }
 
 #raivo-send:hover {
-    background: #263a38;
+    background: #032855;
 }
 
 /* Mobile */
