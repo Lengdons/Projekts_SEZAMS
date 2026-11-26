@@ -1,3 +1,4 @@
+<?php include __DIR__ . '/../../../raivo-chat.php'; ?>
 <!doctype html>
 <html lang="nl">
 <head>
