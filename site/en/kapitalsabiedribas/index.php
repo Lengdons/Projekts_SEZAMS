@@ -1,5 +1,5 @@
 <?php include __DIR__ . '/../../raivo-chat.php'; ?>
- <!DOCTYPE html>
+<!DOCTYPE html>
 
 <html lang="en">
 <head>
@@ -277,748 +277,1049 @@
 </div>
 </div>
 </div>
-<div class="accordion my-5">
-<div class="row">
-<div id="accordion">
-<div class="card">
-<div class="card-header" id="heading4570">
-<h5 class="mb-0">
-<button aria-controls="collapse4570" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4570" data-bs-toggle="collapse">
-
-										AE PARTNER
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading4570" class="collapse" data-parent="#accordion" id="collapse4570">
-<div class="card-body">
-<p>Manufacturer of automation systems and production of electrical panels producer.</p><p><strong>Address:</strong> Ganību street 1/3, Liepāja, LV-3401, Latvia</p><p><strong>Phone:</strong> (+371) 63401817</p><p><strong>E-mail:</strong> <a href="mailto:mail@aepartner.lv">mail@aepartner.lv</a></p><p><a href="www.aepartner.lv">www.aepartner.lv</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading4571">
-<h5 class="mb-0">
-<button aria-controls="collapse4571" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4571" data-bs-toggle="collapse">
-
-										AI INDUSTRI
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading4571" class="collapse" data-parent="#accordion" id="collapse4571">
-<div class="card-body">
-<p>Real estate lease and maintenance.</p><p><strong>Address: </strong>Grīzupes street 3, Liepāja, Latvia</p><p><strong>Phone:</strong> (+371) 29778691</p><p><strong>E-mail:</strong> <a href="mailto:aiindustribygg@gmail.com">aiindustribygg@gmail.com</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading4572">
-<h5 class="mb-0">
-<button aria-controls="collapse4572" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4572" data-bs-toggle="collapse">
-
-										BALTEX BULK
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading4572" class="collapse" data-parent="#accordion" id="collapse4572">
-<div class="card-body">
-<p>Stevedoring, cargo storage in the Free Zone mode.</p><p><strong>Address:</strong> Pulvera street 11, Liepāja, LV-3405, Latvia</p><p><strong>Phone:</strong> (+371) 29115521</p><p><strong>E-mail:</strong> <a href="mailto:v.didora@baltex-bulk.lv">v.didora@baltex-bulk.lv</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading4573">
-<h5 class="mb-0">
-<button aria-controls="collapse4573" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4573" data-bs-toggle="collapse">
-
-										BALTU TERMINALS
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading4573" class="collapse" data-parent="#accordion" id="collapse4573">
-<div class="card-body">
-<p>Stevedoring services and cargo storage.</p><p>Address: Brīvostas street 31, Liepāja, Latvia</p><p>Phone: (+371) 20211294</p><p>E-mail: <a href="mailto:info@baltukoks.lv" target="_blank">info@baltukoks.lv</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading4574">
-<h5 class="mb-0">
-<button aria-controls="collapse4574" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4574" data-bs-toggle="collapse">
-
-										BALTIC BIOFUEL COMPANY
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading4574" class="collapse" data-parent="#accordion" id="collapse4574">
-<div class="card-body">
-<p>Port services and logistic services.</p><p><strong>Address:</strong> Atslēdznieku street 16/18, Liepāja, LV-3401, Latvia</p><p><strong>Phone:</strong> (+371) 29227735</p><p><strong>E-mail:</strong> <a href="">info@balticbiofuel.lv</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading4575">
-<h5 class="mb-0">
-<button aria-controls="collapse4575" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4575" data-bs-toggle="collapse">
-
-										BALTIC TRANSSHIPMENT CENTER
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading4575" class="collapse" data-parent="#accordion" id="collapse4575">
-<div class="card-body">
-<p>Logistic services</p><p><strong>Address:</strong> Turaidas street 24, Liepāja, LV-3414, Latvia</p><p><strong>Phone:</strong> (+371) 63407414</p><p><strong>E-mail:</strong> <a href="mailto:btc@btc.lv">btc@btc.lv</a></p><p><a href="http://www.btc.lv/" target="_blank">www.btc.lv</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading4576">
-<h5 class="mb-0">
-<button aria-controls="collapse4576" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4576" data-bs-toggle="collapse">
 
-										BRIMER LIEPAJA
+<!-- ================= REDESIGNED BUSINESS PARTNERS ECOSYSTEM & DIRECTORY ================= -->
+<style>
+  @media (min-width: 768px) {
+    .side-left.sidebar-nav {
+      align-self: flex-start;
+    }
+  }
+
+  main {
+    overflow-x: clip;
+  }
+
+  #lsez-ecosystem-breakout {
+    position: relative;
+    width: 100vw;
+    box-sizing: border-box;
+    margin-top: 3.5rem;
+    margin-bottom: 2.5rem;
+    z-index: 5;
+  }
+
+  .hex-ecosystem-section {
+    position: relative;
+    padding: 1rem 0 1.75rem;
+    background: transparent;
+    border: none;
+    box-shadow: none;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .hex-kicker {
+    text-align: center;
+    font-size: 0.82rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: #085ca8;
+    margin-bottom: 1.5rem;
+  }
+
+  /* Full-window horizontal infinity scroll wheel */
+  .hex-wheel-viewport {
+    position: relative;
+    width: 96vw;
+    max-width: 1860px;
+    height: 490px;
+    margin: 0 auto;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: grab;
+    user-select: none;
+    -webkit-mask-image: linear-gradient(
+      to right,
+      transparent 0%,
+      rgba(0, 0, 0, 0.2) 3%,
+      rgba(0, 0, 0, 0.75) 7%,
+      #000 12%,
+      #000 88%,
+      rgba(0, 0, 0, 0.75) 93%,
+      rgba(0, 0, 0, 0.2) 97%,
+      transparent 100%
+    );
+    mask-image: linear-gradient(
+      to right,
+      transparent 0%,
+      rgba(0, 0, 0, 0.2) 3%,
+      rgba(0, 0, 0, 0.75) 7%,
+      #000 12%,
+      #000 88%,
+      rgba(0, 0, 0, 0.75) 93%,
+      rgba(0, 0, 0, 0.2) 97%,
+      transparent 100%
+    );
+  }
+
+  .hex-wheel-viewport:active {
+    cursor: grabbing;
+  }
+
+  .hex-wheel-track {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    will-change: transform;
+    z-index: 4;
+  }
+
+  .hex-wheel-item {
+    position: absolute;
+    width: 148px;
+    height: 168px;
+    filter: drop-shadow(0 8px 18px rgba(0, 28, 67, 0.08));
+    will-change: transform, opacity, filter;
+    transition: filter 0.25s ease;
+  }
+
+  .hex-wheel-item:hover,
+  .hex-wheel-item.active-hex {
+    z-index: 15;
+    filter: drop-shadow(0 12px 26px rgba(8, 92, 168, 0.24)) !important;
+  }
+
+  .hex-tile {
+    width: 100%;
+    height: 100%;
+    background: #ffffff;
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 18px 14px;
+    cursor: pointer;
+    border: none;
+    text-align: center;
+    transition: background-color 0.25s ease, transform 0.25s ease;
+  }
+
+  .hex-wheel-item:hover .hex-tile {
+    background: #f2f7fd;
+  }
+
+  .hex-wheel-item.active-hex .hex-tile {
+    background: #e1effe;
+    box-shadow: inset 0 0 0 3px #085ca8;
+  }
+
+  .hex-tile img.partner-logo-img {
+    max-width: 108px;
+    max-height: 58px;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    display: none;
+    pointer-events: none;
+  }
+
+  .hex-tile.has-logo img.partner-logo-img {
+    display: block;
+  }
+
+  .hex-tile.has-logo .partner-logo-fallback {
+    display: none;
+  }
+
+  .partner-logo-fallback {
+    font-size: 0.72rem;
+    font-weight: 800;
+    color: #001c43;
+    line-height: 1.22;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    word-break: break-word;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    pointer-events: none;
+  }
+
+  /* Central Portal Hexagon */
+  .hex-center-portal {
+    --portal-bg-top: #001c43;
+    --portal-bg-mid: #00377b;
+    --portal-bg-bot: #085ca8;
+    --portal-glow-color: rgba(120, 185, 255, 0.16);
+    --portal-glow-blur: 22px;
+    --portal-glow-opacity: 0.45;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 30;
+    width: 225px;
+    height: 256px;
+    filter: drop-shadow(0 22px 42px rgba(0, 28, 67, 0.36));
+    transition: width 0.42s cubic-bezier(0.22, 1, 0.36, 1),
+                height 0.42s cubic-bezier(0.22, 1, 0.36, 1),
+                filter 0.35s ease;
+    pointer-events: auto;
+  }
+
+  .hex-center-portal.expanded {
+    width: 350px;
+    height: 398px;
+    filter: drop-shadow(0 28px 54px rgba(0, 28, 67, 0.46));
+  }
+
+  .hex-center-core {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+      165deg,
+      var(--portal-bg-top) 0%,
+      var(--portal-bg-mid) 48%,
+      var(--portal-bg-bot) 100%
+    );
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    padding: 28px 26px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    transition: background 0.45s ease, padding 0.35s ease;
+  }
+
+  .hex-center-core::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(circle at 20% 88%, rgba(245, 158, 11, 0.25) 0%, transparent 52%);
+    pointer-events: none;
+  }
+
+  .center-default-view,
+  .center-partner-view {
+    position: relative;
+    z-index: 2;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: opacity 0.25s ease, transform 0.25s ease;
+  }
+
+  .center-partner-view {
+    display: none;
+    padding: 6px 10px;
+  }
+
+  .hex-center-portal.expanded .center-default-view {
+    display: none;
+  }
+
+  .hex-center-portal.expanded .center-partner-view {
+    display: flex;
+  }
+
+  .center-default-view img.lsez-mark {
+    width: 82px;
+    height: auto;
+    margin-bottom: 10px;
+    filter: brightness(0) invert(1);
+  }
+
+  .center-default-view .hub-title {
+    font-size: 0.92rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+
+  .center-default-view .hub-sub {
+    font-size: 0.74rem;
+    color: rgba(255, 255, 255, 0.82);
+    font-weight: 500;
+  }
+
+  .center-default-view .hub-accent {
+    width: 34px;
+    height: 3px;
+    background: #f59e0b;
+    border-radius: 2px;
+    margin-top: 10px;
+  }
+
+  /* Dynamic blurred luminance halo behind transparent company logos */
+  .center-partner-logo-stage {
+    position: relative;
+    width: 196px;
+    min-height: 66px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 14px;
+    margin-bottom: 10px;
+    background: transparent;
+    border: none;
+    box-shadow: none;
+  }
+
+  .center-hex-logo-glow {
+    position: absolute;
+    inset: -14px -26px;
+    border-radius: 50%;
+    background: radial-gradient(
+      ellipse at center,
+      var(--portal-glow-color) 0%,
+      rgba(165, 212, 255, 0.24) 48%,
+      transparent 78%
+    );
+    filter: blur(var(--portal-glow-blur));
+    opacity: var(--portal-glow-opacity);
+    transition: background 0.45s ease, opacity 0.45s ease, filter 0.45s ease;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .center-partner-logo-stage img {
+    position: relative;
+    z-index: 1;
+    max-width: 172px;
+    max-height: 58px;
+    object-fit: contain;
+    display: none;
+    filter: drop-shadow(0 2px 8px rgba(0, 20, 50, 0.14));
+  }
+
+  .center-partner-logo-stage.has-logo img {
+    display: block;
+  }
+
+  .center-partner-logo-stage.has-logo .center-partner-fallback {
+    display: none;
+  }
+
+  .center-partner-fallback {
+    position: relative;
+    z-index: 1;
+    font-size: 0.88rem;
+    font-weight: 800;
+    color: #ffffff;
+    text-shadow: 0 2px 10px rgba(0, 20, 50, 0.45);
+    line-height: 1.2;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+  }
+
+  .center-partner-desc {
+    font-size: 0.74rem;
+    line-height: 1.35;
+    color: rgba(255, 255, 255, 0.95);
+    margin-bottom: 8px;
+    max-width: 255px;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .center-partner-meta {
+    font-size: 0.7rem;
+    line-height: 1.42;
+    color: rgba(255, 255, 255, 0.88);
+    max-width: 265px;
+  }
+
+  .center-partner-meta div {
+    margin-bottom: 2px;
+    word-break: break-word;
+  }
+
+  .center-partner-meta strong {
+    color: #93c5fd;
+    font-weight: 600;
+  }
+
+  .center-partner-meta a {
+    color: #fde68a;
+    text-decoration: underline;
+    font-weight: 600;
+  }
+
+  .center-partner-meta a:hover {
+    color: #fff;
+  }
+
+  .center-close-btn {
+    margin-top: 8px;
+    background: rgba(255, 255, 255, 0.14);
+    border: 1px solid rgba(255, 255, 255, 0.28);
+    color: #fff;
+    font-size: 0.66rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 3px 11px;
+    border-radius: 999px;
+    cursor: pointer;
+    transition: background 0.2s ease;
+  }
+
+  .center-close-btn:hover {
+    background: rgba(255, 255, 255, 0.28);
+  }
+
+  /* Klaipeda FEZ (www.fez.lt) 2-Column Partner Directory */
+  .fez-directory-wrapper {
+    width: 100%;
+    max-width: 1140px;
+    margin: 2rem auto 0;
+    padding: 0 15px;
+  }
+
+  .fez-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px;
+    align-items: start;
+  }
+
+  @media (max-width: 767.98px) {
+    .fez-grid {
+      grid-template-columns: 1fr;
+    }
+    .hex-wheel-viewport {
+      height: 450px;
+      width: 100vw;
+    }
+  }
+
+  .fez-card {
+    background-color: #f3f5f8;
+    border: 1px solid transparent;
+    border-radius: 2px;
+    transition: background-color 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+    overflow: hidden;
+  }
+
+  .fez-card:hover {
+    background-color: #eef2f6;
+  }
+
+  .fez-card.is-open {
+    background-color: #f3f5f8;
+    border-color: #dce3ec;
+    box-shadow: 0 8px 22px rgba(0, 28, 67, 0.06);
+  }
+
+  .fez-card-header {
+    width: 100%;
+    min-height: 92px;
+    padding: 18px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    background: transparent;
+    border: none;
+    text-align: left;
+    cursor: pointer;
+  }
+
+  .fez-brand-slot {
+    display: flex;
+    align-items: center;
+    min-height: 52px;
+    max-width: calc(100% - 44px);
+  }
+
+  .fez-brand-slot img.partner-logo-img {
+    max-height: 48px;
+    max-width: 210px;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    display: none;
+  }
+
+  .fez-brand-slot.has-logo img.partner-logo-img {
+    display: block;
+  }
+
+  .fez-brand-slot.has-logo .fez-brand-fallback {
+    display: none;
+  }
+
+  .fez-brand-fallback {
+    font-size: 0.96rem;
+    font-weight: 700;
+    color: #1e293b;
+    letter-spacing: 0.01em;
+    line-height: 1.25;
+  }
+
+  .fez-toggle-icon {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+  }
+
+  .fez-toggle-icon::before,
+  .fez-toggle-icon::after {
+    content: "";
+    position: absolute;
+    background-color: #94a3b8;
+    transition: transform 0.25s ease, opacity 0.25s ease, background-color 0.25s ease;
+  }
+
+  .fez-toggle-icon::before {
+    top: 11px;
+    left: 2px;
+    width: 20px;
+    height: 1.8px;
+  }
+
+  .fez-toggle-icon::after {
+    top: 2px;
+    left: 11px;
+    width: 1.8px;
+    height: 20px;
+  }
+
+  .fez-card:hover .fez-toggle-icon::before,
+  .fez-card:hover .fez-toggle-icon::after {
+    background-color: #085ca8;
+  }
+
+  .fez-card.is-open .fez-toggle-icon::before {
+    background-color: #085ca8;
+  }
+
+  .fez-card.is-open .fez-toggle-icon::after {
+    transform: rotate(90deg);
+    opacity: 0;
+  }
+
+  .fez-card-body {
+    display: none;
+    padding: 4px 24px 22px;
+    font-size: 0.88rem;
+    line-height: 1.65;
+  }
+
+  .fez-card.is-open .fez-card-body {
+    display: block;
+  }
+
+  .fez-detail-row {
+    margin-bottom: 3px;
+    color: #5a6e85;
+  }
+
+  .fez-detail-row strong.fez-val {
+    color: #002b5c;
+    font-weight: 700;
+  }
+
+  .fez-detail-row a {
+    color: #002b5c;
+    font-weight: 700;
+    text-decoration: underline;
+  }
+
+  .fez-detail-row a:hover {
+    color: #085ca8;
+  }
+</style>
+
+<div id="lsez-ecosystem-breakout">
+  <section aria-label="Liepaja SEZ Partner Ecosystem" class="hex-ecosystem-section">
+    <div class="hex-kicker">Liepaja SEZ Partner Ecosystem</div>
+
+    <div class="hex-wheel-viewport" id="hexWheelViewport" title="Drag or scroll horizontally, or click on a company">
+      <div class="hex-wheel-track" id="hexWheelTrack"></div>
+
+      <!-- Locked Central Portal Hexagon -->
+      <div class="hex-center-portal" id="hexCenterPortal">
+        <div class="hex-center-core">
+          <div class="center-default-view">
+            <img alt="LSEZ" class="lsez-mark" src="../../img/logo.svg"/>
+            <div class="hub-title">LIEPAJA SEZ</div>
+            <div class="hub-sub">46 Commercial Companies</div>
+            <div class="hub-accent"></div>
+          </div>
+
+          <div class="center-partner-view" id="centerPartnerView">
+            <div class="center-partner-logo-stage" id="centerLogoBox">
+              <div class="center-hex-logo-glow" id="centerHexLogoGlow"></div>
+              <img alt="" id="centerPartnerImg" src=""/>
+              <span class="center-partner-fallback" id="centerPartnerFallback"></span>
+            </div>
+            <div class="center-partner-desc" id="centerPartnerDesc"></div>
+            <div class="center-partner-meta" id="centerPartnerMeta"></div>
+            <button class="center-close-btn" id="centerCloseBtn" type="button">× Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Klaipeda FEZ 2-Column Expandable Partner Directory -->
+  <div class="fez-directory-wrapper">
+    <section aria-label="Commercial Companies Directory" class="fez-directory-section">
+      <div class="fez-grid" id="fezPartnerGrid"></div>
+    </section>
+  </div>
+</div>
+
+<script>
+(function () {
+  // Shares the Latvian logos/ folder directly; change to "logos/" if duplicated into /site/en/kapitalsabiedribas/
+  const LOGO_BASE_PATH = "../../lv/kapitalsabiedribas/logos/";
+
+  const PARTNERS = [
+    { id: "ae-partner", name: "AE PARTNER", desc: "Manufacturer of automation systems and production of electrical panels producer.", address: "Ganību street 1/3, Liepāja, LV-3401, Latvia", phone: "(+371) 63401817", email: "mail@aepartner.lv", web: "https://www.aepartner.lv", webLabel: "www.aepartner.lv" },
+    { id: "ai-industri", name: "AI INDUSTRI", desc: "Real estate lease and maintenance.", address: "Grīzupes street 3, Liepāja, Latvia", phone: "(+371) 29778691", email: "aiindustribygg@gmail.com", web: "", webLabel: "" },
+    { id: "baltex-bulk", name: "BALTEX BULK", desc: "Stevedoring, cargo storage in the Free Zone mode.", address: "Pulvera street 11, Liepāja, LV-3405, Latvia", phone: "(+371) 29115521", email: "v.didora@baltex-bulk.lv", web: "", webLabel: "" },
+    { id: "baltu-terminals", name: "BALTU TERMINALS", desc: "Stevedoring services and cargo storage.", address: "Brīvostas street 31, Liepāja, Latvia", phone: "(+371) 20211294", email: "info@baltukoks.lv", web: "", webLabel: "" },
+    { id: "baltic-biofuel-company", name: "BALTIC BIOFUEL COMPANY", desc: "Port services and logistic services.", address: "Atslēdznieku street 16/18, Liepāja, LV-3401, Latvia", phone: "(+371) 29227735", email: "info@balticbiofuel.lv", web: "", webLabel: "" },
+    { id: "baltic-transshipment-center", name: "BALTIC TRANSSHIPMENT CENTER", desc: "Logistic services", address: "Turaidas street 24, Liepāja, LV-3414, Latvia", phone: "(+371) 63407414", email: "btc@btc.lv", web: "http://www.btc.lv/", webLabel: "www.btc.lv" },
+    { id: "brimer-liepaja", name: "BRIMER LIEPAJA", desc: "Stevedoring services and cargo storage.", address: "Kaiju street 7, Liepāja, LV-3401, Latvia", phone: "(+371) 63424429", email: "info@piemare.lv", web: "https://piemare.lv/", webLabel: "www.piemare.lv" },
+    { id: "caljan", name: "CALJAN", desc: "Manufacturing of conveyor systems, cargo loading, unloading and transportation.", address: "Brīvības street 142A, Liepāja, LV-3401, Latvia", phone: "(+371) 63489530", email: "info.lv@caljan.com", web: "https://caljan.com/", webLabel: "www.caljan.com" },
+    { id: "dan-store", name: "DAN STORE", desc: "Cargo handling and storage.", address: "Brīvostas street 30, Liepāja, LV-3405, Latvia", phone: "(+371) 63484500", email: "info@danstore.lv", web: "https://danstore.lv/", webLabel: "www.danstore.lv" },
+    { id: "dg-terminals", name: "DG TERMINĀLS", desc: "Stevedoring services, freight forwarding, custom broker services, ship agency services; production of biodiesel, product blending; water, salt and sediment separation, testing, product barreling.", address: "Pulvera street 33, Liepāja, LV-3405, Latvia", phone: "(+371) 63424604", email: "hub@dgterminals.lv", web: "https://www.dgterminals.lv/", webLabel: "www.dgterminals.lv" },
+    { id: "duna", name: "DUNA", desc: "Port and logistic services.", address: "Atslēdznieku street 29, Liepāja, LV-3401, Latvia", phone: "(+371) 63427227", email: "info@duna.lv", web: "https://www.duna.lv/", webLabel: "www.duna.lv" },
+    { id: "ekers-stividors-lp", name: "EKERS STIVIDORS LP", desc: "Port and logistic services.", address: "Brīvostas street 22, Liepāja, LV-3405, Latvia", phone: "(+371) 27335559", email: "info@ekerslp.eu", web: "http://www.ekerslp.eu/", webLabel: "www.ekerslp.eu" },
+    { id: "finestra-solution", name: "FINESTRA SOLUTION", desc: "Doors and Windows production.", address: "Kapsēdes street 8A, LV-3400, Liepāja, Latvia", phone: "(+371) 20420666", email: "info@finestrasolution.com", web: "https://www.finestrasolution.com/", webLabel: "www.finestrasolution.com" },
+    { id: "fless", name: "FLESS", desc: "Packaging services.", address: "Satiksmes street 6, LV-3401, Liepāja, Latvia", phone: "(+371) 60000888", email: "igor@fless.com", web: "https://www.getic.com/", webLabel: "www.getic.com" },
+    { id: "evija", name: "V.BIĻUKA KOMERCFIRMA ''EVIJA''", desc: "Wholesale of diesel fuel, reloading services.", address: "Upmalas street 12/16, Liepāja, LV-3401, Latvia", phone: "(+371) 63404990", email: "info@evija.lv", web: "https://www.evija.lv/", webLabel: "www.evija.lv" },
+    { id: "gf-powdercoating", name: "GF POWDERCOATING", desc: "Metal surface treatment.", address: "Brīvības street 98, Liepaja, LV-3401", phone: "(+371) 26084265", email: "info@gfpowdercoating.lv", web: "https://www.gfpowdercoating.lv/", webLabel: "www.gfpowdercoating.lv" },
+    { id: "interspiro-production", name: "INTERSPIRO PRODUCTION", desc: "Breathing equipment.", address: "Ģenerāļa Baloža street 20/22, Liepāja, LV-3414, Latvia", phone: "(+371) 63483860", email: "latvia@interspiro.com", web: "https://interspiro.com/", webLabel: "www.interspiro.com" },
+    { id: "jensen-metal", name: "JENSEN METAL", desc: "Metal processing.", address: "Virssardzes street 11, Liepāja, LV-3414, Latvia", phone: "(+371) 63489370", email: "info-LV@jensenmetal.eu", web: "https://www.jensenmetal.eu/", webLabel: "www.jensenmetal.eu" },
+    { id: "jm-properties", name: "JM PROPERTIES", desc: "Real estate lease and maintenance.", address: "Virssardzes street 11, Liepāja, LV-3414, Latvia", phone: "(+371) 63489370", email: "info-LV@jensenmetal.eu", web: "", webLabel: "" },
+    { id: "yokohama-tws-latvia", name: "YOKOHAMA TWS LATVIA", desc: "Agricultural machinery wheel rims.", address: "Kapsēdes street 2, Liepāja, LV-3414, Latvia", phone: "(+371) 66906884", email: "", web: "https://www.yokohama-tws.com/", webLabel: "www.yokohama-tws.com" },
+    { id: "lauma-fabrics", name: "LAUMA FABRICS", desc: "Lingerie textiles and medical products producer.", address: "Ziemeļu street 19, Liepaja, LV-3405, Latvia", phone: "(+371) 63447466", email: "fabrics@laumafabrics.com", web: "https://lauma.com/fabrics/", webLabel: "lauma.com/fabrics" },
+    { id: "lauma-medical", name: "LAUMA MEDICAL", desc: "Medical products producer.", address: "Ziemeļu street 19, Liepaja, LV-3405, Latvia", phone: "(+371) 25666675", email: "medical@laumamedical.com", web: "https://lauma.com/medical/", webLabel: "lauma.com/medical" },
+    { id: "laskana", name: "LASKANA", desc: "General cargoes (timber), dry bulk cargoes (wooden pellets, sawdust, wooden chips).", address: "Brīvostas street 40, Liepāja, LV-3405, Latvia", phone: "(+371) 63423111", email: "info@laskana.lv", web: "https://www.laskana.lv", webLabel: "www.laskana.lv" },
+    { id: "lesjofors-gas-springs", name: "LESJOFORS GAS SPRINGS", desc: "Production of gas springs.", address: "Dūņu street 4, Liepāja, LV-3401, Latvia", phone: "(+371) 63401840", email: "info.lep@lesjoforsab.com", web: "http://www.lesjoforsab.com/", webLabel: "www.lesjoforsab.com" },
+    { id: "lesjofors-springs-lv", name: "LESJOFORS SPRINGS LV", desc: "Springs, stamping production.", address: "Dūņu street 4, Liepāja, LV-3401, Latvia", phone: "(+371) 63401840", email: "info.lep@lesjoforsab.com", web: "http://www.lesjofors.lv/", webLabel: "www.lesjofors.lv" },
+    { id: "liepaja-bulk-terminal", name: "LIEPAJA BULK TERMINAL", desc: "Stevedoring services, cargo forwarding.", address: "Brīvības street 123, Liepāja, LV-3401, Latvia", phone: "(+371) 63480952, (+371) 63401659", email: "lbt@asp.lv", web: "http://lbt-port.com/", webLabel: "www.lbt-port.com" },
+    { id: "liepaja-trans-storage", name: "LIEPAJA TRANS STORAGE", desc: "Logistic services, customs warehouse.", address: "November 14 boulevard 19A, Liepāja, LV-3414, Latvia", phone: "(+371) 26447999", email: "liepaja@latstorage.com", web: "https://latstorage.com/", webLabel: "latstorage.com" },
+    { id: "lpsp", name: "LPSP", desc: "Welding of metal and plastic parts.", address: "Kapsēdes street 2, Liepāja, LV-3414, Latvia", phone: "(+371) 27783773", email: "sales@lpsp.lv", web: "https://www.lpsp.lv/", webLabel: "www.lpsp.lv" },
+    { id: "metars", name: "METARS", desc: "Metalworking.", address: "Roņu street 8A, Liepāja, LV-3401, Latvia", phone: "(+371) 25663720", email: "", web: "", webLabel: "" },
+    { id: "mols-l", name: "MOLS L", desc: "Stevedoring services, cargo forwarding.", address: "Brīvostas street 21, Liepāja, LV-3405, Latvia", phone: "", email: "molsl@molsl.lv", web: "", webLabel: "" },
+    { id: "nordeplast", name: "NORDEPLAST", desc: "Manufacture of medical plasters and bandages.", address: "Ziemeļu street 19, Liepāja, LV-3405, Latvia", phone: "(+371) 20037773", email: "nordeplast.lv@gmail.com", web: "", webLabel: "" },
+    { id: "norsaf", name: "NORSAF", desc: "Handling of base and industrial oils, diesel fuel, oil products which require heating – black fuel oil, VGO.", address: "Ziemeļu street 19C, Liepāja, LV-3405, Latvia", phone: "(+371) 27505577", email: "info@giterminal.lv", web: "https://www.giterminal.lv", webLabel: "www.giterminal.lv" },
+    { id: "northside-business-park", name: "NORTHSIDE BUSINESS PARK", desc: "Owner, developer and manager of an industrial business park.", address: "Flotes street 16, Liepāja, LV-3405, Latvia", phone: "(+371) 20240811", email: "info@nsbp.lv", web: "https://nsbp.lv/", webLabel: "www.nsbp.lv" },
+    { id: "pumac-liepaja", name: "PUMAC LIEPAJA", desc: "Real estate lease and maintenance.", address: "Kapsēdes street 2, Liepāja, LV-3414, Latvia", phone: "(+371) 28308642", email: "lbc@pumac.lv", web: "https://www.liepajabc.lv/", webLabel: "www.liepajabc.lv" },
+    { id: "rangeful", name: "RANGEFUL", desc: "Wholesale of electronic devices, telecommunications equipment and their parts.", address: "Cieceres street 46A, Liepāja, LV-3407, Latvia", phone: "(+371) 29499676", email: "info@rangeful.com", web: "https://www.rangeful.com", webLabel: "www.rangeful.com" },
+    { id: "rt-metals", name: "RT METĀLS", desc: "Production of metal constructions.", address: "Laboratorijas street 20, Liepāja, LV-3414, Latvia", phone: "(+371) 63489388", email: "faktura@rtmetals.lv", web: "http://www.rtmetals.lv/", webLabel: "www.rtmetals.lv" },
+    { id: "roechling-industrial-liepaja", name: "ROECHLING INDUSTRIAL LIEPAJA", desc: "Production of plastic parts.", address: "Kapsēdes street 2, Liepāja, LV-3414, Latvia", phone: "(+371) 63488539", email: "letland@meta-plast.dk", web: "https://www.roechling.com/", webLabel: "www.roechling.com" },
+    { id: "scan-plast-latvia", name: "SCAN-PLAST LATVIA", desc: "Production of composite materials.", address: "Brīvības street 185, Liepāja, LV-3401, Latvia", phone: "(+371) 63401 770", email: "mail@scan-plast.lv", web: "https://www.scan-plast.com/", webLabel: "www.scan-plast.com" },
+    { id: "stena-line-ports", name: "Stena Line Ports Liepājas SEZ SIA", desc: "Stevedoring, ship’s agency, freight forwarding.", address: "Brīvostas street 14A, Liepāja, LV-3405, Latvia", phone: "(+371) 63425756", email: "office.liepaja@stenaline.com", web: "", webLabel: "" },
+    { id: "solo-l", name: "SOLO L", desc: "Logistic services, customs warehouse.", address: "Pulvera street 10, Liepāja, LV-3405, Latvia", phone: "(+371) 29224540", email: "sololmanager@apollo.lv", web: "", webLabel: "" },
+    { id: "swedan-partners", name: "SWEDAN PARTNERS", desc: "Metal processing.", address: "Kapsēdes street 2, Liepāja, LV-3414, Latvia", phone: "(+371) 29845968", email: "gl@swedanpartners.eu", web: "https://www.swedanpartners.eu/", webLabel: "www.swedanpartners.eu" },
+    { id: "transit-terminals", name: "TRANSIT TERMINĀLS", desc: "Handling of oil and oil products.", address: "Jaunā ostmala 33/35, Liepāja, LV-3401, Latvia", phone: "(+371) 29225140", email: "transit.term@gmail.com", web: "", webLabel: "" },
+    { id: "truwel", name: "TRUWEL", desc: "Production of washing, cleaning and polishing agents.", address: "Ziemeļu street 19, Liepāja, LV-3415, Latvia", phone: "(+371) 67273333", email: "info@truwel.lv", web: "https://truwel.lv/", webLabel: "www.truwel.lv" },
+    { id: "transit-service", name: "TRANSIT SERVICE", desc: "Logistic services, cargo storage.", address: "Brīvības street 123, Liepāja, LV-3401, Latvia", phone: "(+371) 63486363", email: "info@tipark.lv", web: "", webLabel: "" },
+    { id: "transwide-services", name: "TRANSWIDE SERVICES", desc: "Logistic services, customs warehouse.", address: "Brīvības street 123, Liepāja, LV-3414, Latvia", phone: "(+371) 63424817", email: "lbt@asp.lv", web: "http://lbt-port.com/", webLabel: "www.lbt-port.com" },
+    { id: "vecas-ostmalas-biznesa-parks", name: "VECĀS OSTMALAS BIZNESA PARKS", desc: "Owner, developer and manager of an industrial business park.", address: "Vecā ostmala 10, Liepāja, LV-3401, Latvia", phone: "(+371) 25666472", email: "info@vobp.lv", web: "http://www.vobp.lv/", webLabel: "www.vobp.lv" }
+  ];
+
+  // Center the full-window breakout relative to the browser window
+  const breakoutEl = document.getElementById("lsez-ecosystem-breakout");
+  function syncBreakoutCenter() {
+    if (!breakoutEl || !breakoutEl.parentElement) return;
+    const parentRect = breakoutEl.parentElement.getBoundingClientRect();
+    const docWidth = document.documentElement.clientWidth || window.innerWidth;
+    breakoutEl.style.width = docWidth + "px";
+    breakoutEl.style.marginLeft = (-parentRect.left) + "px";
+  }
+  window.addEventListener("resize", syncBreakoutCenter);
+  syncBreakoutCenter();
+
+  const logoMap = {};
+  const logoLuminanceCache = {};
+  let activePartnerId = null;
+
+  // Offscreen canvas luminance analyzer to dynamically shift blue shading for darker logos
+  function analyzeLogoLuminance(imgEl, partnerId) {
+    if (logoLuminanceCache[partnerId] !== undefined) {
+      return logoLuminanceCache[partnerId];
+    }
+    try {
+      const canvas = document.createElement("canvas");
+      const ctx = canvas.getContext("2d");
+      const w = 64;
+      const h = 64;
+      canvas.width = w;
+      canvas.height = h;
+      ctx.drawImage(imgEl, 0, 0, w, h);
+      const data = ctx.getImageData(0, 0, w, h).data;
+
+      let weightedLumSum = 0;
+      let totalWeight = 0;
+      let darkPixelWeight = 0;
+
+      for (let i = 0; i < data.length; i += 4) {
+        const r = data[i];
+        const g = data[i + 1];
+        const b = data[i + 2];
+        const a = data[i + 3] / 255;
+
+        if (a > 0.12) {
+          const isNearWhiteBg = r > 240 && g > 240 && b > 240;
+          if (!isNearWhiteBg) {
+            const lum = 0.2126 * r + 0.7152 * g + 0.0722 * b;
+            weightedLumSum += lum * a;
+            totalWeight += a;
+            if (lum < 110) {
+              darkPixelWeight += a;
+            }
+          }
+        }
+      }
+
+      if (totalWeight < 5) {
+        logoLuminanceCache[partnerId] = { avgLum: 180, darkRatio: 0.1 };
+      } else {
+        logoLuminanceCache[partnerId] = {
+          avgLum: weightedLumSum / totalWeight,
+          darkRatio: darkPixelWeight / totalWeight
+        };
+      }
+    } catch (err) {
+      logoLuminanceCache[partnerId] = { avgLum: 75, darkRatio: 0.65 };
+    }
+    return logoLuminanceCache[partnerId];
+  }
+
+  function applyDynamicPortalShading(partnerId, imgEl) {
+    const portal = document.getElementById("hexCenterPortal");
+    if (!portal) return;
+
+    if (!imgEl) {
+      portal.style.setProperty("--portal-bg-top", "#001c43");
+      portal.style.setProperty("--portal-bg-mid", "#00377b");
+      portal.style.setProperty("--portal-bg-bot", "#085ca8");
+      portal.style.setProperty("--portal-glow-color", "rgba(120, 185, 255, 0.22)");
+      portal.style.setProperty("--portal-glow-blur", "22px");
+      portal.style.setProperty("--portal-glow-opacity", "0.55");
+      return;
+    }
+
+    const metrics = analyzeLogoLuminance(imgEl, partnerId);
+    const darknessFromLum = Math.max(0, Math.min(1, (165 - metrics.avgLum) / 130));
+    const darknessScore = Math.max(darknessFromLum, Math.min(1, metrics.darkRatio * 1.15));
+
+    if (darknessScore > 0.25) {
+      const t = darknessScore;
+      const topR = Math.round(28 + t * 178);
+      const topG = Math.round(78 + t * 150);
+      const topB = Math.round(145 + t * 110);
+
+      const midR = Math.round(14 + t * 110);
+      const midG = Math.round(68 + t * 112);
+      const midB = Math.round(138 + t * 110);
+
+      portal.style.setProperty("--portal-bg-top", "rgb(" + topR + ", " + topG + ", " + topB + ")");
+      portal.style.setProperty("--portal-bg-mid", "rgb(" + midR + ", " + midG + ", " + midB + ")");
+      portal.style.setProperty("--portal-bg-bot", "#063b7a");
+      portal.style.setProperty("--portal-glow-color", "rgba(235, 246, 255, " + (0.58 + t * 0.36).toFixed(2) + ")");
+      portal.style.setProperty("--portal-glow-blur", Math.round(18 + t * 10) + "px");
+      portal.style.setProperty("--portal-glow-opacity", (0.78 + t * 0.22).toFixed(2));
+    } else {
+      portal.style.setProperty("--portal-bg-top", "#002252");
+      portal.style.setProperty("--portal-bg-mid", "#05438f");
+      portal.style.setProperty("--portal-bg-bot", "#085ca8");
+      portal.style.setProperty("--portal-glow-color", "rgba(125, 190, 255, 0.28)");
+      portal.style.setProperty("--portal-glow-blur", "20px");
+      portal.style.setProperty("--portal-glow-opacity", "0.55");
+    }
+  }
+
+  // Build Klaipeda FEZ 2-Column Partner Directory
+  const fezGrid = document.getElementById("fezPartnerGrid");
+  PARTNERS.forEach(function (p) {
+    const card = document.createElement("article");
+    card.className = "fez-card";
+    card.id = "fez-card-" + p.id;
+    card.dataset.partnerId = p.id;
+
+    const cleanPhone = p.phone ? p.phone.replace(/[^+\d]/g, "") : "";
+    const phoneHtml = p.phone ? '<div class="fez-detail-row">Phone: <a href="tel:' + cleanPhone + '">' + p.phone + '</a></div>' : "";
+    const emailHtml = p.email ? '<div class="fez-detail-row">E-mail: <a href="mailto:' + p.email + '">' + p.email + '</a></div>' : "";
+    const webHtml = p.web ? '<div class="fez-detail-row">Website: <a href="' + p.web + '" target="_blank" rel="noopener">' + p.webLabel + '</a></div>' : "";
+
+    card.innerHTML =
+      '<button type="button" class="fez-card-header" aria-expanded="false">' +
+        '<div class="fez-brand-slot" data-logo-slot="' + p.id + '">' +
+          '<img class="partner-logo-img" src="' + LOGO_BASE_PATH + p.id + '.png" alt="' + p.name + '" />' +
+          '<span class="fez-brand-fallback">' + p.name + '</span>' +
+        '</div>' +
+        '<span class="fez-toggle-icon" aria-hidden="true"></span>' +
+      '</button>' +
+      '<div class="fez-card-body">' +
+        '<div class="fez-detail-row">Field of activity: <strong class="fez-val">' + p.desc + '</strong></div>' +
+        '<div class="fez-detail-row">Address: <strong class="fez-val">' + p.address + '</strong></div>' +
+        phoneHtml +
+        emailHtml +
+        webHtml +
+      '</div>';
+
+    const headerBtn = card.querySelector(".fez-card-header");
+    headerBtn.addEventListener("click", function () {
+      const isOpen = card.classList.contains("is-open");
+      card.classList.toggle("is-open", !isOpen);
+      headerBtn.setAttribute("aria-expanded", String(!isOpen));
+      if (!isOpen) {
+        selectPartnerInPortal(p.id, false);
+      }
+    });
+
+    fezGrid.appendChild(card);
+  });
+
+  // Build 3-Row Staggered Honeycomb Track (46-column cycle with transposed offsets [0, 15, 31])
+  const track = document.getElementById("hexWheelTrack");
+  const viewport = document.getElementById("hexWheelViewport");
+  const HEX_W = 148;
+  const HEX_H = 168;
+  const COL_STEP = 162;
+  const ROW_STEP = 132;
+  const COLS_PER_ROW = 46;
+  const ROW_COL_OFFSETS = [0, 15, 31];
+  const TOTAL_WIDTH = COLS_PER_ROW * COL_STEP;
+
+  const wheelItems = [];
+
+  for (let copy = 0; copy < 2; copy++) {
+    for (let c = 0; c < COLS_PER_ROW; c++) {
+      for (let r = 0; r < 3; r++) {
+        const pIdx = (c + ROW_COL_OFFSETS[r]) % PARTNERS.length;
+        const p = PARTNERS[pIdx];
+        const xOffset = (r === 1) ? COL_STEP / 2 : 0;
+        const x = (copy * TOTAL_WIDTH) + (c * COL_STEP) + xOffset;
+        const y = 36 + (r * ROW_STEP);
+
+        const item = document.createElement("div");
+        item.className = "hex-wheel-item";
+        item.dataset.partnerId = p.id;
+        item.style.left = x + "px";
+        item.style.top = y + "px";
+
+        item.innerHTML =
+          '<button type="button" class="hex-tile" data-logo-slot="' + p.id + '" aria-label="' + p.name + '">' +
+            '<img class="partner-logo-img" src="' + LOGO_BASE_PATH + p.id + '.png" alt="' + p.name + '" />' +
+            '<span class="partner-logo-fallback">' + p.name + '</span>' +
+          '</button>';
+
+        item.addEventListener("click", function () {
+          if (dragMoved) return;
+          selectPartnerInPortal(p.id, true);
+        });
+
+        track.appendChild(item);
+        wheelItems.push({ el: item, baseX: x, y: y, partnerId: p.id });
+      }
+    }
+  }
+
+  // Automatically detect when a .png logo loads
+  function bindImageLoadHandlers() {
+    document.querySelectorAll("[data-logo-slot]").forEach(function (slot) {
+      const img = slot.querySelector("img.partner-logo-img");
+      if (!img) return;
+      img.onload = function () {
+        slot.classList.add("has-logo");
+        const pid = slot.getAttribute("data-logo-slot");
+        if (pid) {
+          logoMap[pid] = img.src;
+          analyzeLogoLuminance(img, pid);
+        }
+      };
+      img.onerror = function () {
+        slot.classList.remove("has-logo");
+      };
+    });
+  }
+  bindImageLoadHandlers();
+
+  // Central Portal Hexagon expansion & partner info display
+  const centerPortal = document.getElementById("hexCenterPortal");
+  const centerLogoBox = document.getElementById("centerLogoBox");
+  const centerPartnerImg = document.getElementById("centerPartnerImg");
+  const centerPartnerFallback = document.getElementById("centerPartnerFallback");
+  const centerPartnerDesc = document.getElementById("centerPartnerDesc");
+  const centerPartnerMeta = document.getElementById("centerPartnerMeta");
+  const centerCloseBtn = document.getElementById("centerCloseBtn");
+
+  function selectPartnerInPortal(partnerId, openCardBelow) {
+    const p = PARTNERS.find(function (item) { return item.id === partnerId; });
+    if (!p) return;
+    activePartnerId = partnerId;
+
+    document.querySelectorAll(".hex-wheel-item").forEach(function (el) {
+      el.classList.toggle("active-hex", el.dataset.partnerId === partnerId);
+    });
+
+    centerPartnerFallback.textContent = p.name;
+    if (logoMap[p.id]) {
+      centerPartnerImg.onload = function () {
+        applyDynamicPortalShading(p.id, centerPartnerImg);
+      };
+      centerPartnerImg.src = logoMap[p.id];
+      centerPartnerImg.alt = p.name;
+      centerLogoBox.classList.add("has-logo");
+      if (centerPartnerImg.complete && centerPartnerImg.naturalWidth > 0) {
+        applyDynamicPortalShading(p.id, centerPartnerImg);
+      }
+    } else {
+      centerPartnerImg.onload = function () {
+        centerLogoBox.classList.add("has-logo");
+        logoMap[p.id] = centerPartnerImg.src;
+        applyDynamicPortalShading(p.id, centerPartnerImg);
+      };
+      centerPartnerImg.onerror = function () {
+        centerLogoBox.classList.remove("has-logo");
+        applyDynamicPortalShading(p.id, null);
+      };
+      centerPartnerImg.src = LOGO_BASE_PATH + p.id + ".png";
+      centerPartnerImg.alt = p.name;
+      applyDynamicPortalShading(p.id, null);
+    }
+
+    centerPartnerDesc.textContent = p.desc;
+
+    const cleanPhone = p.phone ? p.phone.replace(/[^+\d]/g, "") : "";
+    let metaHtml = '<div><strong>Address:</strong> ' + p.address + '</div>';
+    if (p.phone) metaHtml += '<div><strong>Phone:</strong> <a href="tel:' + cleanPhone + '">' + p.phone + '</a></div>';
+    if (p.email) metaHtml += '<div><strong>E-mail:</strong> <a href="mailto:' + p.email + '">' + p.email + '</a></div>';
+    if (p.web) metaHtml += '<div><strong>Web:</strong> <a href="' + p.web + '" target="_blank" rel="noopener">' + p.webLabel + '</a></div>';
+    centerPartnerMeta.innerHTML = metaHtml;
+
+    centerPortal.classList.add("expanded");
+
+    if (openCardBelow) {
+      const targetCard = document.getElementById("fez-card-" + p.id);
+      if (targetCard) {
+        targetCard.classList.add("is-open");
+        const btn = targetCard.querySelector(".fez-card-header");
+        if (btn) btn.setAttribute("aria-expanded", "true");
+      }
+    }
+  }
+
+  centerCloseBtn.addEventListener("click", function (e) {
+    e.stopPropagation();
+    activePartnerId = null;
+    centerPortal.classList.remove("expanded");
+    applyDynamicPortalShading(null, null);
+    document.querySelectorAll(".hex-wheel-item.active-hex").forEach(function (el) {
+      el.classList.remove("active-hex");
+    });
+  });
+
+  // Infinity Horizontal Scroll Loop + Edge-Only Organic Blur & Fade
+  let scrollX = 0;
+  let speed = 0.52;
+  let isHovering = false;
+  let isDragging = false;
+  let dragStartX = 0;
+  let dragScrollStart = 0;
+  let dragMoved = false;
+
+  viewport.addEventListener("mouseenter", function () { isHovering = true; });
+  viewport.addEventListener("mouseleave", function () { isHovering = false; isDragging = false; });
+
+  viewport.addEventListener("mousedown", function (e) {
+    if (e.target.closest("#hexCenterPortal")) return;
+    isDragging = true;
+    dragMoved = false;
+    dragStartX = e.clientX;
+    dragScrollStart = scrollX;
+  });
+
+  window.addEventListener("mousemove", function (e) {
+    if (!isDragging) return;
+    const dx = e.clientX - dragStartX;
+    if (Math.abs(dx) > 5) dragMoved = true;
+    scrollX = dragScrollStart - dx;
+  });
+
+  window.addEventListener("mouseup", function () {
+    isDragging = false;
+  });
+
+  viewport.addEventListener("wheel", function (e) {
+    if (Math.abs(e.deltaX) > Math.abs(e.deltaY) || e.shiftKey) {
+      e.preventDefault();
+      scrollX += (e.deltaX || e.deltaY) * 0.85;
+    }
+  }, { passive: false });
+
+  function animateWheel() {
+    if (!isDragging) {
+      const currentSpeed = activePartnerId ? 0.14 : (isHovering ? 0.22 : speed);
+      scrollX += currentSpeed;
+    }
+
+    if (scrollX >= TOTAL_WIDTH) scrollX -= TOTAL_WIDTH;
+    if (scrollX < 0) scrollX += TOTAL_WIDTH;
+
+    track.style.transform = "translate3d(" + (-scrollX) + "px, 0, 0)";
+
+    const vpWidth = viewport.clientWidth;
+    const halfVp = vpWidth / 2;
+    const fadeZone = Math.min(220, Math.max(130, vpWidth * 0.15));
+    const clearHalfSpan = Math.max(100, halfVp - fadeZone);
+
+    for (let i = 0; i < wheelItems.length; i++) {
+      const item = wheelItems[i];
+      const itemCenter = item.baseX - scrollX + (HEX_W / 2);
+
+      if (itemCenter < -220 || itemCenter > vpWidth + 220) {
+        continue;
+      }
+
+      const distFromCenter = Math.abs(itemCenter - halfVp);
+      if (distFromCenter <= clearHalfSpan) {
+        item.el.style.opacity = "1";
+        item.el.style.transform = "scale(1)";
+        if (!item.el.classList.contains("active-hex")) {
+          item.el.style.filter = "drop-shadow(0 8px 18px rgba(0, 28, 67, 0.08))";
+        }
+      } else {
+        const edgeProgress = Math.min(1, (distFromCenter - clearHalfSpan) / fadeZone);
+        const smoothEdge = edgeProgress * edgeProgress;
+        const scale = 1 - (smoothEdge * 0.14);
+        const opacity = Math.max(0.04, 1 - (smoothEdge * 0.94));
+        const blurPx = (smoothEdge * 6.5).toFixed(1);
+
+        item.el.style.opacity = opacity.toFixed(2);
+        item.el.style.transform = "scale(" + scale.toFixed(3) + ")";
+        if (!item.el.classList.contains("active-hex")) {
+          item.el.style.filter = "blur(" + blurPx + "px) drop-shadow(0 8px 18px rgba(0, 28, 67, 0.06))";
+        }
+      }
+    }
+
+    requestAnimationFrame(animateWheel);
+  }
+
+  requestAnimationFrame(animateWheel);
+})();
+</script>
+<!-- ================= END REDESIGNED BUSINESS PARTNERS ECOSYSTEM & DIRECTORY ================= -->
 
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading4576" class="collapse" data-parent="#accordion" id="collapse4576">
-<div class="card-body">
-<p>Stevedoring services and cargo storage.</p><p><strong>Address:</strong> Kaiju street 7, Liepāja, LV-3401, Latvia.</p><p><strong>Phone:</strong> (+371) 63424429</p><p><strong>E-mail: </strong><a href="mailto:info@piemare.lv">info@piemare.lv</a></p><p><a href="https://piemare.lv/">www.piemare.lv</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading4577">
-<h5 class="mb-0">
-<button aria-controls="collapse4577" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4577" data-bs-toggle="collapse">
-
-										CALJAN
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading4577" class="collapse" data-parent="#accordion" id="collapse4577">
-<div class="card-body">
-<p>Manufacturing of conveyor systems, cargo loading, unloading and transportation.</p><p><strong>Adderss:</strong> Brīvības street 142A, Liepāja, LV-3401, Latvia</p><p><strong>Phone:</strong> (+371) 63489530</p><p><strong>E-mail:</strong> <a href="mailto:info.lv@caljan.com">info.lv@caljan.com</a></p><p><a href="https://caljan.com/">www.caljan.com</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading4578">
-<h5 class="mb-0">
-<button aria-controls="collapse4578" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4578" data-bs-toggle="collapse">
-
-										DAN STORE
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading4578" class="collapse" data-parent="#accordion" id="collapse4578">
-<div class="card-body">
-<p>Cargo handling and storage.</p><p><strong>Address:</strong> Brīvostas street 30, Liepāja, LV-3405, Latvia</p><p><strong>Phone:</strong> (+371) 63484500</p><p><strong>E-mail:</strong> <a href="mailto:info@danstore.lv">info@danstore.lv</a></p><p><a href="https://danstore.lv/">www.danstore.lv</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading4579">
-<h5 class="mb-0">
-<button aria-controls="collapse4579" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse4579" data-bs-toggle="collapse">
-
-										DG TERMINĀLS
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading4579" class="collapse" data-parent="#accordion" id="collapse4579">
-<div class="card-body">
-<p>Stevedoring services, freight forwarding, custom broker services, ship agency services; production of biodiesel, product blending; water, salt and sediment separation, testing, product barreling.</p><p><strong>Address:</strong> Pulvera street 33, Liepāja, LV-3405, Latvia</p><p><strong>Phone:</strong> (+371) 63424604</p><p><strong>E-mail:</strong> <a href="mailto:hub@dgterminals.lv">hub@dgterminals.lv</a></p><p><a href="https://www.dgterminals.lv/">www.dgterminals.lv</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45710">
-<h5 class="mb-0">
-<button aria-controls="collapse45710" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45710" data-bs-toggle="collapse">
-
-										DUNA
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45710" class="collapse" data-parent="#accordion" id="collapse45710">
-<div class="card-body">
-<p>Port and logistic services.</p><p><strong>Address:</strong> Atslēdznieku street 29, Liepāja, LV -3401, Latvia</p><p><strong>Phone:</strong> (+371) 63427227</p><p><strong>E-mail:</strong> <a href="mailto:info@duna.lv">info@duna.lv</a></p><p><a href="https://www.duna.lv/">www.duna.lv</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45711">
-<h5 class="mb-0">
-<button aria-controls="collapse45711" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45711" data-bs-toggle="collapse">
-
-										EKERS STIVIDORS LP
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45711" class="collapse" data-parent="#accordion" id="collapse45711">
-<div class="card-body">
-<p>Port and logistic services.</p><p><strong>Address:</strong> Brīvostas street 22, Liepāja, LV-3405, Latvia</p><p><strong>Phone:</strong> (+371) 27335559</p><p><strong>E-mail:</strong> <a href="mailto:info@ekerslp.eu">info@ekerslp.eu</a></p><p><a href="http://www.ekerslp.eu/">www.ekerslp.eu</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45712">
-<h5 class="mb-0">
-<button aria-controls="collapse45712" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45712" data-bs-toggle="collapse">
-
-										FINESTRA SOLUTION
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45712" class="collapse" data-parent="#accordion" id="collapse45712">
-<div class="card-body">
-<p>Doors and Windows production.</p><p><strong>Address:</strong> Kapsēdes street 8A, LV-3400, Liepāja, Latvija.</p><p><strong>Phone:</strong> (+371) 20420666</p><p><strong>E-mail:</strong> <a href="mailto:info@finestrasolution.com">info@finestrasolution.com</a></p><p><a href="https://www.finestrasolution.com/">www.finestrasolution.com</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45713">
-<h5 class="mb-0">
-<button aria-controls="collapse45713" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45713" data-bs-toggle="collapse">
-
-										FLESS
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45713" class="collapse" data-parent="#accordion" id="collapse45713">
-<div class="card-body">
-<p>Packaging services.</p><p><strong>Address:</strong> Satiksmes street 6, LV-3401, Liepāja, Latvia</p><p><strong>Phone:</strong> (+371) 60000888</p><p><strong>E-mail:</strong> <a href="mailto:igor@fless.com">igor@fless.com</a></p><p><a href="https://www.getic.com/">www.getic.com</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45714">
-<h5 class="mb-0">
-<button aria-controls="collapse45714" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45714" data-bs-toggle="collapse">
-
-										V.BIĻUKA KOMERCFIRMA ''EVIJA''
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45714" class="collapse" data-parent="#accordion" id="collapse45714">
-<div class="card-body">
-<p>Wholesale of diesel fuel, reloading services.</p><p><strong>Address: </strong>Upmalas street 12/16, Liepāja, LV-3401, Latvia</p><p><strong>Phone:</strong> (+371) 63404990</p><p><strong>E-mail:</strong> <a href="mailto:info@evija.lv">info@evija.lv</a></p><p><a href="https://www.evija.lv/">www.evija.lv</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45715">
-<h5 class="mb-0">
-<button aria-controls="collapse45715" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45715" data-bs-toggle="collapse">
-
-										GF POWDERCOATING
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45715" class="collapse" data-parent="#accordion" id="collapse45715">
-<div class="card-body">
-<p>Metal surface treatment.</p><p><strong>Address:</strong> Brīvības street 98, Liepaja, LV-3401</p><p><strong>Phone:  (</strong>+371) 26084265</p><p><strong>E-mail: </strong><a href="mailto:info@gfpowdercoating.lv">info@gfpowdercoating.lv</a></p><p><a href="https://www.gfpowdercoating.lv/">www.gfpowdercoating.lv</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45716">
-<h5 class="mb-0">
-<button aria-controls="collapse45716" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45716" data-bs-toggle="collapse">
-
-										INTERSPIRO PRODUCTION
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45716" class="collapse" data-parent="#accordion" id="collapse45716">
-<div class="card-body">
-<p>Breathing equipment.</p><p><strong>Address:</strong> Ģenerāļa Baloža street 20/22, Liepāja, LV-3414, Latvia.</p><p><strong>Phone: </strong>(+371) 63483860</p><p><strong>E-mail:</strong> <a href="mailto:latvia@interspiro.com">latvia@interspiro.com</a></p><p><a href="https://interspiro.com/">www.interspiro.com</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45717">
-<h5 class="mb-0">
-<button aria-controls="collapse45717" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45717" data-bs-toggle="collapse">
-
-										JENSEN METAL
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45717" class="collapse" data-parent="#accordion" id="collapse45717">
-<div class="card-body">
-<p>Metal processing.</p><p><strong>Address:</strong> Virssardzes street 11, Liepāja, LV-3414, Latvia.</p><p><strong>Phone:</strong> (+371) 63489370</p><p><strong>E-mail: </strong><a href="mailto:info-LV@jensenmetal.eu">info-LV@jensenmetal.eu</a></p><p><a href="https://www.jensenmetal.eu/">www.jensenmetal.eu</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45718">
-<h5 class="mb-0">
-<button aria-controls="collapse45718" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45718" data-bs-toggle="collapse">
-
-										JM PROPERTIES
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45718" class="collapse" data-parent="#accordion" id="collapse45718">
-<div class="card-body">
-<p>Real estate lease and maintenance.</p><p><strong>Address:</strong> Virssardzes street 11, Liepāja, LV-3414, Latvia.</p><p><strong>Phone:</strong> (+371) 63489370</p><p><strong>E-mail:</strong> <a href="mailto:info-LV@jensenmetal.eu">info-LV@jensenmetal.eu</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45719">
-<h5 class="mb-0">
-<button aria-controls="collapse45719" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45719" data-bs-toggle="collapse">
-
-										YOKOHAMA TWS LATVIA
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45719" class="collapse" data-parent="#accordion" id="collapse45719">
-<div class="card-body">
-<p>Agricultural machinery wheel rims.</p><p><strong>Address:</strong> Kapsēdes street 2, Liepāja, LV-3414, Latvia.</p><p><strong>Phone:</strong> (+371) 66906884</p><p><a href="https://www.yokohama-tws.com/">www.yokohama-tws.com</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45720">
-<h5 class="mb-0">
-<button aria-controls="collapse45720" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45720" data-bs-toggle="collapse">
-
-										LAUMA FABRICS
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45720" class="collapse" data-parent="#accordion" id="collapse45720">
-<div class="card-body">
-<p>Lingerie textiles and medical products producer.</p><p><strong>Address:</strong> Ziemeļu street 19, Liepaja, LV-3405, Latvia</p><p><strong>Phone:</strong> (+371) 63447466</p><p><strong>E-mail:</strong> <a href="mailto:fabrics@laumafabrics.com">fabrics@laumafabrics.com</a></p><p><a href="https://lauma.com/fabrics/">lauma.com/fabrics</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45721">
-<h5 class="mb-0">
-<button aria-controls="collapse45721" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45721" data-bs-toggle="collapse">
-
-										LAUMA MEDICAL
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45721" class="collapse" data-parent="#accordion" id="collapse45721">
-<div class="card-body">
-<p>Medical products producer.</p><p><strong>Address:</strong> Ziemeļu street 19, Liepaja, LV-3405, Latvia</p><p><strong>Phone:</strong> (+371) 25666675</p><p><strong>E-mail:</strong> <a href="mailto:medical@laumamedical.com">medical@laumamedical.com</a></p><p><a href="https://lauma.com/medical/">lauma.com/medical</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45722">
-<h5 class="mb-0">
-<button aria-controls="collapse45722" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45722" data-bs-toggle="collapse">
-
-										LASKANA
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45722" class="collapse" data-parent="#accordion" id="collapse45722">
-<div class="card-body">
-<p>General cargoes (timber), dry bulk cargoes (wooden pellets, sawdust, wooden chips).</p><p><strong>Address:</strong> Brīvostas street 40, Liepāja, LV-3405, Latvia.</p><p><strong>Phone:</strong> (+371) 63423111</p><p><strong>E-mail:</strong> <a href="mailto:info@laskana.lv">info@laskana.lv</a></p><p><a href="https://www.laskana.lv">www.laskana.lv</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45723">
-<h5 class="mb-0">
-<button aria-controls="collapse45723" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45723" data-bs-toggle="collapse">
-
-										LESJOFORS GAS SPRINGS
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45723" class="collapse" data-parent="#accordion" id="collapse45723">
-<div class="card-body">
-<p>Production of gas springs.</p><p><strong>Address:</strong> Dūņu street 4, Liepāja, LV-3401, Latvia.</p><p><strong>Phone:</strong> (+371) 63401840</p><p><strong>E-mail: </strong><a href="mailto:info.lep@lesjoforsab.com">info.lep@lesjoforsab.com</a></p><p><a href="http://www.lesjoforsab.com/" target="_blank">www.lesjoforsab.com</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45724">
-<h5 class="mb-0">
-<button aria-controls="collapse45724" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45724" data-bs-toggle="collapse">
-
-										LESJOFORS SPRINGS LV
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45724" class="collapse" data-parent="#accordion" id="collapse45724">
-<div class="card-body">
-<p>Springs, stamping production.</p><p><strong>Address:</strong> Dūņu street 4, Liepāja, LV-3401, Latvia.</p><p><strong>Phone:</strong> (+371) 63401840</p><p><strong>E-mail:</strong> <a href="info.lep@lesjoforsab.com">info.lep@lesjoforsab.com</a></p><p><a href="http://www.lesjofors.lv/" target="_blank">www.lesjofors.lv</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45725">
-<h5 class="mb-0">
-<button aria-controls="collapse45725" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45725" data-bs-toggle="collapse">
-
-										LIEPAJA BULK TERMINAL
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45725" class="collapse" data-parent="#accordion" id="collapse45725">
-<div class="card-body">
-<p>LIEPAJA BULK TERMINAL</p><p>Stevedoring services, cargo forwarding.</p><p>Address: Brīvības street 123, Liepāja, LV-3401, Latvia</p><p>Phone: (+371) 63480952, (+371) 63401659</p><p>E-mail: <a href="mailto:lbt@asp.lv" target="_blank">lbt@asp.lv</a></p><p><a href="http://lbt-port.com/" target="_blank">http://lbt-port.com/</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45726">
-<h5 class="mb-0">
-<button aria-controls="collapse45726" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45726" data-bs-toggle="collapse">
-
-										LIEPAJA TRANS STORAGE
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45726" class="collapse" data-parent="#accordion" id="collapse45726">
-<div class="card-body">
-<p>LIEPAJA TRANS STORAGE</p><p>Logistic services, customs warehouse.</p><p>Address: November 14 boulevard 19A, Liepāja, LV-3414, Latvia</p><p>Phone: (+371) 26447999</p><p>E-mail: <a href="mailto:liepaja@latstorage.com" target="_blank">liepaja@latstorage.com</a></p><p><a href="https://latstorage.com/" target="_blank">https://latstorage.com/</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45727">
-<h5 class="mb-0">
-<button aria-controls="collapse45727" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45727" data-bs-toggle="collapse">
-
-										LPSP
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45727" class="collapse" data-parent="#accordion" id="collapse45727">
-<div class="card-body">
-<p>Welding of metal and plastic parts.</p><p><strong>Address:</strong> Kapsēdes street 2, Liepāja, LV-3414, Latvia.</p><p><strong>Phone: </strong>(+371) 27783773</p><p><strong>E-mail: </strong><a href="mailto:sales@lpsp.lv">sales@lpsp.lv</a></p><p><a href="https://www.lpsp.lv/">www.lpsp.lv</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45728">
-<h5 class="mb-0">
-<button aria-controls="collapse45728" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45728" data-bs-toggle="collapse">
-
-										METARS
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45728" class="collapse" data-parent="#accordion" id="collapse45728">
-<div class="card-body">
-<p>Metalworking.</p><p><strong>Address:</strong> Roņu street 8A, Liepāja, LV-3401, Latvia.</p><p><strong>Phone:</strong> (+371) 25663720</p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45729">
-<h5 class="mb-0">
-<button aria-controls="collapse45729" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45729" data-bs-toggle="collapse">
-
-										MOLS L
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45729" class="collapse" data-parent="#accordion" id="collapse45729">
-<div class="card-body">
-<p>Stevedoring services, cargo forwarding.</p><p><strong>Address:</strong> Brīvostas street 21, Liepāja, LV-3405, Latvia.</p><p><strong>E-mail:</strong> <a href="mailto:molsl@molsl.lv">molsl@molsl.lv</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45730">
-<h5 class="mb-0">
-<button aria-controls="collapse45730" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45730" data-bs-toggle="collapse">
-
-										NORDEPLAST
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45730" class="collapse" data-parent="#accordion" id="collapse45730">
-<div class="card-body">
-<p>Manufacture of medical plasters and bandages.</p><p><strong>Address:</strong> Ziemeļu street 19, Liepāja, LV-3405, Latvia.</p><p><strong>Phone: </strong>(+371) 20037773</p><p><strong>E-mail:</strong> <a href="mailto:nordeplast.lv@gmail.com">nordeplast.lv@gmail.com</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45731">
-<h5 class="mb-0">
-<button aria-controls="collapse45731" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45731" data-bs-toggle="collapse">
-
-										 NORSAF
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45731" class="collapse" data-parent="#accordion" id="collapse45731">
-<div class="card-body">
-<p>Handling of base and industrial oils, diesel fuel, oil products which require heating – black fuel oil, VGO.</p><p><strong>Address:</strong> Ziemeļu street 19C, Liepāja, LV-3405, Latvia</p><p><strong>Phone:</strong> (+371) 27505577</p><p><strong>E-mail:</strong> <a href="mailto:info@giterminal.lv">info@giterminal.lv</a></p><p><a href="www.giterminal.lv">www.giterminal.lv</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45732">
-<h5 class="mb-0">
-<button aria-controls="collapse45732" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45732" data-bs-toggle="collapse">
-
-										NORTHSIDE BUSINESS PARK
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45732" class="collapse" data-parent="#accordion" id="collapse45732">
-<div class="card-body">
-<p>Owner, developer and manager of an industrial business park.</p><p><strong>Address:</strong> Flotes street 16, Liepāja, LV-3405, Latvia.</p><p><strong>Phone:</strong> (+371) 20240811</p><p><strong>E-mail:</strong> <a href="mailto:info@nsbp.lv">info@nsbp.lv</a></p><p><a href="https://nsbp.lv/en/sakums/www.nsbp.lv">www.nsbp.lv</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45733">
-<h5 class="mb-0">
-<button aria-controls="collapse45733" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45733" data-bs-toggle="collapse">
-
-										PUMAC LIEPAJA
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45733" class="collapse" data-parent="#accordion" id="collapse45733">
-<div class="card-body">
-<p>Real estate lease and maintenance.</p><p><strong>Address:</strong> Kapsēdes street 2, Liepāja, LV-3414, Latvia.</p><p><strong>Phone:</strong> (+371) 28308642</p><p><strong>E-mail:</strong> <a href="mailto:lbc@pumac.lv">lbc@pumac.lv</a></p><p><a href="https://www.liepajabc.lv/">www.liepajabc.lv</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45734">
-<h5 class="mb-0">
-<button aria-controls="collapse45734" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45734" data-bs-toggle="collapse">
-
-										RANGEFUL
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45734" class="collapse" data-parent="#accordion" id="collapse45734">
-<div class="card-body">
-<p>Wholesale of electronic devices, telecommunications equipment and their parts.</p><p><strong>Address:</strong> Cieceres street 46A, Liepāja, LV-3407, Latvia.</p><p><strong>Phone:</strong> (+371) 29499676</p><p><strong>E-mail:</strong> <a href="mailto:info@rangeful.com">info@rangeful.com</a></p><p><a href="www.rangeful.com">www.rangeful.com</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45735">
-<h5 class="mb-0">
-<button aria-controls="collapse45735" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45735" data-bs-toggle="collapse">
-
-										RT METĀLS
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45735" class="collapse" data-parent="#accordion" id="collapse45735">
-<div class="card-body">
-<p>Production of metal constructions.</p><p><strong>Address:</strong> Laboratorijas street 20, Liepāja, LV-3414, Latvia.</p><p><strong>Phone: </strong>(+371) 63489388</p><p><strong>E-mail: </strong><a href="mailto:faktura@rtmetals.lv">faktura@rtmetals.lv</a></p><p><a href="http://www.rtmetals.lv/">www.rtmetals.lv</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45736">
-<h5 class="mb-0">
-<button aria-controls="collapse45736" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45736" data-bs-toggle="collapse">
-
-										ROECHLING INDUSTRIAL LIEPAJA
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45736" class="collapse" data-parent="#accordion" id="collapse45736">
-<div class="card-body">
-<p>Production of plastic parts.</p><p><strong>Address:</strong> Kapsēdes street 2, Liepāja, LV-3414, Latvia.</p><p><strong>Phone:</strong> (+371) 63488539</p><p><strong>E-mail:</strong> <a href="mailto:letland@meta-plast.dk">letland@meta-plast.dk</a></p><p><a href="https://www.roechling.com/">www.roechling.com</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45737">
-<h5 class="mb-0">
-<button aria-controls="collapse45737" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45737" data-bs-toggle="collapse">
-
-										SCAN-PLAST LATVIA
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45737" class="collapse" data-parent="#accordion" id="collapse45737">
-<div class="card-body">
-<p>Production of composite materials.</p><p><strong>Address:</strong> Brīvības iela 185, Liepāja, LV-3401, Latvia.</p><p><strong>Phone:</strong> (+371) 63401 770</p><p><strong>E-mail:</strong> <a href="mailto:mail@scan-plast.lv">mail@scan-plast.lv</a></p><p><a href="https://www.scan-plast.com/">www.scan-plast.com</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45738">
-<h5 class="mb-0">
-<button aria-controls="collapse45738" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45738" data-bs-toggle="collapse">
-
-										Stena Line Ports Liepājas SEZ SIA
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45738" class="collapse" data-parent="#accordion" id="collapse45738">
-<div class="card-body">
-<p>Stevedoring, ship’s agency, freight forwarding.</p><p><strong>Address:</strong> Brīvostas street 14A, Liepāja, LV-3405, Latvia.</p><p><strong>Phone:</strong> (+371) 63425756</p><p><strong>E-mail: </strong><a href="mailto:office.liepaja@stenaline.com"><strong>office.liepaja@stenaline.com</strong></a></p><p> </p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45739">
-<h5 class="mb-0">
-<button aria-controls="collapse45739" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45739" data-bs-toggle="collapse">
-
-										SOLO L
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45739" class="collapse" data-parent="#accordion" id="collapse45739">
-<div class="card-body">
-<p>Logistic services, customs warehouse.</p><p><strong>Address:</strong> Pulvera street 10, Liepāja, LV-3405, Latvia.</p><p><strong>Phone: </strong>(+371) 29224540</p><p><strong>E-mail:</strong> <a href="sololmanager@apollo.lv">sololmanager@apollo.lv</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45740">
-<h5 class="mb-0">
-<button aria-controls="collapse45740" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45740" data-bs-toggle="collapse">
-
-										SWEDAN PARTNERS
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45740" class="collapse" data-parent="#accordion" id="collapse45740">
-<div class="card-body">
-<p>Metal processing.</p><p><strong>Address:</strong> Kapsēdes street 2, Liepāja, LV-3414, Latvia.</p><p><strong>Phone:</strong> (+371) 29845968</p><p><strong>E-mail:</strong> <a href="mailto:gl@swedanpartners.eu">gl@swedanpartners.eu</a></p><p><a href="https://www.swedanpartners.eu/">www.swedanpartners.eu</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45741">
-<h5 class="mb-0">
-<button aria-controls="collapse45741" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45741" data-bs-toggle="collapse">
-
-										TRANSIT TERMINĀLS
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45741" class="collapse" data-parent="#accordion" id="collapse45741">
-<div class="card-body">
-<p>Handling of oil and oil products.</p><p><strong>Address:</strong> Jaunā ostmala 33/35, Liepāja, LV-3401, Latvia.</p><p><strong>Phone:</strong> (+371) 29225140</p><p><strong>E-mail:</strong> <a href="transit.term@gmail.com">transit.term@gmail.com</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45742">
-<h5 class="mb-0">
-<button aria-controls="collapse45742" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45742" data-bs-toggle="collapse">
-
-										TRUWEL
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45742" class="collapse" data-parent="#accordion" id="collapse45742">
-<div class="card-body">
-<p>Production of washing, cleaning and polishing agents.</p><p><strong>Address:</strong> Ziemeļu street 19, Liepāja, LV-3415, Latvia.</p><p><strong>Phone: </strong>(+371) 67273333</p><p><strong>E-mail:</strong> <a href="info@truwel.lv">info@truwel.lv</a></p><p><a href="https://truwel.lv/">www.truwel.lv</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45743">
-<h5 class="mb-0">
-<button aria-controls="collapse45743" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45743" data-bs-toggle="collapse">
-
-										TRANSIT SERVICE
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45743" class="collapse" data-parent="#accordion" id="collapse45743">
-<div class="card-body">
-<p>Logistic services, cargo storage.</p><p><strong>Address:</strong> Brīvības street 123, Liepāja, LV-3401, Latvia.</p><p><strong>Phone:</strong> (+371) 63486363</p><p><strong>E-mail: </strong><a href="mailto:info@tipark.lv">info@tipark.lv</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45744">
-<h5 class="mb-0">
-<button aria-controls="collapse45744" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45744" data-bs-toggle="collapse">
-
-										TRANSWIDE SERVICES
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45744" class="collapse" data-parent="#accordion" id="collapse45744">
-<div class="card-body">
-<p>Logistic services, customs warehouse.</p><p><strong>Address:</strong> Brīvības street 123, Liepāja, LV-3414, Latvia.</p><p><strong>Phone:</strong> (+371) 63424817</p><p><strong>E-mail:</strong><a href="mailto:lbt@asp.lv"> lbt@asp.lv</a></p><p><a href="http://lbt-port.com/">www.lbt-port.com</a></p><br/>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="heading45745">
-<h5 class="mb-0">
-<button aria-controls="collapse45745" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#collapse45745" data-bs-toggle="collapse">
-
-										VECĀS OSTMALAS BIZNESA PARKS
-
-									</button>
-</h5>
-</div>
-<div aria-labelledby="heading45745" class="collapse" data-parent="#accordion" id="collapse45745">
-<div class="card-body">
-<p>Owner, developer and manager of an industrial business park.</p><p><strong>Address: </strong>Vecā ostmala 10, Liepāja, LV-3401, Latvia.</p><p><strong>Phone:</strong> (+371) 25666472</p><p><strong>E-mail:</strong>  <a href="mailto:info@vobp.lv">info@vobp.lv</a></p><p><a href="http://www.vobp.lv/" target="_blank">www.vobp.lv</a></p><br/>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
 <div class="container my-4">
 <div class="row">
 <div class="col-12 useful" id="useful-p">
